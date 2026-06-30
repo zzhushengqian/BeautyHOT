@@ -1,0 +1,182 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="BeautyHOT — 美妆行业动态、品牌、人事、投融资与监管热点">
+  <title>BeautyHOT — 美妆行业热点</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="BeautyHOT 首页">
+      <span class="brand-mark">B</span>
+      <span class="brand-name">Beauty<span>HOT</span></span>
+    </a>
+    <nav class="top-nav" aria-label="主要导航">
+      <a class="active" href="#feed">精选</a>
+      <a href="#feed" data-view="all">全部动态</a>
+      <a href="#daily">今日简报</a>
+      <a href="#radar">集团雷达</a>
+    </nav>
+    <div class="header-meta">
+      <span class="live-dot"></span>
+      <span>持续更新</span>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">BEAUTY BUSINESS INTELLIGENCE</p>
+        <h1>看见美妆行业<br><em>真正重要</em>的变化。</h1>
+        <p class="hero-intro">品牌、人事、投融资、财报与监管。实时聚合，交叉核验，再按行业价值重新排序。</p>
+        <form class="search-box" id="search-form" role="search">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.35-4.35m2.1-5.4a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg>
+          <input id="search-input" type="search" autocomplete="off" placeholder="搜索品牌、人物、融资、成分或关键词">
+          <button type="submit">查找</button>
+        </form>
+        <div class="quick-search" aria-label="热门搜索">
+          <span>热门：</span>
+          <button data-query="欧莱雅">欧莱雅</button>
+          <button data-query="投融资">投融资</button>
+          <button data-query="人事">高管变动</button>
+          <button data-query="国货美妆">国货美妆</button>
+        </div>
+      </div>
+
+      <div class="hero-panel" aria-labelledby="today-heading">
+        <div class="panel-heading">
+          <div>
+            <span class="date-label">2026.06.30 · 周二</span>
+            <h2 id="today-heading">今日热点</h2>
+          </div>
+          <span class="panel-count">TOP 3</span>
+        </div>
+        <div id="top-stories" class="top-stories"></div>
+      </div>
+    </section>
+
+    <section class="ticker" aria-label="行业快讯">
+      <span class="ticker-label">BEAUTY FLASH</span>
+      <div class="ticker-track">
+        <span>AI × 生物制造正在进入美妆原料商业化阶段</span>
+        <i></i>
+        <span>国货美妆加速进入高端线下渠道</span>
+        <i></i>
+        <span>身体护理品牌成为并购市场新焦点</span>
+      </div>
+    </section>
+
+    <section class="content-shell" id="feed">
+      <div class="feed-column">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow dark">CURATED SIGNALS</p>
+            <h2>最新精选</h2>
+          </div>
+          <div class="result-summary"><strong id="result-count">0</strong> 条内容</div>
+        </div>
+
+        <div class="filter-bar">
+          <div class="category-tabs" id="category-tabs" aria-label="新闻分类"></div>
+          <label class="sort-control">
+            <span>排序</span>
+            <select id="sort-select" aria-label="排序方式">
+              <option value="score">综合热度</option>
+              <option value="latest">最新发布</option>
+              <option value="confidence">可信度</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="search-state" class="search-state" hidden>
+          正在查看“<strong id="search-term"></strong>”的搜索结果
+          <button id="clear-search">清除</button>
+        </div>
+
+        <div id="news-list" class="news-list" aria-live="polite"></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <span>∅</span>
+          <h3>暂时没有匹配内容</h3>
+          <p>换一个品牌、人物或行业关键词试试。</p>
+          <button id="reset-filters">查看全部动态</button>
+        </div>
+      </div>
+
+      <aside class="insight-rail">
+        <section class="rail-card weighting-card" id="radar">
+          <div class="rail-title">
+            <span>集团权重</span>
+            <label class="toggle">
+              <input type="checkbox" id="weight-toggle" checked>
+              <span></span>
+            </label>
+          </div>
+          <p>国际与国内头部化妆品集团获得额外信号权重，单条最高加成封顶。</p>
+          <div class="weight-rule">
+            <span>集团排名</span>
+            <div class="weight-scale">
+              <i style="--w:100%"></i>
+              <i style="--w:78%"></i>
+              <i style="--w:56%"></i>
+            </div>
+            <strong>+9—18</strong>
+          </div>
+          <button class="text-button" id="show-groups">查看当前 Top 10 名单 <span>↗</span></button>
+        </section>
+
+        <section class="rail-card source-card">
+          <div class="rail-title"><span>来源雷达</span><small>在线</small></div>
+          <ul>
+            <li><span class="source-status tier-a">A</span><div><strong>官方与监管</strong><small>公司公告 · 交易所 · NMPA</small></div></li>
+            <li><span class="source-status tier-b">B</span><div><strong>财经与通讯社</strong><small>Reuters · AP · 财经媒体</small></div></li>
+            <li><span class="source-status tier-c">C</span><div><strong>美妆行业媒体</strong><small>GCI · BeautyMatter · 品观</small></div></li>
+          </ul>
+        </section>
+
+        <section class="rail-card brief-card" id="daily">
+          <p class="eyebrow">EDITOR'S NOTE</p>
+          <h3>今日主线</h3>
+          <p>技术型原料、线下渠道与身体护理并购，正在成为品牌增长之外的三条新主线。</p>
+          <div class="brief-meta">
+            <span>6 条精选</span>
+            <span>2 条待观察</span>
+          </div>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <dialog id="group-dialog">
+    <div class="dialog-header">
+      <div>
+        <p class="eyebrow dark">WEIGHTED GROUPS</p>
+        <h2>头部集团名单</h2>
+      </div>
+      <button id="close-dialog" aria-label="关闭">×</button>
+    </div>
+    <p class="dialog-note">当前为产品原型的年度观察名单。正式上线时应以最近完整财年的化妆品相关营收统一校准。</p>
+    <div class="group-columns">
+      <section>
+        <h3>国际集团 Top 10</h3>
+        <ol id="global-groups"></ol>
+      </section>
+      <section>
+        <h3>国内集团 Top 10</h3>
+        <ol id="china-groups"></ol>
+      </section>
+    </div>
+  </dialog>
+
+  <footer>
+    <div class="footer-brand">Beauty<span>HOT</span></div>
+    <p>美妆行业动态聚合 · 每日精选与行业雷达</p>
+    <span>原型数据 · 2026</span>
+  </footer>
+
+  <script src="./app.js"></script>
+  <script src="./weight-engine.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,12 @@
+{
+  "queries": [
+    {"name":"Global Cosmetics News","domain":"globalcosmeticsnews.com","tier":"C"},
+    {"name":"Happi","domain":"happi.com","tier":"C"},
+    {"name":"Cosmetics Business","domain":"cosmeticsbusiness.com","tier":"C"},
+    {"name":"Cosmetics & Toiletries","domain":"cosmeticsandtoiletries.com","tier":"C"},
+    {"name":"Global Cosmetic Industry","domain":"gcimagazine.com","tier":"C"},
+    {"name":"Reuters","domain":"reuters.com","tier":"B"},
+    {"name":"中国国家药监局","domain":"nmpa.gov.cn","tier":"A"}
+  ],
+  "keywords":"beauty cosmetics skincare fragrance personal care acquisition funding earnings CEO regulation China"
+}

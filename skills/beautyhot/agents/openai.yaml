@@ -1,0 +1,4 @@
+interface:
+  display_name: "BeautyHOT"
+  short_description: "检索并核验美妆行业品牌、人事、投融资与监管热点最新资讯"
+  default_prompt: "Use $beautyhot to 整理今天最重要的美妆行业热点，并附可追溯来源。"
