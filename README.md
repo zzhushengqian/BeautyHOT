@@ -6,7 +6,8 @@
 - GitHub Actions 每天北京时间 08:00 更新
 - `data/latest.json` 保存最新候选
 - `data/archive/YYYY-MM-DD.json` 保存每日存档
-- 不提供公开网站、不配置公开域名、不用于广告或商业服务
+- 网页仅通过 Cloudflare Access 登录保护后供本人跨设备使用
+- 不提供公开网站、不用于广告或商业服务
 
 ## 内容边界
 
@@ -19,3 +20,7 @@
 ## 手动更新
 
 在仓库的 Actions 页面运行 **BeautyHOT Personal Daily**。
+
+## 私有跨设备访问
+
+不要重新开启公开 GitHub Pages。使用 Cloudflare Pages 连接本私有仓库，并为生产主机名配置 Cloudflare Access，只允许本人邮箱。具体步骤见 `CLOUDFLARE_PRIVATE_DEPLOY.md`。

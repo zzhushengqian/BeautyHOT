@@ -1,0 +1,18 @@
+{
+  "project": "BeautyHOT",
+  "generated_at": "2026-07-01",
+  "local_path": "C:\\Users\\neil\\Documents\\BeautyHOT",
+  "github_repository": "zzhushengqian/BeautyHOT",
+  "repository_visibility": "private",
+  "github_pages": "disabled",
+  "local_preview": "http://127.0.0.1:4173/",
+  "daily_update_timezone": "Asia/Shanghai",
+  "daily_update_time": "08:00",
+  "latest_data": "data/latest.json",
+  "recommended_private_hosting": {
+    "frontend": "Cloudflare Pages",
+    "access_control": "Cloudflare Access",
+    "policy": "allow only the owner's approved email"
+  },
+  "next_action": "Create the Cloudflare Pages project and protect its production hostname with Access before use."
+}
