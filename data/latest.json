@@ -1,10 +1,342 @@
 {
   "date": "2026-07-01",
-  "generatedAt": "2026-07-01T14:06:21.404304+00:00",
+  "generatedAt": "2026-07-01T15:03:07.772891+00:00",
   "items": [
     {
-      "id": "0ecab9e5ee7653",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY2NjMmQ3WDRlZVliSUVSeHhDaHdYejdoeEhKNkRuaXg0akFCZ3pvNEtzLXJJRV95ODZ6bHpUajFIMzlhNWs2b3F3UF9DM1N1T05JenNkNUdnRUwwN2Y2RzA5RjdMdWpVZ25HbFMyMTBhaXhpbDNWNElXdEwtRk43SGh0Yw?oc=5",
+      "id": "936d81ef457218",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTVUZ1VrTjlvNklIQ0lESmJILXBiOGxqb1RSdm1UYlVGdDVhWUxMUGFRS2RsVVk4QWZIS3NoSXdtMGZ5QjVrV3hmTlExS1hlNnFDVV8wLURoSzkteTB3dWlOLTJ0VWpCMjQtTGRGRDlWYjVmcU8wcXZCbF81SGdpV1haYUNlU3c?oc=5",
+      "publishedAt": "2026-07-01T10:54:22+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "Boss拓展Bottled系列至女性香水，并邀请知名人士参与营销活动",
+      "summary": "Boss将其Bottled香水系列扩展至女性市场，并在新营销活动中邀请多位行业知名人士参与。",
+      "why": "Boss品牌通过拓展产品线和创新营销策略，增强市场竞争力，有望吸引更多女性消费者。",
+      "companies": [
+        "Boss"
+      ],
+      "tags": [
+        "香水",
+        "品牌扩展",
+        "营销活动"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "c5b10286064182",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTFVZ3R0b05xbzBPaGxKbTVpTWc1cmtoSUNqYVhYdnJDN1M5aU1vWVlwclB6SUgzMlVPM1lCeFhrc2xSWE11a09fT1RmcnNRYlhnYlVjV2lva3IwNTUyZVczckZfUmxoSGhuQ3NEeXhlT2Jpa1dwN1pyMjlPZ2YyaTF1b1RwNXlaY0pjUXlSSXZMM3Fwb0ZmN2NyQm53U2YyYnBuWEJIUmNlaFZrM3pOcGIwbXhiY1YxUjE5bmlQNA?oc=5",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "Watch & Sea Beauty首席执行官被任命为Curlfest 2026顾问",
+      "summary": "Watch & Sea Beauty首席执行官将在2026年7月25日担任Curlfest活动顾问。",
+      "why": "高管参与行业活动有助于提升品牌影响力和行业话语权，或带动相关业务合作。",
+      "companies": [
+        "Watch & Sea Beauty"
+      ],
+      "tags": [
+        "高管任命",
+        "行业活动"
+      ],
+      "category": "people",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "6f223f4546de57",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZDU5TkcyZzdMS0pxWDVBZ0pZQ0laejNXZS1SUVhNQzFpaWYzT3hRZE9PQzBZOXdzeG5HYnZlOEhpRzRNRXZCNFpiZHotaFUwcDNiMFJBdS0taS03REtBREczaFRSNFptQmFkREY1UF9jTG9iQkstY1VyaFpMLXdvRnl5eFZ0Wi14VUZUVjF1TV9JWXFlS01sbWEwTV9XX2dXVGQ1cHF3?oc=5",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "title": "PanOxyl推出新营销活动，鼓励痤疮患者自信面对肌肤问题",
+      "summary": "PanOxyl发起新营销活动，旨在帮助痤疮患者增强自信，积极面对肌肤挑战。",
+      "why": "品牌通过关注消费者心理健康，提升品牌形象，有望扩大目标用户群体。",
+      "companies": [
+        "PanOxyl"
+      ],
+      "tags": [
+        "营销活动",
+        "心理健康",
+        "痤疮"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "1e4ae344a18372",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmFWNHFnUmpfUElMbG5PZkVzYzJXcnBncS04M01BNjhHb3VIMTNtQVhrUWE5NWNoeC02Z3RTeVNqdU1KNkdCN1dzQ0hFc3NMeGxLeGdRRW5BTTRKQWZqc2VUQjNac0F6NVJ5YkM0Yk1sbGoxaExYOTNUV05haFl3Q2tNZGRBQXM?oc=5",
+      "publishedAt": "2026-07-01T06:02:55+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "title": "Protesil™ JLH蛋白混合聚合物新品发布，助力发色持久与“Build-Up-1 Hair”解决方案",
+      "summary": "Protesil™ JLH蛋白混合聚合物新品上市，主打发色持久及“Build-Up-1 Hair”护理方案。",
+      "why": "创新产品有望推动美发护理市场升级，提升品牌技术壁垒和市场份额。",
+      "companies": [
+        "Protesil"
+      ],
+      "tags": [
+        "新品发布",
+        "美发护理",
+        "技术创新"
+      ],
+      "category": "products",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "1e030609d76249",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3I3SjRkbFVGV0FDRzNscTZOYlBVZV9VSlV6NDFHSkZ5ZnhhRmVJanRaUnllUUZkVlVWR3VjRmlTM1pYS0FIMGNobUxfbnptbW0zY3Z6SUZfbG9INTdqcFlyVE1jTUM0cWs0S2hGa24wTW0teDgwaVNIekQ3MV84OEw2Y1RwNG5qZnJNMFE3YjZxVDl2M2tOUFQtTjM1Vm1YanU4Ti03RkRCbmc?oc=5",
+      "publishedAt": "2026-07-01T05:02:20+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "Boots延长深夜配送服务，足球赛事推动需求增长",
+      "summary": "Boots因足球赛事带动需求，扩展深夜配送服务以满足消费者购物需求。",
+      "why": "渠道创新提升用户体验，有助于品牌抓住特殊时期消费高峰，增强市场竞争力。",
+      "companies": [
+        "Boots"
+      ],
+      "tags": [
+        "渠道创新",
+        "深夜配送",
+        "消费需求"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "85b20fa010f187",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTM4Y0JrNjk4Wnl1WWR0SmFxOTkxN0x3LXBXVGlKY2tnOUVOcTByMEdXSHRDc3cyM0JNNHdFYVgzb1dWNTVzdHQ0YUJSMXlGeV81UFdhSDZBTnpaa3NOX1YtN3NVaXpoMHZ4dlg0X3dfck50d1BEUjA5T01DaDV5OWprVDVaMHk5UnpJanRXZThOWi1BVmFFUVFiVG5meEZtd1VsRzhRSQ?oc=5",
+      "publishedAt": "2026-07-01T05:02:20+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "欧莱雅与OliX扩大RNAi研究合作，拓展至指甲健康领域",
+      "summary": "欧莱雅与OliX深化RNAi技术合作，将研究范围扩展至指甲健康。",
+      "why": "技术合作拓展应用场景，有望推动指甲护理产品创新，提升双方研发实力。",
+      "companies": [
+        "L'Oréal",
+        "OliX"
+      ],
+      "tags": [
+        "技术合作",
+        "RNAi",
+        "指甲健康"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "74d3aa80ca912b",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTHBQS2c0NmV3OUVQUFhOaUk4TV9rTjdXMS10QWRjTXVSOGNuLXFGYzRBOFVPamhrT3hGam1XeGlpWVlYYTBUM1B3VUk3R2tkVU9lenNoU1l1OWhZZ3BqSzAyMndIenFFSnFPdUVidk93dUdodG1zR2o3VjlZNTdaSnlxT2RtZmpWUjJfQWhwMkhPT0k?oc=5",
+      "publishedAt": "2026-06-30T19:40:48+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "Iberchem推出NovaSilk创新技术，助力水基及无酒精香水开发",
+      "summary": "Iberchem发布NovaSilk创新技术，推动水基和无酒精香水的研发与生产。",
+      "why": "技术创新满足消费者对健康香水的需求，提升品牌差异化竞争力。",
+      "companies": [
+        "Iberchem"
+      ],
+      "tags": [
+        "香水创新",
+        "无酒精",
+        "水基技术"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "5c25e5834c8593",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekt3Qi15Y18xcUdBcS1BX0E5eVFEdU1teXNQS291ZmdMN0E5anZveHNyTWpDUE9yVndUMDlFY1BZLVZMaFFjS1NULXI4OFRaSEVmTVYydi1nelpKRS1fbUI1bHRoUkNpNV9oNlQwT2s1SHVxNVFLQ1VXazh6WUNPaVFlaks?oc=5",
+      "publishedAt": "2026-06-30T12:01:42+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "Revieve发布DACH地区美妆消费趋势报告，基于数亿消费者互动数据",
+      "summary": "Revieve揭示2026年DACH地区美妆消费趋势，报告基于数亿消费者互动数据分析。",
+      "why": "数据驱动趋势洞察为品牌决策提供参考，有助于把握市场机会和消费者偏好。",
+      "companies": [
+        "Revieve"
+      ],
+      "tags": [
+        "消费趋势",
+        "数据分析",
+        "市场洞察"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "5f78806601ef7e",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUV9rTEVBYzRObG5aaWphRTNYOFQxU3U3bWltLWVuTkVOdGdRY0pzQWdQa1dfRmszY0FBVmJsZW1aVk5VMDNnWF9iN1liSXkyYnF3eDd6R1NJa2htelVkZ2VVMW0zLXhweHgta2VFSGpPUFVCT2ItUWQxenRLTGZZRVFmMjB1dnJ0aFk2ang1R2VzOHc?oc=5",
+      "publishedAt": "2026-06-30T11:25:17+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      },
+      "title": "Wrinkles Schminkles被Avenir Collective收购，成为其首个美妆领域并购",
+      "summary": "Wrinkles Schminkles正式加入Avenir Collective，成为该集团在美妆领域的首个收购项目。",
+      "why": "Avenir Collective首次涉足美妆行业并购，标志其业务扩展战略，或将带来品牌资源整合与市场影响力提升。",
+      "companies": [
+        "Wrinkles Schminkles",
+        "Avenir Collective"
+      ],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "category": "deals",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "8cdaa3be6c36dc",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zeUtGdXpwNjBPdFVQMGF5UWpQdko1Y2xmRUxUbFhxUzIxaEtNWU5waWRSRk1nTDQ2YTJqQ3FMOTFNVjBlYWRDSnRNX1VoRmV1ZHRsaWZaQjlTUHcwQmRBeXdiRnNsOUJIZjE3MXg3aFVNc3dEcTVuUDBGUEI?oc=5",
+      "publishedAt": "2026-06-30T11:02:59+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "title": "美妆品牌不可忽视零售前准备的重要性",
+      "summary": "报道强调美妆品牌在进入零售渠道前的准备工作对业务成功至关重要。",
+      "why": "零售前准备直接影响品牌上市表现和销售效率，建议美妆企业关注供应链、产品包装及市场策略。",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "category": "channels",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "a2bc69da3a0312",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQThmMkJGNTNvX3FBVWF5QnhEQ0RRWmxhUVYwVHUxNWxDUG0zSWRWM05PQlQ3TTU3WnBBU1h5X3JkY0VVRHUwZnhBWVlUX08zeHJERTFSQkcza2FFYWFVVGNkTFVUYUltdVJRckc4MVNjcVA0M1piT3ZSOHA3cUF2ZWdHdjV0S1ktRFA3X202cVVFMzE5?oc=5",
+      "publishedAt": "2026-06-30T10:25:14+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "dsm-firmenich发布前沿皮肤微生态科学重要论文",
+      "summary": "dsm-firmenich通过权威发表推动皮肤微生态科学在美妆领域的应用与创新。",
+      "why": "该成果有望提升品牌科技形象，推动皮肤微生态相关产品研发，增强市场竞争力。",
+      "companies": [
+        "dsm-firmenich"
+      ],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "56cd264f4bcfdd",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm9QVXRsbUpsOXhySGNQT3BQNnVBTWJnalh3LW5RNkxZbU5ob1VIVng1LXp2UFN2NDJDcUI5allLRkxSOXIyN3hCUmRLOXZFV0ZKeEEtME5nQlBONTVYMG1jWDJNcGdUSEo3WDNMNmxqbS1NNE5oTDdhRWRhZ1FBN2pLTEZSaGJIaEttal83VGNyZ0lTbXcyd3FxTXBBRDNRR1BQYndJVUR3c2RU?oc=5",
+      "publishedAt": "2026-06-30T07:00:00+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "title": "韩国女性护理品牌Lactomedi首次登陆美国CVS零售渠道",
+      "summary": "Lactomedi在美国CVS门店实现零售首秀，标志其国际市场扩张新阶段。",
+      "why": "品牌进入美国主流零售渠道，有望提升知名度并拓展销售网络，对国际化战略具有积极影响。",
+      "companies": [
+        "Lactomedi",
+        "CVS"
+      ],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "channels",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "48da9500e6b566",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3diUTY1dkZwYzJ3dmtIRGo0emVnM3BLb0lQZnRxNmhQN3VfTnlzb240VVNNVHU4Rm5vUXd4U1ItQzhHQV8zYnd6bk90LVFHNVdWRGtLeVNtQVdlcHlpa2ZBQkoteVRZc0YxNmFHYWZlWXFCQUhUWVdpZTBtWnY2OTlUUEMyQTNvUEFkc3U1RUVvT2txT0VhX0pVUGRpWENxSnBR?oc=5",
       "publishedAt": "2026-06-30T05:01:39+00:00",
       "source": "Global Cosmetics News",
       "sourceTier": "C",
@@ -13,22 +345,750 @@
         "magnitude": 6,
         "china": 10,
         "novelty": 6,
-        "actionability": 8
+        "actionability": 6
       },
-      "title": "完美日记进驻丝芙兰中国门店",
-      "summary": "中国美妆品牌完美日记宣布正式进驻丝芙兰中国门店，拓展其线下零售渠道。",
-      "why": "完美日记作为中国本土美妆品牌，进入丝芙兰中国渠道，有望提升品牌形象并扩大高端零售市场份额，反映其多渠道布局战略。",
-      "category": "渠道拓展",
+      "title": "北京丽源将退出资生堂中国化妆品合资企业",
+      "summary": "北京丽源宣布退出与资生堂在中国的化妆品合资企业，或影响双方在中国市场的业务布局。",
+      "why": "合资结构调整可能影响资生堂在中国的运营策略及市场份额，需关注后续合作及品牌发展。",
       "companies": [
-        "完美日记",
-        "丝芙兰"
+        "北京丽源",
+        "资生堂"
       ],
       "tags": [
-        "渠道扩展",
-        "中国市场",
-        "美妆零售",
-        "品牌合作"
+        "Global Cosmetics News",
+        "自动采集"
       ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "1d50419510f15b",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFRsOHhGTjFMeENibnRjdG9HMms1RkN3a3FTNUJaSk1aTXVtYlNMT2NwUmRZMVlVR0tzZW5IUG5ORnZxdEVqUWs2cHN2MVdya2dzWmhZaXBFbHFKd3Z2VUh0cEJfNGNkb1JLZFFvUV9SdjhTLWowdHItN0JOeUJ5am5BejZxSmpqMEFnX2I4YWpZdkJDaTJud3FqdUxDaHNi?oc=5",
+      "publishedAt": "2026-06-30T05:01:39+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "title": "Max Mara任命Florence Pugh为首款香水代言人",
+      "summary": "Max Mara宣布演员Florence Pugh成为其首款香水的品牌代言人。",
+      "why": "明星代言有助于提升品牌影响力和产品关注度，推动香水业务市场拓展。",
+      "companies": [
+        "Max Mara",
+        "Florence Pugh"
+      ],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "category": "people",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "6ea70f98eea34a",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOExpOHpsX1N0eEZnMklyZXNaTkZ3SXRXeE53bVc5UlVhTDhYeThjbk1NaVNmQ0M3YnpKTG1rSEM0ZzhwSnRpOEVaUEkwVkxjYVFJekdyS0RGNHVURS1pQ1pRUzUwbDJDWFBMb1FaaHprd1RSeTRUaVVXd2JGb0oxbC1VZHhYS2duSlJRMkdYYS1kb3NNU3YtajNFVWRwVUFlQTBTOUdTdjdSTnJhbENnTFplbUMtNlBIeDludEhBYTdUcHhzd3RXUndvSVB2VWgtSTFoMnhZSmFzdXFfYTRCYlUzTkFTczh5Slo1R2UxdUhjRVIwOGc?oc=5",
+      "publishedAt": "2026-06-29T18:49:29+00:00",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "FIT智库揭示美妆创新领域“长寿幻象”与可信度缺口",
+      "summary": "FIT 2026智库发布报告，指出美妆行业创新存在可信度不足的问题，呼吁行业加强科学验证。",
+      "why": "报告将促进行业对创新产品科学性的重视，影响品牌研发与市场宣传策略。",
+      "companies": [
+        "FIT"
+      ],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "b990efb4ef79c2",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdHA4RFcyRFN1TjgxR0VJUTMyWGR6Wml0NDJmOUQxNzVRMzV0RHdremFwMkpqaHZ6bmFyV2Fmc2ZCdUJmM19NMjRGcEhLVEk3NGRhWHBYS2F0dzRPWms3M3BhZUx4QV9XVlhpNFo2OXVFRUdrSFAwaTBhTWkxVWhvbEkyMi1OWjUtUUxwVHJnejVtMllhTkp6djFjdk1FRThLR3NN?oc=5",
+      "publishedAt": "2026-06-29T15:43:48+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "Street Talk 2026：干性混合型肤质护肤趋势分析",
+      "summary": "Street Talk 2026第十集聚焦干性混合型肤质，探讨相关护肤产品与消费者需求。",
+      "why": "干性混合型肤质市场需求增长，品牌可据此调整产品研发与营销策略。",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "8188f3986b3618",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXZ4U2VvOGJzTW5tRTVlb2ZuMWdIcF9RWVZOcG9LVDRJRmRnc0p2bWJGNWNFLTIyckNYbTc5Z21ULUpHdHFrb1J1WTlsWDFlVXlIX3o2NGR5eWx5N0dvb0c0b3JBY1JFQl9uTndaOE9IN0c3UVVjUVFZMHN0dWhXaEN2WVpZbFVoT1dVcTYxcw?oc=5",
+      "publishedAt": "2026-06-29T14:18:47+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "title": "宝洁资深高管成为吉列首位女性CEO",
+      "summary": "宝洁（P&G）资深高管被任命为吉列（Gillette）首位女性首席执行官，标志着公司管理层多元化迈出重要一步。",
+      "why": "该任命有望推动吉列品牌形象升级和管理层性别多元化，对行业女性领导力具有示范效应。",
+      "companies": [
+        "P&G",
+        "Gillette"
+      ],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "people",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "64ff29595f0454",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeFZ1bjVLNXZ0UHFGb3JCRjBrWUdjV2ZpYUJBX3dNajJXZTJJdUw2bE9SakxvRi1fWUZnRTBXUzNYUU1tbVNmU0EyZThCMHZMQ1ZNNC1fTzd6VlA4UzNUT3FBSnRTNFRoNmQ5VGN6bFRXWXRWaFQ0a1h5VlRpeFhEeE8yNkg2TmtBSTVsSmY3V25vS01rZ0NNb2lXRVVlcDRNbE5JYXo4Y0lHSzdpLWoyUUlIYVlxLTNhcmp2dHVheHREd2xVeWhsdXBuZVp3ck81UEpUbjhOOA?oc=5",
+      "publishedAt": "2026-06-29T14:05:14+00:00",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "title": "Ariana Grande扩展Cloud香氛系列，推出Cloud Aurora新品",
+      "summary": "Ariana Grande推出Cloud Aurora香水，进一步丰富其Cloud香氛系列，强化品牌在香水市场的影响力。",
+      "why": "新品发布有助于提升品牌知名度和市场份额，推动明星香氛产品持续增长。",
+      "companies": [
+        "Ariana Grande"
+      ],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "2521d2ba44867c",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUhBNlZaUEFFX3k5N3J2Mm1IeDAyUjFEYW9oZTUtV251bFMteWppaVZBN1JLb0R5LUVOX2RXMjdpQXpYSV9GU1B4bGtFZDBoeWliUHVGNmtKVXdEVGVtazNyS1RhX3ZXV2MzWjV5Z3BsOW5aNWVUQ3dxWTdsWU5HaGVmMWpvWTltV2lWT0JXdUNGYXgxWnFYempoRmE1UlgtLUlQTTgySGppb0RNcmR5RVhxWDJNRThQcW9SZS1SMDVDZklhcUpYd2xOdzlPUnhDM0xqSEFhcDc?oc=5",
+      "publishedAt": "2026-06-29T14:05:14+00:00",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "title": "Bethenny Frankel入股dpHUE并出任首席品牌官",
+      "summary": "Bethenny Frankel成为dpHUE股东并担任首席品牌官，参与公司品牌战略制定。",
+      "why": "明星入股及高管任命有望提升dpHUE品牌影响力，推动业务扩展和市场创新。",
+      "companies": [
+        "dpHUE",
+        "Bethenny Frankel"
+      ],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "category": "deals",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "c22789adbd8638",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWtkUHFvNTRLX1dSWDZwdGxCSjF1OXIxaFdoR3pWMENxZE1UY3g2cC0zVmVRS201NmNzWWFvd3VHN3ZpeXBwMnl5SDh5aVZlZFUtQnM4ZEpwNVJ3Z0dqYmxYTVQxcTNqSFdRa1ZLMF9hSTRBdTRCaXp5S3lLSE1idHdB?oc=5",
+      "publishedAt": "2026-06-29T11:15:55+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "IFF完成10亿美元贷款再融资",
+      "summary": "国际香料公司（IFF）完成10亿美元贷款再融资，优化财务结构以支持未来业务发展。",
+      "why": "再融资有助于提升公司资金流动性和财务稳定性，为后续扩张和创新提供保障。",
+      "companies": [
+        "IFF"
+      ],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "0847980853f5cd",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UT0pZTC1EeVptNnA0X2gxSzZ3TU96OG9GUlN5VWtWaVhkbzlIVG0weFFqeVk2eDdwTHJkZGJFMDVsR2UzMDVaZ0trNnBMUVEzOUo3WDFRY2JvOHV5TWp2ZDRB?oc=5",
+      "publishedAt": "2026-06-29T10:32:51+00:00",
+      "source": "中国国家药监局",
+      "sourceTier": "A",
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "title": "中国药监局发布AI与药品监管融合发展意见",
+      "summary": "中国国家药监局发布关于人工智能与药品监管融合发展的指导意见，推动监管数字化升级。",
+      "why": "政策推动AI与监管融合，有望提升行业合规效率和创新能力，对美妆及医药企业影响深远。",
+      "companies": [
+        "中国国家药监局"
+      ],
+      "tags": [
+        "中国国家药监局",
+        "自动采集"
+      ],
+      "category": "regulation",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "ffba28253abb52",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ga0VEVVdOTnctZlZsTkVXYldFR2hEXzJjbG9maXhpeUNJRU02X2NVQ1NiYWk1TVkyS0t0d2I4MTVndjNIa29rYi1nNV9IaWY1M0JxU1pSZWRkdmpDSEJmNlhn?oc=5",
+      "publishedAt": "2026-06-29T08:00:43+00:00",
+      "source": "中国国家药监局",
+      "sourceTier": "A",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "中国药监局召开疫苗监管质量管理体系会议",
+      "summary": "中国国家药监局召开疫苗监管质量管理体系（QMS）会议，推动疫苗监管标准化。",
+      "why": "会议有助于提升疫苗监管水平，保障产品安全，对相关企业合规运营具有指导意义。",
+      "companies": [
+        "中国国家药监局"
+      ],
+      "tags": [
+        "中国国家药监局",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "94493fb35547c7",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcDJpdFBOMWlrVy0yVFo2LVp2WUk4ZVA4OU5xZm1hdjBmWlpJT3M2bGd6VWwtZnJXX21JT0VLbzZjZWtwbElrWDh5SE9OeFlVUEZRZGVnUkQyQmhJekNLemp6LWUxQnU5U1ZNTURmTWlvcVlMdG90NDI0ak1BU01UR3Joam14THRBTGxLazBNUnNTUTNmOUV4WkFKbzhodGEzSXNQMk9iaTJSM1dfN0g5WGoxWUUybG5CZUpuLVhn?oc=5",
+      "publishedAt": "2026-06-29T07:00:00+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "Columbia SkinCare推出光防护专利创新技术",
+      "summary": "Columbia SkinCare发布具有专利申请中的光防护技术创新产品，提升品牌科技竞争力。",
+      "why": "新技术有望增强产品差异化，推动品牌在防晒及皮肤保护领域的市场竞争力。",
+      "companies": [
+        "Columbia SkinCare"
+      ],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "products",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "859d4bda1c6661",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0FpdWMtRHpQZEhSRWk5ZGg3TUxmWHpNbnVsRTJYM2pLZ21IcVNjTTY0d1hzSGptd25EbGl1a2FOcDJ3TzQ0SlFsbFdZRURWaXpaVURZN3ZkbnVZZVhuNm1jWnZ0NHFUVXkyZHBFdl9JR2lTcFF6bTVFc1NZRFAxZ1J4M3U5RnVlTlh4QkVsVlNVWlg4LUhsaFB0aC0tZ3M2cjYzcVZld2pLdw?oc=5",
+      "publishedAt": "2026-06-29T07:00:00+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "title": "前宝洁高管Derrick Booker出任Revision Skincare首席营销官",
+      "summary": "前宝洁高管Derrick Booker被任命为Revision Skincare首席营销官，负责品牌市场战略。",
+      "why": "高管任命有望推动Revision Skincare品牌创新和市场扩展，提升企业竞争力。",
+      "companies": [
+        "Revision Skincare",
+        "Derrick Booker"
+      ],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "people",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "50e30d523151f1",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLXFPU3psZmNFVWV5Znd0R3REaE9naXZoT3FHOGVBWEhtS2FPRmhUQ01nT0p3QXBHQzVvTTRzWVo0MGJkRHEtOXNpR3hzUVVCV1dGU2ZFa0gtVG9vQnBIWWJ3Mmt2QWVUNmUxVFFYeHNFMVZwNzlqZDNHaXVMSnAzdmVzWjNteENLeWphaEd0aUNucFNDZnJuWGMzSFlJWnJUa1g0?oc=5",
+      "publishedAt": "2026-06-29T05:00:35+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "资生堂通过无担保债券发行筹集130亿日元",
+      "summary": "资生堂宣布通过无担保债券发行成功筹集130亿日元资金。",
+      "why": "资生堂此次融资将增强其资金实力，有助于未来业务扩展和战略投资，对品牌及行业资本流动产生影响。",
+      "companies": [
+        "资生堂"
+      ],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "ff962d4f7db0c0",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0hlTHU2alNiTFlTcFI0b2E2TExVckltZnltbHY4TGFUNzY2Y0VLeTJLRmhOdVBmWkJZcnlfTG5xbnpDQ0gwczE2TklYaW5fSjV6ak40LThySDdpMzRxTC1GNnBRWjBya2JuTWJ2d19LX3RyazdqdXVuR2tCa2pseWpXNnR3SGM1azItcUgzaEFwRzNvczRXWWRFclhyZlZHRkJBb0VhYXlPeHJjNWV0aWdsTWtGY1VWbEVBWkhRWE1JbHpmYXc?oc=5",
+      "publishedAt": "2026-06-29T04:54:06+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "title": "HCPA举办网络研讨会：英国与欧盟生物杀灭剂法规变革及改革动向",
+      "summary": "HCPA举办网络研讨会，聚焦英国和欧盟生物杀灭剂产品法规的最新发展及可能改革。",
+      "why": "法规变动将影响美妆行业产品合规与市场准入，企业需关注政策调整以应对未来监管挑战。",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "regulation",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "15f6fbaf5cc344",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JMGhzV0oxSl9XYVl6VmU4WGVoM1BIbjBMYnlBVVNQUTduUDlNcVUwWWlIR01DdUdLaVhDWFM4V2xZX0tuSV9ONkhvblRuRUxuQVU4UDM3Rm0zRHAwMkwzaVozTG5TeUZ1RTRfQlRiWjBlU3c?oc=5",
+      "publishedAt": "2026-06-28T15:18:53+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "2026年6月美妆行业五大热门配方盘点",
+      "summary": "Happi发布2026年6月美妆行业五大热门配方，展示创新产品趋势。",
+      "why": "新配方反映行业创新方向，对产品开发和市场竞争具有参考价值。",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "products",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "1d09af96916c18",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmFSempua1dVMEVJNGtfaWg3MjNTeVdHc0lBNFQtbzg3Y3dQdWdKYXlUM0hGZ2dFdW9rWkdfeDg2TEJUMWlncE1KeGwwNnF1MHhTaHVwTjYteHNKZ2NmMHBndFhlQnRtTy1Pa2QxeldHVEZNa0x0WlVWWU1ETnl3emVjNGJyR1dUT0xKTFlTanU?oc=5",
+      "publishedAt": "2026-06-28T15:15:09+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "香氛衣橱引领2026夏季香氛趋势",
+      "summary": "香氛衣橱成为2026年夏季香氛市场的主流趋势，推动个性化香氛消费。",
+      "why": "香氛衣橱概念推动品牌创新，促进香氛产品多样化，影响市场营销策略。",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "a8421bcfcd9b0c",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zMWpsMk1ENHZRNmtWcGRHVUw4bHRXeHE4dDBQZ2FNVXd3RWx1SUphMWZQSURTOUNfcUpEQkdGeElpOVRJTG1JS1RCSU9NcnlTM0tWMy1ubC1IUlpqM092S2RrR0M5d3RiUW9SREZnN1pQMk42bk9RYklR?oc=5",
+      "publishedAt": "2026-06-28T04:14:01+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "亚洲及澳大利亚美妆市场动态",
+      "summary": "报道聚焦亚洲与澳大利亚地区美妆行业最新市场动态与发展趋势。",
+      "why": "区域市场变化影响全球品牌布局和供应链策略，值得关注。",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "1e83569c66401b",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUTFJbzJHdVR6UC1zN041NnN4bm1sTGRacGUtNnJsc09IYUZFUEloVC0tcE4tT1dSNk1hLTc5d2tnZW5lSmE2dTEzTk9FVHRhSFRta0NIX25PNjR5d3BsdnhTWjgxWmxIU0J4MWMxRlF4VDUtaHQtUTVGNFpqUGY2UHJONVhpZXZmdmxfOU9faldjc3B1ZVRr?oc=5",
+      "publishedAt": "2026-06-27T07:00:00+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "ELF在2026年NWSL挑战杯庆祝足球粉丝文化",
+      "summary": "ELF品牌在2026年NWSL挑战杯活动中庆祝足球粉丝文化，提升品牌与体育赛事的联动。",
+      "why": "品牌与体育赛事合作有助于扩大受众基础，增强品牌影响力。",
+      "companies": [
+        "ELF"
+      ],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "b9786f74f4bccb",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVNzcVlKaGZiVWQxSlNwLWdMZzIyVzBCX01jX19VZjA4TnljaC1fd05aWlQ3RV91OHNYODQ1OVBwcVpNaWRaQnB4RkRnM092STlhaVZBcUVNbDBnSDBWdGZNNnlaNFlpMC0ybXpGWFAtd1JJRVZvWkNOWS1YVUxQWTJpSlV1S1dOVXlnRzIyMDlxNWRhSlpUMzctb0gtN1VRYnJ6SEQzYmpLem5qT1hBLUREOGFSbTN3alVGQ19GTlpTWE1oNS1TUUJyZw?oc=5",
+      "publishedAt": "2026-06-27T07:00:00+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "玫琳凯获Euromonitor全球直销美妆第一",
+      "summary": "玫琳凯被Euromonitor评为全球直销美妆行业排名第一。",
+      "why": "行业排名提升品牌全球影响力，有助于直销渠道扩展和市场信心。",
+      "companies": [
+        "玫琳凯"
+      ],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "96ee42dfa46ef7",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONEUwQ2o3ZEx4RkpraV9RdEdhYVF2VndVRGRaSWhTZXRFNkVDdE9rb04zSGVmTmhVLVhwaF82MnA4bjJId1dMR0hqa3lQclo2bWg3eDJnckJiMTlmWmp6UGZONkx6aGo5LWxacmdyQnJmNFhlaWxLZ3FYdE5NSFFQUzNJQjZCVTZ5M09zeWhFWmJsU0N6cmt2TzJ0NFBjT2NqRFdpTm5vMXNQZWZjaXhfcWVpUm1wTGpHcjFuR1NkNFo3Yms?oc=5",
+      "publishedAt": "2026-06-26T22:15:34+00:00",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "ChatGPT推荐美妆产品的热门网站盘点",
+      "summary": "盘点ChatGPT用于美妆产品推荐的主要网站，反映数字化消费趋势。",
+      "why": "AI推荐影响消费者决策，推动美妆品牌数字营销策略升级。",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "1de74dd11148eb",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQzd0VHhBOXYzMUgwcDNyWmEtVl8tOHR4cnFoWkhNR2x5SmVUYzR1VnBkTlYxMFMwSy1hSEkwdWI3TUJESE51T3cyUG9rbVBlSUdad2QtUWpnbHVyd2NCWjJ1M04tMUotNUlyRTN2dFAxaTRLV255S0d1TVpRN2Zsbk05R1FZZ2VxZU4yUkxLa1NaOXFhbTc1Y1p1ZFJIdWVoZE5rYTVOSVB0QVBjZTJ2cE5ldFJ4VWdkY25KSjZkY3BndG5TeHEzcVdZdEVLQXBadXFiWkhpd1N2YzJmaTVWSkJZblNSaFNiTHhqVElhcHg1RlREWkI3c2hjYk8?oc=5",
+      "publishedAt": "2026-06-26T15:03:34+00:00",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "title": "Laura Geller Beauty借亚马逊Prime Day推出Root Touch Up，进军头发补色品类",
+      "summary": "Laura Geller Beauty在亚马逊Prime Day期间推出Root Touch Up产品，首次进入头发补色品类。",
+      "why": "品牌扩展产品线，利用电商大促提升曝光，有望带动销售增长并拓展新消费群体。",
+      "companies": [
+        "Laura Geller Beauty"
+      ],
+      "tags": [
+        "新品发布",
+        "亚马逊",
+        "头发补色",
+        "电商促销"
+      ],
+      "category": "products",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "f93e872885a317",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3JsUmNjYzVNRnlxMGtLNXE1RXV5T0ZhdGVlQng3amxuOENsZm5Qell1c1AyNm1oWWJ0WWdNcTlpOWNMaXBJM3VfbmhHc3Q0cEJWeDlOOTkzZ19wNHVZNWlXbmhwbnoxRjN3UzV3eWs1RThoMTZOeVgyN0djN0lYaHZzYTNZNl9H?oc=5",
+      "publishedAt": "2026-06-26T14:04:58+00:00",
+      "source": "Happi",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "title": "Iberchem在中国开设制造中心，强化供应链布局",
+      "summary": "香精公司Iberchem在中国设立制造中心，提升本地生产能力，优化供应链。",
+      "why": "增强中国市场供应能力，降低物流成本，提升对亚洲客户的响应速度，助力业务扩张。",
+      "companies": [
+        "Iberchem"
+      ],
+      "tags": [
+        "供应链",
+        "中国制造",
+        "香精"
+      ],
+      "category": "supply-chain",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "345542be758bf5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BOXBYM0Riell4ZDZFY21ncmdWTWpMU2l6ai1PRm5yOW5HTDJiTjE0SE01V01OOGk3SmxXTnNNYmJBVE9UV0tJLW11bTZuMnBLeWlFV2RlRFNZc3VKX1BzZEZWVTdoY0puaTN6M2g4d1UzWmFPaW5SMVE0bw?oc=5",
+      "publishedAt": "2026-06-26T11:34:37+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "title": "Cosmoprof CBE ASEAN在曼谷开幕，推动东南亚美妆行业交流",
+      "summary": "Cosmoprof CBE ASEAN展会在泰国曼谷开幕，聚焦东南亚美妆市场发展与行业规范。",
+      "why": "促进区域合作与贸易，提升行业标准，吸引国际品牌关注东南亚市场机遇。",
+      "companies": [
+        "Cosmoprof CBE ASEAN"
+      ],
+      "tags": [
+        "展会",
+        "东南亚",
+        "行业规范",
+        "市场拓展"
+      ],
+      "category": "regulation",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "2cdeadbd1375f8",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPendwdWlpcDJraE9YRW5wdzJ2aDk4R2FZUmt6bTBHN2ZsOVVwTDlJaVBPbWlvb0loOXdFbkZHVy1XX3RMQlZBYmZKV2l0algwY3NNYnlvS004blpVRU9DZW9GUFpxX3l1OURBd0hwSEpCbUY0bE9zYVNZZ0JCUkVQazdBSWN2R1lTdEJtUjZJa3h5U1k?oc=5",
+      "publishedAt": "2026-06-26T10:59:07+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "Skin Rocks发布史上最大营销活动，加速品牌增长",
+      "summary": "Caroline Hirons旗下Skin Rocks推出迄今最大规模营销活动，旨在推动品牌快速增长。",
+      "why": "大规模营销有望提升品牌知名度，吸引新用户，增强市场竞争力。",
+      "companies": [
+        "Skin Rocks"
+      ],
+      "tags": [
+        "品牌营销",
+        "增长战略",
+        "Caroline Hirons"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "505018f3f8f5ab",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFBqSDNBQkJVdFVJUTRFdFNxMWx4dHVOVC1iRFF5OExUUGhOSERJUC1CMWdjS21sdEVOYl9DSDQ3LWVfVEgwVHcxRXoyRS1NMjVKTGNGbXdhbGxxeXNOc0ZWYVZfVXpjOExRN29DVGFKcTVOQms4TDZlVVJkZ3FpeTB2anhObnVWNUV1M2Rn?oc=5",
+      "publishedAt": "2026-06-26T10:44:03+00:00",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "2026抗衰老护肤大会第二日亮点回顾",
+      "summary": "2026抗衰老护肤大会第二日内容聚焦行业创新与科学进展。",
+      "why": "行业大会推动技术交流，促进品牌与科研合作，提升产品创新能力。",
+      "companies": [],
+      "tags": [
+        "抗衰老",
+        "行业大会",
+        "创新"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "b098d2c0457125",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjU3cmlQZGRJWkhlWFNTY1dKN2gyazdTejU4cWZSX0lIQ0ZTeTlLQWh1ajlhdWFoTFh5MjNEMGVudi1yY2xjOC1oQzJNdjZmeThZckh5dmZ5TE9EQUR4WTBfbVEzTk9oa0YybFdTZXU1MUJna2ZRNExwcjM2RC1Fc3h1d1YzdmM1WlJFclExYw?oc=5",
+      "publishedAt": "2026-06-26T05:01:33+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "title": "LVMH回应Hermès继承人股份争议，否认相关指控",
+      "summary": "LVMH就Hermès继承人股份争议发表声明，否认相关指控。",
+      "why": "涉及两大奢侈集团，或影响行业资本动态及品牌声誉。",
+      "companies": [
+        "LVMH",
+        "Hermès"
+      ],
+      "tags": [
+        "奢侈品",
+        "股权争议",
+        "品牌声誉"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "14e3e20c21bf40",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHV0cGJoYjFZaVR1cndxWE81enlyc2tnU1NTUy1Ea3FmeEJWWkNrdE9DS2lNUzFTQWx0dmpMZ0w4emtlQXAtRmphaXkwTXV5bTd6aXJDdUlacUZ4SG1Qc2Q1SlVFREJXb3JRTVdNRWVZUFdxUndQc0ZUMkdKd2lpMXdBaXNCLUZjeWpGTFpGRGZPdHR2QnFSQWFnNHlVd2JLZ0lJ?oc=5",
+      "publishedAt": "2026-06-26T05:01:01+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      },
+      "title": "欧莱雅再投2000万欧元，续签气候紧急基金",
+      "summary": "欧莱雅宣布续签气候紧急基金，并追加2000万欧元投资，强化可持续发展承诺。",
+      "why": "加大环保投入，提升企业社会责任形象，或影响行业绿色转型趋势。",
+      "companies": [
+        "L'Oréal"
+      ],
+      "tags": [
+        "可持续发展",
+        "环保投资",
+        "企业责任"
+      ],
+      "category": "deals",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "f3413ed57515df",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkdTakVRVlQ3NkctU0dCV1JCUUNTWjBhT1ZkQl9JQWJ3eDhreWhEbTg1M0MweXlHUzFSUU5ZUzlqUWxkdEtGRFloekpRUThjaVYzQkg1SlhZSkI1N0ZsYmpMenp0RFJXVy01WmNBWlVaNGx2eVJ1YjA0MjV0eFc5VjJTTjRNWHdSVldJWm5OQXVVNXZRMEI3bkoybUtIdHNMRGxwcWZuREM?oc=5",
+      "publishedAt": "2026-06-26T05:01:01+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "title": "香奈儿在法国启用1.5亿欧元香水制造工厂，提升产能",
+      "summary": "CHANEL在法国投资1.5亿欧元建设香水制造工厂，正式投入运营，提升生产能力。",
+      "why": "扩大产能，优化供应链，增强品牌全球竞争力，满足市场增长需求。",
+      "companies": [
+        "CHANEL"
+      ],
+      "tags": [
+        "香水制造",
+        "产能扩张",
+        "法国"
+      ],
+      "category": "supply-chain",
       "verification": "reported",
       "sourceCount": 1
     }

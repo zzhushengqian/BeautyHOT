@@ -17,6 +17,16 @@ CATEGORY_WORDS = {
     "channels": ["retail", "store", "sephora", "ulta", "tmall", "门店", "渠道"],
     "products": ["launch", "formula", "clinical", "patent", "新品", "研发"],
 }
+DISCOVERY_TERMS = [
+    "beauty", "cosmetics", "skincare", "fragrance", '"personal care"',
+    "acquisition", "funding", "earnings", "CEO", "regulation", "China",
+]
+GENERAL_MEDIA_ENTITIES = [
+    "beauty", "cosmetic", "skincare", "fragrance", "personal care",
+    "l'oreal", "loreal", "estee lauder", "coty", "shiseido", "puig",
+    "unilever", "procter & gamble", "p&g", "lvmh", "sephora", "ulta",
+    "beiersdorf", "kao", "kose", "amorepacific", "cosmax", "elf beauty",
+]
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -41,7 +51,8 @@ def signals(title, source):
 def collect():
     found = []
     for source in CONFIG["queries"]:
-        query = f'site:{source["domain"]} ({CONFIG["keywords"]}) when:2d'
+        keywords = " OR ".join(DISCOVERY_TERMS)
+        query = f'site:{source["domain"]} ({keywords}) when:7d'
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q":query,"hl":"en-US","gl":"US","ceid":"US:en"})
         try: root = ET.fromstring(fetch(url))
         except Exception as exc:
@@ -51,6 +62,10 @@ def collect():
             title = re.sub(r"\s+-\s+[^-]+$", "", raw_title).strip()
             link = (entry.findtext("link") or "").strip()
             if not title or not link: continue
+            if source["domain"] == "reuters.com" and not any(
+                word in title.lower() for word in GENERAL_MEDIA_ENTITIES
+            ):
+                continue
             try: published = email.utils.parsedate_to_datetime(entry.findtext("pubDate") or "").astimezone(timezone.utc)
             except Exception: published = datetime.now(timezone.utc)
             sig = signals(title, source)
@@ -72,14 +87,40 @@ def collect():
 def enrich(items):
     token = os.getenv("GITHUB_TOKEN")
     if not token or not items: return items
-    prompt = "将以下美妆行业候选新闻改写为中文结构化 JSON。不要虚构事实。返回 {items:[...]}，每项保留 id/url/publishedAt/source/sourceTier/signals，补全中文 title、summary、why、category、companies、tags；verification 固定 reported，sourceCount 固定 1。候选：" + json.dumps(items, ensure_ascii=False)
-    body = json.dumps({"model":"openai/gpt-4.1","response_format":{"type":"json_object"},"messages":[{"role":"system","content":"你是严谨的美妆商业新闻编辑。"},{"role":"user","content":prompt}],"temperature":0.1,"max_tokens":7000}).encode()
-    req = urllib.request.Request("https://models.github.ai/inference/chat/completions", data=body, headers={"Authorization":f"Bearer {token}","Content-Type":"application/json","User-Agent":UA})
-    try:
-        response = json.loads(fetch_request(req)); result = json.loads(response["choices"][0]["message"]["content"])
-        return result.get("items") or items
-    except Exception as exc:
-        print(f"warning: GitHub Models fallback: {exc}"); return items
+    enriched = []
+    for start in range(0, len(items), 8):
+        batch = items[start:start + 8]
+        prompt = (
+            "将以下美妆行业候选新闻改写为中文结构化 JSON，不要虚构事实。"
+            "返回 {items:[...]}。每项必须保留 id/url/publishedAt/source/sourceTier/signals，"
+            "补全中文 title、summary、why、companies、tags；category 只能是 brands、people、"
+            "deals、financials、products、channels、marketing、regulation、supply-chain 之一；"
+            "verification 固定 reported，sourceCount 固定 1。候选："
+            + json.dumps(batch, ensure_ascii=False)
+        )
+        body = json.dumps({
+            "model":"openai/gpt-4.1",
+            "response_format":{"type":"json_object"},
+            "messages":[
+                {"role":"system","content":"你是严谨的美妆商业新闻编辑，摘要简洁，优先呈现商业影响。"},
+                {"role":"user","content":prompt}
+            ],
+            "temperature":0.1,
+            "max_tokens":3500
+        }).encode()
+        req = urllib.request.Request(
+            "https://models.github.ai/inference/chat/completions",
+            data=body,
+            headers={"Authorization":f"Bearer {token}","Content-Type":"application/json","User-Agent":UA}
+        )
+        try:
+            response = json.loads(fetch_request(req))
+            result = json.loads(response["choices"][0]["message"]["content"])
+            enriched.extend(result.get("items") or batch)
+        except Exception as exc:
+            print(f"warning: GitHub Models batch fallback: {exc}")
+            enriched.extend(batch)
+    return enriched
 
 def fetch_request(req):
     with urllib.request.urlopen(req, timeout=90) as response: return response.read()
