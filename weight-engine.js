@@ -148,7 +148,7 @@ function mergeProfile(base, custom) {
 
 let activeProfile = loadProfile();
 let draftProfile = deepClone(activeProfile);
-state.view = "selected";
+state.view = "all";
 
 function dimensionScore(item, profile = activeProfile) {
   const signals = item.signals || SIGNALS[item.id] || { impact: 5, magnitude: 5, china: 5, novelty: 5, actionability: 5 };
@@ -225,7 +225,7 @@ filteredNews = function() {
 
 renderTopStories = function() {
   const eligible = NEWS
-    .filter(item => passesHardRules(item) && calculateScore(item) >= Number(activeProfile.display.threshold))
+    .filter(item => passesHardRules(item))
     .sort((a, b) => calculateScore(b) - calculateScore(a))
     .slice(0, 3);
   document.querySelector("#top-stories").innerHTML = eligible.map((item, index) => `
@@ -233,7 +233,7 @@ renderTopStories = function() {
       <span class="top-rank">0${index + 1}</span>
       <div>
         <h3>${item.title}</h3>
-        <p>${item.sourceCount} 个信源 · ${item.publishedLabel}</p>
+        <p>${item.sourceCount} 个信源 · ${formatPublishedDate(item.publishedAt)}</p>
       </div>
       <span class="top-score">${calculateScore(item)}</span>
     </a>

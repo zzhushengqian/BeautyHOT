@@ -326,6 +326,7 @@ a { color: inherit; text-decoration: none; }
   border-color: var(--ink);
   background: var(--ink);
 }
+.feed-controls { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
 .sort-control {
   flex: 0 0 auto;
   display: flex;

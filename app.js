@@ -345,6 +345,17 @@ function renderCategoryTabs() {
   `).join("");
 }
 
+function formatPublishedDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "日期待核";
+  return new Intl.DateTimeFormat("zh-CN", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(date).replaceAll("/", ".");
+}
+
 function renderTopStories() {
   const top = [...NEWS]
     .sort((a, b) => calculateScore(b) - calculateScore(a))
@@ -354,7 +365,7 @@ function renderTopStories() {
       <span class="top-rank">0${index + 1}</span>
       <div>
         <h3>${item.title}</h3>
-        <p>${item.sourceCount} 个信源 · ${item.publishedLabel}</p>
+        <p>${item.sourceCount} 个信源 · ${formatPublishedDate(item.publishedAt)}</p>
       </div>
       <span class="top-score">${calculateScore(item)}</span>
     </a>
@@ -377,7 +388,7 @@ function renderNews() {
         <div class="card-meta">
           <span class="category-label">${CATEGORIES[item.category]}</span>
           <span class="meta-separator"></span>
-          <span>${item.publishedLabel}</span>
+          <span>${formatPublishedDate(item.publishedAt)}</span>
           <span class="meta-separator"></span>
           <span>${item.source}</span>
           <span class="confidence ${item.verification === "reported" ? "reported" : ""}">${confidenceLabel[item.verification]}</span>
@@ -491,18 +502,57 @@ dialog.addEventListener("click", event => {
 
 renderAll();
 
+async function loadNewsFile(path, label = "最新动态") {
+  const response = await fetch(path, { cache: "no-store" });
+  if (!response.ok) throw new Error(`无法读取 ${path}`);
+  const payload = await response.json();
+  if (!Array.isArray(payload.items) || !payload.items.length) return false;
+  NEWS = payload.items;
+  state.category = "all";
+  state.query = "";
+  document.querySelector("#feed-title").textContent = label;
+  renderAll();
+  document.dispatchEvent(new CustomEvent("beautyhot:data-loaded"));
+  return true;
+}
+
 async function loadPublishedNews() {
   try {
-    const response = await fetch("./data/latest.json", { cache: "no-store" });
-    if (!response.ok) return;
-    const payload = await response.json();
-    if (!Array.isArray(payload.items) || !payload.items.length) return;
-    NEWS = payload.items;
-    renderAll();
-    document.dispatchEvent(new CustomEvent("beautyhot:data-loaded"));
+    await loadNewsFile("./data/latest.json", "最新动态");
   } catch {
     // Keep the bundled editorial fallback when the daily feed is unavailable.
   }
 }
 
+async function loadArchiveIndex() {
+  try {
+    const response = await fetch("./data/archive/index.json", { cache: "no-store" });
+    if (!response.ok) return;
+    const payload = await response.json();
+    const select = document.querySelector("#archive-select");
+    (payload.dates || []).forEach(date => {
+      const option = document.createElement("option");
+      option.value = date;
+      option.textContent = date;
+      select.appendChild(option);
+    });
+  } catch {
+    // The latest feed remains available even when the archive index is absent.
+  }
+}
+
+document.querySelector("#archive-select").addEventListener("change", async event => {
+  const date = event.target.value;
+  try {
+    await loadNewsFile(date ? `./data/archive/${date}.json` : "./data/latest.json", date ? `${date} 归档` : "最新动态");
+  } catch {
+    event.target.value = "";
+  }
+});
+
+document.querySelector("#archive-nav").addEventListener("click", () => {
+  setTimeout(() => document.querySelector("#archive-select").focus(), 0);
+});
+
 loadPublishedNews();
+loadArchiveIndex();

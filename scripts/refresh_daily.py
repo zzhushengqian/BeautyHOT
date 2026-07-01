@@ -133,5 +133,15 @@ def main():
     (ROOT / "data/latest.json").write_text(data, encoding="utf-8")
     archive = ROOT / "data/archive"; archive.mkdir(parents=True, exist_ok=True)
     (archive / f"{payload['date']}.json").write_text(data, encoding="utf-8")
+    dates = sorted(
+        (path.stem for path in archive.glob("*.json") if path.stem != "index"),
+        reverse=True,
+    )
+    archive_index = json.dumps(
+        {"generatedAt": now.isoformat(), "dates": dates},
+        ensure_ascii=False,
+        indent=2,
+    ) + "\n"
+    (archive / "index.json").write_text(archive_index, encoding="utf-8")
     print(f"wrote {len(items)} items")
 if __name__ == "__main__": main()

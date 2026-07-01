@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
@@ -16,6 +16,7 @@
     <nav class="top-nav" aria-label="主要导航">
       <a class="active" href="#feed">精选</a>
       <a href="#feed" data-view="all">全部动态</a>
+      <a href="#feed" id="archive-nav">历史归档</a>
       <a href="#daily">今日简报</a>
       <a href="#radar">集团雷达</a>
     </nav>
@@ -73,21 +74,29 @@
         <div class="section-heading">
           <div>
             <p class="eyebrow dark">CURATED SIGNALS</p>
-            <h2>最新精选</h2>
+            <h2 id="feed-title">最新动态</h2>
           </div>
           <div class="result-summary"><strong id="result-count">0</strong> 条内容</div>
         </div>
 
         <div class="filter-bar">
           <div class="category-tabs" id="category-tabs" aria-label="新闻分类"></div>
-          <label class="sort-control">
-            <span>排序</span>
-            <select id="sort-select" aria-label="排序方式">
-              <option value="score">综合热度</option>
-              <option value="latest">最新发布</option>
-              <option value="confidence">可信度</option>
-            </select>
-          </label>
+          <div class="feed-controls">
+            <label class="sort-control">
+              <span>日期</span>
+              <select id="archive-select" aria-label="选择新闻日期">
+                <option value="">最新</option>
+              </select>
+            </label>
+            <label class="sort-control">
+              <span>排序</span>
+              <select id="sort-select" aria-label="排序方式">
+                <option value="score">综合热度</option>
+                <option value="latest">最新发布</option>
+                <option value="confidence">可信度</option>
+              </select>
+            </label>
+          </div>
         </div>
 
         <div id="search-state" class="search-state" hidden>
