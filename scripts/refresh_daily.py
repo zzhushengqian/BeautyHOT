@@ -34,6 +34,19 @@ GENERAL_MEDIA_ENTITIES = [
     *PRIORITY_ENTITY_NAMES,
 ]
 GENERAL_NEWS_DOMAINS = {"reuters.com", "wwd.com"}
+PERSONNEL_TERMS = [
+    "任命", "晋升", "升任", "出任", "就任", "离任", "辞任", "辞职", "卸任",
+    "新任", "接任", "接替", "履新", "换帅", "人事变动", "管理层调整",
+    "董事长", "总经理", "首席执行官", "CEO", "总裁", "高管", "董事会",
+]
+PERSONNEL_ACTION_TERMS = [
+    "任命", "晋升", "升任", "出任", "就任", "离任", "辞任", "辞职", "卸任",
+    "新任", "接任", "接替", "履新", "换帅", "人事变动", "管理层调整",
+]
+EXCLUDED_TITLE_TERMS = [
+    "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
+    "job opening", "jobs", "hiring", "vacancy", "careers", "internship", "apprentice",
+]
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -55,6 +68,61 @@ def signals(title, source):
     actionability = 8 if cat in {"deals","financials","regulation","channels","supply-chain"} else 6
     return {"impact":impact,"magnitude":magnitude,"china":china,"novelty":novelty,"actionability":actionability}
 
+def excluded_title(title):
+    lower = title.lower()
+    return any(term.lower() in lower for term in EXCLUDED_TITLE_TERMS)
+
+def collect_priority_personnel():
+    found = []
+    terms = " OR ".join(PERSONNEL_TERMS)
+    for entity in CONFIG.get("priorityPersonnelEntities", []):
+        query = f'"{entity}" 美妆 ({terms}) when:30d'
+        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({
+            "q": query, "hl": "zh-CN", "gl": "CN", "ceid": "CN:zh-Hans"
+        })
+        try:
+            root = ET.fromstring(fetch(url))
+        except Exception as exc:
+            print(f"warning: personnel {entity}: {exc}")
+            continue
+        for entry in root.findall("./channel/item")[:6]:
+            raw_title = html.unescape(entry.findtext("title") or "").strip()
+            title = re.sub(r"\s+-\s+[^-]+$", "", raw_title).strip()
+            link = (entry.findtext("link") or "").strip()
+            lower = title.lower()
+            if not title or not link or excluded_title(title):
+                continue
+            if entity.lower() not in lower or not any(term.lower() in lower for term in PERSONNEL_ACTION_TERMS):
+                continue
+            try:
+                published = email.utils.parsedate_to_datetime(
+                    entry.findtext("pubDate") or ""
+                ).astimezone(timezone.utc)
+            except Exception:
+                published = datetime.now(timezone.utc)
+            source_name = (entry.findtext("source") or "公开媒体报道").strip()
+            item_id = hashlib.sha1((title + entity).encode()).hexdigest()[:14]
+            found.append({
+                "id": item_id,
+                "title": title,
+                "summary": title,
+                "why": f"{entity}属于国内重点美妆集团，人事与组织变化可能影响品牌战略和经营执行。",
+                "category": "people",
+                "source": source_name,
+                "sourceTier": "C",
+                "verification": "reported",
+                "sourceCount": 1,
+                "publishedAt": published.isoformat(),
+                "publishedLabel": "最近 30 天",
+                "url": link,
+                "companies": [entity],
+                "tags": [entity, "重点人事监测", "媒体报道"],
+                "baseScore": 72,
+                "priorityPersonnel": True,
+                "signals": {"impact":10,"magnitude":8,"china":10,"novelty":9,"actionability":9},
+            })
+    return found
+
 def collect():
     found = []
     for source in CONFIG["queries"]:
@@ -68,7 +136,7 @@ def collect():
             raw_title = html.unescape(entry.findtext("title") or "").strip()
             title = re.sub(r"\s+-\s+[^-]+$", "", raw_title).strip()
             link = (entry.findtext("link") or "").strip()
-            if not title or not link: continue
+            if not title or not link or excluded_title(title): continue
             if source["domain"] in GENERAL_NEWS_DOMAINS and not any(
                 word in title.lower() for word in GENERAL_MEDIA_ENTITIES
             ):
@@ -87,12 +155,14 @@ def collect():
                 "tags": [source["name"], "官方信源" if source["tier"] == "A" else "自动采集"],
                 "baseScore": 60, "signals": sig
             })
+    found.extend(collect_priority_personnel())
     dedup = {}
     for item in sorted(found, key=lambda x:x["publishedAt"], reverse=True):
         key = re.sub(r"\W+", "", item["title"].lower())[:80]
         dedup.setdefault(key, item)
     candidates = list(dedup.values())
     selected = []
+    selected.extend([item for item in candidates if item.get("priorityPersonnel")][:12])
     selected.extend([item for item in candidates if item["sourceTier"] == "A"][:16])
     selected.extend([item for item in candidates if item["sourceTier"] == "B"][:8])
     selected_ids = {item["id"] for item in selected}
@@ -107,7 +177,7 @@ def enrich(items):
         batch = items[start:start + 8]
         prompt = (
             "将以下美妆行业候选新闻改写为中文结构化 JSON，不要虚构事实。"
-            "返回 {items:[...]}。每项必须保留 id/url/publishedAt/source/sourceTier/signals，"
+            "返回 {items:[...]}。每项必须保留 id/url/publishedAt/source/sourceTier/signals/priorityPersonnel，"
             "补全中文 title、summary、why、companies、tags；category 只能是 brands、people、"
             "deals、financials、products、channels、marketing、regulation、supply-chain 之一；"
             "保留 verification 和 sourceCount，不要降低官方信源的核验级别。候选："

@@ -56,6 +56,14 @@
 - 高销量与高增长品牌：e.l.f. Beauty、Sol de Janeiro、Summer Fridays、Glow Recipe、Charlotte Tilbury、The Ordinary、CeraVe、La Roche-Posay、COSRX、Anua、Beauty of Joseon、SK-II、La Mer。
 - 知名非上市集团或品牌：Chanel、Clarins、Sisley Paris、Amway Artistry、Huda Beauty。
 
+## 国内集团重点人事监测
+
+专项监测以下集团的任命、晋升、履新、接任、离任、辞任、换帅和管理层调整：
+
+珀莱雅、上美股份、巨子生物、华熙生物、福瑞达美业、敷尔佳、丸美生物、自然堂、逸仙电商、水羊股份、上海家化、欧诗漫、毛戈平、谷雨、HBN护肤、贝泰妮、林清轩、橘宜集团。
+
+专项检索采用最近 30 天窗口；招聘、实习、校招和普通岗位广告不作为人事变动。标题只出现董事长、CEO 等头衔但没有任免动作时不入选。
+
 ## 使用规则
 
 - 官网、监管和投资者关系页面作为一手事实来源，标记为 A 级。
