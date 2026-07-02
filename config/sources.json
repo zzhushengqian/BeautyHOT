@@ -1,12 +1,50 @@
 {
   "queries": [
-    {"name":"Global Cosmetics News","domain":"globalcosmeticsnews.com","tier":"C"},
-    {"name":"Happi","domain":"happi.com","tier":"C"},
-    {"name":"Cosmetics Business","domain":"cosmeticsbusiness.com","tier":"C"},
-    {"name":"Cosmetics & Toiletries","domain":"cosmeticsandtoiletries.com","tier":"C"},
-    {"name":"Global Cosmetic Industry","domain":"gcimagazine.com","tier":"C"},
-    {"name":"Reuters","domain":"reuters.com","tier":"B"},
-    {"name":"中国国家药监局","domain":"nmpa.gov.cn","tier":"A"}
+    {"name":"Global Cosmetics News","domain":"globalcosmeticsnews.com","tier":"C","kind":"vertical-media"},
+    {"name":"Happi","domain":"happi.com","tier":"C","kind":"vertical-media"},
+    {"name":"Cosmetics Business","domain":"cosmeticsbusiness.com","tier":"C","kind":"vertical-media"},
+    {"name":"Cosmetics & Toiletries","domain":"cosmeticsandtoiletries.com","tier":"C","kind":"vertical-media"},
+    {"name":"Global Cosmetic Industry","domain":"gcimagazine.com","tier":"C","kind":"vertical-media"},
+    {"name":"Premium Beauty News","domain":"premiumbeautynews.com","tier":"C","kind":"vertical-media"},
+    {"name":"WWD","domain":"wwd.com","tier":"B","kind":"trade-media"},
+    {"name":"Reuters","domain":"reuters.com","tier":"B","kind":"newswire"},
+    {"name":"中国国家药监局","domain":"nmpa.gov.cn","tier":"A","kind":"regulator"},
+
+    {"name":"L'Oréal Group","domain":"loreal.com","tier":"A","kind":"global-top10-official"},
+    {"name":"Unilever","domain":"unilever.com","tier":"A","kind":"global-top10-official"},
+    {"name":"Estée Lauder Companies","domain":"elcompanies.com","tier":"A","kind":"global-top10-official"},
+    {"name":"P&G","domain":"pg.com","tier":"A","kind":"global-top10-official"},
+    {"name":"LVMH","domain":"lvmh.com","tier":"A","kind":"global-top10-official"},
+    {"name":"Shiseido","domain":"corp.shiseido.com","tier":"A","kind":"global-top10-official"},
+    {"name":"Beiersdorf","domain":"beiersdorf.com","tier":"A","kind":"global-top10-official"},
+    {"name":"Kao","domain":"kao.com","tier":"A","kind":"global-top10-official"},
+    {"name":"Coty","domain":"coty.com","tier":"A","kind":"global-top10-official"},
+    {"name":"Natura &Co","domain":"naturaeco.com","tier":"A","kind":"global-top10-official"},
+
+    {"name":"珀莱雅","domain":"proya-group.com","tier":"A","kind":"china-top10-official"},
+    {"name":"上海家化","domain":"jahwa.com.cn","tier":"A","kind":"china-top10-official"},
+    {"name":"华熙生物","domain":"bloomagebiotech.com","tier":"A","kind":"china-top10-official"},
+    {"name":"巨子生物","domain":"giantbiogene.com","tier":"A","kind":"china-top10-official"},
+    {"name":"贝泰妮","domain":"botanee.com.cn","tier":"A","kind":"china-top10-official"},
+    {"name":"逸仙电商","domain":"ir.yatsenglobal.com","tier":"A","kind":"china-top10-official"},
+    {"name":"上美股份","domain":"chicmaxgroup.com","tier":"A","kind":"china-top10-official"},
+    {"name":"毛戈平","domain":"maogeping.com","tier":"A","kind":"china-top10-official"},
+    {"name":"水羊股份","domain":"syounggroup.com","tier":"A","kind":"china-top10-official"},
+    {"name":"丸美股份","domain":"marubi.cn","tier":"A","kind":"china-top10-official"}
   ],
-  "keywords":"beauty cosmetics skincare fragrance personal care acquisition funding earnings CEO regulation China"
+  "priorityEntities": {
+    "celebrityAndFounderBrands": [
+      "Rare Beauty", "Fenty Beauty", "Huda Beauty", "Haus Labs", "Rhode",
+      "Kylie Cosmetics", "r.e.m. beauty", "Florence by Mills", "about-face"
+    ],
+    "highSalesAndGrowthBrands": [
+      "e.l.f. Beauty", "Sol de Janeiro", "Summer Fridays", "Glow Recipe",
+      "Charlotte Tilbury", "The Ordinary", "CeraVe", "La Roche-Posay",
+      "COSRX", "Anua", "Beauty of Joseon", "SK-II", "La Mer"
+    ],
+    "notablePrivateGroupsAndBrands": [
+      "Chanel", "Clarins", "Sisley Paris", "Amway Artistry", "Huda Beauty"
+    ]
+  },
+  "keywords":"beauty cosmetics skincare makeup fragrance personal care haircare acquisition funding earnings CEO regulation"
 }

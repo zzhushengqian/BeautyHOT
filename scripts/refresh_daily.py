@@ -18,15 +18,22 @@ CATEGORY_WORDS = {
     "products": ["launch", "formula", "clinical", "patent", "新品", "研发"],
 }
 DISCOVERY_TERMS = [
-    "beauty", "cosmetics", "skincare", "fragrance", '"personal care"',
-    "acquisition", "funding", "earnings", "CEO", "regulation", "China",
+    "beauty", "cosmetics", "skincare", "makeup", "haircare", "fragrance",
+    '"personal care"', "acquisition", "funding", "earnings", "CEO", "regulation",
+]
+PRIORITY_ENTITY_NAMES = [
+    name.lower()
+    for names in CONFIG.get("priorityEntities", {}).values()
+    for name in names
 ]
 GENERAL_MEDIA_ENTITIES = [
-    "beauty", "cosmetic", "skincare", "fragrance", "personal care",
+    "beauty", "cosmetic", "skincare", "makeup", "haircare", "fragrance", "personal care",
     "l'oreal", "loreal", "estee lauder", "coty", "shiseido", "puig",
     "unilever", "procter & gamble", "p&g", "lvmh", "sephora", "ulta",
     "beiersdorf", "kao", "kose", "amorepacific", "cosmax", "elf beauty",
+    *PRIORITY_ENTITY_NAMES,
 ]
+GENERAL_NEWS_DOMAINS = {"reuters.com", "wwd.com"}
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -62,7 +69,7 @@ def collect():
             title = re.sub(r"\s+-\s+[^-]+$", "", raw_title).strip()
             link = (entry.findtext("link") or "").strip()
             if not title or not link: continue
-            if source["domain"] == "reuters.com" and not any(
+            if source["domain"] in GENERAL_NEWS_DOMAINS and not any(
                 word in title.lower() for word in GENERAL_MEDIA_ENTITIES
             ):
                 continue
@@ -74,15 +81,23 @@ def collect():
                 "id": item_id, "title": title, "summary": title,
                 "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
                 "category": category(title), "source": source["name"], "sourceTier": source["tier"],
-                "verification": "reported", "sourceCount": 1, "publishedAt": published.isoformat(),
-                "publishedLabel": "最近 48 小时", "url": link, "companies": [],
-                "tags": [source["name"], "自动采集"], "baseScore": 60, "signals": sig
+                "verification": "official" if source["tier"] == "A" else "reported",
+                "sourceCount": 1, "publishedAt": published.isoformat(),
+                "publishedLabel": "最近 7 天", "url": link, "companies": [],
+                "tags": [source["name"], "官方信源" if source["tier"] == "A" else "自动采集"],
+                "baseScore": 60, "signals": sig
             })
     dedup = {}
     for item in sorted(found, key=lambda x:x["publishedAt"], reverse=True):
         key = re.sub(r"\W+", "", item["title"].lower())[:80]
         dedup.setdefault(key, item)
-    return list(dedup.values())[:40]
+    candidates = list(dedup.values())
+    selected = []
+    selected.extend([item for item in candidates if item["sourceTier"] == "A"][:16])
+    selected.extend([item for item in candidates if item["sourceTier"] == "B"][:8])
+    selected_ids = {item["id"] for item in selected}
+    selected.extend(item for item in candidates if item["id"] not in selected_ids)
+    return sorted(selected[:40], key=lambda x:x["publishedAt"], reverse=True)
 
 def enrich(items):
     token = os.getenv("GITHUB_TOKEN")
@@ -95,7 +110,7 @@ def enrich(items):
             "返回 {items:[...]}。每项必须保留 id/url/publishedAt/source/sourceTier/signals，"
             "补全中文 title、summary、why、companies、tags；category 只能是 brands、people、"
             "deals、financials、products、channels、marketing、regulation、supply-chain 之一；"
-            "verification 固定 reported，sourceCount 固定 1。候选："
+            "保留 verification 和 sourceCount，不要降低官方信源的核验级别。候选："
             + json.dumps(batch, ensure_ascii=False)
         )
         body = json.dumps({
