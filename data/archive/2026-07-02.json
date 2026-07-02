@@ -1,12 +1,12 @@
 {
   "date": "2026-07-02",
-  "generatedAt": "2026-07-02T08:12:09.956823+00:00",
+  "generatedAt": "2026-07-02T08:16:27.278862+00:00",
   "items": [
     {
       "id": "05067a89e95650",
-      "title": "Olaplex推出限量版香氛护发及身体喷雾，进军香氛领域",
-      "summary": "Olaplex宣布推出限量版Hair & Body Mist，首次涉足香氛产品线。",
-      "why": "Olaplex扩展产品线至香氛领域，有望提升品牌多元化和市场竞争力，吸引新消费群体。",
+      "title": "Olaplex推出限量版香氛护发身体喷雾，拓展香氛品类",
+      "summary": "Olaplex宣布推出限量版Hair & Body Mist，首次进军香氛领域，丰富产品线。",
+      "why": "Olaplex进入香氛市场，有望提升品牌多元化和市场竞争力，吸引新消费群体。",
       "category": "brands",
       "source": "Global Cosmetics News",
       "sourceTier": "C",
@@ -20,7 +20,9 @@
       "tags": [
         "香氛",
         "新品发布",
-        "品牌扩展"
+        "品牌扩展",
+        "Global Cosmetics News",
+        "自动采集"
       ],
       "signals": {
         "impact": 6,
@@ -34,20 +36,24 @@
     {
       "id": "c8bedf6554a22c",
       "title": "欧盟取消低价值电商进口免税政策，影响跨境美妆贸易",
-      "summary": "欧盟宣布取消低价值电商进口商品的关税豁免，影响美妆行业跨境电商业务。",
-      "why": "政策调整将增加美妆产品跨境电商成本，影响品牌定价及欧洲市场策略。",
-      "category": "regulation",
+      "summary": "欧盟宣布取消低价值电商进口的关税豁免，未来所有进口商品均需缴纳关税。",
+      "why": "政策调整将增加美妆跨境电商成本，影响中国及全球美妆品牌在欧盟市场的价格竞争力。",
+      "category": "brands",
       "source": "Global Cosmetics News",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-07-02T05:03:48+00:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanVYQ1hTdEFETGYzdHdnR2JxYS1GSWMxdW5uLUFOUDE3NUFzeWRrUlgwQUpqQW1CMHBITzNSZHU2Z29tUGxBanN3S3l2eXhRNUxLV0YzNnM4NW03WW1OUVhTeWFhUjBiVVRnUl9WX28zXzlqcWx4d3F3OWJ0M0dTRFUzSE5RMHNiMHJDWENvUWEzd3hhTld2QTJSMWV4M28?oc=5",
-      "companies": [],
+      "companies": [
+        "欧盟"
+      ],
       "tags": [
-        "欧盟",
+        "政策",
         "跨境电商",
-        "政策变动"
+        "关税",
+        "Global Cosmetics News",
+        "自动采集"
       ],
       "signals": {
         "impact": 6,
@@ -60,9 +66,9 @@
     },
     {
       "id": "4010a9ef7ef35f",
-      "title": "Boots引入Charlotte Tilbury，扩展高端美妆产品阵容",
-      "summary": "英国零售商Boots宣布上线Charlotte Tilbury品牌，丰富高端美妆产品线。",
-      "why": "Boots通过引入知名高端品牌，提升门店吸引力，增强与竞争对手的差异化。",
+      "title": "Boots引入Charlotte Tilbury，扩展高端美妆产品线",
+      "summary": "英国零售商Boots宣布上线Charlotte Tilbury品牌，进一步丰富高端美妆产品阵容。",
+      "why": "Boots通过引入知名高端品牌，提升门店吸引力，增强与其他美妆零售商的竞争力。",
       "category": "products",
       "source": "Global Cosmetics News",
       "sourceTier": "C",
@@ -77,7 +83,9 @@
       "tags": [
         "高端美妆",
         "零售扩展",
-        "品牌合作"
+        "新品上线",
+        "Global Cosmetics News",
+        "自动采集"
       ],
       "signals": {
         "impact": 6,
@@ -91,8 +99,8 @@
     {
       "id": "801d8002509cb4",
       "title": "LVMH旗下MaIA品牌动态",
-      "summary": "LVMH官方发布MaIA品牌相关信息。",
-      "why": "MaIA作为LVMH旗下品牌，任何动态均可能影响集团品牌布局及市场策略。",
+      "summary": "LVMH官方发布MaIA品牌相关信息，具体内容待进一步披露。",
+      "why": "MaIA作为LVMH旗下品牌，相关动态或将影响集团美妆业务布局。",
       "category": "brands",
       "source": "LVMH",
       "sourceTier": "A",
@@ -105,9 +113,9 @@
         "MaIA"
       ],
       "tags": [
-        "LVMH",
         "品牌动态",
-        "官方发布"
+        "LVMH",
+        "官方信源"
       ],
       "signals": {
         "impact": 6,
@@ -121,8 +129,8 @@
     {
       "id": "38e99ceec7ed82",
       "title": "MPlus Cosmetics发布‘Essence Nude’混合彩妆新品系列",
-      "summary": "MPlus Cosmetics推出‘Essence Nude’混合型彩妆新品系列，主打自然妆效。",
-      "why": "新品系列丰富品牌产品线，满足消费者对多功能彩妆的需求，提升市场竞争力。",
+      "summary": "MPlus Cosmetics推出‘Essence Nude’系列，主打混合型彩妆产品，融合护肤与彩妆功能。",
+      "why": "新品系列体现美妆产品创新趋势，有望提升品牌市场份额和消费者关注度。",
       "category": "brands",
       "source": "Premium Beauty News",
       "sourceTier": "C",
@@ -136,7 +144,9 @@
       "tags": [
         "新品发布",
         "混合彩妆",
-        "品牌扩展"
+        "创新",
+        "Premium Beauty News",
+        "自动采集"
       ],
       "signals": {
         "impact": 6,
@@ -150,20 +160,24 @@
     {
       "id": "5d543feca5dcf9",
       "title": "美妆行业免费研讨会：药品测量与表征",
-      "summary": "Cosmetics Business举办关于药品测量与表征的免费研讨会。",
-      "why": "研讨会为美妆行业提供技术交流平台，推动产品研发与质量提升。",
-      "category": "channels",
+      "summary": "Cosmetics Business举办免费研讨会，聚焦药品测量与表征技术，促进行业交流。",
+      "why": "研讨会有助于提升行业技术水平，推动美妆与医药领域的融合创新。",
+      "category": "brands",
       "source": "Cosmetics Business",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-07-01T21:09:35+00:00",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZndoMEFhNFVFMXdlRmJ2RnpJUUw4bUVsSG5uQ1R0TWk1bmVHZ1ZodVhBQVpuemtoRldsbmc0VWtjOFVxYmFKeUktcmhJZWJlS2NVSVAybzJBWmRtMl9yQlR0YjdEUVNraE5idW01S2hxZmtUVFZqbm1rdUxEdXB1azNlRmxoQQ?oc=5",
-      "companies": [],
+      "companies": [
+        "Cosmetics Business"
+      ],
       "tags": [
         "研讨会",
         "技术交流",
-        "药品表征"
+        "药品测量",
+        "Cosmetics Business",
+        "自动采集"
       ],
       "signals": {
         "impact": 6,
@@ -177,8 +191,8 @@
     {
       "id": "088f6004d43880",
       "title": "联合利华研发部：产品体验与功效洞察",
-      "summary": "联合利华官方发布关于产品研发、功效声明及用户体验的最新洞察。",
-      "why": "研发成果有助于提升产品竞争力，增强品牌公信力，推动市场创新。",
+      "summary": "联合利华官方发布研发部关于产品体验、功效及相关洞察信息。",
+      "why": "研发成果有助于提升产品竞争力，推动美妆行业创新与科学验证。",
       "category": "brands",
       "source": "Unilever",
       "sourceTier": "A",
@@ -192,7 +206,9 @@
       "tags": [
         "研发",
         "产品体验",
-        "功效声明"
+        "功效验证",
+        "Unilever",
+        "官方信源"
       ],
       "signals": {
         "impact": 6,
@@ -206,9 +222,9 @@
     {
       "id": "921d3774f924f2",
       "title": "花王发布社交媒体政策，规范品牌传播",
-      "summary": "花王官方公布社交媒体政策，旨在规范品牌在社交平台的传播行为。",
-      "why": "社交媒体政策有助于提升品牌形象管理，降低传播风险，增强市场信任度。",
-      "category": "marketing",
+      "summary": "花王官方公布社交媒体政策，旨在规范品牌传播与员工行为。",
+      "why": "社交媒体政策有助于提升品牌形象管理，降低传播风险，保障企业声誉。",
+      "category": "brands",
       "source": "Kao",
       "sourceTier": "A",
       "verification": "official",
@@ -221,7 +237,9 @@
       "tags": [
         "社交媒体",
         "品牌管理",
-        "官方政策"
+        "政策",
+        "Kao",
+        "官方信源"
       ],
       "signals": {
         "impact": 6,
@@ -248,9 +266,9 @@
         "actionability": 8
       },
       "priorityPersonnel": null,
-      "title": "宝洁将于7月29日举行2025/2026财年第四季度业绩发布会",
-      "summary": "宝洁公司宣布将于2026年7月29日通过网络直播方式讨论2025/2026财年第四季度业绩结果。",
-      "why": "宝洁业绩发布会将直接影响投资者、行业分析师对公司财务表现和未来战略的判断，具有重要商业参考价值。",
+      "title": "宝洁将于7月29日举行2025/2026财年第四季度业绩讨论网络直播",
+      "summary": "宝洁公司宣布将于2026年7月29日通过网络直播方式，讨论2025/2026财年第四季度业绩结果。",
+      "why": "宝洁作为全球美妆及日化巨头，季度业绩发布对行业投资、供应链及市场预期有直接影响。",
       "companies": [
         "宝洁"
       ],
@@ -260,35 +278,6 @@
         "官方信源"
       ],
       "category": "financials"
-    },
-    {
-      "id": "4ab033ded73c6d",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazdpaFRuZldYMjNCUjVJSTh3T0huUHc1YmE5RHpfX0RTTDlYbnZ0V29UbUdYdUZXbVFLM05PX3VxeUlPYVNxd2FsWmoydDNZc1dscE13ZEtud19lNDc2RlpXSG1xaFpHZGlKdmZWaVdobWJzVkdwNWc2YjFkNWdyaEFfWjBtVTFEc20wdHZLWXBKajVVSUx1SUk5S2VKanlqbTRZZUR6YUx0UU84ZjJwV1B5c0dSYmxXcHZVQXBfeUpoYnlk?oc=5",
-      "publishedAt": "2026-07-01T11:15:55+00:00",
-      "source": "Unilever",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      },
-      "priorityPersonnel": null,
-      "title": "联合利华美妆及个人护理高级客户经理职位描述发布",
-      "summary": "联合利华公布美妆及个人护理业务高级客户经理（d/f/m）职位描述，涉及品牌业务拓展与客户管理。",
-      "why": "该职位描述反映联合利华美妆业务的人才需求和组织结构调整，对品牌渠道及业务发展具有参考价值。",
-      "companies": [
-        "联合利华"
-      ],
-      "tags": [
-        "联合利华",
-        "职位发布",
-        "官方信源"
-      ],
-      "category": "brands"
     },
     {
       "id": "dcae356ea39d30",
@@ -306,14 +295,13 @@
         "actionability": 6
       },
       "priorityPersonnel": null,
-      "title": "表面活性剂体系中的增稠剂应用分析",
-      "summary": "Happi发布关于表面活性剂体系中增稠剂的应用与技术分析，涉及美妆产品配方创新。",
-      "why": "增稠剂在美妆产品配方中的应用影响产品性能与市场竞争力，对供应链及研发有一定商业参考价值。",
+      "title": "表面活性剂体系中的增稠剂应用",
+      "summary": "Happi报道表面活性剂体系中增稠剂的应用与技术进展，涉及美妆产品配方创新。",
+      "why": "增稠剂在美妆产品配方中影响产品质地与性能，对供应链及研发创新有参考价值。",
       "companies": [],
       "tags": [
-        "配方创新",
-        "增稠剂",
         "Happi",
+        "配方技术",
         "自动采集"
       ],
       "category": "brands"
@@ -334,17 +322,16 @@
         "actionability": 6
       },
       "priorityPersonnel": null,
-      "title": "Boss香水Bottled系列扩展至女性香氛并启用明星代言",
-      "summary": "Boss品牌将Bottled香水系列拓展至女性香氛，并邀请知名人士参与新一轮市场推广活动。",
-      "why": "Boss品牌产品线扩展及营销策略调整，有望提升品牌影响力并拓展女性消费市场。",
+      "title": "Boss香水系列扩展至女性香氛，并启用明星阵容推广",
+      "summary": "Boss品牌将Bottled香水系列拓展至女性香氛，并邀请知名人士参与市场推广活动。",
+      "why": "Boss品牌产品线扩展及营销策略调整，或提升品牌影响力并拓展女性消费市场。",
       "companies": [
         "Boss"
       ],
       "tags": [
         "Boss",
         "香水",
-        "市场推广",
-        "Cosmetics Business",
+        "市场营销",
         "自动采集"
       ],
       "category": "brands"
@@ -365,9 +352,9 @@
         "actionability": 8
       },
       "priorityPersonnel": null,
-      "title": "雅诗兰黛公司2027财年第三季度业绩发布及电话会议",
-      "summary": "雅诗兰黛公司宣布将发布2027财年第三季度业绩，并举行电话会议解读财务表现。",
-      "why": "雅诗兰黛业绩发布对投资者、行业分析师及合作伙伴具有重要商业参考价值，影响市场预期。",
+      "title": "雅诗兰黛公司将发布2027财年第三季度业绩并召开电话会议",
+      "summary": "雅诗兰黛公司宣布将于近期发布2027财年第三季度业绩，并举行业绩电话会议。",
+      "why": "雅诗兰黛业绩发布对全球美妆行业投资、市场预期及品牌战略具有重要参考价值。",
       "companies": [
         "雅诗兰黛公司"
       ],
@@ -396,13 +383,13 @@
       "priorityPersonnel": true,
       "title": "上美股份执行董事周蔚任职未满一年宣布离任",
       "summary": "上美股份执行董事周蔚官宣离任，任职时间不足一年，涉及公司高层人事变动。",
-      "why": "上美股份作为国内重点美妆集团，高层人事变动可能影响品牌战略、经营执行及市场信心，需重点关注。",
+      "why": "上美股份为国内重点美妆集团，高层人事变动可能影响品牌战略、组织架构及经营执行。",
       "companies": [
         "上美股份"
       ],
       "tags": [
         "上美股份",
-        "高管变动",
+        "人事变动",
         "重点人事监测",
         "媒体报道"
       ],
@@ -424,16 +411,16 @@
         "actionability": 6
       },
       "priorityPersonnel": null,
-      "title": "花王新推出Curel密集保湿防晒精华SPF50 PA+++",
-      "summary": "花王新加坡发布Curel密集保湿防晒精华SPF50 PA+++，主打高效防晒与保湿功能。",
-      "why": "花王新品上市丰富产品线，有助于提升品牌市场竞争力，满足消费者多元护肤需求。",
+      "title": "花王新推Curel密集保湿防晒精华SPF50 PA+++",
+      "summary": "花王新加坡发布Curel密集保湿防晒精华SPF50 PA+++，丰富防晒产品线。",
+      "why": "花王持续拓展Curel系列，强化防晒与保湿赛道，提升品牌市场竞争力。",
       "companies": [
         "花王"
       ],
       "tags": [
         "花王",
         "Curel",
-        "新品上市",
+        "新品发布",
         "官方信源"
       ],
       "category": "brands"
@@ -454,32 +441,37 @@
         "actionability": 6
       },
       "priorityPersonnel": null,
-      "title": "花王新推出Curel密集保湿慕斯精华",
-      "summary": "花王新加坡发布Curel密集保湿慕斯精华，主打保湿修护功能。",
-      "why": "花王新品上市进一步丰富护肤产品线，提升品牌市场竞争力，满足消费者多样化需求。",
+      "title": "花王新推Curel密集保湿慕斯精华",
+      "summary": "花王新加坡发布Curel密集保湿慕斯精华，进一步丰富保湿产品线。",
+      "why": "花王Curel系列新品上市，强化品牌在保湿细分市场的产品布局。",
       "companies": [
         "花王"
       ],
       "tags": [
         "花王",
         "Curel",
-        "新品上市",
+        "新品发布",
         "官方信源"
       ],
       "category": "brands"
     },
     {
       "id": "6f223f4546de57",
-      "title": "PanOxyl推出新品牌活动，助力痤疮患者提升自信",
-      "summary": "PanOxyl发布新品牌活动，旨在通过痤疮护理过程增强消费者自信心。",
-      "why": "该活动有望提升品牌形象并增强与目标消费者的情感连接，对市场营销和品牌认知产生积极影响。",
-      "category": "brands",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZDU5TkcyZzdMS0pxWDVBZ0pZQ0laejNXZS1SUVhNQzFpaWYzT3hRZE9PQzBZOXdzeG5HYnZlOEhpRzRNRXZCNFpiZHotaFUwcDNiMFJBdS0taS03REtBREczaFRSNFptQmFkREY1UF9jTG9iQkstY1VyaFpMLXdvRnl5eFZ0Wi14VUZUVjF1TV9JWXFlS01sbWEwTV9XX2dXVGQ1cHF3?oc=5",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
       "source": "Happi",
       "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZDU5TkcyZzdMS0pxWDVBZ0pZQ0laejNXZS1SUVhNQzFpaWYzT3hRZE9PQzBZOXdzeG5HYnZlOEhpRzRNRXZCNFpiZHotaFUwcDNiMFJBdS0taS03REtBREczaFRSNFptQmFkREY1UF9jTG9iQkstY1VyaFpMLXdvRnl5eFZ0Wi14VUZUVjF1TV9JWXFlS01sbWEwTV9XX2dXVGQ1cHF3?oc=5",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "priorityPersonnel": [],
+      "title": "PanOxyl推出新品牌活动，聚焦痤疮护理与自信提升",
+      "summary": "PanOxyl发布新品牌活动，旨在通过痤疮护理过程增强消费者自信心。",
+      "why": "该活动有望提升品牌形象并吸引痤疮护理市场用户，增强消费者粘性。",
       "companies": [
         "PanOxyl"
       ],
@@ -489,37 +481,16 @@
         "Happi",
         "自动采集"
       ],
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      },
-      "priorityPersonnel": []
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
     },
     {
       "id": "c5b10286064182",
-      "title": "Watch & Sea Beauty CEO受邀担任Curlfest 2026顾问",
-      "summary": "Watch & Sea Beauty首席执行官被任命为Curlfest 2026活动顾问，将于7月25日正式履职。",
-      "why": "该任命有助于提升品牌在多元美发领域的影响力，增强行业合作与市场曝光。",
-      "category": "people",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTFVZ3R0b05xbzBPaGxKbTVpTWc1cmtoSUNqYVhYdnJDN1M5aU1vWVlwclB6SUgzMlVPM1lCeFhrc2xSWE11a09fT1RmcnNRYlhnYlVjV2lva3IwNTUyZVczckZfUmxoSGhuQ3NEeXhlT2Jpa1dwN1pyMjlPZ2YyaTF1b1RwNXlaY0pjUXlSSXZMM3Fwb0ZmN2NyQm53U2YyYnBuWEJIUmNlaFZrM3pOcGIwbXhiY1YxUjE5bmlQNA?oc=5",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
       "source": "Happi",
       "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTFVZ3R0b05xbzBPaGxKbTVpTWc1cmtoSUNqYVhYdnJDN1M5aU1vWVlwclB6SUgzMlVPM1lCeFhrc2xSWE11a09fT1RmcnNRYlhnYlVjV2lva3IwNTUyZVczckZfUmxoSGhuQ3NEeXhlT2Jpa1dwN1pyMjlPZ2YyaTF1b1RwNXlaY0pjUXlSSXZMM3Fwb0ZmN2NyQm53U2YyYnBuWEJIUmNlaFZrM3pOcGIwbXhiY1YxUjE5bmlQNA?oc=5",
-      "companies": [
-        "Watch & Sea Beauty",
-        "Curlfest"
-      ],
-      "tags": [
-        "高管任命",
-        "美发活动",
-        "Happi",
-        "自动采集"
-      ],
       "signals": {
         "impact": 6,
         "magnitude": 6,
@@ -529,20 +500,41 @@
       },
       "priorityPersonnel": [
         "Watch & Sea Beauty CEO"
-      ]
+      ],
+      "title": "Watch & Sea Beauty首席执行官受聘为Curlfest 2026顾问",
+      "summary": "Watch & Sea Beauty首席执行官被任命为Curlfest 2026活动顾问，将于7月25日正式履职。",
+      "why": "此举有助于提升品牌在多元美发领域的影响力，扩大行业合作与曝光。",
+      "companies": [
+        "Watch & Sea Beauty",
+        "Curlfest"
+      ],
+      "tags": [
+        "高管任命",
+        "Curlfest",
+        "Happi",
+        "自动采集"
+      ],
+      "category": "people",
+      "verification": "reported",
+      "sourceCount": 1
     },
     {
       "id": "1e4ae344a18372",
-      "title": "Protesil™ JLH蛋白混合聚合物新品发布，助力发色持久与“Build-Up-1 Hair”解决方案",
-      "summary": "Protesil™ JLH蛋白混合聚合物新品上市，主打发色持久及头发堆积问题解决方案。",
-      "why": "该产品创新有望推动美发护理领域技术升级，增强品牌竞争力并拓展专业市场。",
-      "category": "products",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmFWNHFnUmpfUElMbG5PZkVzYzJXcnBncS04M01BNjhHb3VIMTNtQVhrUWE5NWNoeC02Z3RTeVNqdU1KNkdCN1dzQ0hFc3NMeGxLeGdRRW5BTTRKQWZqc2VUQjNac0F6NVJ5YkM0Yk1sbGoxaExYOTNUV05haFl3Q2tNZGRBQXM?oc=5",
+      "publishedAt": "2026-07-01T06:02:55+00:00",
       "source": "Cosmetics Business",
       "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T06:02:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmFWNHFnUmpfUElMbG5PZkVzYzJXcnBncS04M01BNjhHb3VIMTNtQVhrUWE5NWNoeC02Z3RTeVNqdU1KNkdCN1dzQ0hFc3NMeGxLeGdRRW5BTTRKQWZqc2VUQjNac0F6NVJ5YkM0Yk1sbGoxaExYOTNUV05haFl3Q2tNZGRBQXM?oc=5",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "priorityPersonnel": [],
+      "title": "Protesil™ JLH蛋白混合聚合物新品发布，主打发色持久与“Build-Up-1 Hair”解决方案",
+      "summary": "Protesil™ JLH蛋白混合聚合物新品上市，针对发色持久及头发堆积问题提供创新解决方案。",
+      "why": "该产品创新有望推动美发护理市场技术升级，增强品牌竞争力。",
       "companies": [
         "Protesil"
       ],
@@ -552,6 +544,78 @@
         "Cosmetics Business",
         "自动采集"
       ],
+      "category": "products",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "1e030609d76249",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3I3SjRkbFVGV0FDRzNscTZOYlBVZV9VSlV6NDFHSkZ5ZnhhRmVJanRaUnllUUZkVlVWR3VjRmlTM1pYS0FIMGNobUxfbnptbW0zY3Z6SUZfbG9INTdqcFlyVE1jTUM0cWs0S2hGa24wTW0teDgwaVNIekQ3MV84OEw2Y1RwNG5qZnJNMFE3YjZxVDl2M2tOUFQtTjM1Vm1YanU4Ti03RkRCbmc?oc=5",
+      "publishedAt": "2026-07-01T05:02:20+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "priorityPersonnel": [],
+      "title": "Boots延长深夜配送服务，足球赛事推动需求增长",
+      "summary": "Boots因足球赛事期间需求上升，扩展深夜配送服务以满足消费者购物需求。",
+      "why": "此举有助于提升品牌服务能力，增强客户体验并抓住赛事经济机会。",
+      "companies": [
+        "Boots"
+      ],
+      "tags": [
+        "渠道创新",
+        "深夜配送",
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "85b20fa010f187",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTM4Y0JrNjk4Wnl1WWR0SmFxOTkxN0x3LXBXVGlKY2tnOUVOcTByMEdXSHRDc3cyM0JNNHdFYVgzb1dWNTVzdHQ0YUJSMXlGeV81UFdhSDZBTnpaa3NOX1YtN3NVaXpoMHZ4dlg0X3dfck50d1BEUjA5T01DaDV5OWprVDVaMHk5UnpJanRXZThOWi1BVmFFUVFiVG5meEZtd1VsRzhRSQ?oc=5",
+      "publishedAt": "2026-07-01T05:02:20+00:00",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "priorityPersonnel": [],
+      "title": "欧莱雅扩大与OliX的RNAi研究合作，拓展至指甲健康领域",
+      "summary": "欧莱雅与OliX扩大RNAi技术合作，研究范围从皮肤延伸至指甲健康。",
+      "why": "合作有望推动指甲健康领域创新，强化欧莱雅在生物科技美妆赛道的领先地位。",
+      "companies": [
+        "L'Oréal",
+        "OliX"
+      ],
+      "tags": [
+        "研发合作",
+        "RNAi",
+        "指甲健康",
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "category": "brands",
+      "verification": "reported",
+      "sourceCount": 1
+    },
+    {
+      "id": "467e1d311870db",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NVno1TUt1LW0xMm9ITFptcWJoVWxVR05Feng4ZGZOVVREeDBUQUZCNmZ6aTFCN1JjUnNmV2F4YXVhS1V1VTI4Y1hFTVNXNXVKYnFmeERNZWtFZw?oc=5",
+      "publishedAt": "2026-07-01T02:54:00+00:00",
+      "source": "Kao",
+      "sourceTier": "A",
       "signals": {
         "impact": 6,
         "magnitude": 6,
@@ -559,82 +623,10 @@
         "novelty": 8,
         "actionability": 6
       },
-      "priorityPersonnel": []
-    },
-    {
-      "id": "1e030609d76249",
-      "title": "Boots延长深夜配送服务，足球赛事推动需求增长",
-      "summary": "Boots因足球赛事期间需求上升，扩展深夜配送服务以满足消费者购物需求。",
-      "why": "该举措有助于提升客户体验和销售额，强化品牌在零售渠道的竞争力。",
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T05:02:20+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3I3SjRkbFVGV0FDRzNscTZOYlBVZV9VSlV6NDFHSkZ5ZnhhRmVJanRaUnllUUZkVlVWR3VjRmlTM1pYS0FIMGNobUxfbnptbW0zY3Z6SUZfbG9INTdqcFlyVE1jTUM0cWs0S2hGa24wTW0teDgwaVNIekQ3MV84OEw2Y1RwNG5qZnJNMFE3YjZxVDl2M2tOUFQtTjM1Vm1YanU4Ti03RkRCbmc?oc=5",
-      "companies": [
-        "Boots"
-      ],
-      "tags": [
-        "渠道创新",
-        "零售配送",
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      },
-      "priorityPersonnel": []
-    },
-    {
-      "id": "85b20fa010f187",
-      "title": "欧莱雅与OliX扩展RNAi研究合作，聚焦指甲健康",
-      "summary": "欧莱雅扩大与OliX的RNAi技术合作，将研究范围延伸至指甲健康领域。",
-      "why": "该合作有望推动指甲护理创新，提升欧莱雅在生物科技美妆领域的研发实力。",
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T05:02:20+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTM4Y0JrNjk4Wnl1WWR0SmFxOTkxN0x3LXBXVGlKY2tnOUVOcTByMEdXSHRDc3cyM0JNNHdFYVgzb1dWNTVzdHQ0YUJSMXlGeV81UFdhSDZBTnpaa3NOX1YtN3NVaXpoMHZ4dlg0X3dfck50d1BEUjA5T01DaDV5OWprVDVaMHk5UnpJanRXZThOWi1BVmFFUVFiVG5meEZtd1VsRzhRSQ?oc=5",
-      "companies": [
-        "L'Oréal",
-        "OliX"
-      ],
-      "tags": [
-        "研发合作",
-        "生物科技",
-        "指甲健康",
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      },
-      "priorityPersonnel": []
-    },
-    {
-      "id": "467e1d311870db",
-      "title": "Curél新碳酸系列上市，针对干燥敏感肌肤",
-      "summary": "Curél在新加坡推出碳酸系列新品，主打干燥及敏感肌肤护理解决方案。",
-      "why": "新品上市有助于丰富产品线，满足细分市场需求，提升品牌在亚洲市场的竞争力。",
-      "category": "products",
-      "source": "Kao",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T02:54:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NVno1TUt1LW0xMm9ITFptcWJoVWxVR05Feng4ZGZOVVREeDBUQUZCNmZ6aTFCN1JjUnNmV2F4YXVhS1V1VTI4Y1hFTVNXNXVKYnFmeERNZWtFZw?oc=5",
+      "priorityPersonnel": [],
+      "title": "Curél新碳酸系列上市，针对干燥敏感肌肤提供解决方案",
+      "summary": "Curél在新加坡推出碳酸系列新品，主打干燥及敏感肌肤护理。",
+      "why": "新品有望拓展Curél在敏感肌市场份额，提升品牌竞争力。",
       "companies": [
         "Curél",
         "Kao"
@@ -642,39 +634,20 @@
       "tags": [
         "新品上市",
         "敏感肌",
+        "碳酸系列",
         "Kao",
         "官方信源"
       ],
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      },
-      "priorityPersonnel": []
+      "category": "products",
+      "verification": "official",
+      "sourceCount": 1
     },
     {
       "id": "f102f32e49af9b",
-      "title": "Kao新加坡推出轻花香版强效除霉产品",
-      "summary": "Kao新加坡发布除霉产品新版本，保持原有强效除霉力，新增轻花香气味。",
-      "why": "产品升级有助于提升用户体验，增强品牌在家庭护理领域的市场竞争力。",
-      "category": "brands",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wbDVIbTcxc3FfNS1IWUtzZ2NrQ28xOURqMWlzUUY0dUlCQ0hqMjZXM2hNOHFvUHNLUlRrUUh0QS1OZmUyQXVjZmE0TkZ4dTZUclBvdHdPVUZBQQ?oc=5",
+      "publishedAt": "2026-07-01T02:54:00+00:00",
       "source": "Kao",
       "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T02:54:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wbDVIbTcxc3FfNS1IWUtzZ2NrQ28xOURqMWlzUUY0dUlCQ0hqMjZXM2hNOHFvUHNLUlRrUUh0QS1OZmUyQXVjZmE0TkZ4dTZUclBvdHdPVUZBQQ?oc=5",
-      "companies": [
-        "Kao"
-      ],
-      "tags": [
-        "产品升级",
-        "家庭护理",
-        "Kao",
-        "官方信源"
-      ],
       "signals": {
         "impact": 6,
         "magnitude": 6,
@@ -682,510 +655,487 @@
         "novelty": 6,
         "actionability": 6
       },
-      "priorityPersonnel": []
+      "priorityPersonnel": [],
+      "title": "Kao新加坡推出轻柔花香版强效除霉产品",
+      "summary": "Kao新加坡发布除霉产品新版本，保留原有强效除霉功能，新增轻柔花香。",
+      "why": "产品升级有助于满足消费者多样化需求，提升品牌市场竞争力。",
+      "companies": [
+        "Kao"
+      ],
+      "tags": [
+        "产品升级",
+        "除霉",
+        "花香",
+        "Kao",
+        "官方信源"
+      ],
+      "category": "brands",
+      "verification": "official",
+      "sourceCount": 1
     },
     {
       "id": "d02bcbeb3c972e",
-      "title": "Curél发布‘Moist Barrier Oil Serum’，针对极度干燥导致的粗糙紧绷肌肤",
-      "summary": "Curél推出‘Moist Barrier Oil Serum’新品，专为极度干燥引起的粗糙、紧绷肌肤设计。",
-      "why": "该产品丰富品牌护肤线，满足极端干燥肌肤需求，有助于提升市场份额。",
-      "category": "brands",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLXUyLTM4LWVVRFpscDV2XzBpTmVRZF95Q0lyWS05Z3lqMW1wZDdXWC1ESG54MVp0dVhxUjdDcHhEZ0Zta1JlYXdfUTg5ZHFaRzNlcUhSVk4ydlRJSGxLZzJmRmNXMnh4Z1NSZVVtbkxoRWJnaDE4U3dR?oc=5",
+      "publishedAt": "2026-07-01T01:04:13+00:00",
       "source": "Kao",
       "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T01:04:13+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLXUyLTM4LWVVRFpscDV2XzBpTmVRZF95Q0lyWS05Z3lqMW1wZDdXWC1ESG54MVp0dVhxUjdDcHhEZ0Zta1JlYXdfUTg5ZHFaRzNlcUhSVk4ydlRJSGxLZzJmRmNXMnh4Z1NSZVVtbkxoRWJnaDE4U3dR?oc=5",
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      },
+      "priorityPersonnel": [],
+      "title": "Curél发布‘Moist Barrier Oil Serum’，针对极度干燥导致粗糙紧绷肌肤",
+      "summary": "Curél推出‘Moist Barrier Oil Serum’，专为极度干燥引起的粗糙紧绷肌肤设计。",
+      "why": "新品有望满足极干肌肤用户需求，进一步丰富Curél产品线。",
       "companies": [
         "Curél",
         "Kao"
       ],
       "tags": [
         "新品发布",
-        "护肤",
+        "极干肌",
+        "油类精华",
         "Kao",
         "官方信源"
       ],
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      },
-      "priorityPersonnel": []
+      "category": "brands",
+      "verification": "official",
+      "sourceCount": 1
     },
     {
       "id": "3af33cf5be5d75",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1BhU2Y3RDVfVkxkd2lRV1BxNmhUX3lwQ0cyYjZfdnVxbkI0ekxYaFdfaWo1cHdHMi1tUXk3cXRJWGdCdmNzYl9sREkwNUk2UTU2T3BWd0hVejlFQmNPSkRZal8takF0bGhqMGQ2WTFjYjFVbW9haXFrRHFGTUpkaXktRnFIS0s0UTJsUGo5RVd2ZmJIVm42ZVUyU1J2QWpEVnV0dzhvS3VTTzZMWmVGZDJuRThBZw?oc=5",
-      "publishedAt": "2026-06-30T23:37:22+00:00",
+      "title": "Oferta de empleo para el puesto de Personal Care Global Social Influencer Strategist en Unilever",
+      "summary": "Oferta de empleo para el puesto de Personal Care Global Social Influencer Strategist en Unilever",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "category": "brands",
       "source": "Unilever",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      },
-      "priorityPersonnel": [],
-      "title": "联合利华全球个人护理社交影响力策略师岗位招聘",
-      "summary": "联合利华发布全球个人护理社交影响力策略师岗位招聘信息，旨在加强品牌在社交媒体领域的影响力。",
-      "why": "该招聘反映联合利华持续加码社交媒体营销，或将推动品牌全球影响力提升，影响其个人护理业务板块。",
-      "companies": [
-        "联合利华"
-      ],
+      "publishedAt": "2026-06-30T23:37:22+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1BhU2Y3RDVfVkxkd2lRV1BxNmhUX3lwQ0cyYjZfdnVxbkI0ekxYaFdfaWo1cHdHMi1tUXk3cXRJWGdCdmNzYl9sREkwNUk2UTU2T3BWd0hVejlFQmNPSkRZal8takF0bGhqMGQ2WTFjYjFVbW9haXFrRHFGTUpkaXktRnFIS0s0UTJsUGo5RVd2ZmJIVm42ZVUyU1J2QWpEVnV0dzhvS3VTTzZMWmVGZDJuRThBZw?oc=5",
+      "companies": [],
       "tags": [
         "Unilever",
         "官方信源"
       ],
-      "category": "brands"
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
     },
     {
       "id": "74d3aa80ca912b",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTHBQS2c0NmV3OUVQUFhOaUk4TV9rTjdXMS10QWRjTXVSOGNuLXFGYzRBOFVPamhrT3hGam1XeGlpWVlYYTBUM1B3VUk3R2tkVU9lenNoU1l1OWhZZ3BqSzAyMndIenFFSnFPdUVidk93dUdodG1zR2o3VjlZNTdaSnlxT2RtZmpWUjJfQWhwMkhPT0k?oc=5",
-      "publishedAt": "2026-06-30T19:40:48+00:00",
+      "title": "Iberchem introduces NovaSilk: an innovation for the creation of water-based and alcohol-free fragrances",
+      "summary": "Iberchem introduces NovaSilk: an innovation for the creation of water-based and alcohol-free fragrances",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "category": "brands",
       "source": "Cosmetics Business",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      },
-      "priorityPersonnel": [],
-      "title": "Iberchem推出NovaSilk创新技术，打造水基无酒精香氛",
-      "summary": "Iberchem发布NovaSilk创新技术，支持水基和无酒精香氛产品开发，拓展香氛产品多样性。",
-      "why": "该创新有望推动香氛行业产品结构升级，满足消费者对健康与环保香氛的需求，提升品牌竞争力。",
-      "companies": [
-        "Iberchem"
-      ],
+      "publishedAt": "2026-06-30T19:40:48+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTHBQS2c0NmV3OUVQUFhOaUk4TV9rTjdXMS10QWRjTXVSOGNuLXFGYzRBOFVPamhrT3hGam1XeGlpWVlYYTBUM1B3VUk3R2tkVU9lenNoU1l1OWhZZ3BqSzAyMndIenFFSnFPdUVidk93dUdodG1zR2o3VjlZNTdaSnlxT2RtZmpWUjJfQWhwMkhPT0k?oc=5",
+      "companies": [],
       "tags": [
         "Cosmetics Business",
         "自动采集"
       ],
-      "category": "brands"
-    },
-    {
-      "id": "d533128b7838cf",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Md1V6ZTlEMjdHeUxoRUlBMWRoY0tPR1kxckswb0RRRmE2QnhxUDcyNHY4Tklyb3BDeE0zeEZWWTBkQXU3THk5YWhzWDlYOFktekxrSmprdEhHNG52QnBpVGYzTERHY0YzN0RaT24yX0FMd3pnZWJvVnA3WQ?oc=5",
-      "publishedAt": "2026-06-30T13:19:52+00:00",
-      "source": "Beiersdorf",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      },
-      "priorityPersonnel": [],
-      "title": "拜尔斯道夫配方开发研究员岗位招聘",
-      "summary": "拜尔斯道夫发布配方开发研究员招聘信息，强化产品研发能力。",
-      "why": "该招聘将提升拜尔斯道夫产品创新能力，增强其在美妆护肤领域的竞争力。",
-      "companies": [
-        "拜尔斯道夫"
-      ],
+      }
+    },
+    {
+      "id": "d533128b7838cf",
+      "title": "Researcher - Formula Development",
+      "summary": "Researcher - Formula Development",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "category": "products",
+      "source": "Beiersdorf",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T13:19:52+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Md1V6ZTlEMjdHeUxoRUlBMWRoY0tPR1kxckswb0RRRmE2QnhxUDcyNHY4Tklyb3BDeE0zeEZWWTBkQXU3THk5YWhzWDlYOFktekxrSmprdEhHNG52QnBpVGYzTERHY0YzN0RaT24yX0FMd3pnZWJvVnA3WQ?oc=5",
+      "companies": [],
       "tags": [
         "Beiersdorf",
         "官方信源"
       ],
-      "category": "products"
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
     },
     {
       "id": "a7cfce30f6d602",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMXMxakpZWS1NaDVkb0xiQm9zVG5ObDJwZDJ6NHJYcEVYcVl4VGNYbVJhRkxZWlQyWXNZaS1FUnVwN1BPUVFXVEVIU0pjT3hlQlRlYWxHcno1RW5sWmhLdTZsLXNKSkY0eFZHQkZMNzl5bHI0UGp3TWlxT1Bnb3UzTFlkVXBNVnpKVkhiMkYtTWpGdjBSdXhscTgwczIySFc5SDU0akZmNUtoMWZQZDJab0FhS0ZZUXNRVEhOSVA2ejNpejFzT05sV1hLZllrN1NwZnRwZWc4blgzQlBZVkNvdjUwZHJxY0c3ek5fM1NGR09JaEF5NFVpa1I5REd4ZFk2cXc?oc=5",
-      "publishedAt": "2026-06-30T13:11:09+00:00",
+      "title": "Native Launches Upgraded Mineral Sun Care, Designed for Lightweight Broad-Spectrum UVA/UVB Protection Exclusively Available at Target",
+      "summary": "Native Launches Upgraded Mineral Sun Care, Designed for Lightweight Broad-Spectrum UVA/UVB Protection Exclusively Available at Target",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "category": "products",
       "source": "P&G",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
+      "publishedAt": "2026-06-30T13:11:09+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMXMxakpZWS1NaDVkb0xiQm9zVG5ObDJwZDJ6NHJYcEVYcVl4VGNYbVJhRkxZWlQyWXNZaS1FUnVwN1BPUVFXVEVIU0pjT3hlQlRlYWxHcno1RW5sWmhLdTZsLXNKSkY0eFZHQkZMNzl5bHI0UGp3TWlxT1Bnb3UzTFlkVXBNVnpKVkhiMkYtTWpGdjBSdXhscTgwczIySFc5SDU0akZmNUtoMWZQZDJab0FhS0ZZUXNRVEhOSVA2ejNpejFzT05sV1hLZllrN1NwZnRwZWc4blgzQlBZVkNvdjUwZHJxY0c3ek5fM1NGR09JaEF5NFVpa1I5REd4ZFk2cXc?oc=5",
+      "companies": [],
+      "tags": [
+        "P&G",
+        "官方信源"
+      ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
         "actionability": 6
-      },
-      "priorityPersonnel": [],
-      "title": "Native品牌升级矿物防晒新品，Target独家发售",
-      "summary": "P&G旗下Native品牌推出升级版矿物防晒产品，主打轻薄广谱UVA/UVB防护，仅在Target独家销售。",
-      "why": "新品上市强化Native品牌在防晒细分市场的竞争力，并通过Target渠道提升市场覆盖率。",
-      "companies": [
-        "P&G",
-        "Native",
-        "Target"
-      ],
-      "tags": [
-        "P&G",
-        "官方信源"
-      ],
-      "category": "products"
+      }
     },
     {
       "id": "5c25e5834c8593",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekt3Qi15Y18xcUdBcS1BX0E5eVFEdU1teXNQS291ZmdMN0E5anZveHNyTWpDUE9yVndUMDlFY1BZLVZMaFFjS1NULXI4OFRaSEVmTVYydi1nelpKRS1fbUI1bHRoUkNpNV9oNlQwT2s1SHVxNVFLQ1VXazh6WUNPaVFlaks?oc=5",
-      "publishedAt": "2026-06-30T12:01:42+00:00",
+      "title": "Revieve unveils the future of beauty in DACH: Consumer trends shaping 2026, based on hundreds of millions of beauty consumer interactions",
+      "summary": "Revieve unveils the future of beauty in DACH: Consumer trends shaping 2026, based on hundreds of millions of beauty consumer interactions",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "category": "brands",
       "source": "Cosmetics Business",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
+      "publishedAt": "2026-06-30T12:01:42+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekt3Qi15Y18xcUdBcS1BX0E5eVFEdU1teXNQS291ZmdMN0E5anZveHNyTWpDUE9yVndUMDlFY1BZLVZMaFFjS1NULXI4OFRaSEVmTVYydi1nelpKRS1fbUI1bHRoUkNpNV9oNlQwT2s1SHVxNVFLQ1VXazh6WUNPaVFlaks?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 9,
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      },
-      "priorityPersonnel": [],
-      "title": "Revieve发布DACH地区美妆消费趋势报告，基于数亿消费者互动",
-      "summary": "Revieve公布2026年DACH地区美妆消费趋势，分析数亿消费者互动数据，揭示未来行业发展方向。",
-      "why": "该报告为品牌制定区域市场策略提供数据参考，助力企业把握消费趋势与创新机会。",
-      "companies": [
-        "Revieve"
-      ],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "category": "brands"
+      }
     },
     {
       "id": "5f78806601ef7e",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUV9rTEVBYzRObG5aaWphRTNYOFQxU3U3bWltLWVuTkVOdGdRY0pzQWdQa1dfRmszY0FBVmJsZW1aVk5VMDNnWF9iN1liSXkyYnF3eDd6R1NJa2htelVkZ2VVMW0zLXhweHgta2VFSGpPUFVCT2ItUWQxenRLTGZZRVFmMjB1dnJ0aFk2ang1R2VzOHc?oc=5",
-      "publishedAt": "2026-06-30T11:25:17+00:00",
+      "title": "Wrinkles Schminkles joins Avenir Collective as first beauty acquisition",
+      "summary": "Wrinkles Schminkles joins Avenir Collective as first beauty acquisition",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "category": "deals",
       "source": "Cosmetics Business",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
+      "publishedAt": "2026-06-30T11:25:17+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUV9rTEVBYzRObG5aaWphRTNYOFQxU3U3bWltLWVuTkVOdGdRY0pzQWdQa1dfRmszY0FBVmJsZW1aVk5VMDNnWF9iN1liSXkyYnF3eDd6R1NJa2htelVkZ2VVMW0zLXhweHgta2VFSGpPUFVCT2ItUWQxenRLTGZZRVFmMjB1dnJ0aFk2ang1R2VzOHc?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
       "signals": {
         "impact": 8,
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
         "actionability": 8
-      },
-      "priorityPersonnel": [],
-      "title": "Wrinkles Schminkles成为Avenir Collective首个美妆收购项目",
-      "summary": "Avenir Collective完成对Wrinkles Schminkles的收购，标志其美妆板块扩张的第一步。",
-      "why": "该收购将增强Avenir Collective在美妆行业的布局，推动其多元化发展，提升市场影响力。",
-      "companies": [
-        "Wrinkles Schminkles",
-        "Avenir Collective"
-      ],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "category": "deals"
+      }
     },
     {
       "id": "8cdaa3be6c36dc",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zeUtGdXpwNjBPdFVQMGF5UWpQdko1Y2xmRUxUbFhxUzIxaEtNWU5waWRSRk1nTDQ2YTJqQ3FMOTFNVjBlYWRDSnRNX1VoRmV1ZHRsaWZaQjlTUHcwQmRBeXdiRnNsOUJIZjE3MXg3aFVNc3dEcTVuUDBGUEI?oc=5",
-      "publishedAt": "2026-06-30T11:02:59+00:00",
+      "title": "Why beauty brands can’t afford to miss pre-retail preparation",
+      "summary": "Why beauty brands can’t afford to miss pre-retail preparation",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "category": "channels",
       "source": "Cosmetics Business",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
+      "publishedAt": "2026-06-30T11:02:59+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zeUtGdXpwNjBPdFVQMGF5UWpQdko1Y2xmRUxUbFhxUzIxaEtNWU5waWRSRk1nTDQ2YTJqQ3FMOTFNVjBlYWRDSnRNX1VoRmV1ZHRsaWZaQjlTUHcwQmRBeXdiRnNsOUJIZjE3MXg3aFVNc3dEcTVuUDBGUEI?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      },
-      "priorityPersonnel": [],
-      "title": "美妆品牌不可忽视零售前准备的重要性",
-      "summary": "报道强调美妆品牌在进入零售渠道前需充分准备，以提升上市成功率和市场表现。",
-      "why": "零售前准备直接影响品牌上市效果，优化供应链与营销策略可提升商业回报。",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "category": "channels"
+      }
     },
     {
       "id": "a2b471e4b26f9e",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55XzF4REhzdmp4Sk5IN0RpOFIxNDc4cE9GWE0xdERkeG1FQ0YyNGxXdDVnT3FFeVdKN3Mya0R2aDdPaV9PbnVGd2szdDRoYjVjQ2Y1eUdBOWZUQQ?oc=5",
-      "publishedAt": "2026-06-30T10:54:30+00:00",
+      "title": "Kao Singapore | Kao Releases the Kao Integrated Report 2026 and the Kao Sustainability Report 2026",
+      "summary": "Kao Singapore | Kao Releases the Kao Integrated Report 2026 and the Kao Sustainability Report 2026",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "category": "brands",
       "source": "Kao",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
+      "publishedAt": "2026-06-30T10:54:30+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55XzF4REhzdmp4Sk5IN0RpOFIxNDc4cE9GWE0xdERkeG1FQ0YyNGxXdDVnT3FFeVdKN3Mya0R2aDdPaV9PbnVGd2szdDRoYjVjQ2Y1eUdBOWZUQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Kao",
+        "官方信源"
+      ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      },
-      "priorityPersonnel": [],
-      "title": "花王新加坡发布2026年综合报告及可持续发展报告",
-      "summary": "花王新加坡公布2026年综合报告和可持续发展报告，展示企业战略与可持续举措。",
-      "why": "报告体现花王对可持续发展的重视，有助于提升品牌形象并吸引ESG投资者关注。",
-      "companies": [
-        "花王"
-      ],
-      "tags": [
-        "Kao",
-        "官方信源"
-      ],
-      "category": "brands"
+      }
     },
     {
       "id": "a2bc69da3a0312",
-      "title": "dsm-firmenich发布前沿皮肤微生物组科学研究成果",
-      "summary": "dsm-firmenich通过权威论文推动皮肤微生物组科学发展，展示其在美妆科学领域的最新进展。",
-      "why": "该研究有助于提升dsm-firmenich在皮肤微生物组领域的行业影响力，或将推动相关产品创新，增强品牌科技形象。",
+      "title": "dsm-firmenich advances skin microbiome science with landmark publication on leading-edge beauty science",
+      "summary": "dsm-firmenich advances skin microbiome science with landmark publication on leading-edge beauty science",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
       "category": "brands",
       "source": "Cosmetics Business",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-06-30T10:25:14+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQThmMkJGNTNvX3FBVWF5QnhEQ0RRWmxhUVYwVHUxNWxDUG0zSWRWM05PQlQ3TTU3WnBBU1h5X3JkY0VVRHUwZnhBWVlUX08zeHJERTFSQkcza2FFYWFVVGNkTFVUYUltdVJRckc4MVNjcVA0M1piT3ZSOHA3cUF2ZWdHdjV0S1ktRFA3X202cVVFMzE5?oc=5",
-      "companies": [
-        "dsm-firmenich"
-      ],
+      "companies": [],
       "tags": [
         "Cosmetics Business",
-        "自动采集",
-        "皮肤微生物组",
-        "美妆科技"
+        "自动采集"
       ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      },
-      "priorityPersonnel": []
+      }
     },
     {
       "id": "e4d99de10a3e46",
-      "title": "资生堂授予绩效挂钩型长期激励股票单位",
-      "summary": "资生堂发布公告，授予绩效挂钩型股票单位，作为长期激励薪酬计划的一部分。",
-      "why": "该举措有助于提升管理层与公司业绩的绑定，增强员工激励机制，或对公司治理和长期发展产生积极影响。",
+      "title": "Notice of Grant of Share Units under the Performance-Linked Stock Compensation Plan as Long-Term Incentive-Type Remuneration",
+      "summary": "Notice of Grant of Share Units under the Performance-Linked Stock Compensation Plan as Long-Term Incentive-Type Remuneration",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
       "category": "brands",
       "source": "Shiseido",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
       "publishedAt": "2026-06-30T09:54:19+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wdlExUDRSZzV2SEtxWTl5TTNaODFWWC1VZTljZ1R0SmYxYTd0SjdNVDJWR0haM0hNdVNGMUVyLVN5RnExd2xsUF9tcjZZN2JLcWVaSjRoTGtWaDVCdTE0a0tVdEU?oc=5",
-      "companies": [
-        "资生堂"
-      ],
+      "companies": [],
       "tags": [
         "Shiseido",
-        "官方信源",
-        "长期激励",
-        "绩效薪酬"
+        "官方信源"
       ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      },
-      "priorityPersonnel": []
+      }
     },
     {
       "id": "b59c6cda7e6960",
-      "title": "花王推进脱碳化战略",
-      "summary": "花王发布官方信息，持续推进企业脱碳化战略，致力于可持续发展目标。",
-      "why": "花王的脱碳化举措有助于提升企业ESG表现，增强品牌可持续形象，或对行业绿色转型产生示范效应。",
+      "title": "Decarbonization",
+      "summary": "Decarbonization",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
       "category": "brands",
       "source": "Kao",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
       "publishedAt": "2026-06-30T08:47:31+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3NtUTZneU43WlktVTZHZ3dGeWNrTUNrRUhSWkUxXzhWZkdFMmN5anhxdWx5T3luX0lyb21rT05oX0hMSVE1VjBaWnZ3Ym9PSUdYVFJ5Y3hteTdqWmwyVjJZUmg2bTdQbEdKbkVaUXNDZUQ5MV9HWkZhUEo4NDktV09tQzZOTWo3UlRiS3l6XzlDS21TUUQ4X3hyVW1MeXlFcHlSMFk3Y1NTX0F2bE9z?oc=5",
-      "companies": [
-        "花王"
-      ],
+      "companies": [],
       "tags": [
         "Kao",
-        "官方信源",
-        "可持续发展",
-        "脱碳"
+        "官方信源"
       ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      },
-      "priorityPersonnel": []
+      }
     },
     {
       "id": "56cd264f4bcfdd",
-      "title": "韩国女性护理品牌Lactomedi首次进入美国CVS零售渠道",
-      "summary": "韩国女性护理品牌Lactomedi宣布在美国CVS连锁药店正式上架，标志其进军美国零售市场。",
-      "why": "Lactomedi进入美国主流零售渠道，有助于品牌国际化扩张，提升市场份额，对韩国美妆品牌出海具有参考意义。",
+      "title": "South Korean Feminine Care Brand Lactomedi Makes US Retail Debut at CVS",
+      "summary": "South Korean Feminine Care Brand Lactomedi Makes US Retail Debut at CVS",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
       "category": "channels",
       "source": "Happi",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-06-30T07:00:00+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm9QVXRsbUpsOXhySGNQT3BQNnVBTWJnalh3LW5RNkxZbU5ob1VIVng1LXp2UFN2NDJDcUI5allLRkxSOXIyN3hCUmRLOXZFV0ZKeEEtME5nQlBONTVYMG1jWDJNcGdUSEo3WDNMNmxqbS1NNE5oTDdhRWRhZ1FBN2pLTEZSaGJIaEttal83VGNyZ0lTbXcyd3FxTXBBRDNRR1BQYndJVUR3c2RU?oc=5",
-      "companies": [
-        "Lactomedi",
-        "CVS"
-      ],
+      "companies": [],
       "tags": [
         "Happi",
-        "自动采集",
-        "渠道拓展",
-        "国际化"
+        "自动采集"
       ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      },
-      "priorityPersonnel": []
+      }
     },
     {
       "id": "48da9500e6b566",
-      "title": "北京丽源将退出资生堂中国合资公司",
-      "summary": "北京丽源宣布将退出与资生堂在中国的化妆品合资企业，或将影响双方在中国市场的合作模式。",
-      "why": "合资方退出可能影响资生堂在中国的业务布局和市场策略，需关注后续合作及市场调整。",
+      "title": "Beijing Liyuan to exit Shiseido cosmetics joint venture in China",
+      "summary": "Beijing Liyuan to exit Shiseido cosmetics joint venture in China",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
       "category": "brands",
       "source": "Global Cosmetics News",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-06-30T05:01:39+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3diUTY1dkZwYzJ3dmtIRGo0emVnM3BLb0lQZnRxNmhQN3VfTnlzb240VVNNVHU4Rm5vUXd4U1ItQzhHQV8zYnd6bk90LVFHNVdWRGtLeVNtQVdlcHlpa2ZBQkoteVRZc0YxNmFHYWZlWXFCQUhUWVdpZTBtWnY2OTlUUEMyQTNvUEFkc3U1RUVvT2txT0VhX0pVUGRpWENxSnBR?oc=5",
-      "companies": [
-        "北京丽源",
-        "资生堂"
-      ],
+      "companies": [],
       "tags": [
         "Global Cosmetics News",
-        "自动采集",
-        "合资公司",
-        "中国市场"
+        "自动采集"
       ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 10,
         "novelty": 6,
         "actionability": 6
-      },
-      "priorityPersonnel": []
+      }
     },
     {
       "id": "1d50419510f15b",
-      "title": "Max Mara任命Florence Pugh为首款香水代言人",
-      "summary": "Max Mara宣布英国演员Florence Pugh成为其首款香水的品牌代言人，强化品牌时尚与明星联动。",
-      "why": "明星代言有助于提升Max Mara香水新品的市场关注度，增强品牌影响力，吸引年轻消费群体。",
+      "title": "Max Mara appoints Florence Pugh as face of inaugural fragrance",
+      "summary": "Max Mara appoints Florence Pugh as face of inaugural fragrance",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
       "category": "people",
       "source": "Global Cosmetics News",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-06-30T05:01:39+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFRsOHhGTjFMeENibnRjdG9HMms1RkN3a3FTNUJaSk1aTXVtYlNMT2NwUmRZMVlVR0tzZW5IUG5ORnZxdEVqUWs2cHN2MVdya2dzWmhZaXBFbHFKd3Z2VUh0cEJfNGNkb1JLZFFvUV9SdjhTLWowdHItN0JOeUJ5am5BejZxSmpqMEFnX2I4YWpZdkJDaTJud3FqdUxDaHNi?oc=5",
-      "companies": [
-        "Max Mara"
-      ],
+      "companies": [],
       "tags": [
         "Global Cosmetics News",
-        "自动采集",
-        "明星代言",
-        "香水"
+        "自动采集"
       ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
         "actionability": 6
-      },
-      "priorityPersonnel": [
-        "Florence Pugh"
-      ]
+      }
     },
     {
       "id": "b5a4f7ff125600",
-      "title": "丝芙兰招聘美妆顾问岗位",
-      "summary": "LVMH集团旗下丝芙兰发布美妆顾问招聘信息，持续扩展线下零售服务团队。",
-      "why": "招聘美妆顾问有助于提升门店服务质量，增强消费者体验，支持丝芙兰线下渠道发展。",
+      "title": "Beauty Advisor - Sephora - 290969",
+      "summary": "Beauty Advisor - Sephora - 290969",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
       "category": "channels",
       "source": "LVMH",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
       "publishedAt": "2026-06-30T04:54:14+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1US0ZBMU1sMjU0QjZMb21nXzdpVnRPanFQUFVyN0dLTnA2RHo3WWF3SzY3aHltYXFhdkxFaXRDbXVzZmNJYkxQSU40VjY2Q1ZNa2pQdWJ3VndhUEZBOUlVUVJ2cw?oc=5",
-      "companies": [
-        "LVMH",
-        "Sephora"
-      ],
+      "companies": [],
       "tags": [
         "LVMH",
-        "官方信源",
-        "招聘",
-        "线下零售"
+        "官方信源"
       ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      },
-      "priorityPersonnel": []
+      }
     },
     {
       "id": "ff4f21ad0be00b",
-      "title": "欧莱雅推出NYX香水系列，瞄准Z世代香氛热潮",
-      "summary": "欧莱雅集团旗下NYX品牌发布全新香水系列，旨在抓住Z世代消费者对香氛产品的热情。",
-      "why": "新品发布有助于欧莱雅拓展年轻消费群体，丰富NYX产品线，提升品牌市场竞争力。",
+      "title": "L'Oreal launches NYX fragrance range to tap Gen Z perfume craze",
+      "summary": "L'Oreal launches NYX fragrance range to tap Gen Z perfume craze",
+      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
       "category": "products",
       "source": "Reuters",
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-06-29T13:14:00+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSWcxX3lCcHRwZU9MQWhOZG1PbksyXzBqcXNqazlmY2EwbTdfQUFrcndBQnBoakpNcmRRendTaXQySWxZalluaWJna1p6eVo1YUhOV0JnaTIzXzk4ZFVBejh4aGJhY2VINDdYRF9hdFA2MmUtVndURDhGeUUxcEVkNzdSbmZGQ2pieFlKREdWd096LTB4MlFTV1lBSkNXbnlOWjc4TVJ6OVY?oc=5",
-      "companies": [
-        "欧莱雅",
-        "NYX"
-      ],
+      "companies": [],
       "tags": [
         "Reuters",
-        "自动采集",
-        "新品发布",
-        "Z世代",
-        "香水"
+        "自动采集"
       ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
         "actionability": 6
-      },
-      "priorityPersonnel": []
+      }
     }
   ]
 }
