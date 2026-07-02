@@ -223,7 +223,7 @@ def fetch_request(req):
     with urllib.request.urlopen(req, timeout=90) as response: return response.read()
 
 def main():
-    items = enrich(collect())
+    items = [item for item in enrich(collect()) if not excluded_title(item.get("title", ""))]
     if not items: raise SystemExit("No candidates collected; existing feed preserved")
     now = datetime.now(timezone.utc); payload = {"date":now.astimezone().date().isoformat(),"generatedAt":now.isoformat(),"items":items}
     data = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
