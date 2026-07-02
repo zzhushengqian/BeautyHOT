@@ -47,6 +47,14 @@ EXCLUDED_TITLE_TERMS = [
     "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
     "job opening", "jobs", "hiring", "vacancy", "careers", "internship", "apprentice",
 ]
+JOB_ROLE_TERMS = [
+    "manager", "director", "assistant", "specialist", "coordinator", "intern", "apprentice",
+]
+CHANGE_ACTION_TERMS = [
+    "appoint", "promot", "named", "joins", "joined", "resign", "steps down", "leaves",
+    "任命", "晋升", "升任", "出任", "就任", "离任", "辞任", "辞职", "卸任",
+    "新任", "接任", "接替", "履新", "换帅",
+]
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -70,7 +78,11 @@ def signals(title, source):
 
 def excluded_title(title):
     lower = title.lower()
-    return any(term.lower() in lower for term in EXCLUDED_TITLE_TERMS)
+    if any(term.lower() in lower for term in EXCLUDED_TITLE_TERMS):
+        return True
+    looks_like_role_listing = any(term in lower for term in JOB_ROLE_TERMS)
+    has_change_action = any(term.lower() in lower for term in CHANGE_ACTION_TERMS)
+    return looks_like_role_listing and not has_change_action
 
 def collect_priority_personnel():
     found = []
