@@ -281,7 +281,7 @@ let NEWS = [
 const state = {
   category: "all",
   query: new URLSearchParams(location.search).get("q") || "",
-  sort: "score",
+  sort: "latest",
   useGroupWeight: true
 };
 
@@ -328,14 +328,17 @@ function filteredNews() {
     const categoryMatch = state.category === "all" || item.category === state.category;
     return categoryMatch && matchesQuery(item, state.query);
   });
-  return filtered.sort((a, b) => {
-    if (state.sort === "latest") return new Date(b.publishedAt) - new Date(a.publishedAt);
-    if (state.sort === "confidence") {
-      return (confidenceBonus[b.verification] || 0) - (confidenceBonus[a.verification] || 0)
-        || calculateScore(b) - calculateScore(a);
-    }
-    return calculateScore(b) - calculateScore(a);
-  });
+  return filtered.sort(compareNews);
+}
+
+function compareNews(a, b) {
+  const timeDelta = new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+  if (timeDelta) return timeDelta;
+  if (state.sort === "confidence") {
+    return (confidenceBonus[b.verification] || 0) - (confidenceBonus[a.verification] || 0)
+      || calculateScore(b) - calculateScore(a);
+  }
+  return calculateScore(b) - calculateScore(a);
 }
 
 function renderCategoryTabs() {
@@ -358,7 +361,7 @@ function formatPublishedDate(value) {
 
 function renderTopStories() {
   const top = [...NEWS]
-    .sort((a, b) => calculateScore(b) - calculateScore(a))
+    .sort(compareNews)
     .slice(0, 3);
   document.querySelector("#top-stories").innerHTML = top.map((item, index) => `
     <a class="top-story" href="#${item.id}">

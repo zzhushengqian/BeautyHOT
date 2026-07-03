@@ -22,7 +22,7 @@ const DEFAULT_PROFILE = {
     regulation: 12,
     deals: 9,
     financials: 7,
-    people: 6,
+    people: 9,
     products: 5,
     channels: 5,
     brands: 3,
@@ -95,7 +95,6 @@ const QUESTION_SECTIONS = [
       ["eventBoost", "regulation", "监管、安全与处罚", "法规、抽检、召回和重大合规风险", 0, 15],
       ["eventBoost", "deals", "投融资与并购", "融资、收购、股权出售、IPO 与交易进展", 0, 15],
       ["eventBoost", "financials", "财报与经营变化", "业绩、指引、裁员、关店与经营拐点", 0, 15],
-      ["eventBoost", "people", "核心人事变动", "集团 CEO、品牌负责人和关键组织调整", 0, 15],
       ["eventBoost", "products", "产品、成分与研发", "技术突破、成分创新与重要新品", 0, 15],
       ["eventBoost", "channels", "渠道与零售", "平台、门店、区域扩张和分销变化", 0, 15],
       ["eventBoost", "brands", "一般品牌与营销", "代言、活动、联名和品牌传播", 0, 15],
@@ -186,7 +185,8 @@ calculateScore = function(item, profile = activeProfile) {
   const multi = item.sourceCount >= 2
     ? Number(profile.modifiers.multiSource) * Math.min((item.sourceCount - 1) / 2, 1)
     : 0;
-  const event = Number(profile.eventBoost[item.category] || 0);
+  const eventKey = item.category === "people" ? "deals" : item.category;
+  const event = Number(profile.eventBoost[eventKey] || 0);
   const raw = dimensionScore(item, profile) + sourceScore(item, profile) + groupScore(item, profile) + multi + event - penaltyScore(item, profile);
   return Math.max(0, Math.min(99, Math.round(raw)));
 };
@@ -210,14 +210,8 @@ filteredNews = function() {
     return true;
   });
 
-  filtered.sort((a, b) => {
-    if (state.sort === "latest") return new Date(b.publishedAt) - new Date(a.publishedAt);
-    if (state.sort === "confidence") {
-      return (confidenceBonus[b.verification] || 0) - (confidenceBonus[a.verification] || 0)
-        || calculateScore(b) - calculateScore(a);
-    }
-    return calculateScore(b) - calculateScore(a);
-  });
+    filtered.sort(compareNews);
+
 
   if (state.view === "selected") filtered = filtered.slice(0, Number(activeProfile.display.maxItems));
   return filtered;
@@ -226,7 +220,7 @@ filteredNews = function() {
 renderTopStories = function() {
   const eligible = NEWS
     .filter(item => passesHardRules(item))
-    .sort((a, b) => calculateScore(b) - calculateScore(a))
+    .sort(compareNews)
     .slice(0, 3);
   document.querySelector("#top-stories").innerHTML = eligible.map((item, index) => `
     <a class="top-story" href="#${item.id}">
@@ -330,7 +324,10 @@ function renderQuestionnaire() {
 
 function renderRankingPreview() {
   const ranked = [...NEWS]
-    .sort((a, b) => calculateScore(b, draftProfile) - calculateScore(a, draftProfile))
+.sort((a, b) => {
+      const timeDelta = new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+      return timeDelta || calculateScore(b, draftProfile) - calculateScore(a, draftProfile);
+    })
     .slice(0, 8);
   document.querySelector("#ranking-preview").innerHTML = ranked.map(item => {
     const score = calculateScore(item, draftProfile);
