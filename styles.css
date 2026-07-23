@@ -535,3 +535,5 @@ footer p { flex: 1; }
   .ticker-track { animation: none; }
   .news-card { transition: none; }
 }
+
+.original-title { max-width: 850px; margin: 8px 0 -3px; color: #948d83; font-size: 12px; line-height: 1.55; }

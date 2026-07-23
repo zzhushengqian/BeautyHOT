@@ -1,6 +1,6 @@
 # BeautyHOT 信源清单
 
-更新时间：2026-07-02
+更新时间：2026-07-23
 
 ## A 级：官方与监管信源
 
@@ -38,6 +38,9 @@
 
 - Reuters — `reuters.com`
 - WWD — `wwd.com`
+- Vogue Business — `voguebusiness.com`
+- Ladymax — `ladymax.cn`
+- Glossy — `glossy.co`
 
 ## C 级：美妆垂直媒体
 
@@ -47,6 +50,13 @@
 - Cosmetics & Toiletries — `cosmeticsandtoiletries.com`
 - Global Cosmetic Industry — `gcimagazine.com`
 - Premium Beauty News — `premiumbeautynews.com`
+- BeautyMatter — `beautymatter.com`
+- CosmeticsDesign — `cosmeticsdesign.com`
+- Beauty Packaging — `beautypackaging.com`
+- TheIndustry.beauty — `theindustry.beauty`
+- CEW — `cew.org`
+- 聚美丽 — `jumeili.cn`
+- 品观 — `pinguan.com`
 
 ## 重点观察实体
 
@@ -67,7 +77,7 @@
 ## 使用规则
 
 - 官网、监管和投资者关系页面作为一手事实来源，标记为 A 级。
-- WWD 与 Reuters 用于发现和交叉核验，标记为 B 级。
+- Reuters、WWD、Vogue Business、Ladymax 与 Glossy 用于发现和交叉核验，标记为 B 级。
 - 垂直媒体用于行业发现和专业背景，标记为 C 级。
 - 品牌知名度、销量或明星身份影响关注优先级，不自动提高事实可信度。
 - 遇到付费墙或登录限制时不绕过，仅使用公开标题寻找可核验的一手来源。

@@ -385,6 +385,9 @@ function renderNews() {
     const score = calculateScore(item);
     const groups = findWeightedGroup(item.companies);
     const primaryGroup = groups[0];
+    const originalTitle = item.titleOriginal && item.titleOriginal.trim() !== item.title.trim()
+      ? `<p class="original-title">原文标题：${item.titleOriginal}</p>`
+      : "";
     return `
       <article class="news-card" id="${item.id}">
         <div class="score-badge" style="--score:${score}" title="综合信号分">${score}</div>
@@ -397,7 +400,7 @@ function renderNews() {
           <span class="confidence ${item.verification === "reported" ? "reported" : ""}">${confidenceLabel[item.verification]}</span>
         </div>
         <h3><a href="${item.url}" target="_blank" rel="noreferrer">${item.title}</a></h3>
-        <p class="news-summary">${item.summary}</p>
+        ${originalTitle}<p class="news-summary">${item.summary}</p>
         <p class="why-line"><strong>为什么重要：</strong>${item.why}</p>
         <div class="card-footer">
           <div class="tags">

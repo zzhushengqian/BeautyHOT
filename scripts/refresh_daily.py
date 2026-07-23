@@ -31,9 +31,10 @@ GENERAL_MEDIA_ENTITIES = [
     "l'oreal", "loreal", "estee lauder", "coty", "shiseido", "puig",
     "unilever", "procter & gamble", "p&g", "lvmh", "sephora", "ulta",
     "beiersdorf", "kao", "kose", "amorepacific", "cosmax", "elf beauty",
+    "美妆", "化妆品", "护肤", "彩妆", "香水", "奢侈品美妆", "国货美妆",
     *PRIORITY_ENTITY_NAMES,
 ]
-GENERAL_NEWS_DOMAINS = {"reuters.com", "wwd.com"}
+GENERAL_NEWS_DOMAINS = {"reuters.com", "wwd.com", "voguebusiness.com", "ladymax.cn"}
 PERSONNEL_TERMS = [
     "任命", "晋升", "升任", "出任", "就任", "离任", "辞任", "辞职", "卸任",
     "新任", "接任", "接替", "履新", "换帅", "人事变动", "管理层调整",
@@ -277,6 +278,7 @@ def collect_priority_personnel():
             found.append({
                 "id": item_id,
                 "title": title,
+                "titleOriginal": title,
                 "summary": title,
                 "why": f"{entity}属于国内重点美妆集团，人事与组织变化可能影响品牌战略和经营执行。",
                 "category": "people",
@@ -298,9 +300,15 @@ def collect_priority_personnel():
 def collect():
     found = []
     for source in CONFIG["queries"]:
-        keywords = " OR ".join(DISCOVERY_TERMS)
+        source_terms = source.get("keywords") or DISCOVERY_TERMS
+        keywords = " OR ".join(f'"{term}"' if " " in term and not str(term).startswith("\"") else str(term) for term in source_terms)
         query = f'site:{source["domain"]} ({keywords}) when:7d'
-        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q":query,"hl":"en-US","gl":"US","ceid":"US:en"})
+        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({
+            "q": query,
+            "hl": source.get("hl", "en-US"),
+            "gl": source.get("gl", "US"),
+            "ceid": source.get("ceid", "US:en"),
+        })
         try: root = ET.fromstring(fetch(url))
         except Exception as exc:
             print(f"warning: {source['name']}: {exc}"); continue
@@ -318,8 +326,12 @@ def collect():
             sig = signals(title, source)
             item_id = hashlib.sha1((title + source["domain"]).encode()).hexdigest()[:14]
             found.append({
-                "id": item_id, "title": title, "summary": title,
-                "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+                "id": item_id, "title": title, "titleOriginal": title, "summary": title,
+                "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+                "analysis": {
+                    "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+                    "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。",
+                },
                 "category": category(title), "source": source["name"], "sourceTier": source["tier"],
                 "verification": "official" if source["tier"] == "A" else "reported",
                 "sourceCount": 1, "publishedAt": published.isoformat(),
@@ -350,8 +362,11 @@ def enrich(items):
         prompt = (
             "将以下美妆行业候选新闻改写为中文结构化 JSON，不要虚构事实。"
             "返回 {items:[...]}。每项必须保留 id/url/publishedAt/source/sourceTier/signals/priorityPersonnel，"
-            "补全中文 title、summary、why、companies、tags；category 只能是 brands、people、"
-            "deals、financials、products、channels、marketing、regulation、supply-chain 之一；"
+            "必须保留 titleOriginal（原始标题，不翻译、不删减）；如果原始标题不是中文，必须将 title 翻译为自然、准确的中文标题，"
+            "不能把英文原标题直接放进 title。补全中文 summary、why、analysis、companies、tags；category 只能是 brands、people、"
+            "deals、financials、products、channels、marketing、regulation、supply-chain 之一。"
+            "summary 只写可核验事实；why 写一句行业意义；analysis 必须是对象，包含 impact 和 watch 两个字段，"
+            "impact 用一句话分析对品牌/集团/渠道/资本/供应链的影响，watch 用一句话写后续观察点或验证缺口。"
             "保留 verification 和 sourceCount，不要降低官方信源的核验级别。候选："
             + json.dumps(batch, ensure_ascii=False)
         )
@@ -359,7 +374,7 @@ def enrich(items):
             "model":"openai/gpt-4.1",
             "response_format":{"type":"json_object"},
             "messages":[
-                {"role":"system","content":"你是严谨的美妆商业新闻编辑，摘要简洁，优先呈现商业影响。"},
+                {"role":"system","content":"你是严谨的美妆商业新闻编辑，摘要只写事实，分析要具体、克制，避免营销话术和空泛判断。"},
                 {"role":"user","content":prompt}
             ],
             "temperature":0.1,
@@ -373,7 +388,13 @@ def enrich(items):
         try:
             response = json.loads(fetch_request(req))
             result = json.loads(response["choices"][0]["message"]["content"])
-            enriched.extend(result.get("items") or batch)
+            returned = {str(item.get("id")): item for item in result.get("items", []) if isinstance(item, dict) and item.get("id")}
+            for original in batch:
+                item = returned.get(str(original["id"]), original)
+                item["titleOriginal"] = original.get("titleOriginal") or original.get("title", "")
+                item.setdefault("title", original.get("title", ""))
+                item.setdefault("summary", original.get("summary", ""))
+                enriched.append(item)
         except Exception as exc:
             print(f"warning: GitHub Models batch fallback: {exc}")
             enriched.extend(batch)

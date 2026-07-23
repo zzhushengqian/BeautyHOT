@@ -1,55 +1,465 @@
 {
-  "queries": [
-    {"name":"Global Cosmetics News","domain":"globalcosmeticsnews.com","tier":"C","kind":"vertical-media"},
-    {"name":"Happi","domain":"happi.com","tier":"C","kind":"vertical-media"},
-    {"name":"Cosmetics Business","domain":"cosmeticsbusiness.com","tier":"C","kind":"vertical-media"},
-    {"name":"Cosmetics & Toiletries","domain":"cosmeticsandtoiletries.com","tier":"C","kind":"vertical-media"},
-    {"name":"Global Cosmetic Industry","domain":"gcimagazine.com","tier":"C","kind":"vertical-media"},
-    {"name":"Premium Beauty News","domain":"premiumbeautynews.com","tier":"C","kind":"vertical-media"},
-    {"name":"WWD","domain":"wwd.com","tier":"B","kind":"trade-media"},
-    {"name":"Reuters","domain":"reuters.com","tier":"B","kind":"newswire"},
-    {"name":"中国国家药监局","domain":"nmpa.gov.cn","tier":"A","kind":"regulator"},
-
-    {"name":"L'Oréal Group","domain":"loreal.com","tier":"A","kind":"global-top10-official"},
-    {"name":"Unilever","domain":"unilever.com","tier":"A","kind":"global-top10-official"},
-    {"name":"Estée Lauder Companies","domain":"elcompanies.com","tier":"A","kind":"global-top10-official"},
-    {"name":"P&G","domain":"pg.com","tier":"A","kind":"global-top10-official"},
-    {"name":"LVMH","domain":"lvmh.com","tier":"A","kind":"global-top10-official"},
-    {"name":"Shiseido","domain":"corp.shiseido.com","tier":"A","kind":"global-top10-official"},
-    {"name":"Beiersdorf","domain":"beiersdorf.com","tier":"A","kind":"global-top10-official"},
-    {"name":"Kao","domain":"kao.com","tier":"A","kind":"global-top10-official"},
-    {"name":"Coty","domain":"coty.com","tier":"A","kind":"global-top10-official"},
-    {"name":"Natura &Co","domain":"naturaeco.com","tier":"A","kind":"global-top10-official"},
-
-    {"name":"珀莱雅","domain":"proya-group.com","tier":"A","kind":"china-top10-official"},
-    {"name":"上海家化","domain":"jahwa.com.cn","tier":"A","kind":"china-top10-official"},
-    {"name":"华熙生物","domain":"bloomagebiotech.com","tier":"A","kind":"china-top10-official"},
-    {"name":"巨子生物","domain":"giantbiogene.com","tier":"A","kind":"china-top10-official"},
-    {"name":"贝泰妮","domain":"botanee.com.cn","tier":"A","kind":"china-top10-official"},
-    {"name":"逸仙电商","domain":"ir.yatsenglobal.com","tier":"A","kind":"china-top10-official"},
-    {"name":"上美股份","domain":"chicmaxgroup.com","tier":"A","kind":"china-top10-official"},
-    {"name":"毛戈平","domain":"maogeping.com","tier":"A","kind":"china-top10-official"},
-    {"name":"水羊股份","domain":"syounggroup.com","tier":"A","kind":"china-top10-official"},
-    {"name":"丸美股份","domain":"marubi.cn","tier":"A","kind":"china-top10-official"}
-  ],
-  "priorityEntities": {
-    "celebrityAndFounderBrands": [
-      "Rare Beauty", "Fenty Beauty", "Huda Beauty", "Haus Labs", "Rhode",
-      "Kylie Cosmetics", "r.e.m. beauty", "Florence by Mills", "about-face"
-    ],
-    "highSalesAndGrowthBrands": [
-      "e.l.f. Beauty", "Sol de Janeiro", "Summer Fridays", "Glow Recipe",
-      "Charlotte Tilbury", "The Ordinary", "CeraVe", "La Roche-Posay",
-      "COSRX", "Anua", "Beauty of Joseon", "SK-II", "La Mer"
-    ],
-    "notablePrivateGroupsAndBrands": [
-      "Chanel", "Clarins", "Sisley Paris", "Amway Artistry", "Huda Beauty"
-    ]
-  },
-"priorityPersonnelEntities": [
-    "珀莱雅", "上美股份", "巨子生物", "华熙生物", "福瑞达美业", "敷尔佳",
-    "丸美生物", "自然堂", "逸仙电商", "水羊股份", "上海家化", "欧诗漫",
-    "毛戈平", "谷雨", "HBN护肤", "贝泰妮", "林清轩", "橘宜集团"
-  ],
-  "keywords":"beauty cosmetics skincare makeup fragrance personal care haircare acquisition funding earnings CEO regulation"
+    "queries":  [
+                    {
+                        "name":  "Global Cosmetics News",
+                        "domain":  "globalcosmeticsnews.com",
+                        "tier":  "C",
+                        "kind":  "vertical-media"
+                    },
+                    {
+                        "name":  "Happi",
+                        "domain":  "happi.com",
+                        "tier":  "C",
+                        "kind":  "vertical-media"
+                    },
+                    {
+                        "name":  "Cosmetics Business",
+                        "domain":  "cosmeticsbusiness.com",
+                        "tier":  "C",
+                        "kind":  "vertical-media"
+                    },
+                    {
+                        "name":  "Cosmetics \u0026 Toiletries",
+                        "domain":  "cosmeticsandtoiletries.com",
+                        "tier":  "C",
+                        "kind":  "vertical-media"
+                    },
+                    {
+                        "name":  "Global Cosmetic Industry",
+                        "domain":  "gcimagazine.com",
+                        "tier":  "C",
+                        "kind":  "vertical-media"
+                    },
+                    {
+                        "name":  "Premium Beauty News",
+                        "domain":  "premiumbeautynews.com",
+                        "tier":  "C",
+                        "kind":  "vertical-media"
+                    },
+                    {
+                        "name":  "WWD",
+                        "domain":  "wwd.com",
+                        "tier":  "B",
+                        "kind":  "trade-media",
+                        "keywords":  [
+                                         "beauty",
+                                         "cosmetics",
+                                         "skincare",
+                                         "makeup",
+                                         "fragrance",
+                                         "haircare",
+                                         "personal care",
+                                         "luxury beauty",
+                                         "China beauty",
+                                         "acquisition",
+                                         "funding",
+                                         "earnings",
+                                         "CEO",
+                                         "appointment"
+                                     ],
+                        "hl":  "en-US",
+                        "gl":  "US",
+                        "ceid":  "US:en"
+                    },
+                    {
+                        "name":  "Reuters",
+                        "domain":  "reuters.com",
+                        "tier":  "B",
+                        "kind":  "newswire"
+                    },
+                    {
+                        "name":  "中国国家药监局",
+                        "domain":  "nmpa.gov.cn",
+                        "tier":  "A",
+                        "kind":  "regulator"
+                    },
+                    {
+                        "name":  "L\u0027Oréal Group",
+                        "domain":  "loreal.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "Unilever",
+                        "domain":  "unilever.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "Estée Lauder Companies",
+                        "domain":  "elcompanies.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "P\u0026G",
+                        "domain":  "pg.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "LVMH",
+                        "domain":  "lvmh.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "Shiseido",
+                        "domain":  "corp.shiseido.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "Beiersdorf",
+                        "domain":  "beiersdorf.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "Kao",
+                        "domain":  "kao.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "Coty",
+                        "domain":  "coty.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "Natura \u0026Co",
+                        "domain":  "naturaeco.com",
+                        "tier":  "A",
+                        "kind":  "global-top10-official"
+                    },
+                    {
+                        "name":  "珀莱雅",
+                        "domain":  "proya-group.com",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "上海家化",
+                        "domain":  "jahwa.com.cn",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "华熙生物",
+                        "domain":  "bloomagebiotech.com",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "巨子生物",
+                        "domain":  "giantbiogene.com",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "贝泰妮",
+                        "domain":  "botanee.com.cn",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "逸仙电商",
+                        "domain":  "ir.yatsenglobal.com",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "上美股份",
+                        "domain":  "chicmaxgroup.com",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "毛戈平",
+                        "domain":  "maogeping.com",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "水羊股份",
+                        "domain":  "syounggroup.com",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "丸美股份",
+                        "domain":  "marubi.cn",
+                        "tier":  "A",
+                        "kind":  "china-top10-official"
+                    },
+                    {
+                        "name":  "Vogue Business",
+                        "domain":  "voguebusiness.com",
+                        "tier":  "B",
+                        "kind":  "business-media",
+                        "keywords":  [
+                                         "beauty",
+                                         "cosmetics",
+                                         "skincare",
+                                         "makeup",
+                                         "fragrance",
+                                         "luxury beauty",
+                                         "China beauty",
+                                         "K-beauty",
+                                         "celebrity beauty",
+                                         "acquisition",
+                                         "funding",
+                                         "earnings",
+                                         "CEO"
+                                     ],
+                        "hl":  "en-US",
+                        "gl":  "US",
+                        "ceid":  "US:en"
+                    },
+                    {
+                        "name":  "Ladymax",
+                        "domain":  "ladymax.cn",
+                        "tier":  "B",
+                        "kind":  "china-business-media",
+                        "keywords":  [
+                                         "美妆",
+                                         "化妆品",
+                                         "护肤",
+                                         "彩妆",
+                                         "香水",
+                                         "奢侈品美妆",
+                                         "国货美妆",
+                                         "业绩",
+                                         "财报",
+                                         "收购",
+                                         "融资",
+                                         "人事",
+                                         "任命",
+                                         "CEO"
+                                     ],
+                        "hl":  "zh-CN",
+                        "gl":  "CN",
+                        "ceid":  "CN:zh-Hans"
+                    },
+                    {
+                        "name":  "BeautyMatter",
+                        "domain":  "beautymatter.com",
+                        "tier":  "C",
+                        "kind":  "vertical-media",
+                        "keywords":  [
+                                         "beauty",
+                                         "cosmetics",
+                                         "skincare",
+                                         "makeup",
+                                         "fragrance",
+                                         "wellness",
+                                         "retail",
+                                         "funding",
+                                         "acquisition",
+                                         "earnings",
+                                         "CEO",
+                                         "launch"
+                                     ],
+                        "hl":  "en-US",
+                        "gl":  "US",
+                        "ceid":  "US:en"
+                    },
+                    {
+                        "name":  "TheIndustry.beauty",
+                        "domain":  "theindustry.beauty",
+                        "tier":  "C",
+                        "kind":  "vertical-media",
+                        "keywords":  [
+                                         "beauty",
+                                         "cosmetics",
+                                         "skincare",
+                                         "fragrance",
+                                         "retail",
+                                         "funding",
+                                         "acquisition",
+                                         "CEO",
+                                         "earnings"
+                                     ],
+                        "hl":  "en-US",
+                        "gl":  "GB",
+                        "ceid":  "GB:en"
+                    },
+                    {
+                        "name":  "CEW",
+                        "domain":  "cew.org",
+                        "tier":  "C",
+                        "kind":  "vertical-media",
+                        "keywords":  [
+                                         "beauty",
+                                         "cosmetics",
+                                         "skincare",
+                                         "makeup",
+                                         "fragrance",
+                                         "retail",
+                                         "executive",
+                                         "CEO",
+                                         "trend",
+                                         "award"
+                                     ],
+                        "hl":  "en-US",
+                        "gl":  "US",
+                        "ceid":  "US:en"
+                    },
+                    {
+                        "gl":  "US",
+                        "hl":  "en-US",
+                        "tier":  "B",
+                        "keywords":  [
+                                         "beauty",
+                                         "skincare",
+                                         "makeup",
+                                         "fragrance",
+                                         "retail",
+                                         "funding",
+                                         "acquisition",
+                                         "earnings",
+                                         "executive"
+                                     ],
+                        "name":  "Glossy",
+                        "kind":  "business-media",
+                        "ceid":  "US:en",
+                        "domain":  "glossy.co"
+                    },
+                    {
+                        "gl":  "US",
+                        "hl":  "en-US",
+                        "tier":  "C",
+                        "keywords":  [
+                                         "beauty",
+                                         "cosmetics",
+                                         "skincare",
+                                         "ingredient",
+                                         "regulation",
+                                         "manufacturing",
+                                         "retail",
+                                         "funding"
+                                     ],
+                        "name":  "CosmeticsDesign",
+                        "kind":  "vertical-media",
+                        "ceid":  "US:en",
+                        "domain":  "cosmeticsdesign.com"
+                    },
+                    {
+                        "gl":  "US",
+                        "hl":  "en-US",
+                        "tier":  "C",
+                        "keywords":  [
+                                         "beauty",
+                                         "cosmetics",
+                                         "packaging",
+                                         "sustainability",
+                                         "ingredient",
+                                         "manufacturing",
+                                         "brand"
+                                     ],
+                        "name":  "Beauty Packaging",
+                        "kind":  "vertical-media",
+                        "ceid":  "US:en",
+                        "domain":  "beautypackaging.com"
+                    },
+                    {
+                        "gl":  "CN",
+                        "hl":  "zh-CN",
+                        "tier":  "C",
+                        "keywords":  [
+                                         "美妆",
+                                         "化妆品",
+                                         "护肤",
+                                         "彩妆",
+                                         "香水",
+                                         "业绩",
+                                         "融资",
+                                         "收购",
+                                         "人事",
+                                         "监管"
+                                     ],
+                        "name":  "聚美丽",
+                        "kind":  "china-vertical-media",
+                        "ceid":  "CN:zh-Hans",
+                        "domain":  "jumeili.cn"
+                    },
+                    {
+                        "gl":  "CN",
+                        "hl":  "zh-CN",
+                        "tier":  "C",
+                        "keywords":  [
+                                         "美妆",
+                                         "化妆品",
+                                         "护肤",
+                                         "彩妆",
+                                         "香水",
+                                         "渠道",
+                                         "业绩",
+                                         "融资",
+                                         "人事",
+                                         "监管"
+                                     ],
+                        "name":  "品观",
+                        "kind":  "china-vertical-media",
+                        "ceid":  "CN:zh-Hans",
+                        "domain":  "pinguan.com"
+                    }
+                ],
+    "priorityEntities":  {
+                             "celebrityAndFounderBrands":  [
+                                                               "Rare Beauty",
+                                                               "Fenty Beauty",
+                                                               "Huda Beauty",
+                                                               "Haus Labs",
+                                                               "Rhode",
+                                                               "Kylie Cosmetics",
+                                                               "r.e.m. beauty",
+                                                               "Florence by Mills",
+                                                               "about-face"
+                                                           ],
+                             "highSalesAndGrowthBrands":  [
+                                                              "e.l.f. Beauty",
+                                                              "Sol de Janeiro",
+                                                              "Summer Fridays",
+                                                              "Glow Recipe",
+                                                              "Charlotte Tilbury",
+                                                              "The Ordinary",
+                                                              "CeraVe",
+                                                              "La Roche-Posay",
+                                                              "COSRX",
+                                                              "Anua",
+                                                              "Beauty of Joseon",
+                                                              "SK-II",
+                                                              "La Mer"
+                                                          ],
+                             "notablePrivateGroupsAndBrands":  [
+                                                                   "Chanel",
+                                                                   "Clarins",
+                                                                   "Sisley Paris",
+                                                                   "Amway Artistry",
+                                                                   "Huda Beauty"
+                                                               ]
+                         },
+    "priorityPersonnelEntities":  [
+                                      "珀莱雅",
+                                      "上美股份",
+                                      "巨子生物",
+                                      "华熙生物",
+                                      "福瑞达美业",
+                                      "敷尔佳",
+                                      "丸美生物",
+                                      "自然堂",
+                                      "逸仙电商",
+                                      "水羊股份",
+                                      "上海家化",
+                                      "欧诗漫",
+                                      "毛戈平",
+                                      "谷雨",
+                                      "HBN护肤",
+                                      "贝泰妮",
+                                      "林清轩",
+                                      "橘宜集团"
+                                  ],
+    "keywords":  "beauty cosmetics skincare makeup fragrance personal care haircare acquisition funding earnings CEO regulation"
 }
