@@ -48,7 +48,8 @@ EXCLUDED_TITLE_TERMS = [
     "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
     "job opening", "jobs", "hiring", "vacancy", "careers", "internship", "apprentice",
     "offre d'emploi", "emploi", "beauty consultant", "beauty advisor",
-    "financial analyst", "part time",
+    "financial analyst", "part time", "job details", "stellenanzeige",
+    "archives", "locations", "discover", "category archive",
 ]
 JOB_ROLE_TERMS = [
     "manager", "director", "assistant", "specialist", "coordinator", "intern", "apprentice",
@@ -357,13 +358,14 @@ def enrich(items):
     token = os.getenv("GITHUB_TOKEN")
     if not token or not items: return items
     enriched = []
-    for start in range(0, len(items), 8):
-        batch = items[start:start + 8]
+    for start in range(0, len(items), 3):
+        batch = items[start:start + 3]
         prompt = (
             "将以下美妆行业候选新闻改写为中文结构化 JSON，不要虚构事实。"
             "返回 {items:[...]}。每项必须保留 id/url/publishedAt/source/sourceTier/signals/priorityPersonnel，"
             "必须保留 titleOriginal（原始标题，不翻译、不删减）；如果原始标题不是中文，必须将 title 翻译为自然、准确的中文标题，"
-            "不能把英文原标题直接放进 title。补全中文 summary、why、analysis、companies、tags；category 只能是 brands、people、"
+            "不能把英文原标题直接放进 title。title 不超过 36 个中文字符；summary、why、analysis 的每个字段均不超过 70 个中文字符。"
+            "补全中文 summary、why、analysis、companies、tags；category 只能是 brands、people、"
             "deals、financials、products、channels、marketing、regulation、supply-chain 之一。"
             "summary 只写可核验事实；why 写一句行业意义；analysis 必须是对象，包含 impact 和 watch 两个字段，"
             "impact 用一句话分析对品牌/集团/渠道/资本/供应链的影响，watch 用一句话写后续观察点或验证缺口。"
@@ -378,7 +380,7 @@ def enrich(items):
                 {"role":"user","content":prompt}
             ],
             "temperature":0.1,
-            "max_tokens":3500
+            "max_tokens":2200
         }).encode()
         req = urllib.request.Request(
             "https://models.github.ai/inference/chat/completions",
@@ -387,7 +389,9 @@ def enrich(items):
         )
         try:
             response = json.loads(fetch_request(req))
-            result = json.loads(response["choices"][0]["message"]["content"])
+            content = response["choices"][0]["message"]["content"].strip()
+            content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE)
+            result = json.loads(content)
             returned = {str(item.get("id")): item for item in result.get("items", []) if isinstance(item, dict) and item.get("id")}
             for original in batch:
                 item = returned.get(str(original["id"]), original)
