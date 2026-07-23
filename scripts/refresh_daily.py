@@ -116,6 +116,11 @@ def excluded_title(title):
     looks_like_role_listing = any(term in lower for term in JOB_ROLE_TERMS)
     has_change_action = any(term.lower() in lower for term in CHANGE_ACTION_TERMS)
     return looks_like_role_listing and not has_change_action
+def has_chinese_title(item):
+    """Only publish an English-origin item after a Chinese display title exists."""
+    title = item.get("title", "")
+    original = item.get("titleOriginal", "")
+    return len(re.findall(r"[\u4e00-\u9fff]", title)) >= 2 or len(re.findall(r"[\u4e00-\u9fff]", original)) >= 2
 
 def compact_text(value):
     return re.sub(r"[\W_]+", "", (value or "").lower())
@@ -358,8 +363,8 @@ def enrich(items):
     token = os.getenv("GITHUB_TOKEN")
     if not token or not items: return items
     enriched = []
-    for start in range(0, len(items), 3):
-        batch = items[start:start + 3]
+    for start in range(0, len(items), 1):
+        batch = items[start:start + 1]
         prompt = (
             "将以下美妆行业候选新闻改写为中文结构化 JSON，不要虚构事实。"
             "返回 {items:[...]}。每项必须保留 id/url/publishedAt/source/sourceTier/signals/priorityPersonnel，"
@@ -410,7 +415,10 @@ def fetch_request(req):
 def main():
     now = datetime.now(timezone.utc)
     current_date = now.astimezone().date().isoformat()
-    items = [item for item in enrich(collect()) if not excluded_title(item.get("title", ""))]
+    items = [
+        item for item in enrich(collect())
+        if not excluded_title(item.get("title", "")) and has_chinese_title(item)
+    ]
     items = remove_historical_duplicates(items, current_date)
     if not items: raise SystemExit("No candidates collected; existing feed preserved")
     payload = {"date":current_date,"generatedAt":now.isoformat(),"items":items}
