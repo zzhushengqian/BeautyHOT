@@ -1,18 +1,280 @@
 {
   "date": "2026-07-23",
-  "generatedAt": "2026-07-23T07:10:34.351104+00:00",
+  "generatedAt": "2026-07-23T08:31:18.384855+00:00",
   "items": [
     {
+      "id": "10f449c57ddd49",
+      "title": "L'Oréal Groupe: We believe in youth",
+      "titleOriginal": "L'Oréal Groupe: We believe in youth",
+      "summary": "L'Oréal Groupe: We believe in youth",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T06:33:06+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYXY0TklaWkVrNjFPcW1PR3RYX3c5Z0V2R3VRNnhqRUdxM2JYTUw5bWtrWXZzenZsT3Q4R1ZwZnF2UnE2bDN5bmFxMW5qLV8ta2hWa3R4VGluLWtZbU9kLXdRZnF0V0h5czFsS3lQZk9HS0RHSHJpbmZRNm5lZ0g5ajFSbmFMVkNfUFE4dEQzYw?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2c88b1ba7eb480",
+      "title": "Shiseido Identifies Cilantro Fruit Extract With Potential Senolytic Skin Benefits",
+      "titleOriginal": "Shiseido Identifies Cilantro Fruit Extract With Potential Senolytic Skin Benefits",
+      "summary": "Shiseido Identifies Cilantro Fruit Extract With Potential Senolytic Skin Benefits",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T05:02:39+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUhUbXh4VXBpV3lkZnJpRVRLVFNES1g1TERfTS1JTm1pMnV0S1NMMG1tdk9teUliVnRKTTlGV19rMUpxSHdtZ0w2U0NYWmRITE9kTzc2Y1hFdmhNMm8xNWpaaWdFSzZWejlJdm1IQ2NOWVlqcWdpUDFoaXlWeEJBRVJESEhGSmRmRVdNSTNjNm1xVVJtTjlXSTI1cWhFZEdBcmF3UE1GTHg1cDY0VDExczhLZ1NTbm1xOUE?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "6d122aa5de7147",
+      "title": "Egypt’s Russian Industrial Zone Opens Opportunities for Cosmetics Manufacturing",
+      "titleOriginal": "Egypt’s Russian Industrial Zone Opens Opportunities for Cosmetics Manufacturing",
+      "summary": "Egypt’s Russian Industrial Zone Opens Opportunities for Cosmetics Manufacturing",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T05:02:38+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZkpfTnI1am1Yb2dTc015eVJVZXNqbUN2SVV5aXlPd2pSSTBDa3F4UnJ2bUc0VEZYUkMxdGg1bzRHXzlWSzk2ZHROeHE3anJsM1ktU0d2UmFYTXlXU3lhcnpTSHlHSDlYNnRkVW9IRHRuVlVVZ25BSlFOQjVRM2NqbHl0TnpzRE03amNsQ004VTZJWlJrTTI4UEI4QktFV3UyN3VJQ1RoX0dNdnRORmJsNDhFTG5OUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "5c6a696994115c",
+      "title": "Human Tissue Skin Boosters Drive New Growth Segment in K-Beauty Aesthetics",
+      "titleOriginal": "Human Tissue Skin Boosters Drive New Growth Segment in K-Beauty Aesthetics",
+      "summary": "Human Tissue Skin Boosters Drive New Growth Segment in K-Beauty Aesthetics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T05:02:37+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc19Mb1pLNmY0eUQ0TUp1LVlrVTZ5dkR0X1plaWZ0aG1kNWhPQU9ySjBPQVNRaU43bmJQMEViRnNMbzBzaHFzTmp5eC1yZ1VDZFEtOHByVFh0YmlBMnp6V1ZueXBCMEZ6cmZSRlNUcXdfVVU4QVJ3bmkwUVBkVzN6WXZPZjktdFAyaHlmYWVaWWw4bTg3NDBNejJHMkhiM0djLU8tLUNaMXZVTW5ubFFvUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "6577b72948c179",
+      "title": "CEW EXCLUSIVE: Inside Beekman 1802’s High-Stakes Bet to Own Longevity Body Care",
+      "titleOriginal": "CEW EXCLUSIVE: Inside Beekman 1802’s High-Stakes Bet to Own Longevity Body Care",
+      "summary": "CEW EXCLUSIVE: Inside Beekman 1802’s High-Stakes Bet to Own Longevity Body Care",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "CEW",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T04:11:38+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWsyd05KWm0yeDV0dmw1M0J0T3VZTXB6MkNmMmZxZjE3dkY5ODlnVDdZU0ZaV09ac254TlhxcWIzR1RhcW10V044ay1xUzNJZ2x6RFQyT0hEQWlCZHhCSlJoVkFZaGRvbU5SMWtzSjZWU2IybnVtV0V6ZnlhbGxZbXM3ZlR4enNrVXlxcGZJV3hCcHVKVHBN?oc=5",
+      "companies": [],
+      "tags": [
+        "CEW",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "3bd8948d8f4673",
+      "title": "Amy Liu unpacks Tower28's bespoke NYC billboard that spritzed passersby with its hero SOS spray this summer",
+      "titleOriginal": "Amy Liu unpacks Tower28's bespoke NYC billboard that spritzed passersby with its hero SOS spray this summer",
+      "summary": "Amy Liu unpacks Tower28's bespoke NYC billboard that spritzed passersby with its hero SOS spray this summer",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T04:05:15+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkltT2Q5MDhDcW1SM1VZTWVWTk5jUnkzQUhacTFrcGxuWFFHR1JSYmdUQzZUS080eUg3Tmpfc3Z0NnpZZVRTbjFUZjU5RmI3LVZOV1NyZUVtVHd0Y01veEY1cUVnQTBMd3I1STl4M2NrVVcxaXpzUTFoVURxaXBuQ3E1Z2VvZW1fall3VUN2amo3SFducVdGXzIxaHdmT3o2dl81cWZCMmlyRnFKZjd4UFp6aDcxVGNHV0JnNFdLbGthV1B6ajh1dHlaX0t5b19SMlE?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "6481053f9f61a2",
+      "title": "Beauty’s Top Headlines: July 23, 2026",
+      "titleOriginal": "Beauty’s Top Headlines: July 23, 2026",
+      "summary": "Beauty’s Top Headlines: July 23, 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "CEW",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T04:01:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXdm1zNE1tTnB4QlZJU0stYlVQUHIyS2FfeDM3MUdVZ3FCTzloMnhGYkhxdnp1WXZhSzhZSW9RNFVqSnFiQlp6SFdjLXhzVFExVWU3SUVmbVZ0ZF85QUZzQlpfQ3V5Qm1WbjBaZUNyWEQ?oc=5",
+      "companies": [],
+      "tags": [
+        "CEW",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "ab30909f7aedaf",
+      "title": "Fwee",
+      "titleOriginal": "Fwee",
+      "summary": "Fwee",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T00:02:43+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02M0hUcUJWRjhTVmxJU2FNWjlEWHRtTFdHLXpjcUNlX1V0QkIxN3VuVTlEZkJaOGJWVGlkSjlkQkxKaUpydjg2Q2FGU1Q?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "1fde0b8bc05c84",
-      "title": "in-cosmetics Korea奖项聚焦AI、外泌体与K-Beauty新成分趋势",
-      "summary": "in-cosmetics Korea展会奖项关注人工智能、外泌体及韩国美妆新成分，反映供应链创新与行业技术升级。",
-      "why": "新技术与成分趋势将影响美妆供应链创新，建议结合原始报道判断业务影响。",
+      "title": "in-cosmetics Korea Awards Spotlight AI, Exosomes and K-Beauty's Next Ingredient Wave",
+      "titleOriginal": "in-cosmetics Korea Awards Spotlight AI, Exosomes and K-Beauty's Next Ingredient Wave",
+      "summary": "in-cosmetics Korea Awards Spotlight AI, Exosomes and K-Beauty's Next Ingredient Wave",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "supply-chain",
       "source": "Global Cosmetic Industry",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-07-22T20:52:36+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdWI5US1ZVDFxQ3hKTXVvV2ZhZzB0YXpmejFLR1B0WVR3dFBVUkNfR1JHRW1hVXdrZEVYRlhoWm5YX2lUX0duOHNZYm9mNVAtV2o3VW05TVdVWDdpeHowSEVVVzNZVzFEMU9IaERYQzd0TkZ1djhTOTJkM1ZXamxXYV9aUUxtaS1qaVpvT054N3V3a1M3Q1hkdkZRMUUwSGVVOTE0M1V5TEx1VUpRMmZiVjE5U1Q3RzFBWlV3cTdCSDFrODVlX3ZVOFAxZ18zUmotNlBGS2ZPb0xWVG5r?oc=5",
       "companies": [],
       "tags": [
@@ -20,7 +282,6 @@
         "自动采集"
       ],
       "baseScore": 60,
-      "priorityPersonnel": false,
       "signals": {
         "impact": 6,
         "magnitude": 6,
@@ -31,15 +292,21 @@
     },
     {
       "id": "2b8b65e029a251",
-      "title": "雅诗兰黛集团宣布Dr. Rishabh Kala加入Science of Skin Summit专家团队",
-      "summary": "雅诗兰黛集团官方宣布Dr. Rishabh Kala受邀加入Science of Skin Summit专家团队，强化集团科研影响力。",
-      "why": "高端美妆集团专家任命有助于提升品牌科研形象，建议结合原始报道判断业务影响。",
+      "title": "The Estée Lauder Companies Announces Dr. Rishabh Kala's Appointment to the Science of Skin Summit Faculty",
+      "titleOriginal": "The Estée Lauder Companies Announces Dr. Rishabh Kala's Appointment to the Science of Skin Summit Faculty",
+      "summary": "The Estée Lauder Companies Announces Dr. Rishabh Kala's Appointment to the Science of Skin Summit Faculty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "people",
       "source": "Estée Lauder Companies",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
       "publishedAt": "2026-07-22T20:33:29+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVZFUkxUSFhjRk9FSFhkY1MtRzRNU0pMd0duOEs2NERxRW55U211dFYzVGJDNE9WM2xkZnAtWFptY0VsTDFMejlORVJKWUU5Sm1WRmpaMk12UWpmdVVyUnJIRmtQdGVUUkZZZEtYNTBuVERtYWtKVVZTaV9rLTctaU5TbWpLYTI3NGFPOA?oc=5",
       "companies": [],
       "tags": [
@@ -47,7 +314,6 @@
         "官方信源"
       ],
       "baseScore": 60,
-      "priorityPersonnel": false,
       "signals": {
         "impact": 6,
         "magnitude": 6,
@@ -58,15 +324,21 @@
     },
     {
       "id": "1143d829c52b51",
-      "title": "K18押注高端护发，Hairspan定位美妆新高端赛道",
-      "summary": "K18品牌推出Hairspan高端护发产品，定价120美元，瞄准美妆行业高端护发市场新增长点。",
-      "why": "高端护发产品创新有望推动美妆行业细分市场升级，建议结合原始报道判断业务影响。",
+      "title": "Hairspan Goes Luxury: K18 Bets $120 That Hair Longevity Is Beauty's Next Premium Frontier",
+      "titleOriginal": "Hairspan Goes Luxury: K18 Bets $120 That Hair Longevity Is Beauty's Next Premium Frontier",
+      "summary": "Hairspan Goes Luxury: K18 Bets $120 That Hair Longevity Is Beauty's Next Premium Frontier",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "brands",
       "source": "Global Cosmetic Industry",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-07-22T20:24:15+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEdmempHSjdFR25lUk1IYzhFazgyamp6dmRCV05adkRJakhLZFRDQjFxUnFzS3pzU3EzelRiNVcwS1NqVUhtckVqeTAxUnUwVXJvY3dqNkdEaDlJVXByWTk0SnJZNWVyT01YX3dTRER0cjRQQU9RM2VtN1pQeWVkSUF1M21fUWtUdTFGV0lJbEZiTnFMekJ3UlZvOUllcVlwbnkwajhMUlRnWEkxUEkwWTlHMWg2ZV82clFYWXpRV0tNaVdNNnlvVS1iZXB1d21ndklNbjYyZ0FLeS13UG1iUkpFSTRpdmxKZHc?oc=5",
       "companies": [],
       "tags": [
@@ -74,7 +346,6 @@
         "自动采集"
       ],
       "baseScore": 60,
-      "priorityPersonnel": false,
       "signals": {
         "impact": 6,
         "magnitude": 9,
@@ -84,16 +355,86 @@
       }
     },
     {
+      "id": "90f0db83cfe7bf",
+      "title": "brand refresh Archives",
+      "titleOriginal": "brand refresh Archives",
+      "summary": "brand refresh Archives",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-22T20:16:58+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3VFlOcS1xQW5YS1BKc0FJcDV3MjQtcElDS0xSbHZBYWltSW9ZRWo1SnNnNUFJSWotM25BbHlqTG54UVVsM2JiT0dGSVY0c2dJVUVSVTkzYklyYlNmT0hJ?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e6e39d18222bb2",
+      "title": "Stellenanzeige Senior Scientist, Personal Care, Deodorants bei Unilever",
+      "titleOriginal": "Stellenanzeige Senior Scientist, Personal Care, Deodorants bei Unilever",
+      "summary": "Stellenanzeige Senior Scientist, Personal Care, Deodorants bei Unilever",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-22T19:45:42+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVhWaDBETHl6VDFjRjl6TlBsR3ZWeFFzaWFjcXZvR3VHZ0R4MnlyRGZ2c20zemh5ZVhpSHdTRGJNTWNnMHBOSE14a29KT2EweVFjSXQ4NkU1c3RETXZzdWY2cERGNjQtOV9PN1F0V2RFdFJVOUpZTFNkUG9Fa29WYnFjZzVMd2Q4dHFydDhydUc2SDVEb0pjcHZXUFFYVFpzbjdVbGtpTGdLbmItT2hFM2lkakNFeXZWSXRhRg?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "fd62c3cbdcd5b8",
-      "title": "纪念Dr. Klaus-Peter Wittern，美妆行业失去重要人物",
-      "summary": "Cosmetics & Toiletries发布纪念Dr. Klaus-Peter Wittern文章，行业失去一位重要科学家。",
-      "why": "行业专家离世可能影响相关科研项目与行业知识传承，建议结合原始报道判断业务影响。",
+      "title": "In Memoriam: Dr. Klaus-Peter Wittern",
+      "titleOriginal": "In Memoriam: Dr. Klaus-Peter Wittern",
+      "summary": "In Memoriam: Dr. Klaus-Peter Wittern",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "brands",
       "source": "Cosmetics & Toiletries",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-07-22T19:24:01+00:00",
+      "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM3IzaGdIUmJHTVVjdWlyTXRvOXFDZGQ1dlV4VEhTenpuX3lwc3I1VnV5amRveUJKb3hxMzBUaUY1Sll5ZHppampKWGJUOTZlblZHVlRiNXhfNTE5Z19Yb0ZlMEk2aUJfX1lFcmIwVEJDXzRWa2drTUlrLWJJVHhsaVU4ZGRNTk13M2xDY0NYZjB1c0dKWUE?oc=5",
       "companies": [],
       "tags": [
@@ -101,7 +442,70 @@
         "自动采集"
       ],
       "baseScore": 60,
-      "priorityPersonnel": false,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c749d581cf83cb",
+      "title": "MCoBeauty brings back original Urban Decay formula in new 'All Dayer' launch",
+      "titleOriginal": "MCoBeauty brings back original Urban Decay formula in new 'All Dayer' launch",
+      "summary": "MCoBeauty brings back original Urban Decay formula in new 'All Dayer' launch",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "regulation",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-22T17:57:24+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2dSVjNjLUZTXzB3aHhkazZYaGFXNm9NSzY3WGh5bGxrTENuYkN1YXNFOGpjMFE0YUtIdjVJdExMWW9yS2lhZ1lJaHNJaW9EZi1OcmZwMEYzeGdxT1lHRTJCTXl2eU9ZVWFFbWRaQW5wc3VLUG1EUE1WSlRGVkdhWk84cVNKOTU5MG1NdHdQTWRiWFBmOE5qV0FIZ3ZRaWpKdzN3eQ?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "98e14714a18ca3",
+      "title": "起底网红“古法美妆”烂脸真相",
+      "titleOriginal": "起底网红“古法美妆”烂脸真相",
+      "summary": "起底网红“古法美妆”烂脸真相",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-22T15:30:16+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90TUhMVVVMckFLdEJFX0VObjNwd0FJcXJIYjZuclJMMjBfWk5qN1gzQUprNEtsaVVQNWVSWm5mNkdUejU5X1p6OVk0N2ZlVjhJaDRr?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
@@ -113,8 +517,13 @@
     {
       "id": "095c985dbf3825",
       "title": "Bill Restricts PFAS in Consumer Products in Connecticut",
+      "titleOriginal": "Bill Restricts PFAS in Consumer Products in Connecticut",
       "summary": "Bill Restricts PFAS in Consumer Products in Connecticut",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "brands",
       "source": "Happi",
       "sourceTier": "C",
@@ -140,8 +549,13 @@
     {
       "id": "4c0a551eb9603a",
       "title": "New Swiffer Lemon Duster Delivers the Fresh Scent of Clean with No Spray Required",
+      "titleOriginal": "New Swiffer Lemon Duster Delivers the Fresh Scent of Clean with No Spray Required",
       "summary": "New Swiffer Lemon Duster Delivers the Fresh Scent of Clean with No Spray Required",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "brands",
       "source": "P&G",
       "sourceTier": "A",
@@ -165,72 +579,23 @@
       }
     },
     {
-      "id": "be818c1a0f1f2e",
-      "title": "Accelerator programme Breakout Beauty launches wellness-focused sister initiative",
-      "summary": "Accelerator programme Breakout Beauty launches wellness-focused sister initiative",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
-      "category": "products",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-22T12:36:40+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0EzdFNLbjUwZzh4RzVOazd0RVQxUHhTY0R2NWxrTUl6TWlCU1dVU0V2SkJZaW9tYVlyeFlWU1FERWNPZ0RWWklMRHQwdHp5VmpaRTVpa1JtTFc1Ymx2Xy0xbVFtYkpvOGRxR1FSVDdvYWgxM1dUWlg3cXgxZTkwRDhaZTByaHdtUDVzc08zN2FMQVpodXNfLThUY2FSTW5vNTM1OUVZWFA2dw?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "0a6e0522abb877",
-      "title": "Sephora reveals 2026 Accelerate cohort of emerging brands shaping future of beauty",
-      "summary": "Sephora reveals 2026 Accelerate cohort of emerging brands shaping future of beauty",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
-      "category": "channels",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-22T11:21:52+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PZ3ljQi1mc09sN0pHLVFmdWFIY1U5d1JKclp4d2RVcmE4cEFpV2pLbzhhRWpaWGJaWTZOcTRwOU5OQndXcFNxUFoxaWdJcFgwb3FqRmhfalZUV3pfeDMteU5jWS03dWI4eFFfR3NCeFR3Tll5ZHdN?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "611c81ba3b68e7",
-      "title": "3 - Estee Lauder Companies",
-      "summary": "3 - Estee Lauder Companies",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "id": "6faec5b76dcc50",
+      "title": "2 - Estee Lauder Companies",
+      "titleOriginal": "2 - Estee Lauder Companies",
+      "summary": "2 - Estee Lauder Companies",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "brands",
       "source": "Estée Lauder Companies",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-07-22T09:47:47+00:00",
+      "publishedAt": "2026-07-22T10:03:34+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQ2xXNFl1ejBoT2o2WmZBX2Etek5fQlhtQlJiYnVDei1zWWFSekVhZ3kyZEFKV2ZqSFVkcnNuakhkQ1N6ckJkdkFBOGNNeGpDcTA5b0FBYjJFd043U1Z4cUlSSWNkZC1lVDRBdDhxVXBaaDNhTGcycTZJUkxhYl9GZE1ZekpjWkJFU1o1RDdvb2dOQXZNdTFTYWFQaUhvZlBBMno2THF4dVdtVDRncTM0OGxJcXM2N3NDUll5THRwNUk3aEVYTE5fcW0xUnRGR0xrLTMxMmVLV1liTTNEOGJpT1dRQ0wxb0J1alRPcFl1Zks5TF9vZlJMQUdzcFZMZ2R5bUtCdTJyOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbWFNZlFPa1dNdGdpRktaU1BuSEh3T3F4cnBjV0xvX3ExV0ZFUWdMZVBfY0NJVTdJTmtJcDdFSHlHelM5WGswanBuV3RXQUQ5R0NRU19JYUcxbEFDc1hVd21ON1Y2ZUlKcm9QT2UxQ3pOOFl5akNJVGp0eFNhNGRyc2FVSDk4WGZlUlNiUlQ0b0FpYVg3YzVhR214UzhkVEVWUTJ2aWp3NkJfU1ZxZGc2QzBiMkJaVlNkWGlGUzh5c3E1SVBsMGpheGdudDc4RzY3dGc3aXpTbXZxeGdPNGpXSzRUTW5qTFo2OXpNUFJxYXBmY3EwWkVibmxFODcxZjVTTWR6Y05mVQ?oc=5",
       "companies": [],
       "tags": [
         "Estée Lauder Companies",
@@ -248,8 +613,13 @@
     {
       "id": "c8129118b02aef",
       "title": "Production Centre Finance Controller (Lagos Based)",
+      "titleOriginal": "Production Centre Finance Controller (Lagos Based)",
       "summary": "Production Centre Finance Controller (Lagos Based)",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "brands",
       "source": "Beiersdorf",
       "sourceTier": "A",
@@ -273,21 +643,26 @@
       }
     },
     {
-      "id": "e4f558b835166d",
-      "title": "Aveda Champions Individuality with One for All Leave-In Elixir",
-      "summary": "Aveda Champions Individuality with One for All Leave-In Elixir",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
+      "id": "99b42aa93b754e",
+      "title": "Sephora Strategies: With its expanded Quiet Hours initiative, Sephora attempts to speak to a new era of inclusivity",
+      "titleOriginal": "Sephora Strategies: With its expanded Quiet Hours initiative, Sephora attempts to speak to a new era of inclusivity",
+      "summary": "Sephora Strategies: With its expanded Quiet Hours initiative, Sephora attempts to speak to a new era of inclusivity",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Glossy",
+      "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-07-22T07:00:00+00:00",
+      "publishedAt": "2026-07-22T08:59:34+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRDh0V19Ga1pqOGpRMUQ0RndWRFBkWUxCVWNqVDhNM21rbjVRU1hXYVIyUFprOTJ6Nm1pV3dEclRCR2h2bnVjR09xQ0J3bUZYcTZiMGM0TGkwaEpRTFhFU0F1VEZZNVdQLU1qMW9MVUlxV3FFRmFLd0xOckN5Q1ZmN0M4MG40WVNkVFdnSEg1c2tucFJWVndmOTdTd0dhNndPT1VvM2NR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc29UT2tBYmE4cC15Umx3X0xZWm1ESGNqOEdlUTlEaTdlRlB0OF9EOHUyVnFJcjI5ZXVsdlFENTU4aDVWUDkyU1JJRnZsRlNtenNFVGFjdmJWRm0tR0hSTndELU5nVTdyY2pfZlpCaGF3dDA5VXhPTHdqcFVTdEozMUtPSW1GR2h5MGMtWVMwZlkwaGNRV3piUnphbkdHVU9kNjNBNHBPbG1YUXlUal9FYW54UjRYeGZzU0hLU2xCdWJaSDZHN3J5YUxvM01SWXhOUjc2clRweWJwLVE?oc=5",
       "companies": [],
       "tags": [
-        "Happi",
+        "Glossy",
         "自动采集"
       ],
       "baseScore": 60,
@@ -295,53 +670,31 @@
         "impact": 6,
         "magnitude": 6,
         "china": 3,
-        "novelty": 6,
-        "actionability": 6
+        "novelty": 8,
+        "actionability": 8
       }
     },
     {
-      "id": "5b42a84182cc35",
-      "title": "Estée Lauder Notifies Employees Following Oracle E-Business Data Breach",
-      "summary": "Estée Lauder Notifies Employees Following Oracle E-Business Data Breach",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "id": "71c2bc0f01cbe3",
+      "title": "Wellness Briefing: Inside Classpass’ category expansion into self-care and experiences, plus news",
+      "titleOriginal": "Wellness Briefing: Inside Classpass’ category expansion into self-care and experiences, plus news",
+      "summary": "Wellness Briefing: Inside Classpass’ category expansion into self-care and experiences, plus news",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
+      "source": "Glossy",
+      "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-07-22T05:04:17+00:00",
+      "publishedAt": "2026-07-22T04:04:33+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXNFbkdYbFR2anZMNFd3LTVNVmpCUEFFbjR0MUlCTUhEd0lJeWdyNTNQOUxSUDJkSXNodVU4WWp3ZFlWdlIxdkMzTEJtaTI5U0RrVFBXeFpONkdxdjlVb3BsTmo1U0dOckxGZTJzNTY5ZWI3SmFLeGdYaU5HY3pOQVo4SlNtdUQ2eWtqQjZIdG53UFB0M0o1cjUxNHFwamlpZmQteXM4R3ZBeU5s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdXgwUHBsTXNHTnR3RFRGdDJzYlZySF9mc2ZRcUc3eGJnbVdjeWIzMy10MGtTZ0h5TERmSFZnYjNTQ2ZNdERsSU5SNk5pNU5BYXB0MzRsZmh6SnpBVTNIN2hXaUl2M0x0bEZ6X0xfTlVCWEFKMVR2UUpfdTF5VFhvTnllN2tib29rVnAzX1Z3Yk5rQXRneEhjTGktQnlTZndTamtXbHVkTTNxWTFUZnAtUmhHQ1RWY3dCd2Z6TDh4Y0lpS010WWlzVGxLZHQ5dw?oc=5",
       "companies": [],
       "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "8e261c41fca3e7",
-      "title": "Lemme Faces New Class-Action Lawsuit Over GLP-1 Supplement Marketing Claims",
-      "summary": "Lemme Faces New Class-Action Lawsuit Over GLP-1 Supplement Marketing Claims",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-22T05:03:04+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWs0cGdXdTk2NFJlZkpIUWNKMlJiU0EtTFY0YmJKQzRONHpXOUVndzYzOHd4Rllhc3VJbWhmWEtlbzJEcFhIdmtMblF4cXlLVHF0SmVBTE9tOHV2YzdNV2w0VmdiLUVfeDBPQXdnaFkwNk5USUdCWmJ4VGlMU0FvTUxpbzhnZzBOcWtpLVYtbUV2OVYwWWRjWE1zOXVmeFJfdV9QVHo3QnFQc3NmN3gyREpB?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
+        "Glossy",
         "自动采集"
       ],
       "baseScore": 60,
@@ -354,21 +707,26 @@
       }
     },
     {
-      "id": "8e969d563d1567",
-      "title": "California Expands Chemical Restrictions on Nail Products and Cleaning Products",
-      "summary": "California Expands Chemical Restrictions on Nail Products and Cleaning Products",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "id": "aa0303811eddb3",
+      "title": "Beauty Briefing Archives",
+      "titleOriginal": "Beauty Briefing Archives",
+      "summary": "Beauty Briefing Archives",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
+      "source": "Glossy",
+      "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-07-22T05:01:31+00:00",
+      "publishedAt": "2026-07-21T07:00:00+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVUxcFFaeDNpTi1pb0k4V3pmTWhtcEhueFduWkNwSkJUVkxWaHpESkttTVdYV2hDSmludG9MZ3FIckRyT20wdWxhZ1dHR2J2MmRMQXZMT25vZklEcVZSVTlVQ2NWLU1GSVpFc2RBc3VYS3ZERnZob3lUWDNpSUhDcmt1MklVR1NtZXplSU9XSGJQMnRBTGxCbWd2Ul9CQkoyTXRBZ25ILWpxeUNrNjVfNGxQdE5PakE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55T1RSdFFBVUl3ZTNGNXVjS01mUTJRWjUxM203YmFWNlR2WldZTWVOVXZiZHNKeTllUk4xNXJwcjVLU2VlbVlUNUU0OFJZbGdBRFJQbkg1Q1c?oc=5",
       "companies": [],
       "tags": [
-        "Global Cosmetics News",
+        "Glossy",
         "自动采集"
       ],
       "baseScore": 60,
@@ -381,62 +739,111 @@
       }
     },
     {
-      "id": "e372ce7257b3eb",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXJ3dVZJN2JtWVZ1a3lVb2lRaDRGaEVZdndnaV9EUTRmQWFqR2pVV1BkNmYtQjJvU1RZUENFaFJKbm81VjFEOGdtV3lnUkdjRDRQaVJISDR0alA4OVNfS3RkN1FJRTNCUHBrbmtwMUpkaUVIVUwycjlyeEgwNUN3WHFmY2JWX3B6c3ZUWVdFOEdXUQ?oc=5",
-      "publishedAt": "2026-07-21T17:56:27+00:00",
-      "source": "Happi",
-      "sourceTier": "C",
+      "id": "9517872fe97d85",
+      "title": "Beauty Briefing: With aluminum-free deodorants now commonplace, Curie wants to be known as a performance brand",
+      "titleOriginal": "Beauty Briefing: With aluminum-free deodorants now commonplace, Curie wants to be known as a performance brand",
+      "summary": "Beauty Briefing: With aluminum-free deodorants now commonplace, Curie wants to be known as a performance brand",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
+      "publishedAt": "2026-07-21T04:56:45+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUTNUZTdKeVpVQVpSd0gtTGJwaE9TbkwxU2NSWlZWV2lzQzZaNm5wVzl3cGNtUnZWZnVxa09GbzhlSGtBOVh0RXRqeHdqZEF6M3o1dl9rTW04c3cyeEhwLTBodVQ3Q1BBSEVNeGloSzB6aTNKcXRyNlF3M3NoNEk4OUlJZzRJTVVkb08zeng4WVVNX19WZ0F0R2ZYeFh2Vk1MNTdmcWN3T3ZjYjA1LVV4S1ZVVFMyV1JKMnlUamQzaXEzd2k2VnNYUXJVYThKQnVFNWE0UA?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      },
-      "priorityPersonnel": [],
-      "title": "NYSCC供应商日2027展位预订开启",
-      "summary": "NYSCC供应商日2027现已开放展位预订，相关企业可提前布局参展。",
-      "why": "美妆原料供应链展会提前开放展位预订，有助于企业规划市场推广和业务拓展。",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "category": "brands"
+      }
     },
     {
-      "id": "1db118c04e2ce1",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM1NJZW9CcVlzaXZZMXRFOVZ3TXdOaXVna01TeFE1TGt6cDljZks4SUNObW1NeDhqZ0s5d1FSUTVjXzRadllCZGJXaDBaMTdVZnN2bVFDRzhmd0VDU25yRTRwM0RIVXJDeTZEYlVERTZMcDVUQVh2d2pxbEdTdXE4T1JRWEVqMFNWT0wycklxdXJRaktUYjdTRjhMekJ6U1RIWmwtWndhdGJWMFBRYWFXelVLUkFVMkdsNmZ0MkNIdjc4S3ZSMkVRNTIwWGNmcTJacnd3?oc=5",
-      "publishedAt": "2026-07-21T13:48:24+00:00",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
+      "id": "5cdf4733052330",
+      "title": "Chanel 回应不再销毁库存",
+      "titleOriginal": "Chanel 回应不再销毁库存",
+      "summary": "Chanel 回应不再销毁库存",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Ladymax",
+      "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
+      "publishedAt": "2026-07-20T04:14:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yeGllWVJUanNGUWtDY0g4VjVCdU1nUjhleW1HQUtzYng1Yy0xeTNmVk1LR0x6NW0zNElMTTk2NXNVOVJsckdZVTlvb001bExaeTZyX0Z3?oc=5",
+      "companies": [],
+      "tags": [
+        "Ladymax",
+        "自动采集"
+      ],
+      "baseScore": 60,
       "signals": {
         "impact": 6,
-        "magnitude": 9,
+        "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "53472041d54da3",
+      "title": "Beauty & Wellbeing Thailand Makro, CJ and 1UL BigC Lead",
+      "titleOriginal": "Beauty & Wellbeing Thailand Makro, CJ and 1UL BigC Lead",
+      "summary": "Beauty & Wellbeing Thailand Makro, CJ and 1UL BigC Lead",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "priorityPersonnel": [],
-      "title": "韩妆市场增长53%，驱动美妆品牌创新转型",
-      "summary": "韩妆市场实现53%增长，促使全球美妆品牌加速创新与产品升级。",
-      "why": "韩妆高速增长对全球品牌创新策略产生重大影响，推动行业变革。",
+      "category": "brands",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-17T15:00:43+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXZTbk44Rmx3cUNob0Yxckh4NHB1bTI3TEpxTGtKZ2tNRWxfeUwxUmpCRS1yMWdZb0djTHAwTXM2eWttZ1hLSVNpbFNxMEVVZ1hpZTFrdmcwaWg0WDdtRUN2bHRLZXE3alFLTmZhLTZ1RlJfYzhHOGQ4cDZYcDZRVE5RQVpfd2xSQTVJRnp1cUZ0aXFWQmpBa3NFUkl3VFdGV05mXzQ1eXZQakFCTFNzell5VXpqUHpZclE?oc=5",
       "companies": [],
       "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
+        "Unilever",
+        "官方信源"
       ],
-      "category": "brands"
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
     },
     {
       "id": "4e3ead3b2cd756",
       "title": "The Estée Lauder Companies Appoints Madeleine Boyd as Senior Vice President, Global Brand Communications",
+      "titleOriginal": "The Estée Lauder Companies Appoints Madeleine Boyd as Senior Vice President, Global Brand Communications",
       "summary": "The Estée Lauder Companies Appoints Madeleine Boyd as Senior Vice President, Global Brand Communications",
-      "why": "该事件进入今日公开信源候选池，建议结合原始报道判断业务影响。",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
       "category": "people",
       "source": "Estée Lauder Companies",
       "sourceTier": "A",
@@ -456,6 +863,70 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c48a4869ed117e",
+      "title": "Product Lifecycle Planner Job Details",
+      "titleOriginal": "Product Lifecycle Planner Job Details",
+      "summary": "Product Lifecycle Planner Job Details",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Coty",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T07:41:20+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTExrclFyNUw0UFVTdVctR3BsWHhPNDF5VE9LQ3JGQkFMYVNUb3lwaVplSXZEUElpQzVvZlhXbnlzNUVwc29lSUVxdTVsN3o3WThMWFY0YWw2endiMFF5S2V1cFctSF9idTRmRUlKQ0NubTQzWkZOc2Y1STExUG1sUlA2U3VFUTdRTjlLbWp2d29XZw?oc=5",
+      "companies": [],
+      "tags": [
+        "Coty",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "dbf20b7997aee3",
+      "title": "L’Oréal Climate Emergency Fund",
+      "titleOriginal": "L’Oréal Climate Emergency Fund",
+      "summary": "L’Oréal Climate Emergency Fund",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2025-04-29T20:54:27+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFUklLczh2aTRnWkNnS2gxYV9Pd1B5SUpjbzZQdm1kSTRsNHE5REdYM2hVVW1oaGRoN2NmU2Ywc3o5cHpVdEFkY1o1dkpHRFhHSGV3ZDB5RGdpLVhldE5lOEZXMU9ES1hnTFRKbjgtdHVqMkE4c0cwZUNINHFhZ3M?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
         "actionability": 6
       }
     }
