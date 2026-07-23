@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build BeautyHOT's public daily feed from free discovery sources."""
 import email.utils, hashlib, html, json, os, re, urllib.parse, urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import xml.etree.ElementTree as ET
 
@@ -46,6 +46,8 @@ PERSONNEL_ACTION_TERMS = [
 EXCLUDED_TITLE_TERMS = [
     "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
     "job opening", "jobs", "hiring", "vacancy", "careers", "internship", "apprentice",
+    "offre d'emploi", "emploi", "beauty consultant", "beauty advisor",
+    "financial analyst", "part time",
 ]
 JOB_ROLE_TERMS = [
     "manager", "director", "assistant", "specialist", "coordinator", "intern", "apprentice",
@@ -55,7 +57,36 @@ CHANGE_ACTION_TERMS = [
     "任命", "晋升", "升任", "出任", "就任", "离任", "辞任", "辞职", "卸任",
     "新任", "接任", "接替", "履新", "换帅",
 ]
+LOOKBACK_DAYS = int(os.getenv("BEAUTYHOT_DEDUP_LOOKBACK_DAYS", "30"))
+MATERIAL_UPDATE_TERMS = [
+    "官方", "公告", "确认", "披露", "交易所", "监管", "批准", "完成", "交割",
+    "生效", "raised", "completed", "closed", "approved",
+    "announced", "confirmed", "official", "filing",
+]
+ENTITY_ALIASES = {
+    "珀莱雅": ["珀莱雅", "proya"],
+    "花知晓": ["花知晓", "flower knows"],
+}
 
+for names in CONFIG.get("priorityEntities", {}).values():
+    for name in names:
+        ENTITY_ALIASES.setdefault(name, [name])
+for name in CONFIG.get("priorityPersonnelEntities", []):
+    ENTITY_ALIASES.setdefault(name, [name])
+
+ACTION_GROUPS = {
+    "people-chair": ["董事长", "chairman", "chair"],
+    "people-ceo": ["首席执行官", "ceo"],
+    "people-president": ["总裁", "president"],
+    "people-manager": ["总经理", "general manager"],
+    "people-appoint": ["任命", "晋升", "升任", "出任", "就任", "新任", "接任", "接替", "履新", "换帅", "appoint", "promot", "named", "joins", "joined"],
+    "people-leave": ["离任", "辞任", "辞职", "卸任", "resign", "steps down", "leaves"],
+    "deal-acquire": ["收购", "控股", "并购", "acqui", "merger", "stake"],
+    "deal-funding": ["融资", "投资", "funding", "investment", "raised"],
+    "financials": ["财报", "业绩", "营收", "利润", "revenue", "earnings", "profit", "sales"],
+    "product-launch": ["新品", "推出", "上市", "launch"],
+    "regulation": ["监管", "处罚", "召回", "recall", "fda", "warning", "ban"],
+}
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=25) as response:
@@ -83,6 +114,135 @@ def excluded_title(title):
     looks_like_role_listing = any(term in lower for term in JOB_ROLE_TERMS)
     has_change_action = any(term.lower() in lower for term in CHANGE_ACTION_TERMS)
     return looks_like_role_listing and not has_change_action
+
+def compact_text(value):
+    return re.sub(r"[\W_]+", "", (value or "").lower())
+
+def item_text(item):
+    parts = [
+        item.get("title", ""),
+        item.get("summary", ""),
+        item.get("why", ""),
+        " ".join(item.get("companies") or []),
+        " ".join(item.get("tags") or []),
+    ]
+    return " ".join(str(part) for part in parts if part)
+
+def item_entities(item):
+    text = item_text(item).lower()
+    entities = set()
+    for canonical, aliases in ENTITY_ALIASES.items():
+        if any(alias.lower() in text for alias in aliases):
+            entities.add(canonical.lower())
+    for name in item.get("companies") or []:
+        if name:
+            entities.add(str(name).lower())
+    for entity in item.get("entities") or []:
+        if isinstance(entity, dict) and entity.get("name"):
+            entities.add(str(entity["name"]).lower())
+    return entities
+
+def item_actions(item):
+    text = item_text(item).lower()
+    actions = {item.get("category", "brands")}
+    for group, terms in ACTION_GROUPS.items():
+        if any(term.lower() in text for term in terms):
+            actions.add(group)
+    return actions
+
+def shingles(text, size=3):
+    compact = compact_text(text)
+    if not compact:
+        return set()
+    if len(compact) <= size:
+        return {compact}
+    return {compact[i:i + size] for i in range(len(compact) - size + 1)}
+
+def similarity(left, right):
+    a = shingles(item_text(left))
+    b = shingles(item_text(right))
+    if not a or not b:
+        return 0
+    return len(a & b) / len(a | b)
+
+def is_material_update(item, previous):
+    text = item_text(item).lower()
+    previous_text = item_text(previous).lower()
+    if any(term.lower() in text for term in MATERIAL_UPDATE_TERMS):
+        if not any(term.lower() in previous_text for term in MATERIAL_UPDATE_TERMS):
+            return True
+    if previous.get("verification") != "official" and item.get("verification") == "official":
+        return True
+    if previous.get("sourceTier") != "A" and item.get("sourceTier") == "A":
+        return True
+    return False
+
+def same_event(item, previous):
+    if item.get("url") and item.get("url") == previous.get("url"):
+        return True
+    if compact_text(item.get("title")) == compact_text(previous.get("title")):
+        return True
+    if item.get("category") != previous.get("category"):
+        return False
+    entities = item_entities(item)
+    previous_entities = item_entities(previous)
+    shared_entities = entities & previous_entities
+    if not shared_entities:
+        return False
+    overlap = similarity(item, previous)
+    shared_actions = item_actions(item) & item_actions(previous)
+    if len(shared_entities) >= 2 and shared_actions and overlap >= 0.08:
+        return True
+    if shared_actions and overlap >= 0.30:
+        return True
+    if overlap >= 0.55:
+        return True
+    return False
+
+def load_history(current_date, lookback_days=LOOKBACK_DAYS):
+    archive = ROOT / "data/archive"
+    if not archive.exists():
+        return []
+    history = []
+    cutoff = datetime.now(timezone.utc) - timedelta(days=lookback_days)
+    for path in sorted(archive.glob("*.json"), reverse=True):
+        if path.stem == "index" or path.stem == current_date:
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        for item in payload.get("items") or []:
+            try:
+                published = datetime.fromisoformat(item.get("publishedAt", "").replace("Z", "+00:00"))
+            except Exception:
+                published = cutoff
+            if published >= cutoff:
+                history.append(item)
+    return history
+
+def safe_log(message):
+    try:
+        print(message)
+    except UnicodeEncodeError:
+        print(message.encode("ascii", "backslashreplace").decode("ascii"))
+
+
+def remove_historical_duplicates(items, current_date):
+    history = load_history(current_date)
+    if not history:
+        return items
+    kept = []
+    dropped = 0
+    for item in items:
+        duplicate = next((old for old in history if same_event(item, old)), None)
+        if duplicate and not is_material_update(item, duplicate):
+            dropped += 1
+            safe_log(f"dedup: dropped repeat '{item.get('title')}' seen as '{duplicate.get('title')}'")
+            continue
+        kept.append(item)
+    safe_log(f"dedup: removed {dropped} historical repeats")
+    return kept
 
 def collect_priority_personnel():
     found = []
@@ -223,9 +383,12 @@ def fetch_request(req):
     with urllib.request.urlopen(req, timeout=90) as response: return response.read()
 
 def main():
+    now = datetime.now(timezone.utc)
+    current_date = now.astimezone().date().isoformat()
     items = [item for item in enrich(collect()) if not excluded_title(item.get("title", ""))]
+    items = remove_historical_duplicates(items, current_date)
     if not items: raise SystemExit("No candidates collected; existing feed preserved")
-    now = datetime.now(timezone.utc); payload = {"date":now.astimezone().date().isoformat(),"generatedAt":now.isoformat(),"items":items}
+    payload = {"date":current_date,"generatedAt":now.isoformat(),"items":items}
     data = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
     (ROOT / "data/latest.json").write_text(data, encoding="utf-8")
     archive = ROOT / "data/archive"; archive.mkdir(parents=True, exist_ok=True)
