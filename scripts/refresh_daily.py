@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build BeautyHOT's public daily feed from free discovery sources."""
-import email.utils, hashlib, html, json, os, re, urllib.parse, urllib.request
+import email.utils, hashlib, html, json, os, re, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import xml.etree.ElementTree as ET
@@ -8,6 +8,14 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = json.loads((ROOT / "config/sources.json").read_text(encoding="utf-8"))
 UA = "BeautyHOT/1.0 (+https://github.com/zzhushengqian/BeautyHOT)"
+MODELS_ENDPOINT = "https://models.github.ai/inference/chat/completions"
+MODELS_API_VERSION = "2026-03-10"
+MODEL_CANDIDATES = [
+    name.strip() for name in os.getenv(
+        "BEAUTYHOT_MODELS", "openai/gpt-4.1,openai/gpt-4o"
+    ).split(",") if name.strip()
+]
+MODEL_RETRY_DELAYS = (4, 12, 28)
 CATEGORY_WORDS = {
     "deals": ["acqui", "funding", "investment", "stake", "merger", "融资", "收购", "投资"],
     "people": ["appoint", "chief", "ceo", "president", "executive", "任命", "离任"],
@@ -359,56 +367,88 @@ def collect():
     selected.extend(item for item in candidates if item["id"] not in selected_ids)
     return sorted(selected[:40], key=lambda x:x["publishedAt"], reverse=True)
 
+def request_model(token, prompt):
+    """Run one bounded translation request with model fallback and rate-limit retries."""
+    last_error = None
+    for model in MODEL_CANDIDATES:
+        for attempt in range(len(MODEL_RETRY_DELAYS) + 1):
+            body = json.dumps({
+                "model": model,
+                "response_format": {"type": "json_object"},
+                "messages": [
+                    {"role": "system", "content": "You are a careful Chinese beauty-business editor. Return valid JSON only."},
+                    {"role": "user", "content": prompt},
+                ],
+                "temperature": 0.1,
+                "max_tokens": 1200,
+            }).encode()
+            req = urllib.request.Request(
+                MODELS_ENDPOINT,
+                data=body,
+                headers={
+                    "Accept": "application/vnd.github+json",
+                    "Authorization": f"Bearer {token}",
+                    "Content-Type": "application/json",
+                    "User-Agent": UA,
+                    "X-GitHub-Api-Version": MODELS_API_VERSION,
+                },
+            )
+            try:
+                return json.loads(fetch_request(req))
+            except urllib.error.HTTPError as exc:
+                detail = exc.read().decode("utf-8", errors="replace")[:240]
+                last_error = RuntimeError(f"{model}: HTTP {exc.code}: {detail}")
+                retryable = exc.code == 429 or 500 <= exc.code < 600
+                if retryable and attempt < len(MODEL_RETRY_DELAYS):
+                    delay = MODEL_RETRY_DELAYS[attempt]
+                    safe_log(f"translation: {model} HTTP {exc.code}; retrying in {delay}s")
+                    time.sleep(delay)
+                    continue
+                break
+            except Exception as exc:
+                last_error = exc
+                break
+    raise last_error or RuntimeError("No GitHub Models candidate is configured")
+
+
 def enrich(items):
     token = os.getenv("GITHUB_TOKEN")
-    if not token or not items: return items
+    if not token or not items:
+        return items
     enriched = []
-    for start in range(0, len(items), 1):
-        batch = items[start:start + 1]
+    for original in items:
+        # Chinese-source headlines do not consume model quota.
+        if has_chinese_title(original):
+            enriched.append(original)
+            continue
         prompt = (
-            "将以下美妆行业候选新闻改写为中文结构化 JSON，不要虚构事实。"
-            "返回 {items:[...]}。每项必须保留 id/url/publishedAt/source/sourceTier/signals/priorityPersonnel，"
-            "必须保留 titleOriginal（原始标题，不翻译、不删减）；如果原始标题不是中文，必须将 title 翻译为自然、准确的中文标题，"
-            "不能把英文原标题直接放进 title。title 不超过 36 个中文字符；summary、why、analysis 的每个字段均不超过 70 个中文字符。"
-            "补全中文 summary、why、analysis、companies、tags；category 只能是 brands、people、"
-            "deals、financials、products、channels、marketing、regulation、supply-chain 之一。"
-            "summary 只写可核验事实；why 写一句行业意义；analysis 必须是对象，包含 impact 和 watch 两个字段，"
-            "impact 用一句话分析对品牌/集团/渠道/资本/供应链的影响，watch 用一句话写后续观察点或验证缺口。"
-            "保留 verification 和 sourceCount，不要降低官方信源的核验级别。候选："
-            + json.dumps(batch, ensure_ascii=False)
-        )
-        body = json.dumps({
-            "model":"openai/gpt-4.1",
-            "response_format":{"type":"json_object"},
-            "messages":[
-                {"role":"system","content":"你是严谨的美妆商业新闻编辑，摘要只写事实，分析要具体、克制，避免营销话术和空泛判断。"},
-                {"role":"user","content":prompt}
-            ],
-            "temperature":0.1,
-            "max_tokens":2200
-        }).encode()
-        req = urllib.request.Request(
-            "https://models.github.ai/inference/chat/completions",
-            data=body,
-            headers={"Authorization":f"Bearer {token}","Content-Type":"application/json","User-Agent":UA}
+            "Translate and edit this one verified beauty-industry candidate into Simplified Chinese. "
+            "Return only {item:{...}} JSON. Keep only these fields inside item: id, title, summary, why, analysis, "
+            "companies, tags, category. title must be Chinese (max 36 Chinese characters); summary and why must be "
+            "Chinese (max 70 characters each); analysis must be {impact,watch} in Chinese. Do not invent facts, dates, "
+            "people, numbers, companies, or URLs. Candidate: "
+            + json.dumps(original, ensure_ascii=False)
         )
         try:
-            response = json.loads(fetch_request(req))
+            response = request_model(token, prompt)
             content = response["choices"][0]["message"]["content"].strip()
             content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE)
             result = json.loads(content)
-            returned = {str(item.get("id")): item for item in result.get("items", []) if isinstance(item, dict) and item.get("id")}
-            for original in batch:
-                item = returned.get(str(original["id"]), original)
-                item["titleOriginal"] = original.get("titleOriginal") or original.get("title", "")
-                item.setdefault("title", original.get("title", ""))
-                item.setdefault("summary", original.get("summary", ""))
-                enriched.append(item)
+            generated = result.get("item") if isinstance(result, dict) else None
+            if not isinstance(generated, dict):
+                raise ValueError("Model response has no item object")
+            item = dict(original)
+            for key in ("title", "summary", "why", "analysis", "companies", "tags", "category"):
+                if key in generated and generated[key]:
+                    item[key] = generated[key]
+            item["titleOriginal"] = original.get("titleOriginal") or original.get("title", "")
+            enriched.append(item)
         except Exception as exc:
-            print(f"warning: GitHub Models batch fallback: {exc}")
-            enriched.extend(batch)
+            safe_log(f"warning: translation fallback for '{original.get('title', '')}': {exc}")
+            enriched.append(original)
+        # Keep well below the GitHub Models burst limit.
+        time.sleep(1.2)
     return enriched
-
 def fetch_request(req):
     with urllib.request.urlopen(req, timeout=90) as response: return response.read()
 
