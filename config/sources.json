@@ -364,6 +364,126 @@
                         "domain":  "beautypackaging.com"
                     },
                     {
+                        "name": "e.l.f. Beauty IR",
+                        "domain": "investor.elfbeauty.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "e.l.f. Beauty",
+                        "gl": "US",
+                        "hl": "en-US",
+                        "ceid": "US:en"
+                    },
+                    {
+                        "name": "Puig 官方",
+                        "domain": "puig.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "Puig",
+                        "gl": "ES",
+                        "hl": "en",
+                        "ceid": "ES:en"
+                    },
+                    {
+                        "name": "Amorepacific 官方",
+                        "domain": "apgroup.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "Amorepacific",
+                        "gl": "KR",
+                        "hl": "en",
+                        "ceid": "KR:en"
+                    },
+                    {
+                        "name": "COSMAX 官方",
+                        "domain": "cosmax.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "COSMAX",
+                        "gl": "KR",
+                        "hl": "en",
+                        "ceid": "KR:en"
+                    },
+                    {
+                        "name": "KOSÉ Holdings IR",
+                        "domain": "koseholdings.co.jp",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "KOSÉ Holdings",
+                        "gl": "JP",
+                        "hl": "en",
+                        "ceid": "JP:en"
+                    },
+                    {
+                        "name": "POLA ORBIS IR",
+                        "domain": "ir.po-holdings.co.jp",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "POLA ORBIS",
+                        "gl": "JP",
+                        "hl": "en",
+                        "ceid": "JP:en"
+                    },
+                    {
+                        "name": "Nu Skin IR",
+                        "domain": "ir.nuskin.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "Nu Skin Enterprises",
+                        "gl": "US",
+                        "hl": "en-US",
+                        "ceid": "US:en"
+                    },
+                    {
+                        "name": "Edgewell 官方",
+                        "domain": "edgewell.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "Edgewell Personal Care",
+                        "gl": "US",
+                        "hl": "en-US",
+                        "ceid": "US:en"
+                    },
+                    {
+                        "name": "Inter Parfums 官方",
+                        "domain": "interparfumsinc.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "Inter Parfums",
+                        "gl": "US",
+                        "hl": "en-US",
+                        "ceid": "US:en"
+                    },
+                    {
+                        "name": "ODDITY IR",
+                        "domain": "ir.oddity.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "ODDITY",
+                        "gl": "US",
+                        "hl": "en-US",
+                        "ceid": "US:en"
+                    },
+                    {
+                        "name": "福瑞达官方",
+                        "domain": "lshfreda.com",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "福瑞达",
+                        "gl": "CN",
+                        "hl": "zh-CN",
+                        "ceid": "CN:zh-Hans"
+                    },
+                    {
+                        "name": "巨潮资讯美妆上市公司公告",
+                        "domain": "cninfo.com.cn",
+                        "tier": "A",
+                        "kind": "listed-company-official",
+                        "issuer": "化妆品",
+                        "gl": "CN",
+                        "hl": "zh-CN",
+                        "ceid": "CN:zh-Hans"
+                    },
+                    {
                         "gl":  "CN",
                         "hl":  "zh-CN",
                         "tier":  "C",

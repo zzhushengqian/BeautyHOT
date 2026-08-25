@@ -1,6 +1,6 @@
 # BeautyHOT 信源清单
 
-更新时间：2026-07-23
+更新时间：2026-08-25
 
 ## A 级：官方与监管信源
 
@@ -29,6 +29,30 @@
 8. 毛戈平 — `maogeping.com`
 9. 水羊股份 — `syounggroup.com`
 10. 丸美股份 — `marubi.cn`
+
+### 上市公司官网与投资者关系页面
+
+以下来源均为企业官网或投资者关系（IR）页面，作为一手信源单独监测。系统只优先筛选会影响经营判断的披露：财报、业绩预告与指引、年报/中报/季报、分红回购、并购投资，以及董事和高管任免。
+
+#### 新增国际上市公司
+
+- e.l.f. Beauty IR — `investor.elfbeauty.com`
+- Puig 官方 — `puig.com`
+- Amorepacific 官方 — `apgroup.com`
+- COSMAX 官方 — `cosmax.com`
+- KOSÉ Holdings IR — `koseholdings.co.jp`
+- POLA ORBIS IR — `ir.po-holdings.co.jp`
+- Nu Skin IR — `ir.nuskin.com`
+- Edgewell Personal Care 官方 — `edgewell.com`
+- Inter Parfums 官方 — `interparfumsinc.com`
+- ODDITY IR — `ir.oddity.com`
+
+#### 新增中国上市公司与披露平台
+
+- 福瑞达官方 — `lshfreda.com`
+- 巨潮资讯（上市公司公告）— `cninfo.com.cn`
+
+巨潮资讯用于补足中国上市公司的法定公告入口；官网与 IR 页面用于补足企业主动发布的业绩、战略和管理层新闻。官网公告与交易所公告标题相近时，系统会合并为同一事件，避免重复展示。
 
 ### 监管
 
@@ -77,6 +101,8 @@
 ## 使用规则
 
 - 官网、监管和投资者关系页面作为一手事实来源，标记为 A 级。
+- 上市公司官方披露的排序先按发布时间，再在同一天内按重要性评分；不会因为是官网消息而覆盖更新更晚的新闻。
+- 对于尚未被纳入观察名单的上市公司，系统不会宣称全市场无遗漏；可继续将公司官网或 IR 地址加入 `config/sources.json`。
 - Reuters、WWD、Vogue Business、Ladymax 与 Glossy 用于发现和交叉核验，标记为 B 级。
 - 垂直媒体用于行业发现和专业背景，标记为 C 级。
 - 品牌知名度、销量或明星身份影响关注优先级，不自动提高事实可信度。

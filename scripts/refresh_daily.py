@@ -19,7 +19,11 @@ MODEL_RETRY_DELAYS = (4, 12, 28)
 CATEGORY_WORDS = {
     "deals": ["acqui", "funding", "investment", "stake", "merger", "融资", "收购", "投资"],
     "people": ["appoint", "chief", "ceo", "president", "executive", "任命", "离任"],
-    "financials": ["sales", "revenue", "earnings", "profit", "results", "财报", "业绩"],
+    "financials": [
+        "sales", "revenue", "earnings", "profit", "results", "guidance", "dividend",
+        "buyback", "annual report", "quarterly", "interim report", "financial results",
+        "财报", "业绩", "年报", "半年报", "季报", "业绩预告", "业绩快报", "分红", "回购",
+    ],
     "regulation": ["regulation", "recall", "fda", "ban", "warning", "监管", "召回"],
     "supply-chain": ["factory", "facility", "ingredient", "packaging", "manufactur", "原料", "工厂"],
     "channels": ["retail", "store", "sephora", "ulta", "tmall", "门店", "渠道"],
@@ -28,6 +32,12 @@ CATEGORY_WORDS = {
 DISCOVERY_TERMS = [
     "beauty", "cosmetics", "skincare", "makeup", "haircare", "fragrance",
     '"personal care"', "acquisition", "funding", "earnings", "CEO", "regulation",
+]
+OFFICIAL_DISCLOSURE_TERMS = [
+    "earnings", "results", "financial results", "annual report", "quarterly", "interim report",
+    "guidance", "dividend", "buyback", "acquisition", "appointment", "governance",
+    "财报", "业绩", "年报", "半年报", "季报", "业绩预告", "业绩快报", "分红", "回购",
+    "收购", "投资", "任命", "离任", "公告",
 ]
 PRIORITY_ENTITY_NAMES = [
     name.lower()
@@ -314,9 +324,14 @@ def collect_priority_personnel():
 def collect():
     found = []
     for source in CONFIG["queries"]:
-        source_terms = source.get("keywords") or DISCOVERY_TERMS
+        is_listed_official = source.get("kind") == "listed-company-official"
+        source_terms = source.get("keywords") or (
+            OFFICIAL_DISCLOSURE_TERMS if is_listed_official else DISCOVERY_TERMS
+        )
         keywords = " OR ".join(f'"{term}"' if " " in term and not str(term).startswith("\"") else str(term) for term in source_terms)
-        query = f'site:{source["domain"]} ({keywords}) when:7d'
+        issuer = source.get("issuer")
+        issuer_query = f'"{issuer}" ' if issuer else ""
+        query = f'site:{source["domain"]} {issuer_query}({keywords}) when:7d'
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({
             "q": query,
             "hl": source.get("hl", "en-US"),
@@ -349,7 +364,8 @@ def collect():
                 "category": category(title), "source": source["name"], "sourceTier": source["tier"],
                 "verification": "official" if source["tier"] == "A" else "reported",
                 "sourceCount": 1, "publishedAt": published.isoformat(),
-                "publishedLabel": "最近 7 天", "url": link, "companies": [],
+                "publishedLabel": "最近 7 天", "url": link,
+                "companies": [issuer] if issuer else [],
                 "tags": [source["name"], "官方信源" if source["tier"] == "A" else "自动采集"],
                 "baseScore": 60, "signals": sig
             })
