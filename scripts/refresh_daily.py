@@ -8,6 +8,10 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = json.loads((ROOT / "config/sources.json").read_text(encoding="utf-8"))
 UA = "BeautyHOT/1.0 (+https://github.com/zzhushengqian/BeautyHOT)"
+BEIJING = timezone(timedelta(hours=8))
+CNINFO_SEARCH_URL = "https://www.cninfo.com.cn/new/information/topSearch/query"
+CNINFO_ANNOUNCEMENT_URL = "https://www.cninfo.com.cn/new/hisAnnouncement/query"
+CNINFO_PDF_BASE = "https://static.cninfo.com.cn/"
 MODELS_ENDPOINT = "https://models.github.ai/inference/chat/completions"
 MODELS_API_VERSION = "2026-03-10"
 MODEL_CANDIDATES = [
@@ -22,7 +26,8 @@ CATEGORY_WORDS = {
     "financials": [
         "sales", "revenue", "earnings", "profit", "results", "guidance", "dividend",
         "buyback", "annual report", "quarterly", "interim report", "financial results",
-        "财报", "业绩", "年报", "半年报", "季报", "业绩预告", "业绩快报", "分红", "回购",
+        "财报", "业绩", "年报", "半年报", "半年度报告", "年度报告", "季度报告",
+        "业绩预告", "业绩快报", "分红", "利润分配", "回购",
     ],
     "regulation": ["regulation", "recall", "fda", "ban", "warning", "监管", "召回"],
     "supply-chain": ["factory", "facility", "ingredient", "packaging", "manufactur", "原料", "工厂"],
@@ -107,10 +112,90 @@ ACTION_GROUPS = {
     "product-launch": ["新品", "推出", "上市", "launch"],
     "regulation": ["监管", "处罚", "召回", "recall", "fda", "warning", "ban"],
 }
+
+MATERIAL_DISCLOSURE_TERMS = [
+    "年度报告", "半年度报告", "季度报告", "业绩预告", "业绩快报", "业绩修正",
+    "利润分配", "分红", "回购", "收购", "并购", "重大资产", "对外投资",
+    "董事长", "首席执行官", "聘任", "任命", "辞职", "离任", "辞任",
+]
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=25) as response:
         return response.read()
+
+def fetch_cninfo_json(url, payload):
+    body = urllib.parse.urlencode(payload).encode("utf-8")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; BeautyHOT/1.0)",
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": "https://www.cninfo.com.cn/new/index",
+    }
+    req = urllib.request.Request(url, data=body, headers=headers, method="POST")
+    with urllib.request.urlopen(req, timeout=25) as response:
+        return json.loads(response.read().decode("utf-8"))
+
+def clean_announcement_title(title):
+    return re.sub(r"<[^>]+>", "", html.unescape(title or "")).strip()
+
+def is_material_disclosure(title):
+    if any(term in title for term in ("年度报告", "半年度报告", "季度报告")):
+        return not any(term in title for term in ("摘要", "英文", "审计", "内控", "募集资金"))
+    if "总经理" in title:
+        return any(term in title for term in ("聘任", "任命", "辞职", "离任", "辞任", "解聘"))
+    return any(term in title for term in MATERIAL_DISCLOSURE_TERMS)
+
+def cninfo_org_id(code):
+    results = fetch_cninfo_json(CNINFO_SEARCH_URL, {"keyWord": code, "maxNum": "10"})
+    for item in results if isinstance(results, list) else []:
+        if str(item.get("code")) == code and item.get("orgId"):
+            return str(item["orgId"])
+    raise ValueError(f"CNINFO could not resolve organisation id for {code}")
+
+def collect_cninfo_disclosures():
+    found = []
+    now_bj = datetime.now(timezone.utc).astimezone(BEIJING)
+    start_date = (now_bj - timedelta(days=7)).strftime("%Y-%m-%d")
+    end_date = now_bj.strftime("%Y-%m-%d")
+    for issuer in CONFIG.get("listedDisclosureWatchlist", []):
+        code = str(issuer["code"])
+        try:
+            org_id = cninfo_org_id(code)
+            response = fetch_cninfo_json(CNINFO_ANNOUNCEMENT_URL, {
+                "tabName": "fulltext", "pageSize": "30", "pageNum": "1", "column": "szse",
+                "category": "", "plate": "", "searchkey": "", "secid": "", "trade": "",
+                "seDate": f"{start_date}~{end_date}", "stock": f"{code},{org_id}",
+                "sortName": "", "sortType": "", "isHLtitle": "true",
+            })
+        except Exception as exc:
+            safe_log(f"warning: CNINFO {issuer['name']} ({code}): {exc}")
+            continue
+        for announcement in response.get("announcements") or []:
+            title = clean_announcement_title(announcement.get("announcementTitle"))
+            if not title or not is_material_disclosure(title):
+                continue
+            try:
+                published = datetime.fromtimestamp(int(announcement.get("announcementTime")) / 1000, tz=timezone.utc)
+            except (TypeError, ValueError, OverflowError):
+                published = datetime.now(timezone.utc)
+            pdf_path = (announcement.get("adjunctUrl") or "").lstrip("/")
+            if not pdf_path:
+                continue
+            item_id = hashlib.sha1((code + title + pdf_path).encode()).hexdigest()[:14]
+            found.append({
+                "id": item_id, "title": title, "titleOriginal": title, "summary": title,
+                "why": f"{issuer['name']}（{code}）的法定公告，属于可直接核验的一手披露。",
+                "analysis": {"impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。", "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"},
+                "category": category(title), "source": "巨潮资讯（法定公告）", "sourceTier": "A",
+                "verification": "official", "sourceCount": 1, "publishedAt": published.isoformat(),
+                "publishedLabel": "最近 7 天", "url": CNINFO_PDF_BASE + pdf_path,
+                "companies": [issuer["name"]],
+                "tags": [issuer["name"], code, "上市公司公告", "官方信源"],
+                "baseScore": 88, "priorityDisclosure": True,
+                "signals": {"impact": 10, "magnitude": 9, "china": 10, "novelty": 8, "actionability": 10},
+            })
+    return found
 
 def category(title):
     lower = title.lower()
@@ -322,7 +407,7 @@ def collect_priority_personnel():
     return found
 
 def collect():
-    found = []
+    found = collect_cninfo_disclosures()
     for source in CONFIG["queries"]:
         is_listed_official = source.get("kind") == "listed-company-official"
         source_terms = source.get("keywords") or (
@@ -376,9 +461,13 @@ def collect():
         dedup.setdefault(key, item)
     candidates = list(dedup.values())
     selected = []
-    selected.extend([item for item in candidates if item.get("priorityPersonnel")][:12])
-    selected.extend([item for item in candidates if item["sourceTier"] == "A"][:16])
-    selected.extend([item for item in candidates if item["sourceTier"] == "B"][:8])
+    selected.extend([item for item in candidates if item.get("priorityDisclosure")][:16])
+    selected_ids = {item["id"] for item in selected}
+    selected.extend([item for item in candidates if item.get("priorityPersonnel") and item["id"] not in selected_ids][:12])
+    selected_ids = {item["id"] for item in selected}
+    selected.extend([item for item in candidates if item["sourceTier"] == "A" and item["id"] not in selected_ids][:16])
+    selected_ids = {item["id"] for item in selected}
+    selected.extend([item for item in candidates if item["sourceTier"] == "B" and item["id"] not in selected_ids][:8])
     selected_ids = {item["id"] for item in selected}
     selected.extend(item for item in candidates if item["id"] not in selected_ids)
     return sorted(selected[:40], key=lambda x:x["publishedAt"], reverse=True)

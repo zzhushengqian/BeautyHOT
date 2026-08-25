@@ -1,7 +1,199 @@
 {
   "date": "2026-08-25",
-  "generatedAt": "2026-08-25T01:39:31.109363+00:00",
+  "generatedAt": "2026-08-25T07:57:48.632188+00:00",
   "items": [
+    {
+      "id": "a90545b2ca9abe",
+      "title": "Johnson & Johnson Appoints Aviva Wein as Global Vice President of Litigation",
+      "titleOriginal": "Johnson & Johnson Appoints Aviva Wein as Global Vice President of Litigation",
+      "summary": "Johnson & Johnson Appoints Aviva Wein as Global Vice President of Litigation",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T05:01:02+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXJpbHFBNTViRmpZQkFFWHJSbW50M191cEpHREdWd3psNi1QOTFsZWVhekdyWDc2Q1lXdzk5NTBUXzVLdG9oRFFNSUpWZHNMdVg1WmpsZFBhTExlZGhuMVVLTm91M2RNRi1jVnhwQ1dVS2tQdlFZWUZXUTd5Q2hSZnlCWjFzTmtydTB3SW55SjZXdDJBX0J4Q3d0T0tDUVhDSEQ2cEhNeVh3dE1RUHYyRQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "302d12520e99f3",
+      "title": "Essity to Acquire Kenvue’s Brazil Feminine Care Business for US$284 Million",
+      "titleOriginal": "Essity to Acquire Kenvue’s Brazil Feminine Care Business for US$284 Million",
+      "summary": "Essity to Acquire Kenvue’s Brazil Feminine Care Business for US$284 Million",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T05:01:02+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVRSZnhfeFloTGFIekhOaDE4ei01ZEN5YzVER0ZqNzJOa3EzdTd2aWtMX1ZRSU1OTXJBb1hUZjhrbTdYeFcxSUx6a3F3b1RhOXBmOENDLU8zenhtT0pGQ2hWaWNZSHVrSXhDcTNOUDNlRUFWMC1FYlptbHNCSWZmcDMweWdTMnoxRldKRFFPbGQ5aFFXbGJETXc2LURpZHVZY19QaGQxa01ReGZ0Xzhz?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "d872f28c0fbff8",
+      "title": "Regent to Acquire Avon North America, Reuniting Avon Businesses Under Common",
+      "titleOriginal": "Regent to Acquire Avon North America, Reuniting Avon Businesses Under Common",
+      "summary": "Regent to Acquire Avon North America, Reuniting Avon Businesses Under Common",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T05:01:02+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU01XVlVnWmNDSVh1QmtlU0dRNVRJaWxjOGotdWE2ZnhUZllMYlRSX1N6SlRXNmdwRGk0RmtXNFdJOUxScHVVOXRaaUZ2TGlrTTZNNngwRzlTQ3lxODR4dlpTMEYxRUtTUl9zaUUzeFQ3R0MzR1JGSDdwU3JLN3pvRkVOcW5BR0xwQUhEQUNmejVYTzNZZzVJS2NvN1ZSbEZHYlZ4blRkeGExUDVlNnVjbU93?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "603712cb5ff499",
+      "title": "Beauty’s Top Headlines: August 25, 2026",
+      "titleOriginal": "Beauty’s Top Headlines: August 25, 2026",
+      "summary": "Beauty’s Top Headlines: August 25, 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "CEW",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T04:01:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbVVRTHFmUGVBU25mcEN2TFpJYXd1WG0yNGpuRS05czliOWtKNGVvbk9iN2xxSWdtTWRfS0JtTzNJaE5yWERQNmJ6QmdjdUNuY1pKN1RncjdnX0JPdU1kTVZuUXkzVDlPSEpHckNyLUJMazQ?oc=5",
+      "companies": [],
+      "tags": [
+        "CEW",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "7a259a922cc93f",
+      "title": "Brands face death by a 'thousand cuts' as supply chain pressures and material costs eat into profit margins",
+      "titleOriginal": "Brands face death by a 'thousand cuts' as supply chain pressures and material costs eat into profit margins",
+      "summary": "Brands face death by a 'thousand cuts' as supply chain pressures and material costs eat into profit margins",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T04:00:42+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOVRkd24wd2hhdm1PXzlvdGdhQnJhNHg3d2I0clJnZDA0TnN1WnNvOVZXRlZwaEdHcDhrd2c3R2pPWTl5Mm9tUUM3a0RiUFBDYlpWdWlrYWxfMndBejViMmdwY3ZfeHo3WHd0UnNQamtYeW9hTU9iMVNxUnIzRjNNVkl5c0pMamZPLTlmcE1QZ3BZeDc3eUk0X0hEVUhVelBSZk9rN1BaRGZROXZVb09MbzZWdWRKTEZZcF9rZ0k4RUxLTzBwdVdWdExRVEtJYklRbHhvX1V2WU9nRFg4cnQ0VnVmMA?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "a5686d5d627f43",
+      "title": "Goodai Global Backs K-Beauty Skincare Brand Torriden",
+      "titleOriginal": "Goodai Global Backs K-Beauty Skincare Brand Torriden",
+      "summary": "Goodai Global Backs K-Beauty Skincare Brand Torriden",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T00:23:09+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSF9IYk5OeFphMVc3QnRiMEl4bDNJS0hpdkVfWUZTZ0FTQ3B0ZnVkQXN0NEJLdkMwWXNEVFIyUmEtaWkxaXhyMWtkMmoxOGY0V19zM0dKNy1nQ2VSTGZLWFdsWWtGM3NsVUtHVVBidHpwNXJadFE1RndQVUhpT2w2UE5JWWtRM0t6RjJXUFlBbw?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "0f0954ab3202a0",
       "title": "“Fragrance lies at the heart of conversation,” Karine Lebret, L’Oréal",
@@ -163,323 +355,151 @@
       }
     },
     {
-      "id": "93d82c80818beb",
-      "title": "Regent to Acquire Avon North America",
-      "titleOriginal": "Regent to Acquire Avon North America",
-      "summary": "Regent to Acquire Avon North America",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "id": "e628f91805ddc3",
+      "title": "珀莱雅化妆品股份有限公司2026年半年度报告",
+      "titleOriginal": "珀莱雅化妆品股份有限公司2026年半年度报告",
+      "summary": "珀莱雅化妆品股份有限公司2026年半年度报告",
+      "why": "珀莱雅（603605）的法定公告，属于可直接核验的一手披露。",
       "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T16:28:56+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEw5SHVmU3ZDbkh5dDFUblQzVWZ2bnBhajFrdWJSaU83ak1GMFVzMm1pc1R0UlA0SHg1bjhXQWhubXlfdU5iOUFlX1FCbm5oYWJQNUduZlB5dTBLZnhwTGQwNzJzSXplNkl4aVNFUkZCdVctRXdPTFBQdGhwTEVaaWZMUDZkNWtGZUJJ?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "c9cab1e5f0b893",
-      "title": "Street Talk 2026: Sun Care – Episode Eight: Skin Type – Acne Prone",
-      "titleOriginal": "Street Talk 2026: Sun Care – Episode Eight: Skin Type – Acne Prone",
-      "summary": "Street Talk 2026: Sun Care – Episode Eight: Skin Type – Acne Prone",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T16:18:44+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVYM28zWk00R0RPeFh0MnFQX1VXQXNjR2NkeGpkRDRMamZEWEFtaGJGUXlXTGg0X21YQy1kUEJIb3I5QjA5ZmNEdDJWMkROVXpRTU9CVUR0VFNiZnVsSFo5R1NOR0g2NnY0SFhTNXA2TzdpRWJ5clpac2hhcEVKZGdmRU1vYWZ0ZTMwN1psamlCRHNWdzg2Y0Q4dFRPQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "99ed8a144b7d26",
-      "title": "Birkenstock Cosmetics posts double- and triple-digit growth in key markets",
-      "titleOriginal": "Birkenstock Cosmetics posts double- and triple-digit growth in key markets",
-      "summary": "Birkenstock Cosmetics posts double- and triple-digit growth in key markets",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T15:15:27+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObUd5czBzUzA4ZDFMMW0xNHVqQWt4RzJTYWJrQ2hPdVZDNk0yYWtJejE1aXg5TERnSVdvMFdUMEdKRWdpWklZY0cwekw4VmdYQU4zby1Kd2VuRk5rR1lxaE9JUlFrWGhwc2FESF9KbzZ1Z3dQb3R5cnR2MHI4WHI4S3hmWQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "17bdd4bf25241b",
-      "title": "Sephora to open fifth London store this winter",
-      "titleOriginal": "Sephora to open fifth London store this winter",
-      "summary": "Sephora to open fifth London store this winter",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T13:37:15+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lSmcwNmR6TzlMcW1QQ2U3ME50TkF2UlRnS2pPa01zNmN6UExnX0taalVveFd4c2ttZGprTkV1emlEN3NyOTZmTXk5ZV9RU3BLRWdNOFcwT1VvNzI2VzJxTndudW9yR2hPWlE3blVJSWhmYkhrOGRDNVZMdWNhUjg?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "31afb59e6838b8",
-      "title": "Max Mara Debuts Fragrance Inspired by Signature Cashmere Coat",
-      "titleOriginal": "Max Mara Debuts Fragrance Inspired by Signature Cashmere Coat",
-      "summary": "Max Mara Debuts Fragrance Inspired by Signature Cashmere Coat",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T13:29:04+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUZMQTJ3OGM5bTZZcll3MEluWF9Ec3JzRDBudHpBT0JsMFVSWTJQdmplTzVXREpFakh1XzFPMUNyY24ybjBBaHRNUmJuZWg4NUtldExUNm93b1padW93WTZqcUlBOWd0aXVLc0JQWFBXNHhDQlhmSFZiNzd4WEVmXzE0OFRxTUFBb1VsWmpJVGFiWk5fWXVqRXpMTGUwX0E?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ddee67e820682a",
-      "title": "Montblanc Debuts Legend Elixir in a Silver Bottle",
-      "titleOriginal": "Montblanc Debuts Legend Elixir in a Silver Bottle",
-      "summary": "Montblanc Debuts Legend Elixir in a Silver Bottle",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T12:57:36+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEJTdzRzZm5tN01XRWNhRXUtbmh3TF94VGZ2OXlWYW1USmNGWVdHcTJWQWpETl9PSGh0QkZZOGpaTzVIRkhBb0lRbDFNR3Znd3RyWXpqclAwVUxPYWJpdXJyU1ZPT18teEdoODU5emNpbTNTQU9EeHh2SzhEOU9tbG56YTlpUFBUYUtCeGhZUTRNWTM0d0NFZjhUcGc?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "e09f1590a7f7ca",
-      "title": "Vectorization: Optimizing active ingredient delivery in cosmetic formulas",
-      "titleOriginal": "Vectorization: Optimizing active ingredient delivery in cosmetic formulas",
-      "summary": "Vectorization: Optimizing active ingredient delivery in cosmetic formulas",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T12:35:12+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5NzBqcUY3bTFWYy1remtwYktxeC1XM2NOSnNmbzE4MENUWG9BeUJ4RWQ5azJGdTdmVkZfa1VDM0UxTWZnaHR2TXJyVnhQcUpVUWpKVU1IN2VqQzFEQ0VyLVd2d0hiRENSejlsOTRCR3lOWS1tVFNFc1QzRWcyNTg?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "18962a9f5bc852",
-      "title": "CosRx Is the First K-Beauty Patron of the British Beauty Council",
-      "titleOriginal": "CosRx Is the First K-Beauty Patron of the British Beauty Council",
-      "summary": "CosRx Is the First K-Beauty Patron of the British Beauty Council",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T11:55:05+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVE5XYUEyc1Ayam4wbmUzamRLMDFHLWV3cEJuYjFtOGxaSkJkaEZMQ0VBVmlic3NhQ3VuckFnejByOVV2MzJVZm9KY0ZZX0NmNm9UU2tmcUoxVGNQREk2dHNJWVptaGJLUHdaMllqLWZoUlVpeEFPTWhYQ1NSWDlHWmlqcXhBWHNHM19pQVJUcUZob01DUWNTSTRvZHlIZnI3Q243eGNDOG9vQjBHbjgyaQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "8783d4812cfdfb",
-      "title": "Best beauty advent calendars for 2026: from fragrance to K-beauty",
-      "titleOriginal": "Best beauty advent calendars for 2026: from fragrance to K-beauty",
-      "summary": "Best beauty advent calendars for 2026: from fragrance to K-beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T11:54:32+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4T1g2UEppY0ZmTVhBSm5GaWg5U1ljS3BtTVNERlFfQUcxTi0tUEVic2prckt4dGtucS04THhUeERYbHI1MHIxVVhxUjBYYkFOMDA0SS1GczNSRDhnLXRIN1hyVG1wdVZLQ3N2ODgtOTZ0QnVTM0E?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "47646eaa5e82a8",
-      "title": "Coty Reports High Q4 & Fiscal 2026 Financial Results",
-      "titleOriginal": "Coty Reports High Q4 & Fiscal 2026 Financial Results",
-      "summary": "Coty Reports High Q4 & Fiscal 2026 Financial Results",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
       },
       "category": "financials",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-08-24T11:45:47+00:00",
+      "publishedAt": "2026-08-24T16:00:00+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1BCY2tZaEx1UTZBaVIzd05uYjllelJxNjhiRUdocWV2OVk4LTllZHFnbG5pUTYzd2gwOUtCSEZNRGN2cENrdmszWHZyaklVZHpVdmNBU0JtSUo1cEtEZmlWRkZnWmJ0MjNjcnh5SWs3UVR1UHZHZFVhOXJIWFkxMFpGR3Nucks0ZGVNLW1DRHBYOE5VMzkxNnlSNFpSQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225496527.PDF",
+      "companies": [
+        "珀莱雅"
       ],
-      "baseScore": 60,
+      "tags": [
+        "珀莱雅",
+        "603605",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
       "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "71e7edccf270bb",
+      "title": "珀莱雅化妆品股份有限公司2026年半年度利润分配方案公告",
+      "titleOriginal": "珀莱雅化妆品股份有限公司2026年半年度利润分配方案公告",
+      "summary": "珀莱雅化妆品股份有限公司2026年半年度利润分配方案公告",
+      "why": "珀莱雅（603605）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225496519.PDF",
+      "companies": [
+        "珀莱雅"
+      ],
+      "tags": [
+        "珀莱雅",
+        "603605",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "850e23d7c8d1c1",
+      "title": "2026年半年度报告",
+      "titleOriginal": "2026年半年度报告",
+      "summary": "2026年半年度报告",
+      "why": "贝泰妮（300957）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225498131.PDF",
+      "companies": [
+        "贝泰妮"
+      ],
+      "tags": [
+        "贝泰妮",
+        "300957",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "a15ef7847b7d62",
+      "title": "关于公司2026年半年度利润分配预案的公告",
+      "titleOriginal": "关于公司2026年半年度利润分配预案的公告",
+      "summary": "关于公司2026年半年度利润分配预案的公告",
+      "why": "贝泰妮（300957）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225498116.PDF",
+      "companies": [
+        "贝泰妮"
+      ],
+      "tags": [
+        "贝泰妮",
+        "300957",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
       }
     },
     {
@@ -512,6 +532,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "13d78cbd56a538",
+      "title": "Digital Merchandiser Skincare - Sephora - 293388",
+      "titleOriginal": "Digital Merchandiser Skincare - Sephora - 293388",
+      "summary": "Digital Merchandiser Skincare - Sephora - 293388",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "LVMH",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T09:05:56+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiVl83c0l6bnlHbFJCZEpxNmUtaEJSZHJ2MDM4emZMaFd6dzRPZHRVTENJZWJqcGl6cXMxelhzdjhnb0F6ZFlnd3dmMU9zRk5sTzdnMURLZDFrZTlCQVZfZGFxYw?oc=5",
+      "companies": [],
+      "tags": [
+        "LVMH",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
@@ -579,38 +631,6 @@
       }
     },
     {
-      "id": "876395854d830e",
-      "title": "Unilever bünyesinde Key Account Executive - Personal Care pozisyonunun açıklaması",
-      "titleOriginal": "Unilever bünyesinde Key Account Executive - Personal Care pozisyonunun açıklaması",
-      "summary": "Unilever bünyesinde Key Account Executive - Personal Care pozisyonunun açıklaması",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "Unilever",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-23T20:56:05+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVVxLTNhWmtRdFpydTlKNmZMNnFMOW92U0RWRVJ3QkRCdGVxYUplXzVTcVRtb1I4MFVpSlQ2ZXBfWkxEczhnQzVic0xaZ29ZV21wNjg0SVhyVExxR0VBN3JQLVNuOXNjRGFqdWh4RWJlVW0xV0Iybmx4NFJPMzNJbXRGc2Z5VVdqVTk5UXNLZzc5Z0dlNGJmdEZZQkdGcXhi?oc=5",
-      "companies": [],
-      "tags": [
-        "Unilever",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "8a7a7d211f4e3f",
       "title": "Oferta de empleo para el puesto de Key Account Executive - Personal Care en Unilever",
       "titleOriginal": "Oferta de empleo para el puesto de Key Account Executive - Personal Care en Unilever",
@@ -631,6 +651,146 @@
       "companies": [],
       "tags": [
         "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a4193573f9e799",
+      "title": "The 2026 Beauty Power Founders",
+      "titleOriginal": "The 2026 Beauty Power Founders",
+      "summary": "The 2026 Beauty Power Founders",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-21T04:02:40+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2p4Qm5mLTI5TEF2dFJlSUFIcmJzVkoxMF94RWZfTjZiOHJ0OWFiZGRkaG9FbTJCVTZETGtoWk5ET2czX3J1aHdTR0JvMWt4RTQ0VVlsVjN6M2JhWTRCdlRHX1gtQkxjZzVOOVRiZTEyb3k2a2xOTDJlNWJsd2RnWEV3NmVqT3lqSDFvME5DaHZuYVB1THpQNTBUU0tDVi1pU3VDVFNqWEZJQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d820774a44f766",
+      "title": "上海家化2026年半年度报告",
+      "titleOriginal": "上海家化2026年半年度报告",
+      "summary": "上海家化2026年半年度报告",
+      "why": "上海家化（600315）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-19T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225483142.PDF",
+      "companies": [
+        "上海家化"
+      ],
+      "tags": [
+        "上海家化",
+        "600315",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "90d3cd852abb6f",
+      "title": "上海家化2026年半年度利润分配方案公告",
+      "titleOriginal": "上海家化2026年半年度利润分配方案公告",
+      "summary": "上海家化2026年半年度利润分配方案公告",
+      "why": "上海家化（600315）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-19T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225483135.PDF",
+      "companies": [
+        "上海家化"
+      ],
+      "tags": [
+        "上海家化",
+        "600315",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "20b681260bdd05",
+      "title": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
+      "titleOriginal": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
+      "summary": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "e.l.f. Beauty IR",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-19T11:20:31+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dOTG9KX01keU90UVVGdk9fM1hmSEU1MTlvQ2Z5dHhHQUF0TjNJQWdpaVhRa0V3dktWalByRlFBXzE0NjRSelU2bGdTbGk0QU1Ec0xiTVlkSXNYZ0lYS3drMmlueE9sa2R2UVRPQzBaZktXUXRhNTRrQkpQYXBaOHVxWF9UMmc1bU5JbGlPV1ZZVnJtMWtRS2NwczdDSlFZR3pVMmNfUQ?oc=5",
+      "companies": [
+        "e.l.f. Beauty"
+      ],
+      "tags": [
+        "e.l.f. Beauty IR",
         "官方信源"
       ],
       "baseScore": 60,

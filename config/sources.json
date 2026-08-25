@@ -526,6 +526,16 @@
                         "domain":  "pinguan.com"
                     }
                 ],
+    "listedDisclosureWatchlist": [
+        {"name": "珀莱雅", "code": "603605"},
+        {"name": "上海家化", "code": "600315"},
+        {"name": "华熙生物", "code": "688363"},
+        {"name": "贝泰妮", "code": "300957"},
+        {"name": "福瑞达", "code": "600223"},
+        {"name": "敷尔佳", "code": "301371"},
+        {"name": "丸美生物", "code": "603983"},
+        {"name": "水羊股份", "code": "300740"}
+    ],
     "priorityEntities":  {
                              "celebrityAndFounderBrands":  [
                                                                "Rare Beauty",
