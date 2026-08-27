@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generatedAt": "2026-08-27T07:47:09.475027+00:00",
+  "generatedAt": "2026-08-27T08:45:41.564804+00:00",
   "items": [
     {
       "id": "292601b5c7ebb2",
@@ -666,38 +666,6 @@
       "tags": [
         "Glossy",
         "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "8f2f06f2d917e3",
-      "title": "Descrição do cargo LAKME Packaging Expert, Colour na Unilever",
-      "titleOriginal": "Descrição do cargo LAKME Packaging Expert, Colour na Unilever",
-      "summary": "Descrição do cargo LAKME Packaging Expert, Colour na Unilever",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Unilever",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-25T11:40:06+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTN4QW5EdVBzOUlWZUhVT3o1bXR2cUh0UXVWV2ZYTFdyWHN6ODYzVWpZanFQSHhKWVNvTlpjTHMxUDZrSUx4aEFxY0FYSUt5NXN5eThFSzBoVGdhbnF4VVZFdktfSEcxbU82ZWxOTE9DdTdGVlYtbzVBR0t6LXJqd2h2VTVmV05YTVJRVzk0WEJTSGNwRGhQMWxn?oc=5",
-      "companies": [],
-      "tags": [
-        "Unilever",
-        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
