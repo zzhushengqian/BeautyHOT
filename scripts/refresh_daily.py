@@ -290,8 +290,17 @@ def is_material_update(item, previous):
 def same_event(item, previous):
     if item.get("url") and item.get("url") == previous.get("url"):
         return True
-    if compact_text(item.get("title")) == compact_text(previous.get("title")):
-        return True
+    title = compact_text(item.get("title"))
+    previous_title = compact_text(previous.get("title"))
+    if title and title == previous_title:
+        # 法定公告的标题常是通用的“2026年半年度报告”。只有标题相同还不能
+        # 说明是同一事件，必须同时属于同一家公司；否则会让不同公司的财报互相去重。
+        title_entities = item_entities(item)
+        previous_title_entities = item_entities(previous)
+        if not title_entities or not previous_title_entities:
+            return True
+        if title_entities & previous_title_entities:
+            return True
     if item.get("category") != previous.get("category"):
         return False
     entities = item_entities(item)
@@ -458,6 +467,12 @@ def collect():
     dedup = {}
     for item in sorted(found, key=lambda x:x["publishedAt"], reverse=True):
         key = re.sub(r"\W+", "", item["title"].lower())[:80]
+        # 同一报告期的法定公告标题往往完全一致；按公司分组，避免把不同上市
+        # 公司的半年报在候选池中先一步合并掉。
+        if item.get("priorityDisclosure"):
+            company_key = "|".join(sorted(item_entities(item)))
+            if company_key:
+                key = f"{key}|{company_key}"
         dedup.setdefault(key, item)
     candidates = list(dedup.values())
     selected = []

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T04:01:03.805854+00:00",
+  "generatedAt": "2026-08-28T04:57:48.705584+00:00",
   "items": [
     {
       "id": "4c57c467d3a404",
@@ -291,38 +291,6 @@
       }
     },
     {
-      "id": "09d2ec36aa4292",
-      "title": "Mary Kay China Enters Next Chapter of Digital-First Beauty Under GM Mark Chen",
-      "titleOriginal": "Mary Kay China Enters Next Chapter of Digital-First Beauty Under GM Mark Chen",
-      "summary": "Mary Kay China Enters Next Chapter of Digital-First Beauty Under GM Mark Chen",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-27T17:25:43+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOek9uNnluTlVUbk1lV3g5UWRQTTgwV1hWNVlTWG40TjhyT015Z09zUmpTM2Rzb3ZWUWY5OGRicmlibGxLSnZ0UnJpVjlOOWdaMG9qOWh3WTIwNHNDVTZkVDNWdkNManhEVkFWLTFSV19Fal9wRFdJeGp1Z3hyd1BMbUYtMmVEeVdvaEM2ME9tbWYzWWpBWFMyYzhmRlpkT1JNb1RiRDZkYldkY3oyNmVSM2hsUms?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
       "id": "08f1067307501a",
       "title": "Medical Advisor",
       "titleOriginal": "Medical Advisor",
@@ -488,35 +456,40 @@
       }
     },
     {
-      "id": "651e26a7258c15",
-      "title": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
-      "titleOriginal": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
-      "summary": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "id": "be03f57023719b",
+      "title": "2026年半年度报告",
+      "titleOriginal": "2026年半年度报告",
+      "summary": "2026年半年度报告",
+      "why": "锦波生物（832982）的法定公告，属于可直接核验的一手披露。",
       "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
       },
-      "category": "channels",
-      "source": "Estée Lauder Companies",
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-08-24T23:21:58+00:00",
+      "publishedAt": "2026-08-24T16:00:00+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQb2RfY2JQNjd0VV81RlFBUFF3MjBqTko4UjQxbkx2UFVyQUJNMkZuRVlHY1dmMl9Tb2M0V1BCbUhqNEhPZk9aMjJjSnU2MDVxVzdub19vSEdyQ19rS3ExaUxZWHc4TGxZbFRXOEcwVlQ1WnYtZV9RaW9BNG03MUN3Tnh6Vi0wT3g3QXlNNW1kRWNRQ3BNVGZTcnlXT0tKMi1fT0N3QmdPSG9nX2M1ZTdkRlFDZ3NWRkRpWG45czRtQmZ5MWRLaUhtRTZYV0d0QzduaFRYUjB1cUJIaGY3NTdKd2c5Q1BGSm5yNC1PcHZUaHJHUzFDR3VuSTNYMEZQelgySjRPVnowanAzdW9E?oc=5",
-      "companies": [],
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225503427.PDF",
+      "companies": [
+        "锦波生物"
+      ],
       "tags": [
-        "Estée Lauder Companies",
+        "锦波生物",
+        "832982",
+        "上市公司公告",
         "官方信源"
       ],
-      "baseScore": 60,
+      "baseScore": 88,
+      "priorityDisclosure": true,
       "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
       }
     }
   ]
