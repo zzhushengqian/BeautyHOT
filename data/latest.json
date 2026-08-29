@@ -1,7 +1,39 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T04:20:40.472200+00:00",
+  "generatedAt": "2026-08-29T07:09:19.510357+00:00",
   "items": [
+    {
+      "id": "243e8201812ab8",
+      "title": "Global Cosmetics News – Weekly Review | Week 35, August 2026",
+      "titleOriginal": "Global Cosmetics News – Weekly Review | Week 35, August 2026",
+      "summary": "Global Cosmetics News – Weekly Review | Week 35, August 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-29T05:02:22+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYzRwa1VhcjQ3ZnhJNTl3UFBoOWJOWkN2UU40YkVlZV9uaW9LQ19QMHdvSmxfTm1XNld5VkktNnp5cXgxMnBBd192SHV1Vi1qMXFoSHVvYWtoMGxLdXRPaWgxMzd3YjliSkRGSXBKS21SUmd5eXljVlhxU01qbnBoLXJQbFZzaGlGR3YtaTcwcWdVR1haR2VJ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "e7fa01402d267e",
       "title": "Ulta Beauty Beats Wall Street Expectations as Fragrance and K-Beauty Drive Growth",
@@ -269,6 +301,38 @@
       }
     },
     {
+      "id": "80e7e813cb6fd8",
+      "title": "Makeup Artist - Bobbi Brown - Full Time - Sunway Velocity Mall - Wilayah Persekutuan, Kuala Lumpur",
+      "titleOriginal": "Makeup Artist - Bobbi Brown - Full Time - Sunway Velocity Mall - Wilayah Persekutuan, Kuala Lumpur",
+      "summary": "Makeup Artist - Bobbi Brown - Full Time - Sunway Velocity Mall - Wilayah Persekutuan, Kuala Lumpur",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-28T08:09:04+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYm5pQXN1b1lKa3VmcnlmbU4tN25mV3IyaC0yd2hpTThpbXVwY3djMG5iTW85QW9kVzBXd19pX1RYcC1mc3gtOVVoWUdaMkotb1ZZSGpMb0NtLXZjbEhhU2FMT3R0VFRWTEhsalRsY19yVHN1UjdLS1VlVEttWTBNMEw5N045NlRWeTBGTk5PS1MxZzMzdWgzMUExazd0aG9nWWRyYUdfOHVRU3NzdmRFTC1JR2d0eG9aRTU0cV9zTVFnYW1tMUdueGVYRHNtRnVYUGZVV3BFYks2d1FQeG5vTklTaXJsNThfTWc2RVNySjZTUm9TYXBWczc5WXpRR29UNGtGTnBZSlJqaXp0V203UXBKZTlPTVU3QUlYVTFMUmZSM3k5?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "d9ffd2162f1df7",
       "title": "Barclays Global Consumer Staples Conference 2026",
       "titleOriginal": "Barclays Global Consumer Staples Conference 2026",
@@ -286,6 +350,38 @@
       "publishedAt": "2026-08-27T19:03:17+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTBXbTVNX3dpMnFyd1RBX25Td1FBVzhKZDI5U2I3Wk5MZmd4WDFpbG9FMmUwS0NiTlR3RjMtWEZ5WjF4WFRvSHZnVXhGRHdPMUpoQlh4clhaTjN5Z2dhQ2RxZWVua3BjWTVLU1F6MkdTWWNORVRSekkwUUF3WTM4VXkxYXF6MDB4OWR3RW92eHpjSEYwX1laQmQ5czYzZXJBUHl5NW1kTGtzYVoxeTR4cU9sUks2VE85QjN3d09YTFY?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "91f990a891a8ea",
+      "title": "Hindustan Unilever Capital Markets Day 2026",
+      "titleOriginal": "Hindustan Unilever Capital Markets Day 2026",
+      "summary": "Hindustan Unilever Capital Markets Day 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-27T19:03:17+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTlpqNjdhc2NzN0JZYWREb2hsak9hODFCWUZOb3dMMFJOZHFCaWJIcGtQWld5LURwQlFrOC1SRThWSVRWYU1sa29KR2t6ZV9JMFR0NmFSeTEyMDVTbnZHTkRpYS13R01UVVJMZFRZWS1aM2JyN1FQazFoUjhvZTJUc3pncElaeGRIOXdXdnZEb1pSMlRPb1doUHp2bHRjaVluZEdoRXJWTXF4QnNXanF6dlZxck1rU0U1LVE?oc=5",
       "companies": [],
       "tags": [
         "Unilever",
@@ -333,23 +429,55 @@
       }
     },
     {
-      "id": "651e26a7258c15",
-      "title": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
-      "titleOriginal": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
-      "summary": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
+      "id": "20588f64c4cfcb",
+      "title": "Oferta de empleo para el puesto de Controls Technician - 2nd shift en Unilever",
+      "titleOriginal": "Oferta de empleo para el puesto de Controls Technician - 2nd shift en Unilever",
+      "summary": "Oferta de empleo para el puesto de Controls Technician - 2nd shift en Unilever",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "channels",
+      "category": "brands",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T20:38:27+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNODAxQ1pBc1hzNXNjNlVmMTJCVF9Mdzg2Wm1QeHFNS1VaMDdNTnlSc01EczFuWmhWWVRmZHFwVXdKbDlyTnc5Um1zUGFMdm0tbjVIdzFkM041Yzl3SWpqOVlEd2w4c21ac1ZsYk9tZTMxRDZvZmVLT21oRW95d0h1c3BzN09aNGcwRUZ3dkU4RWJwNEdCWmdkaUFwOVNCUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "700824d8997216",
+      "title": "Trade Marketing Executive",
+      "titleOriginal": "Trade Marketing Executive",
+      "summary": "Trade Marketing Executive",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
       "source": "Estée Lauder Companies",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-08-24T23:21:58+00:00",
+      "publishedAt": "2026-08-24T19:28:40+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQb2RfY2JQNjd0VV81RlFBUFF3MjBqTko4UjQxbkx2UFVyQUJNMkZuRVlHY1dmMl9Tb2M0V1BCbUhqNEhPZk9aMjJjSnU2MDVxVzdub19vSEdyQ19rS3ExaUxZWHc4TGxZbFRXOEcwVlQ1WnYtZV9RaW9BNG03MUN3Tnh6Vi0wT3g3QXlNNW1kRWNRQ3BNVGZTcnlXT0tKMi1fT0N3QmdPSG9nX2M1ZTdkRlFDZ3NWRkRpWG45czRtQmZ5MWRLaUhtRTZYV0d0QzduaFRYUjB1cUJIaGY3NTdKd2c5Q1BGSm5yNC1PcHZUaHJHUzFDR3VuSTNYMEZQelgySjRPVnowanAzdW9E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pSm5rRGpWS3hSbF8xenNIN05xS3VTMXVZV1dtQ1lxSWNHZnE2RDh3QTVHZEQ3TDFsWlM4dExxMkpNTnZHdEt6YzRqUnFLdjVfVVFNYzNYOUJlVk5NR0JuSURjclJJTkFJbFNrWFIxOTZHN2t2WGs4MG93?oc=5",
       "companies": [],
       "tags": [
         "Estée Lauder Companies",
@@ -361,7 +489,7 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 8
+        "actionability": 6
       }
     }
   ]
