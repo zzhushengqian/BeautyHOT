@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T07:09:19.510357+00:00",
+  "generatedAt": "2026-08-29T07:22:05.292269+00:00",
   "items": [
     {
       "id": "243e8201812ab8",
@@ -429,6 +429,38 @@
       }
     },
     {
+      "id": "651e26a7258c15",
+      "title": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
+      "titleOriginal": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
+      "summary": "Sephora Bullring Birmingham Clinique & Dr Jart Skincare consultant 37.5 hours/ 5 days a week",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T23:21:58+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQb2RfY2JQNjd0VV81RlFBUFF3MjBqTko4UjQxbkx2UFVyQUJNMkZuRVlHY1dmMl9Tb2M0V1BCbUhqNEhPZk9aMjJjSnU2MDVxVzdub19vSEdyQ19rS3ExaUxZWHc4TGxZbFRXOEcwVlQ1WnYtZV9RaW9BNG03MUN3Tnh6Vi0wT3g3QXlNNW1kRWNRQ3BNVGZTcnlXT0tKMi1fT0N3QmdPSG9nX2M1ZTdkRlFDZ3NWRkRpWG45czRtQmZ5MWRLaUhtRTZYV0d0QzduaFRYUjB1cUJIaGY3NTdKd2c5Q1BGSm5yNC1PcHZUaHJHUzFDR3VuSTNYMEZQelgySjRPVnowanAzdW9E?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
       "id": "20588f64c4cfcb",
       "title": "Oferta de empleo para el puesto de Controls Technician - 2nd shift en Unilever",
       "titleOriginal": "Oferta de empleo para el puesto de Controls Technician - 2nd shift en Unilever",
@@ -449,38 +481,6 @@
       "companies": [],
       "tags": [
         "Unilever",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "700824d8997216",
-      "title": "Trade Marketing Executive",
-      "titleOriginal": "Trade Marketing Executive",
-      "summary": "Trade Marketing Executive",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T19:28:40+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pSm5rRGpWS3hSbF8xenNIN05xS3VTMXVZV1dtQ1lxSWNHZnE2RDh3QTVHZEQ3TDFsWlM4dExxMkpNTnZHdEt6YzRqUnFLdjVfVVFNYzNYOUJlVk5NR0JuSURjclJJTkFJbFNrWFIxOTZHN2t2WGs4MG93?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
         "官方信源"
       ],
       "baseScore": 60,
