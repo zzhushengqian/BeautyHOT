@@ -1,7 +1,103 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T01:40:19.752620+00:00",
+  "generatedAt": "2026-08-31T05:43:41.624892+00:00",
   "items": [
+    {
+      "id": "db1f3820dd2f7c",
+      "title": "Kao Expands Curél into Nordic Markets as European Growth Accelerates",
+      "titleOriginal": "Kao Expands Curél into Nordic Markets as European Growth Accelerates",
+      "summary": "Kao Expands Curél into Nordic Markets as European Growth Accelerates",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T05:00:24+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjRBbXlVZzVHQ2hEUzUzWnlTTVdSSy1pcm9COGhPYXU2SGt4NmRUVzdRZEkxY0RuSHJqTjRIREIxWU1vZEhCUXktdDFlNTlZSm92RlE2dlVSQzFMbGNzQ3BmcElrU29VNFRIcU1QMFZCMng4ZnRkUHZmODZMU0d5ZGRMZjdUY2ZrUl9kMnJVN096dEJWYlpDOVpQdzd6UjR1ejdYMVBxekw?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c3cd3e305f9f2c",
+      "title": "Beyond Coverage, Toward Living as Yourself: 70 Years of Shiseido Life Quality Makeup",
+      "titleOriginal": "Beyond Coverage, Toward Living as Yourself: 70 Years of Shiseido Life Quality Makeup",
+      "summary": "Beyond Coverage, Toward Living as Yourself: 70 Years of Shiseido Life Quality Makeup",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Shiseido",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T01:45:01+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySU5IX21KUnFXX3VJTHZTck9ya052UUpHamUzWkc1VjBjSTlCYTRCcmllWmNnSkU4bUE3aGxLNU1fNXJMd201VFdVVWJVNDNmMEx5WnZ3c1N0ZU5vbVltNzVqQ3NBUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Shiseido",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "3be2e86d465d59",
+      "title": "美妆TP一哥冲向40亿？",
+      "titleOriginal": "美妆TP一哥冲向40亿？",
+      "summary": "美妆TP一哥冲向40亿？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T01:13:48+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vNktHdjI0YWZGNl9Zdy1TWENuUWxYVE1OcFJyR2g4c25aSXBKVXNIek4tclFEeVViMmR1MWZMeUhta1llWEYtOGVkeTBLaFQ1Rl9jNw?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "a4f19b040f51e4",
       "title": "Omani Rose: Amouage builds a new fragrance raw material supply chain",
@@ -35,10 +131,10 @@
       }
     },
     {
-      "id": "901dcd0cc759b7",
-      "title": "TBC Beauty by the Numbers Infographics: Skincare & The Summer Glow",
-      "titleOriginal": "TBC Beauty by the Numbers Infographics: Skincare & The Summer Glow",
-      "summary": "TBC Beauty by the Numbers Infographics: Skincare & The Summer Glow",
+      "id": "bac7638b037561",
+      "title": "TBC Beauty by the Numbers Infographics: Summer Skincare Trends",
+      "titleOriginal": "TBC Beauty by the Numbers Infographics: Summer Skincare Trends",
+      "summary": "TBC Beauty by the Numbers Infographics: Summer Skincare Trends",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -159,38 +255,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "aed239679a0358",
-      "title": "Galderma inaugurates new U.S. and Latin America headquarters in Miami",
-      "titleOriginal": "Galderma inaugurates new U.S. and Latin America headquarters in Miami",
-      "summary": "Galderma inaugurates new U.S. and Latin America headquarters in Miami",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-30T16:05:15+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkl0Q1R4MmQyU3B2WmU0MDl6UUxxSzRuS01fckNVY0VjV3p5RDhVdUFDMFdoeXNwank5dGxfUWk4WHItckNmZmc3dUdDamhTbHVpa0IzeHhVd0hnMGdNZEZIZnNGLVFoSHpZak10TzlyQ1lOdVN6ZWtJVWFsM3IyVGcxUzNZVmJsZTZZWk11VUhYVFNxbWlqbw?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     },
