@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T05:16:56.330183+00:00",
+  "generatedAt": "2026-09-01T05:39:30.226338+00:00",
   "items": [
     {
       "id": "8c9d77a213c743",
@@ -128,6 +128,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "a1a3908b7d2ef0",
+      "title": "EXCLUSIVE: Laura Geller Returns to Brick-and-mortar With Nationwide Launch in Sephora at Kohl’s",
+      "titleOriginal": "EXCLUSIVE: Laura Geller Returns to Brick-and-mortar With Nationwide Launch in Sephora at Kohl’s",
+      "summary": "EXCLUSIVE: Laura Geller Returns to Brick-and-mortar With Nationwide Launch in Sephora at Kohl’s",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T02:29:33+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLW9jZUc2Z3UzTTNpVElKb3R1Tnp4YnY3SjdKNmMyNExDb2tPcTdTaWd6OEV2bmNDS0QzaGtNOHlDOVBqellSMmdXbGJjN2NWVjI0NVR3a05yMVFudGEyd3k4WjZHU1RPY2xya3RGQm10bTZzT0xsR0xidFhVSlNDcTl0T2ZLdWRzTlBBdzJOV3R4dUFRbjF0MVhIaW8xblRtcmlj?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
       }
     },
     {
@@ -357,10 +389,10 @@
       }
     },
     {
-      "id": "a84dc0ab01a859",
-      "title": "Sephora Stratford 30hr Skincare Consultant",
-      "titleOriginal": "Sephora Stratford 30hr Skincare Consultant",
-      "summary": "Sephora Stratford 30hr Skincare Consultant",
+      "id": "c273d9b403d57a",
+      "title": "MAC Cosmetics Retail Artist Fenwick Newcastle x18 hours",
+      "titleOriginal": "MAC Cosmetics Retail Artist Fenwick Newcastle x18 hours",
+      "summary": "MAC Cosmetics Retail Artist Fenwick Newcastle x18 hours",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -371,9 +403,9 @@
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-08-28T18:21:17+00:00",
+      "publishedAt": "2026-08-29T13:55:10+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTkxneFQ1NUlPMlVnU0NtU3VuUWpUNDhlSFJnMXV5RHJLM3VPZ2V3LTNyWjdGTnh4MVh0ejJPQ2RIZmRfQjdhNFpiVUdIYXVLZktVRXVVQ1UyUWtSSnk1S1c5VHZfdmphdU9rUmhReU50NjVkOTlRYkhqZmFmcENFLUFNczFLa0xTWGpnc1JjVzd0NWp1X0JJUWllSzNlR3JtVWxTUG1acEpwZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ2xjdXBEaGVUaHYycU5iZ1pmLU1ibElzNEpMdTFNbWVVdlVLbkFDLUt2dE52d0lBRHVLMVdVYktkV2ZvUnp0c0UtTTJ5anV4RGFQSnlFNzhqTGcyeVNFMjZfV3o5S1VLX2M5dzJYWGpzMW9aaWZwc1lERWthVTAyaWl0c1RVOVFwYTV2UDJIOGNxNHVvUEgwXzdrSEhUSzhURHQ3ZGtvZkJodXpYalp3Uy04UHYzSm9Od210UVg4Q0MtVUdUc3FOM3c1cmJ5cllZcnFrM0pLMl8tVHNId0E?oc=5",
       "companies": [],
       "tags": [
         "Estée Lauder Companies",
@@ -384,7 +416,7 @@
         "impact": 6,
         "magnitude": 6,
         "china": 3,
-        "novelty": 6,
+        "novelty": 8,
         "actionability": 8
       }
     }
