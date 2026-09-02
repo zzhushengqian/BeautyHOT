@@ -1,7 +1,167 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T01:27:51.491155+00:00",
+  "generatedAt": "2026-09-02T04:42:06.231815+00:00",
   "items": [
+    {
+      "id": "a5b8000d18282c",
+      "title": "Wellness Briefing: Life Time launches LT Social as gyms enter their entertainment era, plus news",
+      "titleOriginal": "Wellness Briefing: Life Time launches LT Social as gyms enter their entertainment era, plus news",
+      "summary": "Wellness Briefing: Life Time launches LT Social as gyms enter their entertainment era, plus news",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T04:03:09+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTXNObDNoUmNOZmRXUXRKNWlhZV9lcDgxLVlvRDlpd19BQWVqbnFjcWloMlpFSk5ZZFRWZVJ2blQ2UzRzRVNBbl9fZ3NIRkl0VlVuVldBWjBLVjREcHZfNW8zaGJMcWNBaVhybXMyZVRTWlowc19PNE1NLXV5TlA5UjVuYlpQdjRvQkhRRHFWTmtub3oyUmFsekF6LWpXemViT3phcjAxY1ZNSm42QmY2ME5DRXdTMkk5YlZFQ3lkWV92aHlTVGhoanhZakNLQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "66f1b4577d0b5f",
+      "title": "Dyson Takes on Oral Care with CameraJet Toothbrush",
+      "titleOriginal": "Dyson Takes on Oral Care with CameraJet Toothbrush",
+      "summary": "Dyson Takes on Oral Care with CameraJet Toothbrush",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T01:41:15+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3RmF0bnE4dlg5d3gxZWFYc2tCNE45WWVYLUV2WExUeTJxRmJCeVNKT1N4ZG9INkh4RWNQUGVFWUFhRTNTbmFJN3NnNllRNEh2ZWQ0elVaVmJKS05hcDdIUGxYNm5EU2pIQ0dtYU9NY3pvbmxwWW1Ldk9QZWw3QQ?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2c3591a2ef26a9",
+      "title": "Beiersdorf Strengthens Derma Business with Microbiome Tech, Launches Eucerin DERMOPURE CLINICAL PROBIOM8",
+      "titleOriginal": "Beiersdorf Strengthens Derma Business with Microbiome Tech, Launches Eucerin DERMOPURE CLINICAL PROBIOM8",
+      "summary": "Beiersdorf Strengthens Derma Business with Microbiome Tech, Launches Eucerin DERMOPURE CLINICAL PROBIOM8",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T00:53:22+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONWFxQ0ZlTVliNE1CVXRVZVhYbGdRMFNlU21LUGNuRmJaQUJHcllpdHkyVzBfYmdNeTVMRGVtSW8wVXVxa2hfb0h5eUoyZUlxTlo4TDJZcE9hUURFN2JLMkRPX2xZVHZVMXplaDFIRXNSNkJ5U2pnZnh1RG5oM2NxQi1yN05Yc1ZMN051Mk02M05pTEQ5VlEteG14YlR1WndNM2lhaDVjRFdBZkI4cXRfSWhEX2YyY3k1Ym92cl9PVjB2NVNpd202ZktaY2pUZ2ZkWTdKX1hIN1RGUHVpSXNOYjZBSXp5WWpROGNBdTVGSDZrT2l0LThuUVNvNXN4TThObHI5UWE2Y3V5YkF1X0NaQmJB?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "ae6157ed4d9de2",
+      "title": "Wella Files for US IPO as Revenue Hits $2.9bn",
+      "titleOriginal": "Wella Files for US IPO as Revenue Hits $2.9bn",
+      "summary": "Wella Files for US IPO as Revenue Hits $2.9bn",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T00:40:50+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaEE0cElkRURBeEN6VjZFcTN6VE01cG0xMXZDanVTQ0dNQXBrRmV1N3YzdEtGUEVlcWIzZV9GeTVMZVUyQjFZeEJWQUNHV3Q2b2pCRUFxWWl4QkFuR1BpVHNRN2UybGQybFdOckhjbFYyUE1wVzllSURLcDJreUZYb0wzb2t2Y2RCa2hqSlJWUzJSaUF6T3NKS3lwZF9EODhqUmxMMHp1T3kzWXpNUF9iUDhsYUJMblh3bjJXbVBHVHhxTjQ2NXlxZ1BVUGZHV1dD?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "93cfee54b39990",
+      "title": "United States/North America Manufacturers",
+      "titleOriginal": "United States/North America Manufacturers",
+      "summary": "United States/North America Manufacturers",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T21:30:22+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kYXh4NDZ0QlJQZjNfX3FuYmFDbUludWt1bUlpa1FjOWRwRnR5aklIa0NpdlJvRm45dzlrVFB4SXhEeEQ4UV9mdkROSV9FSGJFMHkxQkFYUC1XNUt6Ui1DR1h4VC0zWVdqQTZVUVV4YzJiNTJiMnZvV3NGUG10T0k?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "46020a141411bb",
       "title": "Justin Stewart",
@@ -35,38 +195,6 @@
       }
     },
     {
-      "id": "93cfee54b39990",
-      "title": "United States/North America Manufacturers",
-      "titleOriginal": "United States/North America Manufacturers",
-      "summary": "United States/North America Manufacturers",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T21:16:54+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kYXh4NDZ0QlJQZjNfX3FuYmFDbUludWt1bUlpa1FjOWRwRnR5aklIa0NpdlJvRm45dzlrVFB4SXhEeEQ4UV9mdkROSV9FSGJFMHkxQkFYUC1XNUt6Ui1DR1h4VC0zWVdqQTZVUVV4YzJiNTJiMnZvV3NGUG10T0k?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
       "id": "a58ad471854fe1",
       "title": "Core Biogenesis Continues Longevity Concepts Collection with Eye Longevity Shadow",
       "titleOriginal": "Core Biogenesis Continues Longevity Concepts Collection with Eye Longevity Shadow",
@@ -81,7 +209,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-01T20:48:45+00:00",
+      "publishedAt": "2026-09-01T20:51:07+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0laTURrRlN0STdzTGdEMFFPYjAxMVhhbUZKdUZHMGVfZEdNeFJnZFZHdzJLZVJRdDNvYnVKRjBaNHU2VW45Ui1sR19lMFIxRFFQSlZmRENRc2dKUDhZZW9SOUxIWEx3UHlsMV90YTRmRk5seFlrR1NvbjBucm9hWkgyc2ZrVVdqU0F5NkRURzlqbDRwbzl1aTVxUHN3Rm5MbHRXMUtQLVVoNzhDMTNTaHdPXzhPMXBwZmVYS2hEc2UwQk5CeUQ3MWh2Nm81M3pfbmFTZEo1RmFicFdIcUI0X2Y0N1kxWm1aSEstcl9DQ0VmUVVjY00xbTVGd3c?oc=5",
       "companies": [],
@@ -131,6 +259,38 @@
       }
     },
     {
+      "id": "71cc9abdc490b3",
+      "title": "Cosmewax",
+      "titleOriginal": "Cosmewax",
+      "summary": "Cosmewax",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T19:45:38+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVUo3bnM1TUVVRHFfMTlMRmxJRndLSWR5WVBRS2N1WEdnZks5cGtnbHFlR0REUXk5OE9BNUFfd0gwaE4tR0pQR3BoVjVyQXdMRlJKNVBubjNHdUhCeWpuUFdsWFNiUklsRVE?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "69275ef4385100",
       "title": "How BASF Is Using Epigenetic Science to Reinvent Botanical Skincare",
       "titleOriginal": "How BASF Is Using Epigenetic Science to Reinvent Botanical Skincare",
@@ -163,10 +323,10 @@
       }
     },
     {
-      "id": "f23c0d1f827fb0",
-      "title": "BonWellness Is Reimagining Women’s Wellness With Everyday-First Delivery Systems",
-      "titleOriginal": "BonWellness Is Reimagining Women’s Wellness With Everyday-First Delivery Systems",
-      "summary": "BonWellness Is Reimagining Women’s Wellness With Everyday-First Delivery Systems",
+      "id": "76aa0d30ce6ab7",
+      "title": "How US-Canada Tariffs Could Disrupt the Beauty Industry’s Supply Chain",
+      "titleOriginal": "How US-Canada Tariffs Could Disrupt the Beauty Industry’s Supply Chain",
+      "summary": "How US-Canada Tariffs Could Disrupt the Beauty Industry’s Supply Chain",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -177,9 +337,9 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-01T19:27:47+00:00",
+      "publishedAt": "2026-09-01T19:27:07+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HOEFBMVJ4YkVvVlBqT3ZCRTcwRUR3UkFxWHR6dG1PQ3p2V2tHQklSbGd0ak1oR0xxZUlITzdQWDhlaTg3Vy0xczlPMy1YeDVUNUMtamR5SkVXQjVLSWtfSmdSWFc0aDNv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXhvcW9IQTYwcTRPREFjYmhpOTF6Qm9wa2VfdzFUNnphQmprOXVTOENpRHRzaC1nb0dCeklDbDNQMVlWdmk5UjE3NHNHQjE0V0JnRjBweXB3aXhuSTlOTXN2NjVQOVdDV1dZbTB2SUVJRkdLeHJSWjE2eG5RcDh4d3NVcE5GeGVKVlo4NF9lZzBWZW0x?oc=5",
       "companies": [],
       "tags": [
         "BeautyMatter",
@@ -190,39 +350,7 @@
         "impact": 6,
         "magnitude": 6,
         "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "2c3591a2ef26a9",
-      "title": "Beiersdorf Strengthens Derma Business with Microbiome Tech, Launches Eucerin DERMOPURE CLINICAL PROBIOM8",
-      "titleOriginal": "Beiersdorf Strengthens Derma Business with Microbiome Tech, Launches Eucerin DERMOPURE CLINICAL PROBIOM8",
-      "summary": "Beiersdorf Strengthens Derma Business with Microbiome Tech, Launches Eucerin DERMOPURE CLINICAL PROBIOM8",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Cosmetics & Toiletries",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T19:20:15+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONWFxQ0ZlTVliNE1CVXRVZVhYbGdRMFNlU21LUGNuRmJaQUJHcllpdHkyVzBfYmdNeTVMRGVtSW8wVXVxa2hfb0h5eUoyZUlxTlo4TDJZcE9hUURFN2JLMkRPX2xZVHZVMXplaDFIRXNSNkJ5U2pnZnh1RG5oM2NxQi1yN05Yc1ZMN051Mk02M05pTEQ5VlEteG14YlR1WndNM2lhaDVjRFdBZkI4cXRfSWhEX2YyY3k1Ym92cl9PVjB2NVNpd202ZktaY2pUZ2ZkWTdKX1hIN1RGUHVpSXNOYjZBSXp5WWpROGNBdTVGSDZrT2l0LThuUVNvNXN4TThObHI5UWE2Y3V5YkF1X0NaQmJB?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics & Toiletries",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
+        "novelty": 6,
         "actionability": 6
       }
     },
@@ -259,70 +387,6 @@
       }
     },
     {
-      "id": "1167a9bd49ced9",
-      "title": "OPI owner Wella files for US IPO as annual revenue reaches $2.9 billion",
-      "titleOriginal": "OPI owner Wella files for US IPO as annual revenue reaches $2.9 billion",
-      "summary": "OPI owner Wella files for US IPO as annual revenue reaches $2.9 billion",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T17:32:37+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PSFhvNjlMTW91VWw1WnJEcGdqTG45QUJMR2lkdE1ERHgySEZDXzZkUHhDSnRncEJ0S29QN2tFbmtER2JwU0w1U3J2c3ZvSFdrU2U0blA1ZVZFN3RCdzVwSHdnQVgtNEE?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "7d8db7713ecee9",
-      "title": "Seppic Announces Appointment of Virginie Cavalli as Chief Executive Officer",
-      "titleOriginal": "Seppic Announces Appointment of Virginie Cavalli as Chief Executive Officer",
-      "summary": "Seppic Announces Appointment of Virginie Cavalli as Chief Executive Officer",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "Cosmetics & Toiletries",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T16:51:05+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRHBvRFJMdmtzemJhMnJvRGdmLW1xUkFXNnpKTGJ5TmFLUWF6MC1HclJsTDZhUDdSWHc2aVBmVnVxY0xobDdaUVhvZzlEM1BZSmp6cFJBY1FQNFJOMFZQZVplbzBEd3FFYS0tU0ZhMlZEc3c4aGphc3ZGMnNFeG4tLXJSc09jTk9ENWZ4LTY4YkJWRUoyMzZpenlIak83MkZiR2dVSWhPbGlLWW1aN19GU1NEWTBKOXY5bmRtUXlKaWp0eEM1bGtrcWpuLWc5dFY0RFIxaUw4ckpzZWJXeTFqem1aUU1MZw?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics & Toiletries",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
       "id": "e3af52d6071e1e",
       "title": "Coach, SKIMS and Canada Goose are 2026 Glossy Fashion and Luxury Awards winners",
       "titleOriginal": "Coach, SKIMS and Canada Goose are 2026 Glossy Fashion and Luxury Awards winners",
@@ -351,38 +415,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "9d730d3c62d1a6",
-      "title": "Ultra Violette Makes U.S. Sunscreen History With First Bemotrizinol Launch",
-      "titleOriginal": "Ultra Violette Makes U.S. Sunscreen History With First Bemotrizinol Launch",
-      "summary": "Ultra Violette Makes U.S. Sunscreen History With First Bemotrizinol Launch",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T16:02:40+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOWQzeWhxRHNhYzFmb1NFQy0wRF9YMVNfY2N5LVlhd3pLQ1RINWdyM05jVFV4ZHg0Q1RKU1lMTXVWckVuQ1Zja1lUamhmYlY3angtbFBHNXVOSGZmel9zaVZQU21XcW9TMkxyTU1VOXpRdlZkcjNRZTR1X29oRlExSGpMSG5raUxNSkl6Q0hiV3VjSmE4NG9rR3V2VU1GaC1aZUx3WG1kODlLQVkzc3VHSXlsaG9VelFtWlVRc25OY1VJVUhIbUdXbmNSRUh4N0VuOE1VUnNKYw?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     },
@@ -567,38 +599,6 @@
       "companies": [],
       "tags": [
         "Kao",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "3be2d76b1fb5a1",
-      "title": "Execution Planner - Home Care at Unilever",
-      "titleOriginal": "Execution Planner - Home Care at Unilever",
-      "summary": "Execution Planner - Home Care at Unilever",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Unilever",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T03:50:10+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2JMUF9zQmgyX2I5aUdzZWtfVlJHa1FUNDZLV3h5R2tleFpVQjEtb1FNT2w1dzA5dThXc2lmVnFvSl9xcHd2RU1JVzU1Zll3a0tRODRlbFBwV09JUS0taHExbGZiVEZEcjlQa0tTaWVsWEVMTFMtZXhvWEIwd3RFWTlVWXdzQXBubHp1X25jeEV4VEU?oc=5",
-      "companies": [],
-      "tags": [
-        "Unilever",
         "官方信源"
       ],
       "baseScore": 60,
