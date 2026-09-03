@@ -74,6 +74,9 @@
 - WWD — `wwd.com`
 - Vogue Business — `voguebusiness.com`
 - Ladymax — `ladymax.cn`
+- 36Kr — `36kr.com`
+- 界面新闻 — `jiemian.com`
+- 第一财经 — `yicai.com`
 - Glossy — `glossy.co`
 
 ## C 级：美妆垂直媒体
@@ -91,6 +94,8 @@
 - CEW — `cew.org`
 - 聚美丽 — `jumeili.cn`
 - 品观 — `pinguan.com`
+- 亿邦动力 — `ebrun.com`
+- 无时尚中文网 — `nofashion.cn`
 
 ## 重点观察实体
 

@@ -524,6 +524,56 @@
                         "kind":  "china-vertical-media",
                         "ceid":  "CN:zh-Hans",
                         "domain":  "pinguan.com"
+                    },
+                    {
+                        "name": "36Kr",
+                        "domain": "36kr.com",
+                        "tier": "B",
+                        "kind": "china-business-media",
+                        "keywords": ["美妆", "化妆品", "护肤", "彩妆", "香水", "业绩", "财报", "融资", "收购", "人事"],
+                        "gl": "CN",
+                        "hl": "zh-CN",
+                        "ceid": "CN:zh-Hans"
+                    },
+                    {
+                        "name": "界面新闻",
+                        "domain": "jiemian.com",
+                        "tier": "B",
+                        "kind": "china-business-media",
+                        "keywords": ["美妆", "化妆品", "护肤", "彩妆", "香水", "奢侈品美妆", "业绩", "财报", "融资", "收购", "人事"],
+                        "gl": "CN",
+                        "hl": "zh-CN",
+                        "ceid": "CN:zh-Hans"
+                    },
+                    {
+                        "name": "亿邦动力",
+                        "domain": "ebrun.com",
+                        "tier": "C",
+                        "kind": "china-ecommerce-media",
+                        "keywords": ["美妆", "化妆品", "护肤", "彩妆", "香水", "电商", "渠道", "零售", "业绩", "融资"],
+                        "gl": "CN",
+                        "hl": "zh-CN",
+                        "ceid": "CN:zh-Hans"
+                    },
+                    {
+                        "name": "无时尚中文网",
+                        "domain": "nofashion.cn",
+                        "tier": "C",
+                        "kind": "china-fashion-business-media",
+                        "keywords": ["美妆", "化妆品", "护肤", "彩妆", "香水", "奢侈品", "零售", "业绩", "收购", "人事"],
+                        "gl": "CN",
+                        "hl": "zh-CN",
+                        "ceid": "CN:zh-Hans"
+                    },
+                    {
+                        "name": "第一财经",
+                        "domain": "yicai.com",
+                        "tier": "B",
+                        "kind": "china-business-media",
+                        "keywords": ["美妆", "化妆品", "护肤", "彩妆", "香水", "消费", "业绩", "财报", "融资", "收购", "人事"],
+                        "gl": "CN",
+                        "hl": "zh-CN",
+                        "ceid": "CN:zh-Hans"
                     }
                 ],
     "listedDisclosureWatchlist": [
