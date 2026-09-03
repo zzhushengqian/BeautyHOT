@@ -1,7 +1,71 @@
 {
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T01:31:22.424486+00:00",
+  "generatedAt": "2026-09-03T04:38:36.612919+00:00",
   "items": [
+    {
+      "id": "ef14e59ea5e013",
+      "title": "Articles",
+      "titleOriginal": "Articles",
+      "summary": "Articles",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T00:38:54+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hWnltcTZfS0xJc2o4eEI4UnU4a003OXlYMHJ4enoyeUFmYUhlVDhrUTZVZTFmaTlia0pRMWtud0Q2LWhCcXRBbDI4Qmx0N2xoUFZmd0dDUHRoVTF4V2QybDl5Q0hzUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2aec7990f36b43",
+      "title": "Minesh",
+      "titleOriginal": "Minesh",
+      "summary": "Minesh",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T23:16:25+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55TzBJSS1LQnV4Tk5KQ0pPZTAtSHVkQV96NXk3YXROYjljdkRKVEVZaW9xZFI4UXNBejJndm5HZUVFaDBFUGJMNUM3UU9RN1k?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "85b723a4bfd30c",
       "title": "Natura brings back former CEO Alessandro Carlucci to revive growth",
@@ -247,70 +311,6 @@
       "companies": [],
       "tags": [
         "Cosmetics & Toiletries",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "7f91a5cd94f425",
-      "title": "Mane boosts citrus innovation and capabilities with Cvista acquisition",
-      "titleOriginal": "Mane boosts citrus innovation and capabilities with Cvista acquisition",
-      "summary": "Mane boosts citrus innovation and capabilities with Cvista acquisition",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T15:15:41+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWDVNNURyTlhKTDF3RWtlVU1yTE9LQlpJZU9mamowbGRBaElnU21RM2VfeFlLdTNmOVF5RnpWR2NiYkZPRmpnMmdTTU9IRXhrWXlNQ2N2VWhnVFViS1VPNFhnTm5MUjlxUUFxbHVKVGhuRklYMWRMazl6Tjc0TElUMWZR?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "ad613d5e50de4f",
-      "title": "Alex Baldock Joins Boots as Chief Executive",
-      "titleOriginal": "Alex Baldock Joins Boots as Chief Executive",
-      "summary": "Alex Baldock Joins Boots as Chief Executive",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T14:16:05+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLN3h3ME10VnpCRFoxVnRGT09NaEVyTkJvNWNLUGtsek9EZWVsTDBrSUc4Q0JQLUlib3J4VlpEZVhsV3V5VXJOVnN6MUxUZWlUTzRaaElyalFsaDA1bVZhOGZrblVLelFxSlJKV1QwenJMcWlnWUdWeTItaXQ?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
         "自动采集"
       ],
       "baseScore": 60,
