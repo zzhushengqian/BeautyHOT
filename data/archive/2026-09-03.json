@@ -1,7 +1,231 @@
 {
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T05:02:50.565111+00:00",
+  "generatedAt": "2026-09-03T07:36:22.280626+00:00",
   "items": [
+    {
+      "id": "0b9a11e2eefe3f",
+      "title": "Darkfin Labs Brings Longevity Science To Ulta",
+      "titleOriginal": "Darkfin Labs Brings Longevity Science To Ulta",
+      "summary": "Darkfin Labs Brings Longevity Science To Ulta",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVzhQM3FXOFR2amFDV083d1hKU0xaNVB6bnk1b0xZdEsxaFFZTEY5eFJhVkxIVkkwTXhXVno2MXFZMFRvUlgyNEtlYW0zRUg1VVB4bS1HVDlUaUxmQmZSbXlvYmM2dmt6STVnckJNVFZ2UThUM1E1OFAyQUhQUkRWYzZ3cGJzTnpKMTU3U05HT29tck0?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "0ef4c54e17c949",
+      "title": "How Wizard Wellness used a beauty playbook to disrupt the allergy aisle",
+      "titleOriginal": "How Wizard Wellness used a beauty playbook to disrupt the allergy aisle",
+      "summary": "How Wizard Wellness used a beauty playbook to disrupt the allergy aisle",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T05:25:38+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVhSM00yOW5XWUdxajdURkJrNFZGcVJRQ0EzVXVRLWhqMnQ2bmU4dXBEYkZRdHJNbFRMNkNzdld3Nm5nTFdEbU5McUNlSFVRVll5dmk3Q1hyR0J3aDlKaWJ0Ti1RRGZVWWxlNC1kam1ZNGN6Y3N1Qlh0dmo0STA3MTB6V2ZoTFZqZWpZYlVsUmI0MjVkTDg4MTV5ZXFlQWc4OHQ0LXhB?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "8bc40a323acb2b",
+      "title": "OLIVE TREE PEOPLE Opens First US Flagship in Los Angeles",
+      "titleOriginal": "OLIVE TREE PEOPLE Opens First US Flagship in Los Angeles",
+      "summary": "OLIVE TREE PEOPLE Opens First US Flagship in Los Angeles",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T05:01:10+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmhFLVFmU3Q4TXp0alRVMGJQRlY3eUQzWWNhcnRoVXBtZEhxT1JUTEc0ZXJPc3VrX1RrMXJmMzZTTGIwZFFHWDNSNVFhaVFTeXo1OGZ5dWtuYmxZa0paa0NzQXZ1bWtETlZpc2ZELTRLRWFxbG9HTk9LWVJub0pxR1N1eGVaQVpzOXBlWEx4TFpZdzhjY0pOQw?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d667b224afddfe",
+      "title": "男士护肤，在得物如何跑出超级爆款？-品观网|2025杭州CiE美妆创新展|化妆品美妆行业权威资讯平台",
+      "titleOriginal": "男士护肤，在得物如何跑出超级爆款？-品观网|2025杭州CiE美妆创新展|化妆品美妆行业权威资讯平台",
+      "summary": "男士护肤，在得物如何跑出超级爆款？-品观网|2025杭州CiE美妆创新展|化妆品美妆行业权威资讯平台",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T04:31:46+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0cHRoZnpGR3BuQml5TnkyZ2xkdTN5Zm10WFN1OGxfeWxlSWtBOTU1a3ZOWlFzdkRTZG1uVHE0ZHFzRkROTGhXVE5OVEhMeDNQcUZGZ0xUR00?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "178f822e3608c9",
+      "title": "Beauty’s Top Headlines: September 3, 2026",
+      "titleOriginal": "Beauty’s Top Headlines: September 3, 2026",
+      "summary": "Beauty’s Top Headlines: September 3, 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "CEW",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T04:29:17+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nenJBckdYeVdjdjdvQUJkM0tuNE4tZm42WnUySFRaOVlrcHpxaXB3RmMxVFZoc3IzdS1aZXRtdThtLXVYcldwRlVMMnVuQWE2N001VnlKbTQ0dGo1RFFTMTcxWFJuckdnUkRzc2RKdU0xaHF1UXc?oc=5",
+      "companies": [],
+      "tags": [
+        "CEW",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "4f42786ad48914",
+      "title": "Kao Malaysia | Product Catalogue | Base Milk Tone Up",
+      "titleOriginal": "Kao Malaysia | Product Catalogue | Base Milk Tone Up",
+      "summary": "Kao Malaysia | Product Catalogue | Base Milk Tone Up",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Kao",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T04:18:33+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTHdRNk83Y3ZiNW1Fd05EdTVJbDBLZkpCT1VWcXp6SjFuVW5seTFCaTBYeTUzLTZRVHFzUVp1Zkw0UnFQb2VsRnIyRXItOXpvQlUtZnFIejNWSjg?oc=5",
+      "companies": [],
+      "tags": [
+        "Kao",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "0a2002628270cc",
+      "title": "2026城市消费生态大会暨零售业创新发展论坛，正式启动！-品观网|2025杭州CiE美妆创新展|化妆品美妆行业权威资讯平台",
+      "titleOriginal": "2026城市消费生态大会暨零售业创新发展论坛，正式启动！-品观网|2025杭州CiE美妆创新展|化妆品美妆行业权威资讯平台",
+      "summary": "2026城市消费生态大会暨零售业创新发展论坛，正式启动！-品观网|2025杭州CiE美妆创新展|化妆品美妆行业权威资讯平台",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T03:44:46+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IUDZ1eDJPSWFSaGc1c1JSVGlvcDFnUG1qS0s3QVR2MHg1azVLNTZfNDQtSjJzR1U0SzhlUmRmRVUxdkEwMmthX2g2ZEpXUjZ6WHVXckk5OXU?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "ef14e59ea5e013",
       "title": "Articles",
@@ -67,251 +291,27 @@
       }
     },
     {
-      "id": "85b723a4bfd30c",
-      "title": "Natura brings back former CEO Alessandro Carlucci to revive growth",
-      "titleOriginal": "Natura brings back former CEO Alessandro Carlucci to revive growth",
-      "summary": "Natura brings back former CEO Alessandro Carlucci to revive growth",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T22:15:47+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BcnBpZElGSHpsVG9ORGJtUk5WY251VmJ5cGdUc2NjSlZ2ZnhLUFRna3NUTkdsMW5sU09qLWR3T1NZRTJwVHBfU3IzdEdwd05rQ3YzVzVVTWRpaXZiQms3YjdLdEwxY1M3ZE1uazExRmE3R1pXSzFjSm14eFQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "0bb0c8104ce60b",
-      "title": "Natalie Lockhart",
-      "titleOriginal": "Natalie Lockhart",
-      "summary": "Natalie Lockhart",
+      "id": "4378b464141632",
+      "title": "Guerlain revisits an icon: L’Heure Bleue",
+      "titleOriginal": "Guerlain revisits an icon: L’Heure Bleue",
+      "summary": "Guerlain revisits an icon: L’Heure Bleue",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
+      "source": "LVMH",
+      "sourceTier": "A",
+      "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-09-02T21:23:35+00:00",
+      "publishedAt": "2026-09-02T18:06:50+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqR0VUUjl2QlBFUnAwLUtWWWQ3STYtdlMtOHJWUjlWODR1MkRJRF9WQnVXTkpLOWpKX20yZGZyaTU4NjR0azZzNXk1Wmlqd3oxdDJBeg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZU3ZRS0JNcm5vUklnbkVMQTFRcExxWEJqRFZkYnpCamF3QjJTRXhXeEFIb0tKbWJHQ281VHdBc2JMZ2g2UXZWZTF3SGw0T3Vzb1RlcUtqUEFQUE1sOTBEaWFDYzM1UWVyWnhLWGJUM3VMVmYyVld0eGlCV0s?oc=5",
       "companies": [],
       "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "9eeb27195f2f39",
-      "title": "Luxurious Layers Lead in Home Fragrance",
-      "titleOriginal": "Luxurious Layers Lead in Home Fragrance",
-      "summary": "Luxurious Layers Lead in Home Fragrance",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T20:36:14+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEay1PQ3UtbHE0UkRvU3BEUm9NRVNLR0JHUE00VUJjUGRZMlRhUHBkZWRONHRfLU1lbWl2em9YbUFEQUtvUzBUM2JNQTBFWl9RZVVKcTl3a2VPdUhFYjl4Sm9zcDJoNEVCS3BzMlQwYw?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ece1fe664c31dc",
-      "title": "The Beauty Industry Has Already Moved Beyond Animal Testing: It’s Time Policy Caught Up",
-      "titleOriginal": "The Beauty Industry Has Already Moved Beyond Animal Testing: It’s Time Policy Caught Up",
-      "summary": "The Beauty Industry Has Already Moved Beyond Animal Testing: It’s Time Policy Caught Up",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T20:35:44+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRTdsWGR0MFlaMWVLaXV6YUdsNWNYRlk1djhrY0pibVk2RExLcTBCWEtJMm9yZkFWczBqQ3JmYlRrcW5VTFpGVExCSXY2YXh1RnJqZ3VpdmtmNWRXbDdDSnFQVlIycVFYSzJXWGdtMkVCYl9fa0djUXh0eURsNzZnRndiWmZzU1Y5WlFMWkpJcVUwU3h3SHN5UlBncUNJVi1uMDFOaS1BUEJXaHJa?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "e227e7fd2ca58a",
-      "title": "Dollar Shave Club to Acquire Truly Beauty",
-      "titleOriginal": "Dollar Shave Club to Acquire Truly Beauty",
-      "summary": "Dollar Shave Club to Acquire Truly Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T19:24:02+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFZtSFZPeEl6YkFzVjFPbVQyYjFhVDlpbU9FbkhYcHNqOTlzRkM2d1pHZC1DV0U3WWRZVVVScHVKc05xN3RBblVGVEpvcnJyeEZzaU1qZmxpVzdEM1Z3LW1mQ0c2cmQyT2dYSTV0d1hxV21KNHFTcnB5X3hiT2R2aA?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "7b87c2df1fdcc1",
-      "title": "CeraVe Takes Skin-Barrier First Approach with Super Boost Serum",
-      "titleOriginal": "CeraVe Takes Skin-Barrier First Approach with Super Boost Serum",
-      "summary": "CeraVe Takes Skin-Barrier First Approach with Super Boost Serum",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics & Toiletries",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T17:16:07+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTRGbGtpSmpjczRMMUFVaVpvamlRdjladUszVTFnNUpjX3FFbHhYWC1mM0pEaUJDN3VIdjgzYXFUZm8tNFBNWURaZFgzLXhqdUtJdFJ5WU1EWHpaM3RHUnBBYk00ZFZWMzNLZDY2Zm5QelpqSVh5dS1MNng5WWVtZ3NOSnFBd3BsXzdWaVp1bUpWSG5mdFhQNVNzWjBmRmtZMW5odm1ndmdfZ3BuZ0NvcnVrMG85Vk0tTUI0Yk4zWWwwb1pyaHZxS1c0R0ZvUUdaT0hBWThnQldYMHBJbHZLMG1naw?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics & Toiletries",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "0dd68ecbebb139",
-      "title": "Briogeo Founder Launches New Hair Care Brand, Soulstice",
-      "titleOriginal": "Briogeo Founder Launches New Hair Care Brand, Soulstice",
-      "summary": "Briogeo Founder Launches New Hair Care Brand, Soulstice",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T16:12:45+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjhpNGVRWWprN1lrUGQxM3NkNGgyLV95MGhDM0syWjUxRWtoR0cxUUxMaGJXY2RXdjhyN19DRFNxSDRwel9weC1UZU1lVjlsaGhYTEMtaUo4dmEtU081b1QyOFd5TVRTeXkwbWtxUld1dThUTmx0UWw3eHVfQmk2MnM0S2xZS0w2MkwzeHBKdnYxSWd4cEdiT0pVUGdmWGRud3FPRC04ZUhOaWk3Q1NnOUE4c3N3LTNBLXc?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "74458df3a03ba4",
-      "title": "Advancing Hyper-Personalized Cosmetics: A Dual Approach Combining Regulatory Methodology and Live A/B Performance Testing",
-      "titleOriginal": "Advancing Hyper-Personalized Cosmetics: A Dual Approach Combining Regulatory Methodology and Live A/B Performance Testing",
-      "summary": "Advancing Hyper-Personalized Cosmetics: A Dual Approach Combining Regulatory Methodology and Live A/B Performance Testing",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics & Toiletries",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T15:19:56+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPSGs4ZmhJcnZiaTEwWVNNZnVYTDdoT1lvWkxYUkJJNjJfaDRfQ2VQa0QyS2p6eHV2cXgyQndDVFR5N0RwV0VNWWlJa1IyalNxN1J0RFl0Vjh3VFNKN3hJX2w3MjJ4am94bXVZQkxXVENiSEZNU2N2WHJIYzA0bS1DeTVUUmxQRmZCRlVpeTQ1X2hORl9EX0Q3X0hqM0R3ZkFFWGNrbks5RURvSkE3YkpNTnVhRS13TjV0QmZfV0NiaGFkVHRNRjZtaDJPbDROUThPU0Zrakp3QmxmTWkyVGhyMjlyZGNZS1hJdENoVXJSYjdSOUk5WV9hQkZoNExiS2JJaHhibFR6Unhmdjk3SmxodUowY05Rd0c4clNUbk52MjdUZ0hjQUFfTzRaQXg4TFpWSG5pRGlfa0N3ekMxTEpB?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics & Toiletries",
-        "自动采集"
+        "LVMH",
+        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
@@ -361,7 +361,7 @@
       "summary": "逸仙电商季报图解：营收11亿 净亏9080万 杨东皓将卸任CFO",
       "why": "逸仙电商属于国内重点美妆集团，人事与组织变化可能影响品牌战略和经营执行。",
       "category": "people",
-      "source": "Sohu",
+      "source": "sohu.com",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
@@ -483,35 +483,40 @@
       }
     },
     {
-      "id": "cfa59ad9d2b471",
-      "title": "Done Deal: LVMH Completes Sale of Marc Jacobs to WHP and G-III",
-      "titleOriginal": "Done Deal: LVMH Completes Sale of Marc Jacobs to WHP and G-III",
-      "summary": "Done Deal: LVMH Completes Sale of Marc Jacobs to WHP and G-III",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "id": "0b57cc0939dbac",
+      "title": "逸仙电商发布2026年第二季度财务业绩",
+      "titleOriginal": "Yatsen Announces Second Quarter 2026 Financial Results",
+      "summary": "逸仙电商在投资者关系官网发布：Yatsen Announces Second Quarter 2026 Financial Results。",
+      "why": "逸仙电商（YSG）的投资者关系公告，属于可直接核验的一手披露。",
       "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
       },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
+      "category": "financials",
+      "source": "逸仙电商 IR（官方公告）",
+      "sourceTier": "A",
+      "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-09-01T20:47:15+00:00",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamhVSUQxSkQzb21nVUMwaDdVa2F4VEpjUUNCT3ZZTWM1RHBnNmc4RmtVanZlTHN2WmNFazBrTDh1ODVMem96LWs3eHN5d1hYcDFtNVpfQk16THZfbE1qYmE2VmYwWUgzNk9VdlA2TFRrVGdGa0JGZzZCcHJjRW5YeHdkODJWYnQ2Y0FPQ0JSNFVVN204SkFYQ1BtVlR4bmZ3WjJvMV9GUQ?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
+      "url": "https://ir.yatsenglobal.com/2026-09-02-Yatsen-Announces-Second-Quarter-2026-Financial-Results",
+      "companies": [
+        "逸仙电商"
       ],
-      "baseScore": 60,
+      "tags": [
+        "逸仙电商",
+        "YSG",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
       "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
       }
     },
     {
@@ -547,35 +552,114 @@
       }
     },
     {
-      "id": "feb974921134d4",
-      "title": "Human Resources | Expertise",
-      "titleOriginal": "Human Resources | Expertise",
-      "summary": "Human Resources | Expertise",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "id": "bf23936718667a",
+      "title": "林清轩发布2026年中期业绩",
+      "titleOriginal": "(1) INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026; (2) PROPOSED ADOPTION OF THE DIVIDEND PLAN FOR THE NEXT THREE YEARS (2026-2028); AND (3) PROPOSED ADOPTION OF THE 2026 H SHARE SCHEME",
+      "summary": "林清轩（02657）在港交所披露：(1) INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026; (2) PROPOSED ADOPTION OF THE DIVIDEND PLAN FOR THE NEXT THREE YEARS (2026-2028); AND (3) PROPOSED ADOPTION OF THE 2026 H SHARE SCHEME。",
+      "why": "林清轩（02657）的港交所法定公告，属于可直接核验的一手披露。",
       "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
       },
-      "category": "brands",
-      "source": "L'Oréal Group",
+      "category": "financials",
+      "source": "港交所披露易（法定公告）",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-08-29T07:00:00+00:00",
+      "publishedAt": "2026-08-31T18:36:00+08:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CbzFKTkd2WkRxU015OUtDSERUU1k5eUF6dGhtTUFpbGJCN092TEZrZmdmX1dHS25ERXA3bXptb3U3MGhxUXFXMnVtcnZoMWlOZnkydmlVZkt5cUdfRS00cEVxNWhJUQ?oc=5",
-      "companies": [],
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0831/2026083101425.pdf",
+      "companies": [
+        "林清轩"
+      ],
       "tags": [
-        "L'Oréal Group",
+        "林清轩",
+        "02657",
+        "上市公司公告",
         "官方信源"
       ],
-      "baseScore": 60,
+      "baseScore": 88,
+      "priorityDisclosure": true,
       "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "8998bf52f642cc",
+      "title": "毛戈平发布2026年中期业绩",
+      "titleOriginal": "INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026",
+      "summary": "毛戈平（01318）在港交所披露：INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026。",
+      "why": "毛戈平（01318）的港交所法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "港交所披露易（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-28T12:01:00+08:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082800015.pdf",
+      "companies": [
+        "毛戈平"
+      ],
+      "tags": [
+        "毛戈平",
+        "01318",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "d38319f53041f2",
+      "title": "上美股份发布2026年中期业绩",
+      "titleOriginal": "INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026",
+      "summary": "上美股份（02145）在港交所披露：INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026。",
+      "why": "上美股份（02145）的港交所法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "港交所披露易（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-27T21:00:00+08:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0827/2026082701717.pdf",
+      "companies": [
+        "上美股份"
+      ],
+      "tags": [
+        "上美股份",
+        "02145",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
       }
     }
   ]

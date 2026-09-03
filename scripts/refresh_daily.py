@@ -12,6 +12,8 @@ BEIJING = timezone(timedelta(hours=8))
 CNINFO_SEARCH_URL = "https://www.cninfo.com.cn/new/information/topSearch/query"
 CNINFO_ANNOUNCEMENT_URL = "https://www.cninfo.com.cn/new/hisAnnouncement/query"
 CNINFO_PDF_BASE = "https://static.cninfo.com.cn/"
+HKEX_SEARCH_URL = "https://www1.hkexnews.hk/search/titleSearchServlet.do"
+HKEX_PDF_BASE = "https://www.hkexnews.hk"
 MODELS_ENDPOINT = "https://models.github.ai/inference/chat/completions"
 MODELS_API_VERSION = "2026-03-10"
 MODEL_CANDIDATES = [
@@ -192,6 +194,131 @@ def collect_cninfo_disclosures():
                 "publishedLabel": "最近 7 天", "url": CNINFO_PDF_BASE + pdf_path,
                 "companies": [issuer["name"]],
                 "tags": [issuer["name"], code, "上市公司公告", "官方信源"],
+                "baseScore": 88, "priorityDisclosure": True,
+                "signals": {"impact": 10, "magnitude": 9, "china": 10, "novelty": 8, "actionability": 10},
+            })
+    return found
+
+def clean_hkex_title(title):
+    return re.sub(r"\s+", " ", html.unescape(title or "")).strip()
+
+def is_material_hkex_disclosure(title):
+    lower = title.lower()
+    return any(term in lower for term in (
+        "interim results", "annual results", "quarterly results", "interim report", "annual report",
+        "profit alert", "profit warning", "buyback", "acquisition", "appointment",
+        "resignation", "change in director",
+    ))
+
+def hkex_display_title(company, title):
+    """Give common HKEX result-document headings a concise Chinese display title."""
+    lower = title.lower()
+    year_match = re.search(r"(20\d{2})", title)
+    year = year_match.group(1) if year_match else ""
+    if "interim results" in lower:
+        return f"{company}发布{year}年中期业绩" if year else f"{company}发布中期业绩"
+    if "interim report" in lower:
+        return f"{company}发布{year}年中期报告" if year else f"{company}发布中期报告"
+    if "annual results" in lower:
+        return f"{company}发布{year}年年度业绩" if year else f"{company}发布年度业绩"
+    if "annual report" in lower:
+        return f"{company}发布{year}年年度报告" if year else f"{company}发布年度报告"
+    return f"{company}：{title}"
+
+def collect_hkex_disclosures():
+    """Collect official HKEX documents for monitored Hong Kong-listed groups."""
+    found = []
+    now_bj = datetime.now(timezone.utc).astimezone(BEIJING)
+    from_date = (now_bj - timedelta(days=7)).strftime("%Y%m%d")
+    to_date = now_bj.strftime("%Y%m%d")
+    for issuer in CONFIG.get("hkexDisclosureWatchlist", []):
+        params = {
+            "sortDir": "0", "sortByOptions": "DateTime", "category": "0", "market": "SEHK",
+            "stockId": str(issuer["stockId"]), "documentType": "", "fromDate": from_date,
+            "toDate": to_date, "title": "", "searchType": "0", "t1code": "-2",
+            "t2Gcode": "-2", "t2code": "-2", "rowRange": "100", "lang": "E",
+        }
+        try:
+            payload = json.loads(fetch(HKEX_SEARCH_URL + "?" + urllib.parse.urlencode(params)).decode("utf-8"))
+            announcements = json.loads(payload.get("result") or "[]")
+        except Exception as exc:
+            safe_log(f"warning: HKEX {issuer['name']} ({issuer['code']}): {exc}")
+            continue
+        titles = [clean_hkex_title(item.get("TITLE")) for item in announcements]
+        has_interim_results = any("interim results" in item.lower() for item in titles)
+        has_annual_results = any("annual results" in item.lower() for item in titles)
+        for announcement in announcements:
+            title = clean_hkex_title(announcement.get("TITLE"))
+            file_link = (announcement.get("FILE_LINK") or "").strip()
+            if not title or not file_link or not is_material_hkex_disclosure(title):
+                continue
+            lower_title = title.lower()
+            if ("interim report" in lower_title and has_interim_results) or (
+                "annual report" in lower_title and has_annual_results
+            ):
+                continue
+            try:
+                published = datetime.strptime(announcement.get("DATE_TIME", ""), "%d/%m/%Y %H:%M").replace(tzinfo=BEIJING)
+            except ValueError:
+                published = now_bj
+            url = file_link if file_link.startswith("http") else HKEX_PDF_BASE + file_link
+            item_id = hashlib.sha1((issuer["code"] + title + url).encode()).hexdigest()[:14]
+            found.append({
+                "id": item_id, "title": hkex_display_title(issuer["name"], title), "titleOriginal": title,
+                "summary": f"{issuer['name']}（{issuer['code']}）在港交所披露：{title}。",
+                "why": f"{issuer['name']}（{issuer['code']}）的港交所法定公告，属于可直接核验的一手披露。",
+                "analysis": {"impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。", "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"},
+                "category": category(title), "source": "港交所披露易（法定公告）", "sourceTier": "A",
+                "verification": "official", "sourceCount": 1, "publishedAt": published.isoformat(),
+                "publishedLabel": "最近 7 天", "url": url, "companies": [issuer["name"]],
+                "tags": [issuer["name"], issuer["code"], "上市公司公告", "官方信源"],
+                "baseScore": 88, "priorityDisclosure": True,
+                "signals": {"impact": 10, "magnitude": 9, "china": 10, "novelty": 8, "actionability": 10},
+            })
+    return found
+
+def collect_ir_disclosures():
+    """Collect material releases from monitored company investor-relations pages."""
+    found = []
+    now_bj = datetime.now(timezone.utc).astimezone(BEIJING)
+    for issuer in CONFIG.get("irDisclosureWatchlist", []):
+        try:
+            page = fetch(issuer["url"]).decode("utf-8", errors="replace")
+        except Exception as exc:
+            safe_log(f"warning: IR {issuer['name']}: {exc}")
+            continue
+        for block in re.findall(r'<li class="wd_item">(.*?)</li>', page, flags=re.IGNORECASE | re.DOTALL):
+            date_match = re.search(r'<div class="wd_date">\s*([^<]+)', block, flags=re.IGNORECASE)
+            link_match = re.search(r'<div class="wd_title">\s*<a href="([^"]+)">\s*(.*?)\s*</a>', block, flags=re.IGNORECASE | re.DOTALL)
+            if not date_match or not link_match:
+                continue
+            title_original = clean_hkex_title(re.sub(r"<[^>]+>", "", link_match.group(2)))
+            lower = title_original.lower()
+            if not any(term in lower for term in ("financial results", "annual results", "quarterly results", "earnings")):
+                continue
+            try:
+                published = datetime.strptime(date_match.group(1).strip(), "%b %d, %Y").replace(tzinfo=BEIJING)
+            except ValueError:
+                published = now_bj
+            if (now_bj - published).days > 7:
+                continue
+            quarter = re.search(r"(first|second|third|fourth) quarter (20\d{2})", title_original, re.IGNORECASE)
+            if quarter:
+                ordinal = {"first": "第一", "second": "第二", "third": "第三", "fourth": "第四"}[quarter.group(1).lower()]
+                title = f"逸仙电商发布{quarter.group(2)}年{ordinal}季度财务业绩"
+            else:
+                title = "逸仙电商发布财务业绩"
+            url = html.unescape(link_match.group(1).strip())
+            item_id = hashlib.sha1((issuer["code"] + title_original + url).encode()).hexdigest()[:14]
+            found.append({
+                "id": item_id, "title": title, "titleOriginal": title_original,
+                "summary": f"逸仙电商在投资者关系官网发布：{title_original}。",
+                "why": f"逸仙电商（{issuer['code']}）的投资者关系公告，属于可直接核验的一手披露。",
+                "analysis": {"impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。", "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"},
+                "category": "financials", "source": "逸仙电商 IR（官方公告）", "sourceTier": "A",
+                "verification": "official", "sourceCount": 1, "publishedAt": published.isoformat(),
+                "publishedLabel": "最近 7 天", "url": url, "companies": [issuer["name"]],
+                "tags": [issuer["name"], issuer["code"], "上市公司公告", "官方信源"],
                 "baseScore": 88, "priorityDisclosure": True,
                 "signals": {"impact": 10, "magnitude": 9, "china": 10, "novelty": 8, "actionability": 10},
             })
@@ -416,7 +543,7 @@ def collect_priority_personnel():
     return found
 
 def collect():
-    found = collect_cninfo_disclosures()
+    found = collect_cninfo_disclosures() + collect_hkex_disclosures() + collect_ir_disclosures()
     for source in CONFIG["queries"]:
         is_listed_official = source.get("kind") == "listed-company-official"
         source_terms = source.get("keywords") or (
@@ -476,7 +603,7 @@ def collect():
         dedup.setdefault(key, item)
     candidates = list(dedup.values())
     selected = []
-    selected.extend([item for item in candidates if item.get("priorityDisclosure")][:16])
+    selected.extend([item for item in candidates if item.get("priorityDisclosure")][:24])
     selected_ids = {item["id"] for item in selected}
     selected.extend([item for item in candidates if item.get("priorityPersonnel") and item["id"] not in selected_ids][:12])
     selected_ids = {item["id"] for item in selected}

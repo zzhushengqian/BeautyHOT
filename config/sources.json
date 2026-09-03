@@ -537,6 +537,14 @@
         {"name": "水羊股份", "code": "300740"},
         {"name": "锦波生物", "code": "832982"}
     ],
+    "hkexDisclosureWatchlist": [
+        {"name": "上美股份", "code": "02145", "stockId": "1000178602"},
+        {"name": "毛戈平", "code": "01318", "stockId": "1000241857"},
+        {"name": "林清轩", "code": "02657", "stockId": "1000285893"}
+    ],
+    "irDisclosureWatchlist": [
+        {"name": "逸仙电商", "code": "YSG", "url": "https://ir.yatsenglobal.com/News-Releases?l=50"}
+    ],
     "priorityEntities":  {
                              "celebrityAndFounderBrands":  [
                                                                "Rare Beauty",
