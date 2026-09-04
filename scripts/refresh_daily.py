@@ -73,6 +73,8 @@ IRRELEVANT_CONTEXT_TERMS = {
     "marketing executive", "finance executive", "makeup artist", "career opportunity",
     "product catalogue", "catalogue",
     "top headlines", "articles", "category archive", "locations", "discover",
+    "privacy policy", "cookie policy", "terms of use", "sitemap",
+    "隐私政策", "用户协议", "免责声明", "网站地图", "联系我们",
     "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
 }
 PERSONNEL_TERMS = [
