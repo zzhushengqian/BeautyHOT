@@ -732,7 +732,15 @@ def fetch_request(req):
 def main():
     now = datetime.now(timezone.utc)
     current_date = now.astimezone(BEIJING).date().isoformat()
-    items = [item for item in enrich(collect()) if not excluded_title(item.get("title", ""))]
+    items = [
+        item for item in enrich(collect())
+        if not excluded_title(item.get("title", ""))
+        and (
+            item.get("priorityDisclosure")
+            or item.get("priorityPersonnel")
+            or is_beauty_relevant_title(item.get("title", ""))
+        )
+    ]
     items = remove_historical_duplicates(items, current_date)
     if not items: raise SystemExit("No candidates collected; existing feed preserved")
     payload = {"date":current_date,"generatedAt":now.isoformat(),"items":items}
