@@ -60,6 +60,21 @@ GENERAL_MEDIA_ENTITIES = [
     *PRIORITY_ENTITY_NAMES,
 ]
 GENERAL_NEWS_DOMAINS = {"reuters.com", "wwd.com", "voguebusiness.com", "ladymax.cn"}
+BEAUTY_RELEVANCE_TERMS = {
+    "beauty", "cosmetic", "skincare", "makeup", "haircare", "fragrance", "perfume",
+    "personal care", "dermatology", "beauty retail", "美妆", "化妆品", "护肤", "彩妆",
+    "香水", "香氛", "个护", "洗护", "美容", "护发", "皮肤", "医美",
+    "l'oreal", "loreal", "estee lauder", "guerlain", "lancome", "clinique",
+    "la roche-posay", "cerave", "sephora", "ulta", "boots", "watsons", "mac cosmetics",
+    "shiseido", "beiersdorf", "coty", "puig", "amorepacific", "cosmax", "kose",
+}
+IRRELEVANT_CONTEXT_TERMS = {
+    "beauty playbook", "job opening", "working student", "sales representative",
+    "marketing executive", "finance executive", "makeup artist", "career opportunity",
+    "product catalogue", "catalogue",
+    "top headlines", "articles", "category archive", "locations", "discover",
+    "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
+}
 PERSONNEL_TERMS = [
     "任命", "晋升", "升任", "出任", "就任", "离任", "辞任", "辞职", "卸任",
     "新任", "接任", "接替", "履新", "换帅", "人事变动", "管理层调整",
@@ -100,6 +115,10 @@ for names in CONFIG.get("priorityEntities", {}).values():
         ENTITY_ALIASES.setdefault(name, [name])
 for name in CONFIG.get("priorityPersonnelEntities", []):
     ENTITY_ALIASES.setdefault(name, [name])
+
+BEAUTY_RELEVANCE_TERMS.update(
+    alias.lower() for aliases in ENTITY_ALIASES.values() for alias in aliases
+)
 
 ACTION_GROUPS = {
     "people-chair": ["董事长", "chairman", "chair"],
@@ -346,6 +365,13 @@ def excluded_title(title):
     looks_like_role_listing = any(term in lower for term in JOB_ROLE_TERMS)
     has_change_action = any(term.lower() in lower for term in CHANGE_ACTION_TERMS)
     return looks_like_role_listing and not has_change_action
+
+def is_beauty_relevant_title(title):
+    """Keep media discovery focused on beauty, not broad consumer or job coverage."""
+    lower = re.sub(r"\s+", " ", (title or "").lower()).strip()
+    if not lower or any(term in lower for term in IRRELEVANT_CONTEXT_TERMS):
+        return False
+    return any(term in lower for term in BEAUTY_RELEVANCE_TERMS)
 def has_chinese_title(item):
     """Only publish an English-origin item after a Chinese display title exists."""
     title = item.get("title", "")
@@ -506,6 +532,9 @@ def collect_priority_personnel():
         for entry in root.findall("./channel/item")[:6]:
             raw_title = html.unescape(entry.findtext("title") or "").strip()
             title = re.sub(r"\s+-\s+[^-]+$", "", raw_title).strip()
+            # Some feeds append a permanent site slogan after a vertical bar; it
+            # must not make an otherwise generic retail event look beauty-related.
+            title = re.split(r"\s*[|｜]\s*", title, maxsplit=1)[0].strip()
             link = (entry.findtext("link") or "").strip()
             lower = title.lower()
             if not title or not link or excluded_title(title):
@@ -544,6 +573,7 @@ def collect_priority_personnel():
 
 def collect():
     found = collect_cninfo_disclosures() + collect_hkex_disclosures() + collect_ir_disclosures()
+    now_utc = datetime.now(timezone.utc)
     for source in CONFIG["queries"]:
         is_listed_official = source.get("kind") == "listed-company-official"
         source_terms = source.get("keywords") or (
@@ -565,14 +595,14 @@ def collect():
         for entry in root.findall("./channel/item")[:12]:
             raw_title = html.unescape(entry.findtext("title") or "").strip()
             title = re.sub(r"\s+-\s+[^-]+$", "", raw_title).strip()
+            title = re.split(r"\s*[|｜]\s*", title, maxsplit=1)[0].strip()
             link = (entry.findtext("link") or "").strip()
-            if not title or not link or excluded_title(title): continue
-            if source["domain"] in GENERAL_NEWS_DOMAINS and not any(
-                word in title.lower() for word in GENERAL_MEDIA_ENTITIES
-            ):
+            if not title or not link or excluded_title(title) or not is_beauty_relevant_title(title):
                 continue
             try: published = email.utils.parsedate_to_datetime(entry.findtext("pubDate") or "").astimezone(timezone.utc)
-            except Exception: published = datetime.now(timezone.utc)
+            except Exception: published = now_utc
+            if published < now_utc - timedelta(days=7):
+                continue
             sig = signals(title, source)
             item_id = hashlib.sha1((title + source["domain"]).encode()).hexdigest()[:14]
             found.append({
