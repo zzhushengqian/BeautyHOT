@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T12:18:23.584820+00:00",
+  "generatedAt": "2026-09-04T12:24:43.242957+00:00",
   "items": [
     {
       "id": "53336ee75d8188",
@@ -192,38 +192,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 8
-      }
-    },
-    {
-      "id": "661acd1b4042fc",
-      "title": "隐私政策_CiE美妆创新展",
-      "titleOriginal": "隐私政策_CiE美妆创新展",
-      "summary": "隐私政策_CiE美妆创新展",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-04T04:28:36+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44c3Fpek8zenhSaEMyUUJ2anMyRlktcGxYd21OX2UxQ0o1akRTYlRvamkyYWJKTEVLQWdkMDBSU0YyWGROTWxSS0JDX0MwMmVXYXhxWHU5c3FhNms?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     },
     {
@@ -708,6 +676,38 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e8951eead464e2",
+      "title": "全球TOP级美妆高层巨变！",
+      "titleOriginal": "全球TOP级美妆高层巨变！",
+      "summary": "全球TOP级美妆高层巨变！",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T01:59:27+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jZ083YThHd3ZNSmx1dm9adExHYUNWekFpZFZoOXVNdjlFM1VtWHFSd3ZBYUtmWDVUZDVYUzRVYUR6Z0RtYXZWakU3ZnpMQWxkaEs0?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
         "actionability": 6
       }
     },
