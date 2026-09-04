@@ -1,7 +1,71 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T04:40:14.274553+00:00",
+  "generatedAt": "2026-09-04T05:05:41.803049+00:00",
   "items": [
+    {
+      "id": "de4cf2d6181a8d",
+      "title": "Sephora Launches on TikTok Shop with US Drop Shop Pilot",
+      "titleOriginal": "Sephora Launches on TikTok Shop with US Drop Shop Pilot",
+      "summary": "Sephora Launches on TikTok Shop with US Drop Shop Pilot",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-04T05:03:22+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk95UTFUcTBTTjFVVkxXcndZUkVFWl96bTNoT3p6b0pHRzhZNjV3bktVX1FIR2JORlpvdXVWeDdqSEpYcFJuZGZsZGNvYjRPUG8yQXpQWWt1Y3hhVHZURWZja2RiV2tRZzBkYkJZbDh0RjhtQWV2TjJnQmlZNlQ3NHJ4UkxpOURPYnA5d0hWYnNRcGwxMF8w?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "7d9acf0017f2c5",
+      "title": "YouTube Partners with Amazon to Expand Shopping Platform",
+      "titleOriginal": "YouTube Partners with Amazon to Expand Shopping Platform",
+      "summary": "YouTube Partners with Amazon to Expand Shopping Platform",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-04T05:03:20+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUxSeGJPRjVMMHl2SkFaOXpsdF9yay1kekVrRWplc1FLYmdwZk5nYzVUZXlQd1pKaVUzQTZMNlFFaENXY0JNT2JpcDZPbEZwNkN6THo5WnFiVlhRSnNyQkhUQ0R6YmoyeS1pNy1PajRDTDlLSEFIVzJVTUh0am1Dd0RJeEdkMHpOVUJCemdnWWRFUzhhUVhveA?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "d54b9c30a0159b",
       "title": "Scott Barnes Cosmetics Relaunches with New Funding, COO, and Disciplined Growth Strategy",
@@ -23,6 +87,38 @@
       "companies": [],
       "tags": [
         "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "e9e6abf99297b1",
+      "title": "李飞飞发布多模态世界模型Atlas！英伟达将大手笔收购Hugging Face 覆铜板新一轮涨价落地丨20260904从华尔街到陆家嘴",
+      "titleOriginal": "李飞飞发布多模态世界模型Atlas！英伟达将大手笔收购Hugging Face 覆铜板新一轮涨价落地丨20260904从华尔街到陆家嘴",
+      "summary": "李飞飞发布多模态世界模型Atlas！英伟达将大手笔收购Hugging Face 覆铜板新一轮涨价落地丨20260904从华尔街到陆家嘴",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "第一财经",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-04T03:27:55+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZYnhhQkVWdDk4b1ZWZ0VBRW5kRVpsS09aLVowVW1iSFJJS2VhckZqUDFiWHdSaWJMdkdVYTV3U1A5X1NrSFZkcXlSR1hPSDV1ZGpJZw?oc=5",
+      "companies": [],
+      "tags": [
+        "第一财经",
         "自动采集"
       ],
       "baseScore": 60,
@@ -343,102 +439,6 @@
       "companies": [],
       "tags": [
         "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "a958c19682f85f",
-      "title": "德国专家：美债收益率变化影响多国 推高融资成本",
-      "titleOriginal": "德国专家：美债收益率变化影响多国 推高融资成本",
-      "summary": "德国专家：美债收益率变化影响多国 推高融资成本",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "第一财经",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-03T21:43:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFUExMQTZXNWVmMXNid1kzTXJNQ29PcFRyZkdqWG9DT1B3MUFOTnlrUU1NaGZjZ01ScExtS1ZOei1CLXFEb0xqVUxhSEtFRFR2enRkaQ?oc=5",
-      "companies": [],
-      "tags": [
-        "第一财经",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "6d779d6b670a9a",
-      "title": "India Leval",
-      "titleOriginal": "India Leval",
-      "summary": "India Leval",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-03T21:20:34+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zWUR0RmdUNG1iV2dsNGg2YnJBX004WGFSS19xRkdmaEtoajdlaEh6cTU4NU9zNzFNbmZBYkQ2ZC1zWjRreUxKdFJwRQ?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "09b33d643c2b61",
-      "title": "Cindy Deily",
-      "titleOriginal": "Cindy Deily",
-      "summary": "Cindy Deily",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-03T21:20:34+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40WlZHUlVnWjdUaXYtZzMxR2NXanZjR09MNDlYSXVkdUtNZUE2TldYOHpfZ1NMYWJya3luU3pXTm9zT2h2ZEdnUzQzRQ?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
         "自动采集"
       ],
       "baseScore": 60,
