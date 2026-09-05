@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T04:36:19.668883+00:00",
+  "generatedAt": "2026-09-05T04:55:47.549839+00:00",
   "items": [
     {
       "id": "8578dd8c0397b7",
@@ -159,38 +159,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "065c3d17940c9e",
-      "title": "Lazada印尼上半年高端品牌销售额同比增长3倍服饰领涨、护肤引领美妆增长- 快讯",
-      "titleOriginal": "Lazada印尼上半年高端品牌销售额同比增长3倍服饰领涨、护肤引领美妆增长- 快讯",
-      "summary": "Lazada印尼上半年高端品牌销售额同比增长3倍服饰领涨、护肤引领美妆增长- 快讯",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "亿邦动力",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-03T01:38:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yNGZqNndJWlhyTk1CbGVGcEszMkd0emlCM1B2OWlzZzdwSXlCamxQMlZNZzYwX0dEV0hUUjREQ0Q1enh2azBxTkF6WkxwQ0VjTDY2M2lSNXk?oc=5",
-      "companies": [],
-      "tags": [
-        "亿邦动力",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
         "actionability": 6
       }
     }
