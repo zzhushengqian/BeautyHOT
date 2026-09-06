@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T04:46:25.100298+00:00",
+  "generatedAt": "2026-09-06T05:04:53.142933+00:00",
   "items": [
     {
       "id": "13b72448d58dd8",
@@ -131,6 +131,38 @@
       }
     },
     {
+      "id": "136f124ca83a4e",
+      "title": "Armani Beauty Marks Ninth Year as Official Beauty Sponsor of Venice Film Festival",
+      "titleOriginal": "Armani Beauty Marks Ninth Year as Official Beauty Sponsor of Venice Film Festival",
+      "summary": "Armani Beauty Marks Ninth Year as Official Beauty Sponsor of Venice Film Festival",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-04T05:04:15+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzMwNGZxb1QtdkxFOU5UQkRJdkVIcWtqVlFMRVQ1MFFPVmgwZnlKUDc0S0N6Skt6T0tuR1ZuNENoUkNOTUIza0tzOVdsVXd4MGtfU0xFazU0dzBORU1VanVFZlhJR0gxWHFCM3VuTHVaZzNhWDk0UWhlZ19TaGt5SmRUWmpZa2pBZ3AxSHRsUEc5TUQ1UGR5QTdOa2lPeFlpNWszQ1ducFZXZkI4NTRKTUhoSFVLTU9zVnc?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "1847fdde5b08ab",
       "title": "(Translation) September 3, 2026 Notice Regarding Receipt of Dividends from Consolidated Subsidiary Shiseido Company, Limited (th",
       "titleOriginal": "(Translation) September 3, 2026 Notice Regarding Receipt of Dividends from Consolidated Subsidiary Shiseido Company, Limited (th",
@@ -184,38 +216,6 @@
       "tags": [
         "WWD",
         "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "57778ae3b048ff",
-      "title": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
-      "titleOriginal": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
-      "summary": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T07:37:10+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnR1ajl4eHlLaE9WcmxjQTJ3QmZWSjRYMEZNTXdvd0xDVDFkNWNuSWZVZDBzMXdSenUxZGtoY3VfcmZjRE1Vd0NTb3p1dkZRYWJhVk1jbURlMkF5Qzc4OVF5UVY4UGhTdl9Bcjkzb09RaTFvQTRQOWRZWDFYTkJFTlB3LWlFc09GV1RxWk02aw?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
-        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
