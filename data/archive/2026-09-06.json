@@ -1,7 +1,39 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T01:22:02.555007+00:00",
+  "generatedAt": "2026-09-06T04:46:25.100298+00:00",
   "items": [
+    {
+      "id": "13b72448d58dd8",
+      "title": "5年后再看美妆“小样经济”，这门生意变了",
+      "titleOriginal": "5年后再看美妆“小样经济”，这门生意变了",
+      "summary": "5年后再看美妆“小样经济”，这门生意变了",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-06T02:08:54+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JNzJpQV9mRHlKT3FrdWNjVmpvelVHYVhhV1lXbDdabmFDVjBDdmpuX1hoUzhKaFFtOHFueXNOd1hCZm5VRFRuRkV3ODdGN2dWX0taN2RB?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "6c842af387f0c3",
       "title": "Global Cosmetics News – Weekly Review",
@@ -163,10 +195,42 @@
       }
     },
     {
-      "id": "40730dd377f45f",
-      "title": "Seasonal Associate - Sephora - 294421",
-      "titleOriginal": "Seasonal Associate - Sephora - 294421",
-      "summary": "Seasonal Associate - Sephora - 294421",
+      "id": "57778ae3b048ff",
+      "title": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
+      "titleOriginal": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
+      "summary": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T07:37:10+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnR1ajl4eHlLaE9WcmxjQTJ3QmZWSjRYMEZNTXdvd0xDVDFkNWNuSWZVZDBzMXdSenUxZGtoY3VfcmZjRE1Vd0NTb3p1dkZRYWJhVk1jbURlMkF5Qzc4OVF5UVY4UGhTdl9Bcjkzb09RaTFvQTRQOWRZWDFYTkJFTlB3LWlFc09GV1RxWk02aw?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "6668128ccbee5b",
+      "title": "Seasonal Associate - Sephora - 294485",
+      "titleOriginal": "Seasonal Associate - Sephora - 294485",
+      "summary": "Seasonal Associate - Sephora - 294485",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -179,7 +243,7 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-31T07:00:00+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOU1ibFFyZE1KU184dk1sbGlKdmluSWNHY0hjSGI3T3VVYm5mUUpTSW1DUkM5cEdZMWtQbDdjUGMzVWNzS2Y1S3picUU1NEhkVUV0M2k0RnM2T0pwX3hN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TTTdTc1VOdi14aElwUlBMNUlUMXluTnZTcloxd0V5VDhuNEMwaloyTGNwZlJ3aGE0bWFzaGVwVmh4dmlWWFB0QTJYZzg2QzBlbk5aN3RuQWFSMk1hYlJnbHVKcw?oc=5",
       "companies": [],
       "tags": [
         "LVMH",
