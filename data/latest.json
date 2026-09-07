@@ -1,7 +1,39 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-07T01:19:46.820634+00:00",
+  "generatedAt": "2026-09-07T04:49:53.610819+00:00",
   "items": [
+    {
+      "id": "ec562c6cbd5181",
+      "title": "Inside Revlon’s Fragrance Strategy with Amber Garrison",
+      "titleOriginal": "Inside Revlon’s Fragrance Strategy with Amber Garrison",
+      "summary": "Inside Revlon’s Fragrance Strategy with Amber Garrison",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-07T02:14:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ3NOY3VnT2g0RTNpdnlpaWlteWN5c00tRnBBVE1rYjRFUHBua1BicE9na3FRRjJleFQwODdDc0F0bUxXYlFudFIxcFJVaUJkWk5aVmt0X2JvZVJUTURncVdtT1VCMkx6YUJnOWJwd2Q0ckppaHVGMGpPd2IzeUFSbTMwUFNVLUxWN250TTZDbGo?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "3781d32bcde4ac",
       "title": "The Biggest Beauty Executive Moves and Leadership Changes of August 2026",
@@ -32,6 +64,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "cc42fda85c3a7c",
+      "title": "Seasonal Associate - Sephora - 295140",
+      "titleOriginal": "Seasonal Associate - Sephora - 295140",
+      "summary": "Seasonal Associate - Sephora - 295140",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "LVMH",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-06T20:43:13+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tWWpyUGxBTGU4Q2pMcENQTk8tVHNibW1tTzhaR0Vhem9adHZ3M3BkQ0dfMlRGLWJEWmdFWkVmTFI2a1MxaXlsU3ZVVDRiSFNvQ3VhR1p1eEtIQ0Z3ZGJWSGRrWQ?oc=5",
+      "companies": [],
+      "tags": [
+        "LVMH",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
@@ -192,6 +256,70 @@
         "china": 3,
         "novelty": 8,
         "actionability": 6
+      }
+    },
+    {
+      "id": "7c7ec2ef05652a",
+      "title": "e.l.f. Beauty Brings Change the Board Game to UC Berkeley",
+      "titleOriginal": "e.l.f. Beauty Brings Change the Board Game to UC Berkeley",
+      "summary": "e.l.f. Beauty Brings Change the Board Game to UC Berkeley",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T13:19:46+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1haX0hsT2Robjd3NUtMNFp2Y1lhMTg2X0UyRWRwcVdYcmYtWnFUV25ydmdLcldkR28tNFZHRG4wWHQwT2stWGdyWV9HdllHcEFyV1pSNXdjMVRFUGZzQWZrbEJjVWMwdW85NTZQY2dqN1hmQkUyMGRiTFVZZHFWSlpvZVRsM1JwT1hWbXotQjJlWjZxdjRFRTFURnB1Q2FGNzlUTG53?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "7553bee41f4d71",
+      "title": "年增超200%、获数千万融资，比香水更火的赛道爆发了？",
+      "titleOriginal": "年增超200%、获数千万融资，比香水更火的赛道爆发了？",
+      "summary": "年增超200%、获数千万融资，比香水更火的赛道爆发了？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-03T12:25:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fU3M2WEVqTFk1dS1uczh6UjA2WTJLWmpzVVRYNXhZdlNucU42ampfaGdycEdjd2xsUEJNeTlfU241YktiMGpWV0ZENDVLSl9sZUl2Smhn?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
