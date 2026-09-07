@@ -1,7 +1,39 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-07T04:49:53.610819+00:00",
+  "generatedAt": "2026-09-07T05:13:13.376076+00:00",
   "items": [
+    {
+      "id": "51b9425bac3dfa",
+      "title": "Lush Appoints Amity Murray as First Skincare Ambassador",
+      "titleOriginal": "Lush Appoints Amity Murray as First Skincare Ambassador",
+      "summary": "Lush Appoints Amity Murray as First Skincare Ambassador",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-07T05:00:27+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenlaaEMxOUIzX1R6cExkMS1VTEpJMEdGV19fMlJqTWpUUXoyZF9xNnFXbjA5d3pVcmZ6M1lVMi1TOXp0X1lFTU1sTUZEbG9HZ3dmMDdnRkkxeUlxMnk0R19ubERkMWFLbWxteWM1MVZ3LV9oTUxQLXpYS1JFamkwR2FJWkg2RzQzdTExMjlQOWFodEpIeGI0?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "ec562c6cbd5181",
       "title": "Inside Revlon’s Fragrance Strategy with Amber Garrison",
