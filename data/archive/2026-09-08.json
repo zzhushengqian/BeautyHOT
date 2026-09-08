@@ -1,7 +1,103 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T04:45:54.167650+00:00",
+  "generatedAt": "2026-09-08T05:13:48.688913+00:00",
   "items": [
+    {
+      "id": "e314e185d616f3",
+      "title": "Nykaa Increases Stake in Personal Care Brand Earth Rhythm",
+      "titleOriginal": "Nykaa Increases Stake in Personal Care Brand Earth Rhythm",
+      "summary": "Nykaa Increases Stake in Personal Care Brand Earth Rhythm",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-08T05:01:51+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWFONnA2MlFZQWg5WnhSQmt5QktZbXBRVnNnMnhIb2NPV1FKZ25UM3haQ0hOVzkzWVJUa1VVRUhCeDN5U1JhRk1iMEhSSzk5SDFfSE92QkVfQUp5S0lvRzIwQ2hOajd1RV8wX0owMkZVcTFtZzRzekhkTm9GeGZmMGpBRjFaLVhRTER6UVduZXRISXZTZ0VjZnRn?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "8a46519b494f05",
+      "title": "National Eczema Association Expands Seal of Acceptance to Colour Cosmetics",
+      "titleOriginal": "National Eczema Association Expands Seal of Acceptance to Colour Cosmetics",
+      "summary": "National Eczema Association Expands Seal of Acceptance to Colour Cosmetics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-08T05:01:49+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFFMYXlEUUp5dldvRURtWmRPVkhuZl90eDJCRk1TMEZYZU1UcEZOX3hTNmM1bmNLVlhaa2xjZXdCWVdXMjVnUGV0Qy1LaEl5M3Fody04RVRfRlpCaGEzY2o5S1NUeXcxU3JtaGwxa2xXOGI1TE1DMmhPalVqUTA1bFNYQl92NHNCbVVDblNicGFKSy1PV3pPZ2IyNEYyWWZIY0xkOFJpVWJjT2x1UW5Rbw?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "49c11a2b981406",
+      "title": "Fragrance Innovation Summit 2026 unveils its first headline speaker",
+      "titleOriginal": "Fragrance Innovation Summit 2026 unveils its first headline speaker",
+      "summary": "Fragrance Innovation Summit 2026 unveils its first headline speaker",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-08T04:54:06+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVhMT0tJR2N5aXVPcTgtUDB3eFNBTy1PWDlvVTdJTk5RbGd1OVJRX2s5dVlRdGltb3AtVXdORnFTQzROMEp5SFd3YlFfYXhxVVN6cmZQdURJVkRvcy03Z2dWMnRsM1QzM3dveE1RNFVEZ25BSVhWRzVCMDFwTjNSeA?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "f7a540b02d3561",
       "title": "Beauty Briefing: Why the Estée Lauder Companies is moving some of its biggest brands to Shopify",
@@ -515,6 +611,38 @@
       }
     },
     {
+      "id": "acef5bdbf156dc",
+      "title": "Soapbox Launches New Hair Care Collection at Sally Beauty",
+      "titleOriginal": "Soapbox Launches New Hair Care Collection at Sally Beauty",
+      "summary": "Soapbox Launches New Hair Care Collection at Sally Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-07T07:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenJCTjdSREtJcHhUeExaQnRpMlIxWWoyVHRPNW9VblNIMlBieHVKVml0V3JKYXdYdHh3UF9Od1Y1U0pxUHRQY1Y2UWxtWmpnM2FxVWtnN0RIUHc0OHI5WkFFcHNHMUYtazFwUTV6MUdyaHFnN3E5SVBBcm9zSDk4T2FkRnNtODlPRXdFNkRHMkRCZ1ZiTTgyZVJR?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
       "id": "491cc9f78ef688",
       "title": "在敦煌，敷尔佳向“油养”赛道下战书",
       "titleOriginal": "在敦煌，敷尔佳向“油养”赛道下战书",
@@ -600,6 +728,40 @@
       "tags": [
         "聚美丽",
         "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "f143a264520c52",
+      "title": "e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Inspiring the Next Generation of Leaders",
+      "titleOriginal": "e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Inspiring the Next Generation of Leaders",
+      "summary": "e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Inspiring the Next Generation of Leaders",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "e.l.f. Beauty IR",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T18:38:11+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUF9KWjgtZlUxVnRRVUZoa2EyTHNWdGJoRk5CYXBFOGU5VHp1Y1FIZWtuSk9ib2N3S2cyRXNWeTJwWkQwaWpUSW51MHV1RTBhbmVJakFIZVRMOERVZVh1MEZiRW9CN1ItTjc3Z2hQd0RkZkxLb2ZIUlV0Ni1QbDAxdVYyck0xeDV4Uy1vMHlOenpsWTNWZjJLOFBSV0RpMFRNS0xub2MzQQ?oc=5",
+      "companies": [
+        "e.l.f. Beauty"
+      ],
+      "tags": [
+        "e.l.f. Beauty IR",
+        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
