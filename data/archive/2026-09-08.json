@@ -1,29 +1,125 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T01:28:28.490825+00:00",
+  "generatedAt": "2026-09-08T04:45:54.167650+00:00",
   "items": [
     {
-      "id": "9e811d11aa943a",
-      "title": "SK-II、赫莲娜大牌美妆“地下工厂”被曝光",
-      "titleOriginal": "SK-II、赫莲娜大牌美妆“地下工厂”被曝光",
-      "summary": "SK-II、赫莲娜大牌美妆“地下工厂”被曝光",
+      "id": "f7a540b02d3561",
+      "title": "Beauty Briefing: Why the Estée Lauder Companies is moving some of its biggest brands to Shopify",
+      "titleOriginal": "Beauty Briefing: Why the Estée Lauder Companies is moving some of its biggest brands to Shopify",
+      "summary": "Beauty Briefing: Why the Estée Lauder Companies is moving some of its biggest brands to Shopify",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "supply-chain",
-      "source": "界面新闻",
+      "category": "brands",
+      "source": "Glossy",
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-07T21:47:00+00:00",
+      "publishedAt": "2026-09-08T04:02:56+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUZGVqOFdLbTZLMGdWOEp5M1hLRnQwdXJ4SDNfVjU1TVlJNzhhX29Da1FSbEpfbmRfRGxkSGtqc1ZGVDVyN1hKSHNseXNwQ0JFM00wU3k4eXY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVlBFalhkN1g4Z1JpcWRCakpKY192Rkc4dnlQUjI5dlNXUGxSbzhRRzNLR0ZVVVJKNmpSNU83MEZTRkduYXo4XzgwOFNnN0d6N1hCenFKbGtVbDRQVS1vTGxMT05MLUlsTGVVLUI5R3Z0c29YUVA0MVdILTc2d0tVODFzLWhrY3pUTFNrSThKWTg2SmlOUGVGcmJrU2hveFNUNFpHZEJ6VmZ4T3VTcEpZNE5wa0xDMkp3blZEUGk1VENaQQ?oc=5",
       "companies": [],
       "tags": [
-        "界面新闻",
+        "Glossy",
         "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "f07b1aafe1f06b",
+      "title": "Pura Eyes Additional Growth Across the Fragrance Category",
+      "titleOriginal": "Pura Eyes Additional Growth Across the Fragrance Category",
+      "summary": "Pura Eyes Additional Growth Across the Fragrance Category",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-08T01:45:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWNZRjlPYlZKY3hPSnVMTDZ4RGR5SnZjdEZMMlFJU0NlbUduLXFtVDdaM3gzSGxKN3BBRWJyYzUxUVlFM0s0MGo4N1NRcXo0ZmMxU21EaU0xX2d5c01paGV0eWxoWk9fX0FvOHViTU1ZbXhINmNQaWR2dW1XQk5aMlZua1VlaVhKcU55M1M2ZWwtcENNdmc?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "bb9589e1c20486",
+      "title": "Science Spotlight: AI could be ’pivotal’ in eco-innovation for beauty",
+      "titleOriginal": "Science Spotlight: AI could be ’pivotal’ in eco-innovation for beauty",
+      "summary": "Science Spotlight: AI could be ’pivotal’ in eco-innovation for beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-08T01:44:18+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb29ycm0tM3FNWWlwWGJNX2J5VW5TWXN2eENNREp1S19kdXI3SzdPZE9IRl9CbHdLSW9HMlBBMjktQ1JMYXdMQjZnVm00UkY3a0lBeFRTTnFtQWFXTmt4TGVNSUh5ZTdvc0Q2UTlXUFRWNnJGR2Q0VlIyLUowaWJWbjFlRkV6ZDZzUHlpOWRJYw?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "fe9f0917a7d771",
+      "title": "Seasonal Associate - Sephora - 295195",
+      "titleOriginal": "Seasonal Associate - Sephora - 295195",
+      "summary": "Seasonal Associate - Sephora - 295195",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "LVMH",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-08T00:34:25+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nVzUtUjBYSGltSXZRTFFkNXhSZm9aWUZDMXU3blhvZk42anota3V6QTJUQmFraVExTDFQUUJwUWxNQVFsRERPZmlqN3gxZy11cHBqZE9YYm9zT3NKV3lRZUgyMA?oc=5",
+      "companies": [],
+      "tags": [
+        "LVMH",
+        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
@@ -227,6 +323,38 @@
       }
     },
     {
+      "id": "95322cf455cada",
+      "title": "年销25亿的彩妆黑马AKF：起于流量，困于内斗",
+      "titleOriginal": "年销25亿的彩妆黑马AKF：起于流量，困于内斗",
+      "summary": "年销25亿的彩妆黑马AKF：起于流量，困于内斗",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-07T10:37:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xc0tVTEhFOFBLLUxjN21LaVhrRk54bHlldk5QQzdtaTdQM1NXRGNiU1REb0lpOXlnc1ZEaTM3Y0xYVnNBWGJ5ZUtnVE14OUI3?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "b4321da0d24656",
       "title": "Beautyworld Middle East turns 30 as Arabic fragrances go global",
       "titleOriginal": "Beautyworld Middle East turns 30 as Arabic fragrances go global",
@@ -323,6 +451,38 @@
       }
     },
     {
+      "id": "9e811d11aa943a",
+      "title": "SK-II、赫莲娜大牌美妆“地下工厂”被曝光",
+      "titleOriginal": "SK-II、赫莲娜大牌美妆“地下工厂”被曝光",
+      "summary": "SK-II、赫莲娜大牌美妆“地下工厂”被曝光",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-07T08:53:06+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUZGVqOFdLbTZLMGdWOEp5M1hLRnQwdXJ4SDNfVjU1TVlJNzhhX29Da1FSbEpfbmRfRGxkSGtqc1ZGVDVyN1hKSHNseXNwQ0JFM00wU3k4eXY?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
       "id": "5ecbf9345ceea7",
       "title": "Pumpkin Spice Fragrance Is Big In Beauty & Household Cleaning",
       "titleOriginal": "Pumpkin Spice Fragrance Is Big In Beauty & Household Cleaning",
@@ -351,38 +511,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "acef5bdbf156dc",
-      "title": "Soapbox Launches New Hair Care Collection at Sally Beauty",
-      "titleOriginal": "Soapbox Launches New Hair Care Collection at Sally Beauty",
-      "summary": "Soapbox Launches New Hair Care Collection at Sally Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-07T07:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenJCTjdSREtJcHhUeExaQnRpMlIxWWoyVHRPNW9VblNIMlBieHVKVml0V3JKYXdYdHh3UF9Od1Y1U0pxUHRQY1Y2UWxtWmpnM2FxVWtnN0RIUHc0OHI5WkFFcHNHMUYtazFwUTV6MUdyaHFnN3E5SVBBcm9zSDk4T2FkRnNtODlPRXdFNkRHMkRCZ1ZiTTgyZVJR?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     },
@@ -472,40 +600,6 @@
       "tags": [
         "聚美丽",
         "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "f143a264520c52",
-      "title": "e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Inspiring the Next Generation of Leaders",
-      "titleOriginal": "e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Inspiring the Next Generation of Leaders",
-      "summary": "e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Inspiring the Next Generation of Leaders",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "e.l.f. Beauty IR",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T18:38:11+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUF9KWjgtZlUxVnRRVUZoa2EyTHNWdGJoRk5CYXBFOGU5VHp1Y1FIZWtuSk9ib2N3S2cyRXNWeTJwWkQwaWpUSW51MHV1RTBhbmVJakFIZVRMOERVZVh1MEZiRW9CN1ItTjc3Z2hQd0RkZkxLb2ZIUlV0Ni1QbDAxdVYyck0xeDV4Uy1vMHlOenpsWTNWZjJLOFBSV0RpMFRNS0xub2MzQQ?oc=5",
-      "companies": [
-        "e.l.f. Beauty"
-      ],
-      "tags": [
-        "e.l.f. Beauty IR",
-        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
