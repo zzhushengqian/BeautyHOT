@@ -1,37 +1,37 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T04:49:33.067420+00:00",
+  "generatedAt": "2026-09-09T05:15:44.981614+00:00",
   "items": [
     {
-      "id": "179b13e151d309",
-      "title": "Meet the BeautyMatter 2026 Awards Finalists",
-      "titleOriginal": "Meet the BeautyMatter 2026 Awards Finalists",
-      "summary": "Meet the BeautyMatter 2026 Awards Finalists",
+      "id": "a9251fe6a7c7e6",
+      "title": "Yatsen Q2 Revenue Rises 5.1 Percent as Skincare Sales Jump 40 Percent",
+      "titleOriginal": "Yatsen Q2 Revenue Rises 5.1 Percent as Skincare Sales Jump 40 Percent",
+      "summary": "Yatsen Q2 Revenue Rises 5.1 Percent as Skincare Sales Jump 40 Percent",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "brands",
-      "source": "BeautyMatter",
+      "category": "financials",
+      "source": "Global Cosmetics News",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-08T23:45:28+00:00",
+      "publishedAt": "2026-09-09T05:02:50+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlhsVFBQR1pOTUpzUG9YQjdJd0E3ck55azhnZDhxTDlYSlNJMEhTWXh4YnVTTVlWeHc5MlZxNWduVmhWaThSNk5vYlJRdTNUQnBRQk1HOUhRU2J3cFU5blNiMTZzeHY1WklGTHN4bGE4UEpaZ3lfcUhWbVFwMWZFVHpCaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXlOcERQTnZQZS11a1Q5aUU1T2ZhazN3NjJKbTF3TXdRQjVlbHhwNFg3RzY0alQ2Z0NrM3dfM2dQcVhMMmhOeU5YV0U5dFJONjlYdmJJNTBSMzZzVFBMcG1RaENzY293b0o4R2hoOS03OXBTR21UTnpyQ0p2bjlZd2o1WVp3Q3V0enBiOXh0UF9rdkV5X2QwNGtQX1FjVkl0clNWZHNXNFIwdw?oc=5",
       "companies": [],
       "tags": [
-        "BeautyMatter",
+        "Global Cosmetics News",
         "自动采集"
       ],
       "baseScore": 60,
       "signals": {
-        "impact": 6,
+        "impact": 8,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
+        "actionability": 8
       }
     },
     {
@@ -192,6 +192,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "4562e88c351635",
+      "title": "- Cosmetics & Toiletries",
+      "titleOriginal": "- Cosmetics & Toiletries",
+      "summary": "- Cosmetics & Toiletries",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-07T14:00:08+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51VU1XVjFTd1poTEVQOU1UMnhWYXRBNXBlNWV3NUV2UHZYMUQ5OERSR1phUXltZHFuMHNkYjgySXJ4VTljc1RheDdWVS1ELTZucTNRV0owbmktSTRiVHlTVQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
