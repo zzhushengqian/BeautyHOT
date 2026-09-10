@@ -1,7 +1,39 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T01:31:09.043397+00:00",
+  "generatedAt": "2026-09-10T04:50:43.505489+00:00",
   "items": [
+    {
+      "id": "be8d1e764552b9",
+      "title": "Mary van Praag doubled Milani Cosmetics annual sales to $250 million in five years. Now she’s ready to double them again.",
+      "titleOriginal": "Mary van Praag doubled Milani Cosmetics annual sales to $250 million in five years. Now she’s ready to double them again.",
+      "summary": "Mary van Praag doubled Milani Cosmetics annual sales to $250 million in five years. Now she’s ready to double them again.",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-10T04:29:54+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSDJpcVZyQk5xUjBoTGdWeUVSZDU1cXU3NVFNWXFmUGFhN2xLVnV5TUdjWjNHMTVJeTdaUEI0azljVU9zM0xRb2UxcEVwdHhnTUNham9EbjJlbl92Y3pya3pTb2pOTklfZ2dBb0ctbk1FbjA5SkNmMEN1UDVNV2N1V3FUSXdlWF9seml6WTRYS0ROd2JyaWZkY3MyYkxPZHJMSlptcjlBTjI0SnNjZGVvVUVfczFSQU4xRVlJbmFFMUhjU1pLMnFHa3d4M0k2M2hFOFdJSUh2YzFNdzY2YmIzRw?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "ece1fe664c31dc",
       "title": "The Beauty Industry Has Already Moved Beyond Animal Testing: It’s Time Policy Caught Up",
@@ -96,6 +128,38 @@
         "china": 3,
         "novelty": 8,
         "actionability": 6
+      }
+    },
+    {
+      "id": "4306e63a1a6b93",
+      "title": "The Next Generation of Beauty Packaging: Designing for Gens Z and Alpha",
+      "titleOriginal": "The Next Generation of Beauty Packaging: Designing for Gens Z and Alpha",
+      "summary": "The Next Generation of Beauty Packaging: Designing for Gens Z and Alpha",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T19:43:15+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaDlNYnFUWjY4WGtzYUg1U21fVElRYWxiYkc0V21ZQnFsX0ZjTDhMOW9nYm8zWk9kSGdHMEtWRmtvR1V3dldkV2YtT3NKMm9IbVM0LUVjRmQwMEE5aUtmTmI4aE41NVlFN0pQaG9oU1M5SURUWThHVkhuMkZqUnBVYUEzY1FnUG1mTzlFOTlnLUlaeVNLYmZpbm5lV3BWZml6ZjIwTUtEVTRQNG1qYi1EWmNDYlVpMWRMOU42WEppNE1BMDNNVEstY3JfbTQ2OWVtTWFRYmxfQkNYSWJpM1JfU3ZlOEc?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
