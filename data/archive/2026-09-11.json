@@ -1,7 +1,103 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T01:30:40.519781+00:00",
+  "generatedAt": "2026-09-11T04:47:33.012486+00:00",
   "items": [
+    {
+      "id": "b96c41d4bb768a",
+      "title": "How Ariana Grande's R.E.M. Beauty capitalized on her tour",
+      "titleOriginal": "How Ariana Grande's R.E.M. Beauty capitalized on her tour",
+      "summary": "How Ariana Grande's R.E.M. Beauty capitalized on her tour",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T04:13:15+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHlCSjRjM19ISUxrNlMxV3luZTFPQnJXR2k1N2Vad2FWYXJZOEFKNXIyaDlzOTFRdUJJSGdVNlYtZUh4QmhjWFliMkxVN3dOejJ0em9vRm9PeHBoYXBwX0tzcUwxZkI4MHBjUmJNQlBMNTBKWEhYWF9OV084MW5pVUxXWDFjLTFNNTBfYUlJY1IzTUFMdDZPMHZzNFltd0JaY3R6QXBTZ1V5VF80amNwZmZnREx3bjZtemVNVjlBNGtkVWRTN3lZa3dNdl9WbkROUkRGUVFSWlFLR2hC?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "ee45ef5cc635c0",
+      "title": "Unilever bünyesinde Horeca Consultant Yogyakarta pozisyonunun açıklaması",
+      "titleOriginal": "Unilever bünyesinde Horeca Consultant Yogyakarta pozisyonunun açıklaması",
+      "summary": "Unilever bünyesinde Horeca Consultant Yogyakarta pozisyonunun açıklaması",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T03:20:41+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2ozQllSb3BNTE12T0d6TzBGUkZnaWNMRXAyUVJqLUhyY1JPWVR3dWZFcmlWUDNicHFpSTUzcC1MUnBudnhrLXVpRk93cmRQakxhWjZJcXJkY3BxUzdNWDVmM2ptRlFaTDdpb05hTUd4NTlKU24tODQtczNLSGx0MEJwVG5MYlFIYWFOdG5ER0hySm9vTmFXNENBLThad3c?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "96d7890b9b3776",
+      "title": "Horeca Consultant Yogyakarta at Unilever",
+      "titleOriginal": "Horeca Consultant Yogyakarta at Unilever",
+      "summary": "Horeca Consultant Yogyakarta at Unilever",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T03:20:41+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDZuaGJJZmhRVkw1dkV2N0ZHWjROQzdEU3hwdVN0aHpvMHo5RkEwWEhRME1CcElYS3JPNjNReDczN3JrYUxDZ3VSNFJkWkRPcnd4V0tFN201MGhsSkRyRURKcnlGRm4yQXMzbkZ6ck5BTnhLZmU3b0N5a3AwNDVFOThXQjRzZnluMWhMMEZwOWpvQWhPWk1kTHV3?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "166d62b5e863dc",
       "title": "How Beauty Brands Are Turning College Campuses into Gen Z Acquisition Channels",
@@ -451,6 +547,38 @@
       }
     },
     {
+      "id": "e0b6b05a0b8b31",
+      "title": "新锐美妆科技公司巨亏",
+      "titleOriginal": "新锐美妆科技公司巨亏",
+      "summary": "新锐美妆科技公司巨亏",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-10T10:06:23+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RZGI4MWtPU1hFNHhoM3ZPMzdVR2xkRVBwVWcyb1Vzd19QQUZLV041ZGJnR2ttbVF2blpyTHBjM0piUDBMYS11RXM3b3BnMDhGaDFGNA?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "4fed8b528d0032",
       "title": "中国“彩妆教父”又创立了一个新品牌-品观网",
       "titleOriginal": "中国“彩妆教父”又创立了一个新品牌-品观网",
@@ -576,38 +704,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "eed33e331f5c51",
-      "title": "Meiyume bets on longevity, skinification and alcohol-free fragrance for AW26",
-      "titleOriginal": "Meiyume bets on longevity, skinification and alcohol-free fragrance for AW26",
-      "summary": "Meiyume bets on longevity, skinification and alcohol-free fragrance for AW26",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-08T06:35:03+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96OUx6TTNFcG9QZkhGOXQwYVlhS1Y2bjV2MlpURUhTXzVkTTBjOGh1ejJpYUlwamFXOTFtWFNoSnY4ZjJ6RXFhZm1Ca1RhdDNEbTBYdl9SVzZmcWJlb3ZXYUZJc1pwT0ZPQ2pNV2ltZGdvOE1KLV9Z?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
