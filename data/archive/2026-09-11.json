@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T04:47:33.012486+00:00",
+  "generatedAt": "2026-09-11T05:14:57.327260+00:00",
   "items": [
     {
       "id": "b96c41d4bb768a",
@@ -17,7 +17,7 @@
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-11T04:13:15+00:00",
+      "publishedAt": "2026-09-11T04:22:33+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHlCSjRjM19ISUxrNlMxV3luZTFPQnJXR2k1N2Vad2FWYXJZOEFKNXIyaDlzOTFRdUJJSGdVNlYtZUh4QmhjWFliMkxVN3dOejJ0em9vRm9PeHBoYXBwX0tzcUwxZkI4MHBjUmJNQlBMNTBKWEhYWF9OV084MW5pVUxXWDFjLTFNNTBfYUlJY1IzTUFMdDZPMHZzNFltd0JaY3R6QXBTZ1V5VF80amNwZmZnREx3bjZtemVNVjlBNGtkVWRTN3lZa3dNdl9WbkROUkRGUVFSWlFLR2hC?oc=5",
       "companies": [],
@@ -67,10 +67,10 @@
       }
     },
     {
-      "id": "96d7890b9b3776",
-      "title": "Horeca Consultant Yogyakarta at Unilever",
-      "titleOriginal": "Horeca Consultant Yogyakarta at Unilever",
-      "summary": "Horeca Consultant Yogyakarta at Unilever",
+      "id": "05e0c3a2224b74",
+      "title": "Descrição do cargo Horeca Consultant Yogyakarta na Unilever",
+      "titleOriginal": "Descrição do cargo Horeca Consultant Yogyakarta na Unilever",
+      "summary": "Descrição do cargo Horeca Consultant Yogyakarta na Unilever",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -83,7 +83,7 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-11T03:20:41+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDZuaGJJZmhRVkw1dkV2N0ZHWjROQzdEU3hwdVN0aHpvMHo5RkEwWEhRME1CcElYS3JPNjNReDczN3JrYUxDZ3VSNFJkWkRPcnd4V0tFN201MGhsSkRyRURKcnlGRm4yQXMzbkZ6ck5BTnhLZmU3b0N5a3AwNDVFOThXQjRzZnluMWhMMEZwOWpvQWhPWk1kTHV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkl4a0xZTFREQ1lfaWxWOHJmWWhXMnF0RWQ4UjVTZHhraktXRjZlS3RaaUhjNk8xR05WOC05NkZMdTZJckw3NXlXYm9YVThnM1NWTldnNmVJdm5TMWt5TDJlSTkzeG4xLVNTSDRZTGdlSlZsSVNRaVNCY0Nldm0zRG5lcGFzb2JYRV9xMUU4bWtCQTJZU0RiMWNkVG05Qnc?oc=5",
       "companies": [],
       "tags": [
         "Unilever",
@@ -668,38 +668,6 @@
       "baseScore": 60,
       "signals": {
         "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "4306e63a1a6b93",
-      "title": "The Next Generation of Beauty Packaging: Designing for Gens Z and Alpha",
-      "titleOriginal": "The Next Generation of Beauty Packaging: Designing for Gens Z and Alpha",
-      "summary": "The Next Generation of Beauty Packaging: Designing for Gens Z and Alpha",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T19:43:15+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaDlNYnFUWjY4WGtzYUg1U21fVElRYWxiYkc0V21ZQnFsX0ZjTDhMOW9nYm8zWk9kSGdHMEtWRmtvR1V3dldkV2YtT3NKMm9IbVM0LUVjRmQwMEE5aUtmTmI4aE41NVlFN0pQaG9oU1M5SURUWThHVkhuMkZqUnBVYUEzY1FnUG1mTzlFOTlnLUlaeVNLYmZpbm5lV3BWZml6ZjIwTUtEVTRQNG1qYi1EWmNDYlVpMWRMOU42WEppNE1BMDNNVEstY3JfbTQ2OWVtTWFRYmxfQkNYSWJpM1JfU3ZlOEc?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
