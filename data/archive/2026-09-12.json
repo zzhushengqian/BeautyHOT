@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-12T01:36:38.789103+00:00",
+  "generatedAt": "2026-09-12T04:41:38.127740+00:00",
   "items": [
     {
       "id": "ec052e73756fd2",
@@ -544,6 +544,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "57778ae3b048ff",
+      "title": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
+      "titleOriginal": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
+      "summary": "Skincare Consultant Clinique & Dr Jart- Sephora Carnaby Street- 37.5 hours",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-06T13:58:05+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc09LQTRfQkt3RjRPVUJMMjl5Y0ktZEQ5MkRNSzNidXZjS1Riaks2Z3M4TmVoNjhiVjBxVHY4V3VKaU9wMDhIZ0FjdXQ2VlNvcHYxYjRybndhQlBrdWRXZklDNy13dGJxNVViZVgtR1BfbHFSSWIyTzFjY3BtNkt6N3pMUlk1MXozbHZVUU1BRUd0TmQtRWFmekxGUHM5RmxGRGRwRjdJZ1M4RUZSY2lIUUYzaXBhQ1dQaVp3TGwyZVBJQnV6ZlVkOE1qUFdjM1VUV285NnEzMnlYUWUxM28xeTh3OHZudTNQbEhZUHpn?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     }
   ]
