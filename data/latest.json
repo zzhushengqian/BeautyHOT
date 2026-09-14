@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generatedAt": "2026-09-14T05:03:21.722623+00:00",
+  "generatedAt": "2026-09-14T05:26:45.344845+00:00",
   "items": [
     {
       "id": "756193d88370da",
@@ -17,7 +17,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-14T05:01:16+00:00",
+      "publishedAt": "2026-09-14T05:01:28+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORG9NVURod1hYdndMMlpFUnJwSkZnUWVHdEtHeW1sdWhiOUdiLUhkVmkzNjhwSTdxelAzX3c4emFud25USDZiTDF5emtNUm9ITUNxQjJkdmxrUVF0ZWE0ZHREZV9VNGU1MWNnSFYxenpGV3FlX3lJNEFId2VfUEdvN1Z3b1ZYOWFrVnk2eDRydnNfcy10emNQaGR4eWtpZHVtTUZTbU1XSDQ4NVZhQ29WZ0JR?oc=5",
       "companies": [],
@@ -222,6 +222,38 @@
         "impact": 6,
         "magnitude": 9,
         "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "5ce8dbadedffe8",
+      "title": "Associate Scientist, Skincare",
+      "titleOriginal": "Associate Scientist, Skincare",
+      "summary": "Associate Scientist, Skincare",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-12T01:28:20+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzRYY0E0LVJEZ01CQ3QycTQzaExRMTA5RkNRUjVOWUJ0OEJpd3VidmhjbmVvRm5PVkhqcE5HbmFiSHNYdDdjdFNYZ01sMldBSEppRUpybEFpQllvS3RVNWhZOVk1QlY4Y3F4eklQTjFzekJQRU9ycS1SVG13bWdkb2R3XzVtSWs1dGtFNjFnd3lPVm1HbXQ0?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
         "novelty": 6,
         "actionability": 6
       }
