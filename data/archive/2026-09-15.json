@@ -1,7 +1,135 @@
 {
   "date": "2026-09-15",
-  "generatedAt": "2026-09-15T01:55:46.281230+00:00",
+  "generatedAt": "2026-09-15T05:00:09.613534+00:00",
   "items": [
+    {
+      "id": "e127acda7c75fc",
+      "title": "Beauty Briefing: Mary Phillips, Dr. Shereene Idriss and Mara Roszak on translating their expertise into a brand",
+      "titleOriginal": "Beauty Briefing: Mary Phillips, Dr. Shereene Idriss and Mara Roszak on translating their expertise into a brand",
+      "summary": "Beauty Briefing: Mary Phillips, Dr. Shereene Idriss and Mara Roszak on translating their expertise into a brand",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T04:01:06+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVE4R2R4RnJOY2NsdXFRbjFRb1ZHY2E3RDQ4MzRWcFRiX1FBM0FKQlEwekYzUkUyWjA3TmEwVjNGUU02Y2RsX0R2OExDOWZ6eWhqTzRCLVRWTW1KUGc2YVdua3V1cjJRWmI0ekhXS2lpNnBuYVhDS1M2bTJPQTZ6cHhJOHBkekJEYzh1ajl2M0djdkRBNlFsZWVYWmktVU9CNDRKTHNHUmFVc2MyWW9haGo4S2NwemUtdjZPcUtUSmw2VVJoaE1LWFlhX3ZBemlqUDNMaw?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c02670011e5e7c",
+      "title": "IL Cosmetics unveils a new generation of beauty innovations",
+      "titleOriginal": "IL Cosmetics unveils a new generation of beauty innovations",
+      "summary": "IL Cosmetics unveils a new generation of beauty innovations",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T03:31:19+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKM0x1TGVXS1ZZXzJTQnBuOXdiS2s0S1hXbDN4V0dSaUhremI3REsyTjVqWmtOSU0wQmVDSnNxb1JudTQxQmtmM1hoYXE3YW9TRUwxRm9US1luS1dKSlQxRDM0Q2ZnT1VaMGFUTjQtTVVZV0ZRREZmTw?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "4864315155b879",
+      "title": "WWD x FN x Beauty Inc Women in Power 2026",
+      "titleOriginal": "WWD x FN x Beauty Inc Women in Power 2026",
+      "summary": "WWD x FN x Beauty Inc Women in Power 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T03:13:31+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXpvUVcxQ09ycFBNcGVNNUtfVW4tRDM2R045a09wNU1FaXVwcWcwX1Jadl9kMmdyZ0MwZUx6aUJWa3pGZTE2eDJPLVlYMFFRN2lVQ19pMEhCWGRvZE5pQng2cWJ2VlNmZzk5aXd2LTBjRlRKVXhQdnM0UGFrb3ZHelhJWS1Qamhsa1I0U05UX0RwWGRMaHByM3p2SlVhUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "8090f59564c44d",
+      "title": "The Cosmetic 360 trade show unveils this year’s theme: ’Regenerations’",
+      "titleOriginal": "The Cosmetic 360 trade show unveils this year’s theme: ’Regenerations’",
+      "summary": "The Cosmetic 360 trade show unveils this year’s theme: ’Regenerations’",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T02:56:39+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKT0czTG5YNHI0UXlLNGkxcDlzOHZGRVMxNHUweFNKVkFsTWdoTW42WVg4UWZySDU3TG43LXR1dkxhWVlVdFg3T016Y3NhdVBfdFc5cW4wNzlsUEV4SXUxZnRYVmZLdFJUN2JKOUJiYkZVUlVwUXc4Xy1R?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "053e0cf4843baf",
       "title": "Shopee泰国9.9大促：美妆个护品类销售额最高增长7.5倍",
@@ -20,38 +148,6 @@
       "publishedAt": "2026-09-15T01:30:52+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xeVJLakdJZFg2amVKY0FmMUlIaGtIX2FmVFA0ZGFxaHVPdWNWaUx6VDZWOGN3OFdkWXZTeWFXeUlvVEVjcjhucWRJVFBYLU5pN2FKSXc2Qks?oc=5",
-      "companies": [],
-      "tags": [
-        "亿邦动力",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "e9f5e65b15c9d8",
-      "title": "花知晓新品发布 珀莱雅控股后产品设计表现如何？",
-      "titleOriginal": "花知晓新品发布 珀莱雅控股后产品设计表现如何？",
-      "summary": "花知晓新品发布 珀莱雅控股后产品设计表现如何？",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "亿邦动力",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-15T01:13:52+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41U2JZVDF2Ni1SSDdKd2VUMGU4XzZ2QW82b1M4a1J4TkZqRDNPc1NLdkJFdktRRERJRFV6M014RG9Pbno0MFp6SEFMT2stUWxRbDA3dnZn?oc=5",
       "companies": [],
       "tags": [
         "亿邦动力",
@@ -113,7 +209,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-14T22:56:34+00:00",
+      "publishedAt": "2026-09-14T23:04:10+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ma0wydmxpTEkzSGM5RTZEZzlhWHp0MmNoZ3E5VmctNU1EVlZ0TnlOSGlPbjJhNVV5MkE2eXdDazE4eEQ0QkNKaU1FQkpCLVllMF9FRWpwOVJJMFRzUVYzWDFsc2ltc2R3MktyY2ZCSDdiOU1RV01nQjdMeFltMEk?oc=5",
       "companies": [],
@@ -180,38 +276,6 @@
       "publishedAt": "2026-09-14T21:11:58+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0JRbDY2MWNXY2RCQWdOMFdSMmFKN2lGSnRxa3VTZms5UlF0LVFndnI2NXhrNkdDaFozMTR0NW1pdGI3X1NPdmhRYmp4OFQwOGZwZjFSeHhKMHlvSDlENUpwSXctTGp0WFBTeDdpSGNaa0tUcUFKMkVBai1QTnM2XzNHalVCSDRzRTRTSkkwYTVpSm5RbmJGMDF0UVlqdzctenZ4OFNnZ0drNVMzRm44S05B?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "4864315155b879",
-      "title": "WWD x FN x Beauty Inc Women in Power 2026",
-      "titleOriginal": "WWD x FN x Beauty Inc Women in Power 2026",
-      "summary": "WWD x FN x Beauty Inc Women in Power 2026",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-14T21:02:31+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXpvUVcxQ09ycFBNcGVNNUtfVW4tRDM2R045a09wNU1FaXVwcWcwX1Jadl9kMmdyZ0MwZUx6aUJWa3pGZTE2eDJPLVlYMFFRN2lVQ19pMEhCWGRvZE5pQng2cWJ2VlNmZzk5aXd2LTBjRlRKVXhQdnM0UGFrb3ZHelhJWS1Qamhsa1I0U05UX0RwWGRMaHByM3p2SlVhUQ?oc=5",
       "companies": [],
       "tags": [
         "WWD",
@@ -576,6 +640,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "96d7890b9b3776",
+      "title": "Horeca Consultant Yogyakarta at Unilever",
+      "titleOriginal": "Horeca Consultant Yogyakarta at Unilever",
+      "summary": "Horeca Consultant Yogyakarta at Unilever",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T03:20:41+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDZuaGJJZmhRVkw1dkV2N0ZHWjROQzdEU3hwdVN0aHpvMHo5RkEwWEhRME1CcElYS3JPNjNReDczN3JrYUxDZ3VSNFJkWkRPcnd4V0tFN201MGhsSkRyRURKcnlGRm4yQXMzbkZ6ck5BTnhLZmU3b0N5a3AwNDVFOThXQjRzZnluMWhMMEZwOWpvQWhPWk1kTHV3?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     }
   ]
