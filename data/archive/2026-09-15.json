@@ -1,7 +1,71 @@
 {
   "date": "2026-09-15",
-  "generatedAt": "2026-09-15T05:00:09.613534+00:00",
+  "generatedAt": "2026-09-15T05:21:17.414008+00:00",
   "items": [
+    {
+      "id": "3e6eaf3891086b",
+      "title": "Puig Takes Full Ownership of ISDIN in €1.2 Billion Deal",
+      "titleOriginal": "Puig Takes Full Ownership of ISDIN in €1.2 Billion Deal",
+      "summary": "Puig Takes Full Ownership of ISDIN in €1.2 Billion Deal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T05:00:28+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ21YNDNTcTQxNE04WFJ2cjhRVmZOOEhrNzUydExRWWdvdlJrZXpqRjRSNHpPUVZqeG1ZVkE0aDJUZE1KV3NLQ3RVc1ZwNzcwZUpKb2I0cUY2cWlRc0VSWWRRMU1ERVBoRUNxR1VwaWVITkF4MUpKMEp5dGdFS2lLUlpPWDRfbGh5WTR1UEFtbDRvVTdJbWJZ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "9d2710a11af73f",
+      "title": "Amorepacific Targets KRW 15 Trillion in Sales by 2035",
+      "titleOriginal": "Amorepacific Targets KRW 15 Trillion in Sales by 2035",
+      "summary": "Amorepacific Targets KRW 15 Trillion in Sales by 2035",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T05:00:28+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWRhYUQ1LUR2M2ZaZFZQMHRselE0RkpCdjBwT1g0ZmRiWkFRNDduT29UaDVoUzlycF9GWlY1LVA1R1JTOW5qeU11SmhsUXpjdUJfTG9sNGlnTnRndm1iS01wSTdFaU1UNWw2QnJSV25zMm05WE9uZzFSR3U2NUc4a01oQW9YMnV4S0JpTmpLdWxScW9S?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "e127acda7c75fc",
       "title": "Beauty Briefing: Mary Phillips, Dr. Shereene Idriss and Mara Roszak on translating their expertise into a brand",
@@ -640,38 +704,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "96d7890b9b3776",
-      "title": "Horeca Consultant Yogyakarta at Unilever",
-      "titleOriginal": "Horeca Consultant Yogyakarta at Unilever",
-      "summary": "Horeca Consultant Yogyakarta at Unilever",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Unilever",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T03:20:41+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDZuaGJJZmhRVkw1dkV2N0ZHWjROQzdEU3hwdVN0aHpvMHo5RkEwWEhRME1CcElYS3JPNjNReDczN3JrYUxDZ3VSNFJkWkRPcnd4V0tFN201MGhsSkRyRURKcnlGRm4yQXMzbkZ6ck5BTnhLZmU3b0N5a3AwNDVFOThXQjRzZnluMWhMMEZwOWpvQWhPWk1kTHV3?oc=5",
-      "companies": [],
-      "tags": [
-        "Unilever",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
