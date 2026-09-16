@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T01:45:55.990441+00:00",
+  "generatedAt": "2026-09-16T04:55:30.070518+00:00",
   "items": [
     {
       "id": "649a708782bd30",
@@ -67,38 +67,6 @@
       }
     },
     {
-      "id": "0510050fe29da4",
-      "title": "Hero Cosmetics Co-Founder Ju Rhyu Launches Sunscreen Brand Vize",
-      "titleOriginal": "Hero Cosmetics Co-Founder Ju Rhyu Launches Sunscreen Brand Vize",
-      "summary": "Hero Cosmetics Co-Founder Ju Rhyu Launches Sunscreen Brand Vize",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-15T12:50:53+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLUlpVX3ptd09CcTdocXRYNnBGXzNiQzl0bUJ1LVZ4WXhySFNrb3dJbERzcTNMaXFZT011TWtUUWJHSFdUTUgycDV1OTIyME50eTZkUllZVXhKNVVRaFl3RU5CZ3cxbTl3VGVCTjB4N1lWQVRMWWEtU3o4U3FLaVk?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
       "id": "cc2710e5cf884f",
       "title": "Brenntag, Jingkun Expand Partnership for Beauty & Personal Care in France and Germany",
       "titleOriginal": "Brenntag, Jingkun Expand Partnership for Beauty & Personal Care in France and Germany",
@@ -131,26 +99,26 @@
       }
     },
     {
-      "id": "8ede557f0582fb",
-      "title": "驰亚科技美妆防伪防窜一体化方案：技术驱动品牌保护与渠道管控双升级",
-      "titleOriginal": "驰亚科技美妆防伪防窜一体化方案：技术驱动品牌保护与渠道管控双升级",
-      "summary": "驰亚科技美妆防伪防窜一体化方案：技术驱动品牌保护与渠道管控双升级",
+      "id": "027859a078b80d",
+      "title": "2024美妆奢侈品巨头排位洗牌 欧莱雅正式超越LVMH登顶全球美妆行业市值榜首",
+      "titleOriginal": "2024美妆奢侈品巨头排位洗牌 欧莱雅正式超越LVMH登顶全球美妆行业市值榜首",
+      "summary": "2024美妆奢侈品巨头排位洗牌 欧莱雅正式超越LVMH登顶全球美妆行业市值榜首",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "channels",
-      "source": "界面新闻",
+      "category": "brands",
+      "source": "36Kr",
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-15T09:25:49+00:00",
+      "publishedAt": "2026-09-15T12:19:00+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVDZETVF6Z0d0RUdWVV9qdnk3Ulp5bEYwTHNLTEtEY3RhZldKOTJHc2FnQ3k3SFFkV25ScWNfVDVPTXBkQXIzeVlOc1FxS2JzS094VnBMQmI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ob3lEMGlhZms5ZVFiVnMtRUFrTUpKZnVPVkFEcmVDbkFKRUNZd1pqNWNPUDFHMnNPZ2VranlxU3gwWThhaTdpV1RETmhJSG01Wi1B?oc=5",
       "companies": [],
       "tags": [
-        "界面新闻",
+        "36Kr",
         "自动采集"
       ],
       "baseScore": 60,
@@ -159,7 +127,7 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 8
+        "actionability": 6
       }
     },
     {
@@ -352,6 +320,38 @@
         "china": 3,
         "novelty": 8,
         "actionability": 8
+      }
+    },
+    {
+      "id": "8a89f91ea4fecd",
+      "title": "Introducing the Anecdotes by Artists Fragrances",
+      "titleOriginal": "Introducing the Anecdotes by Artists Fragrances",
+      "summary": "Introducing the Anecdotes by Artists Fragrances",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-14T12:55:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3k5QlAwV1Jrc0RvSlRETFRSWlQ2c2VpT1NVN0sxbTd4TzJ3QUZWcGFXMGlwWlplV09BNXZKUTdGSF9abnpBMGJRZlFIRWZDNEMzVHkxMDZST3FSTXFlYXBwYW5XS18zcE1YZFhOMTN4R1YycjdHckVuamlLRGJ3aDFMUnBSNVFSRHNkM0hBRVFLaXlITEc2REJR?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
