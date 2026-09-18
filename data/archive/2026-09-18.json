@@ -1,7 +1,39 @@
 {
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T04:50:42.444419+00:00",
+  "generatedAt": "2026-09-18T05:11:34.480345+00:00",
   "items": [
+    {
+      "id": "4778b6de4bb2d4",
+      "title": "RAW Skincare to Close After Nearly a Decade",
+      "titleOriginal": "RAW Skincare to Close After Nearly a Decade",
+      "summary": "RAW Skincare to Close After Nearly a Decade",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-18T05:00:32+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmtVeVZKMlcyNXlaVThGRkU0bkVONXVwVlRsWW1kZHhYWjE3OUtxOWhNWnFlNFZRNUowUlpQeEx4TXNwaERTeU9LMFF6RU5mYzJ1S3NGbExYNEZ1QXB6ak9RWjdNVkVGSEhlMEdhMlhZRkJzb1BZWHptSWJuWFZpWExEZ2ZxWnc?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "8b878d0aa1ba99",
       "title": "Fragrances: Symrise completes acquisition of Floral Concept",
@@ -259,38 +291,6 @@
       }
     },
     {
-      "id": "e31dfaa6e9b035",
-      "title": "娇韵诗家族清仓清洁护肤!",
-      "titleOriginal": "娇韵诗家族清仓清洁护肤!",
-      "summary": "娇韵诗家族清仓清洁护肤!",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-17T03:02:42+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDUW9BXzhvTzh2SHpGaF9WdTY0WFZUQmRfcVlRU1lWT1FwV2Ztc2NrdElOekZLaEVkeUo3NmlKb1JSTTlRUW5Pam5jRGJzemZkeUtmdg?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "a37617009c0584",
       "title": "七连增，化妆品6.1%跑赢大盘",
       "titleOriginal": "七连增，化妆品6.1%跑赢大盘",
@@ -317,38 +317,6 @@
       "signals": {
         "impact": 6,
         "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ba4f33a8c8662e",
-      "title": "Givenchy Beauty Ambassador",
-      "titleOriginal": "Givenchy Beauty Ambassador",
-      "summary": "Givenchy Beauty Ambassador",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "LVMH",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-16T07:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12cXAwR0lEMzBkVlRkZHJnSFhEMFNhbTRray1HOV9OdGY0ekI0NVV5RnB6SkVRZ05zNU9Da19CWUJ5a2prSXI2MVN5RkNkWHhZZktZd21IWkpBQTNHeU5VNlZ0VlhBUnRzRGZ0ZWNn?oc=5",
-      "companies": [],
-      "tags": [
-        "LVMH",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
@@ -384,38 +352,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "7a4252dc23f51d",
-      "title": "L'Oreal steals French stock market crown from LVMH",
-      "titleOriginal": "L'Oreal steals French stock market crown from LVMH",
-      "summary": "L'Oreal steals French stock market crown from LVMH",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Reuters",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-15T16:13:44+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0tMb2QxSEFUNm1ZdGw5UVhUcEZVTmx6TzVKTDNWQnFfbmNraDctaTlxaU5VY1J3VEZjRk9Ra1lld283cFRqTFI5RzNRSmNZODFhaWJZSXJSTUVGUzMwV00tMXhsbDV6Zk5rd3piYWhRc2Q5VTRuMFpCa0dLUXp3b05NZDFuaXk4Y1F0TlhFRDI1a2JBdm1rV0xxRkx6elNwSDVuQ0N5cHk?oc=5",
-      "companies": [],
-      "tags": [
-        "Reuters",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     },
     {
