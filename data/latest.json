@@ -1,7 +1,39 @@
 {
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T01:36:18.579282+00:00",
+  "generatedAt": "2026-09-18T04:50:42.444419+00:00",
   "items": [
+    {
+      "id": "8b878d0aa1ba99",
+      "title": "Fragrances: Symrise completes acquisition of Floral Concept",
+      "titleOriginal": "Fragrances: Symrise completes acquisition of Floral Concept",
+      "summary": "Fragrances: Symrise completes acquisition of Floral Concept",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-18T02:50:54+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Cdy1Gd3Z3U3plWEw4dVFWU043RUxiT1U0UmNabGFRdkJmZTYxblA5MV9RVC1TYnc5Zk81TzZtNklpZFlETEtDdFBCVDRpWmJKd0ZrSnEwVjVaRFRwV2haRHJhTlRlRDRBTGYzNi1UN3p0Y044MVBzMDlLSQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
     {
       "id": "a219816f4d13f9",
       "title": "赵露思代言的功效护肤品牌被投",
@@ -35,35 +67,35 @@
       }
     },
     {
-      "id": "fcd68b2a32149d",
-      "title": "珀莱雅再投资一国货美妆，成第二大股东",
-      "titleOriginal": "珀莱雅再投资一国货美妆，成第二大股东",
-      "summary": "珀莱雅再投资一国货美妆，成第二大股东",
+      "id": "9586fab28f430b",
+      "title": "Jason Wu Collection Spring 2027: A Focus on Beauty",
+      "titleOriginal": "Jason Wu Collection Spring 2027: A Focus on Beauty",
+      "summary": "Jason Wu Collection Spring 2027: A Focus on Beauty",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "deals",
-      "source": "界面新闻",
+      "category": "brands",
+      "source": "WWD",
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-17T15:03:56+00:00",
+      "publishedAt": "2026-09-17T20:36:22+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3MkNUNTBjVGVzRG5OS2NlVDVvejZRcmFoS05YcHYyNGdLU25ocVZPdDl1c0JtVHFIRFRBZjQ2UEpmQmVaS3ZZbnpHMHhfYkpFRUdQZ0hidzI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jY2J5d3lDVHhWdXhxVlpfZGk5Z0QzeWFYWVFGanNDWTc2YjVtV1hkWF9iVGpxRDItSGo4WE9UcGt2azVsdnRHOUY5OXJkVnIySVhoLWxyME1PM0xlbUJ6QzRTQnBlM29HVXJidV9oVXdVYXFaWXE4bXZvMA?oc=5",
       "companies": [],
       "tags": [
-        "界面新闻",
+        "WWD",
         "自动采集"
       ],
       "baseScore": 60,
       "signals": {
-        "impact": 8,
+        "impact": 6,
         "magnitude": 6,
-        "china": 10,
+        "china": 3,
         "novelty": 6,
-        "actionability": 8
+        "actionability": 6
       }
     },
     {
@@ -291,32 +323,32 @@
       }
     },
     {
-      "id": "f0fbb4b3ddeaa7",
-      "title": "Colgate-Palmolive Explores US$1 Billion Sale of Personal Care Brands",
-      "titleOriginal": "Colgate-Palmolive Explores US$1 Billion Sale of Personal Care Brands",
-      "summary": "Colgate-Palmolive Explores US$1 Billion Sale of Personal Care Brands",
+      "id": "ba4f33a8c8662e",
+      "title": "Givenchy Beauty Ambassador",
+      "titleOriginal": "Givenchy Beauty Ambassador",
+      "summary": "Givenchy Beauty Ambassador",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
+      "source": "LVMH",
+      "sourceTier": "A",
+      "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-09-16T05:02:13+00:00",
+      "publishedAt": "2026-09-16T07:00:00+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSnhxWGE3Z19qOV8tRHZKS21aSXRya2xzOEhDcDZKb3R3TEZ1eEJMelR4VFR5YTF2SjU3OW5adktNNmhUNE1LVFBiQWJpdFR4V2w5MkJCeGhJRG42X3VnaTNLTWFtbmZibmtubndYbHBRbHJHZ2h6NjJhRXRhUTY1S2s3QWpNcndEZXlYOURhcmdzMDhlQzF1aTV3alVQREE5TEt1Y1d5NA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12cXAwR0lEMzBkVlRkZHJnSFhEMFNhbTRray1HOV9OdGY0ekI0NVV5RnB6SkVRZ05zNU9Da19CWUJ5a2prSXI2MVN5RkNkWHhZZktZd21IWkpBQTNHeU5VNlZ0VlhBUnRzRGZ0ZWNn?oc=5",
       "companies": [],
       "tags": [
-        "Global Cosmetics News",
-        "自动采集"
+        "LVMH",
+        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
         "impact": 6,
-        "magnitude": 9,
+        "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
@@ -415,6 +447,38 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b1f02960389dd8",
+      "title": "Jump Accelerator: How Fragrance Performed on TikTok Shop in Q2",
+      "titleOriginal": "Jump Accelerator: How Fragrance Performed on TikTok Shop in Q2",
+      "summary": "Jump Accelerator: How Fragrance Performed on TikTok Shop in Q2",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "CEW",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T04:24:21+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HOWJLelZDVjVsdGVjbDN0QWhVaFk0bGVDNkJEVlQxUU82NXdtUW9EdUNIc0tRRzUyS21xSmlRbmh5UlBXOFZJaC0xZC13bVd5alpQVG9vM1VZTUhLUi1iLVh5RE83T19R?oc=5",
+      "companies": [],
+      "tags": [
+        "CEW",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
         "actionability": 6
       }
     }
