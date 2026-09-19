@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T04:43:08.517844+00:00",
+  "generatedAt": "2026-09-19T05:02:52.030954+00:00",
   "items": [
     {
       "id": "3f590d7c5d6889",
@@ -515,64 +515,64 @@
       }
     },
     {
-      "id": "fc97772810fafc",
-      "title": "Beauty Rotator - Oslo Region - Temporary - Norway ...",
-      "titleOriginal": "Beauty Rotator - Oslo Region - Temporary - Norway ...",
-      "summary": "Beauty Rotator - Oslo Region - Temporary - Norway ...",
+      "id": "d39a60058e5d86",
+      "title": "拼完效率、研发之后，国货美妆进入“绿色基建”时代-品观网",
+      "titleOriginal": "拼完效率、研发之后，国货美妆进入“绿色基建”时代-品观网",
+      "summary": "拼完效率、研发之后，国货美妆进入“绿色基建”时代-品观网",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "brands",
-      "source": "LVMH",
-      "sourceTier": "A",
-      "verification": "official",
+      "category": "products",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
       "sourceCount": 1,
       "publishedAt": "2026-09-16T07:00:00+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fRC1hcGo5cDdGcFRjRk1JZHV4djFVRDhCcGptNUtGYmJQMkRQelhUem9jZWRtZTdfWXpGS3Z5eDNranFEYlJObzduMDNBcVMtV2ZrajN5VTloNTAwZ1VWWGFCekVONHF4LUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lWVYwdjlZX3FaR3lYMHY2dllhZXQ0X214ckVtRlF6VXpMbFVucTA2d2tzVEw1LUVXaVpMQjBWQml1R2ZJZFoxamU2WVA5OUd4MktOeHVpbWQ?oc=5",
       "companies": [],
       "tags": [
-        "LVMH",
-        "官方信源"
+        "品观",
+        "自动采集"
       ],
       "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
-        "china": 3,
+        "china": 10,
         "novelty": 6,
         "actionability": 6
       }
     },
     {
-      "id": "ba4f33a8c8662e",
-      "title": "Givenchy Beauty Ambassador",
-      "titleOriginal": "Givenchy Beauty Ambassador",
-      "summary": "Givenchy Beauty Ambassador",
+      "id": "f0fbb4b3ddeaa7",
+      "title": "Colgate-Palmolive Explores US$1 Billion Sale of Personal Care Brands",
+      "titleOriginal": "Colgate-Palmolive Explores US$1 Billion Sale of Personal Care Brands",
+      "summary": "Colgate-Palmolive Explores US$1 Billion Sale of Personal Care Brands",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
-      "source": "LVMH",
-      "sourceTier": "A",
-      "verification": "official",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-16T07:00:00+00:00",
+      "publishedAt": "2026-09-16T05:02:13+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12cXAwR0lEMzBkVlRkZHJnSFhEMFNhbTRray1HOV9OdGY0ekI0NVV5RnB6SkVRZ05zNU9Da19CWUJ5a2prSXI2MVN5RkNkWHhZZktZd21IWkpBQTNHeU5VNlZ0VlhBUnRzRGZ0ZWNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSnhxWGE3Z19qOV8tRHZKS21aSXRya2xzOEhDcDZKb3R3TEZ1eEJMelR4VFR5YTF2SjU3OW5adktNNmhUNE1LVFBiQWJpdFR4V2w5MkJCeGhJRG42X3VnaTNLTWFtbmZibmtubndYbHBRbHJHZ2h6NjJhRXRhUTY1S2s3QWpNcndEZXlYOURhcmdzMDhlQzF1aTV3alVQREE5TEt1Y1d5NA?oc=5",
       "companies": [],
       "tags": [
-        "LVMH",
-        "官方信源"
+        "Global Cosmetics News",
+        "自动采集"
       ],
       "baseScore": 60,
       "signals": {
         "impact": 6,
-        "magnitude": 6,
+        "magnitude": 9,
         "china": 3,
         "novelty": 6,
         "actionability": 6
