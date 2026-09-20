@@ -1,7 +1,39 @@
 {
   "date": "2026-09-20",
-  "generatedAt": "2026-09-20T01:43:03.911975+00:00",
+  "generatedAt": "2026-09-20T04:58:54.203972+00:00",
   "items": [
+    {
+      "id": "751fdeb1295f3e",
+      "title": "京东美妆的正品叙事正被透支？",
+      "titleOriginal": "京东美妆的正品叙事正被透支？",
+      "summary": "京东美妆的正品叙事正被透支？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-20T02:01:35+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxOUlXemxQNHBCUS1UWmVXakdFbEFQMXdBMEJRdXJmZ25TNmJjM0FVMnBwY0lsNXd0VDg3dnlDWGRWQWJmbUJSanRRdVRESU1HN093?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "c286962153b7e9",
       "title": "知名化妆师创立的彩妆品牌获投",
@@ -24,38 +56,6 @@
       "tags": [
         "聚美丽",
         "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "e9ef30983c4672",
-      "title": "SHISEIDO INTEGRATED REPORT 2025",
-      "titleOriginal": "SHISEIDO INTEGRATED REPORT 2025",
-      "summary": "SHISEIDO INTEGRATED REPORT 2025",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Shiseido",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T10:09:39+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaGxLRktraUUwZUEtSHFTenRkQ1JSN2g5ZTIzcmNXNG9iay1nWlF3dHIyTk1hYTVKdmRzRk5qTEh1UEw0Vk1zekRYNzhlUWV4MEdoVlZHMDJkV0dYVkVPWl9tZDJ4b3ZHOElZOUxwVGFBYV84U3hN?oc=5",
-      "companies": [],
-      "tags": [
-        "Shiseido",
-        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
@@ -131,6 +131,70 @@
       }
     },
     {
+      "id": "3510fc656e44b2",
+      "title": "Interparfums Extends Roberto Cavalli Fragrance Partnership",
+      "titleOriginal": "Interparfums Extends Roberto Cavalli Fragrance Partnership",
+      "summary": "Interparfums Extends Roberto Cavalli Fragrance Partnership",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-18T12:49:47+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMWhjSjNwRWE0ajFWcE5JQ0RqZGZfRFV5TlZQQm5sWktCenRXUWstUDZjQXNQQkM5bVZJd3FQNVZRYUhPUXV4bm9JQUpNMEwwZ3c5OU9kQS1aMllrbm1RbENnM01UbHVOc21tWnZHY21FQ01ib3N0aXRyWGtHbHB1NlhMcVlJd1Z5OVkxdXlLN3gxX1h3TUdra2NoOG5CWjFOTk5tMk01cUY?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e9ef30983c4672",
+      "title": "SHISEIDO INTEGRATED REPORT 2025",
+      "titleOriginal": "SHISEIDO INTEGRATED REPORT 2025",
+      "summary": "SHISEIDO INTEGRATED REPORT 2025",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Shiseido",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-18T07:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaGxLRktraUUwZUEtSHFTenRkQ1JSN2g5ZTIzcmNXNG9iay1nWlF3dHIyTk1hYTVKdmRzRk5qTEh1UEw0Vk1zekRYNzhlUWV4MEdoVlZHMDJkV0dYVkVPWl9tZDJ4b3ZHOElZOUxwVGFBYV84U3hN?oc=5",
+      "companies": [],
+      "tags": [
+        "Shiseido",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "0de2501895e8a9",
       "title": "6500万！知名美容仪公司卖了？",
       "titleOriginal": "6500万！知名美容仪公司卖了？",
@@ -163,58 +227,26 @@
       }
     },
     {
-      "id": "a01d98e063439d",
-      "title": "知名医美企业再获千万融资！",
-      "titleOriginal": "知名医美企业再获千万融资！",
-      "summary": "知名医美企业再获千万融资！",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T02:11:23+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQNGR0azZVeV95UWpqSm5EeE1PaVVvVkxmU254eWJXMDE5cGx2cTAxbXBQMXdVakVsNVgtU2hYSkZfbGpGY1lHT0lIUEtiT1d3LTMxOA?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "175660aed2419b",
-      "title": "死人皮肤变抗衰针？韩国Re2O风波起底",
-      "titleOriginal": "死人皮肤变抗衰针？韩国Re2O风波起底",
-      "summary": "死人皮肤变抗衰针？韩国Re2O风波起底",
+      "id": "7ae84589d2aac9",
+      "title": "Armani Beauty brings Dolci Club blush pop-up to Covent Garden",
+      "titleOriginal": "Armani Beauty brings Dolci Club blush pop-up to Covent Garden",
+      "summary": "Armani Beauty brings Dolci Club blush pop-up to Covent Garden",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
-      "source": "聚美丽",
+      "source": "TheIndustry.beauty",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-17T05:43:25+00:00",
+      "publishedAt": "2026-09-17T06:11:42+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BcVpBdF9EcVFHaW83dG9BeHVZUGZfOXR1MDUyWlVzazVDekJ3b0V0MVZoY1ExbElmenNrU1d2ZGV4N0tXVWxQRWVHMlBxa3gzanNR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDVzdy1PWUtLZVFUUWFHRWcxR09WZFRLOGJMU0l4dTRfTHJWUjBJN3hlcC1Id0VNOHFlNXB5T0xENTN2dnZnSXZpU2JRc2FNTTB1WmpEOUZmUTVIeDBwNGY2RHpqOEFEY0doVUNobTRGeUF3bVpDOTVjMHNaWXJvejBNM0FyWGtIcG1FX0l3R1ZJNDQ?oc=5",
       "companies": [],
       "tags": [
-        "聚美丽",
+        "TheIndustry.beauty",
         "自动采集"
       ],
       "baseScore": 60,
@@ -244,38 +276,6 @@
       "publishedAt": "2026-09-16T07:00:00+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fRC1hcGo5cDdGcFRjRk1JZHV4djFVRDhCcGptNUtGYmJQMkRQelhUem9jZWRtZTdfWXpGS3Z5eDNranFEYlJObzduMDNBcVMtV2ZrajN5VTloNTAwZ1VWWGFCekVONHF4LUE?oc=5",
-      "companies": [],
-      "tags": [
-        "LVMH",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ba4f33a8c8662e",
-      "title": "Givenchy Beauty Ambassador",
-      "titleOriginal": "Givenchy Beauty Ambassador",
-      "summary": "Givenchy Beauty Ambassador",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "LVMH",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-16T07:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12cXAwR0lEMzBkVlRkZHJnSFhEMFNhbTRray1HOV9OdGY0ekI0NVV5RnB6SkVRZ05zNU9Da19CWUJ5a2prSXI2MVN5RkNkWHhZZktZd21IWkpBQTNHeU5VNlZ0VlhBUnRzRGZ0ZWNn?oc=5",
       "companies": [],
       "tags": [
         "LVMH",
