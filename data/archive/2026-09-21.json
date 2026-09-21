@@ -1,7 +1,135 @@
 {
   "date": "2026-09-21",
-  "generatedAt": "2026-09-21T01:44:29.363790+00:00",
+  "generatedAt": "2026-09-21T05:04:13.779157+00:00",
   "items": [
+    {
+      "id": "62f29a4b7c4adb",
+      "title": "Sweaty Betty Expands into Beauty and Wellness with Boots Exclusive",
+      "titleOriginal": "Sweaty Betty Expands into Beauty and Wellness with Boots Exclusive",
+      "summary": "Sweaty Betty Expands into Beauty and Wellness with Boots Exclusive",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-21T05:01:21+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcnVGSV9xdDZEUFNGWWk2bTNPTzN0WGpPbkJOWVVNcjRJbUhCOWg0Tl9ucl9adU4tWjhvZkM0NWRONUJFN3E2bnZnc0NYUFF2NkdpeldJUGpvSFJWSUlVNFNLak5Mc3ZUd2dyVU5PekI4UEFMaWM1NElJcWl4cEp3VFBIT2hhUFhMeVhwTjJtTUhHaVVOazM2TnNVZmdieHREamozM1F3?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "5be834632ea9a3",
+      "title": "Fresh off its viral influencer ‘bachelorette trip’, Swan Beauty attempts a NYFW blitz",
+      "titleOriginal": "Fresh off its viral influencer ‘bachelorette trip’, Swan Beauty attempts a NYFW blitz",
+      "summary": "Fresh off its viral influencer ‘bachelorette trip’, Swan Beauty attempts a NYFW blitz",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-21T04:36:49+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeU9naGJqUWR5TDhCYnBMVldTWkVsS25fOUg0RjFKa3l1X0E2WmRmUzVuNWx0ZzU4YjdyRkpjWDB1WHRDWnphTnpUOTEzZlpPOEg3RkYtWldaVkczbkc0Q0xYTDY0U0llYXdiSHh1VmxINGFjYVdtRldka3N4UXZ0NkIzTUowWWZqT21lWXdidG1aZUVRNnZqby1CSXZtNjhwUlQzUUc5SDRSVVRHcWJGQjRR?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "74fb3b4845c0aa",
+      "title": "The sports and beauty crossover still has ‘lots of room to grow’",
+      "titleOriginal": "The sports and beauty crossover still has ‘lots of room to grow’",
+      "summary": "The sports and beauty crossover still has ‘lots of room to grow’",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-21T04:03:54+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZHN4bEV4LUt3MklueHNtUjFsNEQwVmlLZlljYVAzVWtKS21xNDZhNnNfRHI5ZktnOVROWXdJd0k4NlB4U0tSMUkxdUhyRlJRQ0cydTFyZTl6a0hrNmNGYkxyMDAtaDJEZTlvcjNZZmNKWUhwaE4zWUtEdkIyWkxFMm1jMGVaSEN6OHJDUF93X1Nobkk?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "7e23d41b779092",
+      "title": "上美股份与韩国再生医学领军企业PharmaResearch 签署战略合作备忘录，主导丽驻兰化妆品中国市场本土化运营",
+      "titleOriginal": "上美股份与韩国再生医学领军企业PharmaResearch 签署战略合作备忘录，主导丽驻兰化妆品中国市场本土化运营",
+      "summary": "上美股份与韩国再生医学领军企业PharmaResearch 签署战略合作备忘录，主导丽驻兰化妆品中国市场本土化运营",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-21T03:13:54+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Xd0gwZjExX0JUM0kxXzRyR0k0Yk5RbW5ieFVUZkdsZGFJN2NJWTZ2dm9pZGg4VWQyWGtva3JmWUVlU19NcFhIWll6Sy0tZ09tYUFzVlhxaFY?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "834e0ad8fa79ab",
       "title": "How Pour Moi Skincare Is Building the Climate-Adaptive Beauty Category",
@@ -223,70 +351,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "27066df638beaa",
-      "title": "从Dior到谷雨，它们为什么爱上了“固态护肤”？",
-      "titleOriginal": "从Dior到谷雨，它们为什么爱上了“固态护肤”？",
-      "summary": "从Dior到谷雨，它们为什么爱上了“固态护肤”？",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "界面新闻",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T21:19:50+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tdkxZYmItZWdmckJZSmJNem54Wnk5bnh3VlFGS0tMOTZTaGM5YXhwREQyd09oNy1vUldCRjc0Y2V6eHRBMk5KbDd5dE4tOEJBdXk2TjlhWDQ?oc=5",
-      "companies": [],
-      "tags": [
-        "界面新闻",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "889a607650103d",
-      "title": "Dedcool is betting on a $1 million NYFW pop-up, OOH blitz to break through the crowded fragrance landscape with new launch",
-      "titleOriginal": "Dedcool is betting on a $1 million NYFW pop-up, OOH blitz to break through the crowded fragrance landscape with new launch",
-      "summary": "Dedcool is betting on a $1 million NYFW pop-up, OOH blitz to break through the crowded fragrance landscape with new launch",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Glossy",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-14T04:02:40+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSU56eFdITGJpZWRCRWpwcVo3T1JnSTlJeW9yU0JTU1B2cUlDM1MwOEN3UXZpYmpIR2VvNWNNWnhGSGFmNkJNREJ4SVFwUmJlcURzSF9MTnRBZnJRZ3NLY1dQa0hWUll4LWhBZ0djMmZXMUdTRUFRM180MW9ESDNpMXBBRk5oYS1pbHZEeDFqWTRqcGdwYVNrb2V1VXp5OC1LYnVKZ2I2V1JxN0VWNXVkaG9wZHBtcEZpT2NKMHZvRkd5czBiU2xEUFpkOTU5dGkxWmhDSk90bVFLYk10YU9Qb3dFV2I?oc=5",
-      "companies": [],
-      "tags": [
-        "Glossy",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     }
