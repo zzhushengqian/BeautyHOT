@@ -1,7 +1,39 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T01:50:55.400142+00:00",
+  "generatedAt": "2026-09-23T04:50:56.859404+00:00",
   "items": [
+    {
+      "id": "3cb3db3a96910c",
+      "title": "Haircare Brand Arey Secures Series A Investment",
+      "titleOriginal": "Haircare Brand Arey Secures Series A Investment",
+      "summary": "Haircare Brand Arey Secures Series A Investment",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T00:40:14+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2QxOUdoeEtSQ3hMLU1Rd2syazhPT2lGUS1zaEpDMldXckJtNmdobHlkSVVXY1pTU2NOODBYbzNBSWdBTEcwNUpWN2JnUm1tOHRrcUlpM3JwOVJuM3NsSEQ0V0g4QlVYTmhjaEFnOEd3cnhMaEVSMDE3S3cyTUVfRHA4Nk5Md2tL?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "f76831d6b13673",
       "title": "How Charlotte Mensah Built a Black-Owned Haircare Business Through Restraint and Community",
@@ -151,6 +183,38 @@
       "companies": [],
       "tags": [
         "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "64e1c4c54b5307",
+      "title": "Fenty Skin issues playful response to surprise k-beauty eye patch innovation race",
+      "titleOriginal": "Fenty Skin issues playful response to surprise k-beauty eye patch innovation race",
+      "summary": "Fenty Skin issues playful response to surprise k-beauty eye patch innovation race",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T19:07:46+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFJRdE5YMHRYeFpVZkZHa2ozbE0zTUJuNXo0Q044ZTl6ekhEUXM5MHdTRUl1emhVRzZDd3RmNThRamV6ZFJrNjlpSnFLOU93SzZjTkd2X1JVR2dEOEpiM1lNb2NqS2hacWtSRWd2UjRiSy1hOUd1R3RDZ2VvWGFfc3daVUNfX3JzR2RUSTNWcUg4N20wY015N3hZVkFpLUNqYlBkYlJndzFjQldlS1RZ?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
         "自动采集"
       ],
       "baseScore": 60,
@@ -704,70 +768,6 @@
         "china": 10,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "340be78955a912",
-      "title": "Inside Beauty’s Next Breakthroughs: Meet the 2026 NYSCC Suppliers’ Award Finalists",
-      "titleOriginal": "Inside Beauty’s Next Breakthroughs: Meet the 2026 NYSCC Suppliers’ Award Finalists",
-      "summary": "Inside Beauty’s Next Breakthroughs: Meet the 2026 NYSCC Suppliers’ Award Finalists",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T16:08:45+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEJPRGxkZm54Zms5eG42VlhUY2RLOU5sdHdjT3llRUIxaVNoTFREVHRVSW01WV8zNlhfS2t1QVZOUVdCcW96SldXemxNU2VydXFFa1F1YWxzM25NWXFqOWM1UWUwYkQ2U0NyVXFYa2t1SlhmckJ6bWhweXg5djI0cXJ2Q29udmRVU2NVZTNqMWZNRE5ZSk03ODBRVUdEMnphUjVVVQ?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "92f9c82819b332",
-      "title": "太原理工3D生物打印定制皮肤项目市场化融资 科创医疗项目投资对接",
-      "titleOriginal": "太原理工3D生物打印定制皮肤项目市场化融资 科创医疗项目投资对接",
-      "summary": "太原理工3D生物打印定制皮肤项目市场化融资 科创医疗项目投资对接",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T15:57:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BRUtMeVY2ZF9CQ2lPNDdEV1djcFE1NG03M183OGJVR3N0ak0yejdpeTlyRmxZNFVpdU5QLUJyenY0TWowSVd5MEphcmp6V19UMk13?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     },
     {
