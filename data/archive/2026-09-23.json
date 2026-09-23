@@ -1,7 +1,39 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T04:50:56.859404+00:00",
+  "generatedAt": "2026-09-23T05:09:48.791680+00:00",
   "items": [
+    {
+      "id": "a25057b0f0f07b",
+      "title": "India Introduces Vegetarian and Non-Vegetarian Labelling Rules for Cosmetics and Toiletries",
+      "titleOriginal": "India Introduces Vegetarian and Non-Vegetarian Labelling Rules for Cosmetics and Toiletries",
+      "summary": "India Introduces Vegetarian and Non-Vegetarian Labelling Rules for Cosmetics and Toiletries",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T05:02:16+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3lfREFpdHRJSnBQdFR6U2xxQjIyT2dFWEs3VXBzc084V1ZWQmJNeFd6a1Y2UVl1blpHVjlWNnVueE1DWDVoM0FpbkhjQ19sRGQxUGlLNXU1Yjg0clhEZDZwbU14Y3NjQTV0YnhfZi02Z0tUaXFfTlIzWDZMMUM0bC05UnFjakhrZVBjX0FHT3BCYkxwOE9oYkY4Q0MxcmdwWmwyc1lqdzdUcVlNMUZ2bTh6QV9TSzRyRWxGaFdmRUQ4MVNPVG53?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "3cb3db3a96910c",
       "title": "Haircare Brand Arey Secures Series A Investment",
