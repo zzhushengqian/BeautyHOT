@@ -1,7 +1,39 @@
 {
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T04:59:17.723924+00:00",
+  "generatedAt": "2026-09-24T05:24:28.623407+00:00",
   "items": [
+    {
+      "id": "a04f3e3aa10579",
+      "title": "Interparfums Signs Global Fragrance Licence with PUMA",
+      "titleOriginal": "Interparfums Signs Global Fragrance Licence with PUMA",
+      "summary": "Interparfums Signs Global Fragrance Licence with PUMA",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-24T05:01:14+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZEFGX0M0bEtxRnF5OU9VSVBwX1p2Z2VxbG05ZW1zYlBsNFV0aFlqbkl1RkVjSnh3eXdUUEhwb1NVcDJMay1SSWVOaTJmMHo5TmMtY2dyaUZ3Z3RCa25PRi1WWFNSV1BNMWExYjQ1aS1LX1pCSmpzbWtNRDFYdHZEdmxYODR4ZkRpMHZiT0FjSXo0QzY0?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "f87483e7658263",
       "title": "Longevity: Is This Beauty’s Biggest Makeover Yet?",
