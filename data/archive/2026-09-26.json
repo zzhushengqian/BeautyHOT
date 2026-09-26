@@ -1,7 +1,39 @@
 {
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T02:03:18.883564+00:00",
+  "generatedAt": "2026-09-26T05:06:27.604090+00:00",
   "items": [
+    {
+      "id": "9ab2641f228679",
+      "title": "澳丽达化妆品（深圳）有限公司",
+      "titleOriginal": "澳丽达化妆品（深圳）有限公司",
+      "summary": "澳丽达化妆品（深圳）有限公司",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T01:25:41+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOWxLS1VUV1J5WjJyRjh2QnVQZDc4NkxOYm1kQjd1Sjg4RldER1h0Zk11QkJ4Vk1LbUtFNXNtUUo5VGhmOHVHRFpGYjVybFRzckRrZW5USVVPVGl6dzRUSWpwYzBOUGJkN2UtR0FneWI1VC1relZ1X2dVSFBPcTBaaWxpQmExdmhfcnRYSHNXSGlNOWk4Mll4SVlkRnhGSFJNTG5MbTdlTkhiTmkwaEZIZV9TNmd0UTVUN2JfWmVaVEZfbU9LUUhTbGZyemxVb3dJRkk4aFFoWV9UdS10TjIwZ3FKNXdJZ19mQlNJLUZvYXA3SUN0VWhBNGYwU0VoaEJ1UUd6Q01R?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "c4115216152cc1",
       "title": "What a BASF Takeover of Evonik Could Mean for Beauty’s Ingredient Supply Chain",
@@ -32,6 +64,70 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "7640868d4386d2",
+      "title": "How Thirteen Lune’s Studio 13 Accelerator Is Supporting Emerging Beauty Brands",
+      "titleOriginal": "How Thirteen Lune’s Studio 13 Accelerator Is Supporting Emerging Beauty Brands",
+      "summary": "How Thirteen Lune’s Studio 13 Accelerator Is Supporting Emerging Beauty Brands",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T00:44:55+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0dKamxVSXBRcjJReGk1VUVSWlJXTzRWNDVaN2w0RjBfTzBKZGpibEo4c3JLTll3TEZveS1lMEY5bTlPU3VEeHBpVWZ4UExJWmRmc2JxdFRrNlljbGx4eDRFcmhfclVlVGd5N0tyaWNFcmNueXpidG52ZWhsUk51TnlqV05zVERsd1Ffa2FCZTBweEY0ZzdfbGs5V2hJMVk?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a09ad55676d5f2",
+      "title": "Chanel Names Lucia Pieroni to Top Makeup Role",
+      "titleOriginal": "Chanel Names Lucia Pieroni to Top Makeup Role",
+      "summary": "Chanel Names Lucia Pieroni to Top Makeup Role",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-25T22:24:28+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanAxNXp2QTN1QzAzU3h5eXZ5Wk45aUVheWZEcHZzbzMwSjFTYzl0VTJHWTJ0TXQzUkVuTWlkb0JjNHFFRkZrZTNvV3V4eTFOWndLZkpUaHVEanVQbS1hZGdleF9NV25CLUxMSlJsbUY3S0RwbEZGelpvZTc1V0pLMG80UlNjS0hrcHo0dFVpeFJ0bThDd0NBZkY3c095TjZCSzNVZ0tqTy1TVkk?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -227,70 +323,6 @@
       }
     },
     {
-      "id": "0df9e3bfaf5e38",
-      "title": "Beiersdorf Partners with Channel 4 on Gen Z Branded Entertainment Campaign",
-      "titleOriginal": "Beiersdorf Partners with Channel 4 on Gen Z Branded Entertainment Campaign",
-      "summary": "Beiersdorf Partners with Channel 4 on Gen Z Branded Entertainment Campaign",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T05:01:13+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUVoQ013eU05ZGs5NE1sXzY4dTRrT014OWRQT2RnQ0c2VEFfZE9qakw0alJ0V011OFV5U2xqNWhtVHBNblNGMkx4NF9fSHh6NWFFZkJyUER6bHBFcjIwcHFtTUZnZUU5NkJsUWZ1QWoxVktnZmw0WHR1dXZrbWkzTHpjMXBlQlY5QnZlbUVxbTBoWnJVekNSOGNuTy0yS2NrRUlSUTBsWWpFVTRFSjlwcw?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "a09ad55676d5f2",
-      "title": "Chanel Names Lucia Pieroni to Top Makeup Role",
-      "titleOriginal": "Chanel Names Lucia Pieroni to Top Makeup Role",
-      "summary": "Chanel Names Lucia Pieroni to Top Makeup Role",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T04:07:17+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanAxNXp2QTN1QzAzU3h5eXZ5Wk45aUVheWZEcHZzbzMwSjFTYzl0VTJHWTJ0TXQzUkVuTWlkb0JjNHFFRkZrZTNvV3V4eTFOWndLZkpUaHVEanVQbS1hZGdleF9NV25CLUxMSlJsbUY3S0RwbEZGelpvZTc1V0pLMG80UlNjS0hrcHo0dFVpeFJ0bThDd0NBZkY3c095TjZCSzNVZ0tqTy1TVkk?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "4abe26b03726a3",
       "title": "Walmart Melds Fashion, Beauty and Home in New Style Organization",
       "titleOriginal": "Walmart Melds Fashion, Beauty and Home in New Style Organization",
@@ -311,38 +343,6 @@
       "companies": [],
       "tags": [
         "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "d97a53b7d4e351",
-      "title": "2026 Week 39: Beauty Brand and Product Launches",
-      "titleOriginal": "2026 Week 39: Beauty Brand and Product Launches",
-      "summary": "2026 Week 39: Beauty Brand and Product Launches",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-24T18:50:04+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzJrajByd2dBUEVTTWROT2xjaDl0aFJPeHNDTTd4MnMzcTg5cVFkYjhCUENCTmJXQmlzOWdCMWZrcUdQUWl2UGJxUVJ4czVvQnlTdGFIWlZUMTU4SXg1TzRoclFRU3dfUkFUb2p3aklSQmlYZ2hqM1RNVVM1aFRsOHpmQkFlX1U?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
         "自动采集"
       ],
       "baseScore": 60,
