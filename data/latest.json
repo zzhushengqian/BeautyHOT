@@ -1,133 +1,42 @@
 {
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T02:00:42.211031+00:00",
+  "generatedAt": "2026-09-28T05:31:26.670290+00:00",
   "items": [
     {
-      "id": "803e04bc7d635d",
-      "title": "The Best Beauty Marketing Campaigns of August 2026",
-      "titleOriginal": "The Best Beauty Marketing Campaigns of August 2026",
-      "summary": "The Best Beauty Marketing Campaigns of August 2026",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "id": "29064ace215197",
+      "title": "关于公司控股股东及其一致行动人部分股份解除质押及质押延期回购的公告",
+      "titleOriginal": "关于公司控股股东及其一致行动人部分股份解除质押及质押延期回购的公告",
+      "summary": "关于公司控股股东及其一致行动人部分股份解除质押及质押延期回购的公告",
+      "why": "水羊股份（300740）的法定公告，属于可直接核验的一手披露。",
       "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
       },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T21:28:33+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56YkJ0YkN2WnJqUWRNSWFVY1BqWXQ4ejluTEd2dWRWVWFvWFBPTzFqdGdmOWxDUTgxOWh6SWEtTTUxOG5VR1BGd3RhaVQ1NUJZeTl1a1RjcjhwY2JhdjZENU5rX2g5VlROUEVyYjFkTXZsU3M?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "a5097462098708",
-      "title": "Saudi Arabia Is Emerging as Beauty’s Next Global Innovation Hub",
-      "titleOriginal": "Saudi Arabia Is Emerging as Beauty’s Next Global Innovation Hub",
-      "summary": "Saudi Arabia Is Emerging as Beauty’s Next Global Innovation Hub",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T18:15:34+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWNPQ2pmeXREUGdtcXFEb3VwNWVmRmQyNzZaLTc1U2RibGtzYmRhN3owaUZ5NWhXTTBTd0JyMWw4eUp5UDRWMFpPSy1YZW9Vd2J1b2VJdFMwSHI5dDJPVTRUc3VVVUZNdm1WVVFzNkM4RTN6LWZzYndsZng5VzNSNUJnZHpzSF95ZEZMdW9HbVprSHRjVkczeXdDMUhHeExoVFFlZXpMMA?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "f5efdceac7443c",
-      "title": "Sally Beauty Is Official Beauty Retailer of the Dallas Cowboys Cheerleaders",
-      "titleOriginal": "Sally Beauty Is Official Beauty Retailer of the Dallas Cowboys Cheerleaders",
-      "summary": "Sally Beauty Is Official Beauty Retailer of the Dallas Cowboys Cheerleaders",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T07:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTE5aRkxrMm4wTkNSaXdJTldlOGtGZ0ctaXQ2ZkFUdXVQODZZd3BsZk5oWnpFTU9HeUNydFNudW5jVVFJREtWMkVfUGluNGtZOGs2b3BHa0Y5UE5EOVN3TEZ6NlB2NTFuMkhRRlRyVzVPUFZQZzJjbDQzcWFaRUhsUTJ2UlRfV2wybHFGaTdEODRqSTJUM2ZRS0hrTzRONWVDOXM4eGQ0WUtlQzVIeGtwMGtB?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "16dc07148c4b7d",
-      "title": "Keyholder- The Cosmetics Company Store- Full Time- Round Rock - Round Rock, TX",
-      "titleOriginal": "Keyholder- The Cosmetics Company Store- Full Time- Round Rock - Round Rock, TX",
-      "summary": "Keyholder- The Cosmetics Company Store- Full Time- Round Rock - Round Rock, TX",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Estée Lauder Companies",
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-09-27T04:10:09+00:00",
+      "publishedAt": "2026-09-24T08:25:58+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc09qWS1MTlVZQzkwdlR2UFpOcm1SaGpXSGxrLXp4ODZEN0JtM1BtN3VKaDVqWHZhWF9sQ29NSE96THlVeWNqbzlNYkpKREplRDZmUFZmU29ZVXhXaldIZFlBM216Qm9EcDZEWDh3QldMa3VpTmwzb0ZaUmJKRnlUdWN3QmdyVnF6NkRyLVM2M1dCeHBzZ0RvOUY4U3VwTklaekpaQUU0YVRKQTBwMDJkQ0JpendDWXRwTDJFUDJuUW53WWFwNzNrbWtMQWpXeS1TdHFka3lRUEFiVVNuZlRpd2pxWGZ0VFN4QmpZQTFRVVJQOFU?oc=5",
-      "companies": [],
+      "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225581144.PDF",
+      "companies": [
+        "水羊股份"
+      ],
       "tags": [
-        "Estée Lauder Companies",
+        "水羊股份",
+        "300740",
+        "上市公司公告",
         "官方信源"
       ],
-      "baseScore": 60,
+      "baseScore": 88,
+      "priorityDisclosure": true,
       "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
       }
     }
   ]
