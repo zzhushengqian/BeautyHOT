@@ -1,7 +1,71 @@
 {
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T02:47:26.963480+00:00",
+  "generatedAt": "2026-09-29T05:49:32.848518+00:00",
   "items": [
+    {
+      "id": "0545ba24db5994",
+      "title": "Fragrance is taking a page from the romantasy craze",
+      "titleOriginal": "Fragrance is taking a page from the romantasy craze",
+      "summary": "Fragrance is taking a page from the romantasy craze",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T04:02:34+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ2RHRlpSNDY2cUlKTHJzc09xbXc4cGdXanZWYnlFNG85NTBaanl3SjJRRlk3d2VoRkV1STVrU00wSkFxZ3B4dXFubzdtb1pmSXJLbXhfMW44QnRYRnN4OEVvNk5TYnFPZXV4QnRIaGVfV3M1VktXMXJGRTd2YjVST3ktaG1WdW9MT3FvbFRaRjNJOFVXUDB6TzJiVllWRVZTT2JNbDZUR0tEU1pDQWZhU29fcTlDZTlZWUFoekd1RFJ5bFBCUWprVWlqUmI5ZXVlMDMzTi13cDM5U0diOUFIV2NhSQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "53e5c922f5b9da",
+      "title": "dsm-firmenich honors new Master Perfumers, looks to the next generation",
+      "titleOriginal": "dsm-firmenich honors new Master Perfumers, looks to the next generation",
+      "summary": "dsm-firmenich honors new Master Perfumers, looks to the next generation",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T02:02:35+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kQXhVNHhNa0tSMDNWRXgtcjl5bzJfV25jbUJJQVlXWUJLbHRESHl6TVQzZC1rQ3p0R042aGNENDNhMWFNTU1WVXNDSTVFLVB2SFpYU0hxVWpJOUNOUGd6bDRWcUREVGtHRjRRMkI4ZEdfbllaUDVKaDhKYjAtNms?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "c34e8db3129a72",
       "title": "Aptar Beauty creates a refillable travel spray for Bvlgari",
@@ -67,26 +131,26 @@
       }
     },
     {
-      "id": "aaec9d3a13a8aa",
-      "title": "Korean Department Store Shinsegae Wants to Be a U.S. Beauty Player, Too",
-      "titleOriginal": "Korean Department Store Shinsegae Wants to Be a U.S. Beauty Player, Too",
-      "summary": "Korean Department Store Shinsegae Wants to Be a U.S. Beauty Player, Too",
+      "id": "86e54ccc3e3657",
+      "title": "Cosmogen & Asquan Group expands ambitions in beauty packaging",
+      "titleOriginal": "Cosmogen & Asquan Group expands ambitions in beauty packaging",
+      "summary": "Cosmogen & Asquan Group expands ambitions in beauty packaging",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "channels",
-      "source": "WWD",
-      "sourceTier": "B",
+      "category": "supply-chain",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-28T21:31:03+00:00",
+      "publishedAt": "2026-09-29T00:03:39+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlR1RUpYVVZlSlotVVZzTS1yYXpZOV9pdjVFUHZvbzAxeGIydWNib2U5ekxCYkxzaXFXZ1JjeTI4SmxaWHdJdmliYzlRWFZkVHhGb3p1akJ3ZFVfWFpLT0o0YzNQYlZOOWY2bERlem5VckVDak9pbWZIXzFnMnhQYVR1VTdMT2thZUQwMnkzOXRuWFk1MUM2Q29OUWtZRE1rR2RrUUhhbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94Y2V5WWN6VDVfYnFRT2JYM1ZxVHpRYzEzR21uNWZlR2JpcHY1MkMxZzRyUW5oNTFSMGloSzV5MzlWWGRTSWZzenJqMzVVZG5NNzNpQm1QcDZXT1R4bHZTSVhmVWZ3MFVrMEtsclBzeG0yY3NBTUlXOU5tajQ?oc=5",
       "companies": [],
       "tags": [
-        "WWD",
+        "Premium Beauty News",
         "自动采集"
       ],
       "baseScore": 60,
@@ -195,10 +259,10 @@
       }
     },
     {
-      "id": "dce10c640e012c",
-      "title": "COTTON IN BEAUTY: A Sustainable, Sensorial & Science Backed Solution",
-      "titleOriginal": "COTTON IN BEAUTY: A Sustainable, Sensorial & Science Backed Solution",
-      "summary": "COTTON IN BEAUTY: A Sustainable, Sensorial & Science Backed Solution",
+      "id": "a278dbcdf82bf9",
+      "title": "COTTON IN BEAUTY: A Sustainable, Sensorial & Science-Backed Solution",
+      "titleOriginal": "COTTON IN BEAUTY: A Sustainable, Sensorial & Science-Backed Solution",
+      "summary": "COTTON IN BEAUTY: A Sustainable, Sensorial & Science-Backed Solution",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -419,6 +483,38 @@
       }
     },
     {
+      "id": "300812093cdd72",
+      "title": "Paris Hilton Brings the Fun to the MTV VMAs 2026 Red Carpet in Crystal-embellished Gladiator Boots",
+      "titleOriginal": "Paris Hilton Brings the Fun to the MTV VMAs 2026 Red Carpet in Crystal-embellished Gladiator Boots",
+      "summary": "Paris Hilton Brings the Fun to the MTV VMAs 2026 Red Carpet in Crystal-embellished Gladiator Boots",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T02:15:49+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkhORkVtbUNPWWpTN19UT2IzNHRaM2ZHazE1MmhoWkFFZUh3RjdUbWtqbVRZUC1oNm16Y1k4WU92ZlRKWnNZTUd0bnJBWjJNNUhGdXhVTGxKMjVUYmRZeTNoODE4ak5KNlVCc1dlYXdGQ1g1TU9pekp4ZFY3U1RJSGVFMjV4UmdiLWZ3S29rR2pQZ2lCaDMzdzktNzh1U20zeGRHa3dncVhNdDQ?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "18524777c58af7",
       "title": "8400万！又一印度美妆获投",
       "titleOriginal": "8400万！又一印度美妆获投",
@@ -451,6 +547,38 @@
       }
     },
     {
+      "id": "aaec9d3a13a8aa",
+      "title": "Korean Department Store Shinsegae Wants to Be a U.S. Beauty Player, Too",
+      "titleOriginal": "Korean Department Store Shinsegae Wants to Be a U.S. Beauty Player, Too",
+      "summary": "Korean Department Store Shinsegae Wants to Be a U.S. Beauty Player, Too",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T19:49:55+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlR1RUpYVVZlSlotVVZzTS1yYXpZOV9pdjVFUHZvbzAxeGIydWNib2U5ekxCYkxzaXFXZ1JjeTI4SmxaWHdJdmliYzlRWFZkVHhGb3p1akJ3ZFVfWFpLT0o0YzNQYlZOOWY2bERlem5VckVDak9pbWZIXzFnMnhQYVR1VTdMT2thZUQwMnkzOXRuWFk1MUM2Q29OUWtZRE1rR2RrUUhhbw?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
       "id": "27eaf668398ef6",
       "title": "刚成立3个月的护发品牌获千万融资？",
       "titleOriginal": "刚成立3个月的护发品牌获千万融资？",
@@ -480,6 +608,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "8bf93eaac545b1",
+      "title": "A Look at the Most Legendary Beauty Moments in MTV VMAs History [PHOTOS]",
+      "titleOriginal": "A Look at the Most Legendary Beauty Moments in MTV VMAs History [PHOTOS]",
+      "summary": "A Look at the Most Legendary Beauty Moments in MTV VMAs History [PHOTOS]",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T06:49:50+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnlxV1NjSS1lQmxfSjBQNGhHMlZOYmszcmMwbkpGYlczNjlXcm9iS0xnMm84YllWQ05UTXcxWWVpdW0yNHdZd1pxQ1Qtb0JqRHMxbmJKQmJYMWhXT3ozb1NfOVVHa0h5cFJxalhtREsyMFRNcl9PeF9ZT1luQ01wTXI3OFVnREFFdG10bmN0ZnQ2Mmc4Xy1QY3FQMDU1YjdHbFkySEZnazU?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     }
   ]
