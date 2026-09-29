@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T05:49:32.848518+00:00",
+  "generatedAt": "2026-09-29T06:11:33.682391+00:00",
   "items": [
     {
       "id": "0545ba24db5994",
@@ -279,6 +279,38 @@
       "companies": [],
       "tags": [
         "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e3545ab208694a",
+      "title": "从一个人到一群人，美妆品牌的“全球代言人”安排不过来了",
+      "titleOriginal": "从一个人到一群人，美妆品牌的“全球代言人”安排不过来了",
+      "summary": "从一个人到一群人，美妆品牌的“全球代言人”安排不过来了",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T15:08:42+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fVEtlTmRSRmxPbkRlS0VES0J5Z0IzeHNpNVFLd1ZIQzZnV3p5M0doMGk0THJ2c3JJOGlocTJYTlJiTWZVRnRNTVlzdVRLdWRQS0VaaFlpdGU?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
         "自动采集"
       ],
       "baseScore": 60,
