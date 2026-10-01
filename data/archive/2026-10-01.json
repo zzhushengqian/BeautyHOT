@@ -1,7 +1,39 @@
 {
   "date": "2026-10-01",
-  "generatedAt": "2026-10-01T02:29:53.924312+00:00",
+  "generatedAt": "2026-10-01T06:04:36.667717+00:00",
   "items": [
+    {
+      "id": "e539727a57fe30",
+      "title": "Scarlett Johansson’s Skincare Brand The Outset Closes",
+      "titleOriginal": "Scarlett Johansson’s Skincare Brand The Outset Closes",
+      "summary": "Scarlett Johansson’s Skincare Brand The Outset Closes",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T05:00:16+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjFpRkNZWXU2N2czSTFDeGxOQ3hpX2dpUFlwb0xOZld6TUlZT3N1S2F5OUVnVTRReHNVWlEtZUtpREI1d0QzUzJqclk3azhCTFlUcU9YaFBXQkJpU25ON1YzNXBCdl93Qkxud1VJLUZKSWktTE1Bb0xNRzBmdTYxM3VkY0dfUkhKTE5paGVucVdXcTQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "30c388bf2e079a",
       "title": "EXCLUSIVE: Rhode Expands Into Continental Europe With Sephora",
@@ -17,7 +49,7 @@
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-09-30T21:47:44+00:00",
+      "publishedAt": "2026-10-01T04:02:37+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2IwU2lTMkxnMlJKTl9QdnRsV1RyNHZ5dzRNb1FabHlYUVpDQ3k4RnFQZWRyQTVMQW9BaHJpTG5MZWU5aWRhZzZ6TUxiU1lVZzBYOEZpakpCMGxlY21WQ01KWmNTVnBheW1OR2tTTUsxQk1wVjdOSzFzd3hMWG9hemlDYjlJZzBrSWI1M2dKYWNwMFkzby0wMUhSRVh3Y3Fqb3hKaVB3ZWQ?oc=5",
       "companies": [],
@@ -32,6 +64,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "b65f4855807fcd",
+      "title": "Kao Malaysia Wins Watsons Best Sustainability Partner Award",
+      "titleOriginal": "Kao Malaysia Wins Watsons Best Sustainability Partner Award",
+      "summary": "Kao Malaysia Wins Watsons Best Sustainability Partner Award",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Kao",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T03:56:16+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZzY4V280ZnROc29Ib0ROdG8xbEFGLWVHSVhSN2E4TlNXeXJHN2p4SHJnZV9HTkhWNk1ySWFNRnpTcXFBQ0ZzMUcwODIyY0pkZ05qbUgxbkNJZw?oc=5",
+      "companies": [],
+      "tags": [
+        "Kao",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -485,38 +549,6 @@
       }
     },
     {
-      "id": "6cc4213396b6f2",
-      "title": "TOM FORD BEAUTY- FREELANCER- MISSOULA,MT",
-      "titleOriginal": "TOM FORD BEAUTY- FREELANCER- MISSOULA,MT",
-      "summary": "TOM FORD BEAUTY- FREELANCER- MISSOULA,MT",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T05:34:06+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeURjUmZTc01aSVpwOGhjb19kUWpySTlraHVDTEdremVXMlpSZFZsQXFrdDVrR0hKWk5aSEY1ZWhCR2ZhNzhmYzJucG5HaW51NFJ0N3puYi1kWkJPRnZQZUdqMmhsRTdBaGhtR2Z4ZHViTVpjY1NkdGNFX2M3ZkttMVg2RkprMm5mSS1ncnU4YlJwNDB6ZlZsOVlaMExLWG1KU3ptbnVhcWw5ekxQSndYVFlGSnlqWHdaVHJjWVhGTjNibGMzaTF4UFVmRkQ3bW9qR1dTdldYSkgzaF9udUxocTdn?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "5e7ede31edcc6d",
       "title": "出资1亿！国货美妆巨头加码创投",
       "titleOriginal": "出资1亿！国货美妆巨头加码创投",
@@ -581,6 +613,38 @@
       }
     },
     {
+      "id": "d877ed5a5241e4",
+      "title": "四度登榜IFSCC！瑷尔博士重塑微生态护肤“中国话语权”",
+      "titleOriginal": "四度登榜IFSCC！瑷尔博士重塑微生态护肤“中国话语权”",
+      "summary": "四度登榜IFSCC！瑷尔博士重塑微生态护肤“中国话语权”",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T01:15:55+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4OHUzZldJYUFfS0p4ZzJlM3JCS3NuRFJoTHB4c3JRd3FBMWhCUnppYzI1Wm90MGdYaEhGNE5MSm5pVktpX1NoRFhabDN3dnhsQVNJ?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "cb833bd2563b41",
       "title": "Skincare Brand The Outset Shutters Operations",
       "titleOriginal": "Skincare Brand The Outset Shutters Operations",
@@ -602,6 +666,38 @@
       "tags": [
         "Happi",
         "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "6cc4213396b6f2",
+      "title": "TOM FORD BEAUTY- FREELANCER- MISSOULA,MT",
+      "titleOriginal": "TOM FORD BEAUTY- FREELANCER- MISSOULA,MT",
+      "summary": "TOM FORD BEAUTY- FREELANCER- MISSOULA,MT",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T22:01:47+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeURjUmZTc01aSVpwOGhjb19kUWpySTlraHVDTEdremVXMlpSZFZsQXFrdDVrR0hKWk5aSEY1ZWhCR2ZhNzhmYzJucG5HaW51NFJ0N3puYi1kWkJPRnZQZUdqMmhsRTdBaGhtR2Z4ZHViTVpjY1NkdGNFX2M3ZkttMVg2RkprMm5mSS1ncnU4YlJwNDB6ZlZsOVlaMExLWG1KU3ptbnVhcWw5ekxQSndYVFlGSnlqWHdaVHJjWVhGTjNibGMzaTF4UFVmRkQ3bW9qR1dTdldYSkgzaF9udUxocTdn?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
@@ -674,6 +770,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "a43b0cc12d3b61",
+      "title": "MAC Cosmetics Retail Artist Bluewater (15hr Contract)",
+      "titleOriginal": "MAC Cosmetics Retail Artist Bluewater (15hr Contract)",
+      "summary": "MAC Cosmetics Retail Artist Bluewater (15hr Contract)",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T13:21:33+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRWFvWDc4VjhxRGVpZm8wSGhWdFRLcW5vVkRHV1AxLTdIMEVCUHYxTFhySVhOOFY0U3VUUmxCbGNySGRTM2FfeUFFVWgxV1FTS1ZQU0NBZ3NTYkdxRzRhRVJaYmN6cjNNdEdFUks5aFhmd1cwYnJpNjBSYzYxcjBoSkZrWUhOQkl0OE1zRThZN0Y5S2pDOW5SQWpJN285Z2MtNjA5LTZzVVYzYmlrbHBMZWlhRVA3TEFNVW9McjRXX0VqUlcyd3lxU05teEtrRlFTUnlFOFVOSVUyMzlfR09mZmMycENVR21pZXhvZ21BSkxEd25rTnVsNg?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     }
   ]
