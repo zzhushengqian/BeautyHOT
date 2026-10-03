@@ -1,7 +1,71 @@
 {
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T02:22:38.625683+00:00",
+  "generatedAt": "2026-10-03T05:24:25.983293+00:00",
   "items": [
+    {
+      "id": "1bbe746dfe06fe",
+      "title": "Key Holder - The Cosmetics Company Store -Full Time- Miromar Outlets - Estero",
+      "titleOriginal": "Key Holder - The Cosmetics Company Store -Full Time- Miromar Outlets - Estero",
+      "summary": "Key Holder - The Cosmetics Company Store -Full Time- Miromar Outlets - Estero",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T03:14:49+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSGF6ZWtzYmZEOWktSzdleHhkbC1ZRXNPUnNHblV6MXRHa0dpUC1ubWZIXzU1YnJMZ1dfZXRuZEpoZGhVeVRDU2pVcUJPb1A4TlB2Z1MxRnpLZVV0blQxNGFnYWgzT1N5UVNCN3dlQklLb0xWbHhXZzJTZmU4emlVaE9VUVc0aEM5Z2RQeEE1dFpDUmh3eWJ1WU9yekg3aWVOOGRWaldVNll3RVdXbmY2NlJ4bndBbllzMlctWk1sV25JMi1qZ1ZsVHhsTVVWemlkajNwMzNEUDVzWTZxRTEwMG5JbGlheDRULWg2SE5QVUo?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "d1941526d31f07",
+      "title": "How Climate Change Is Reshaping Skincare Formulation and Claims",
+      "titleOriginal": "How Climate Change Is Reshaping Skincare Formulation and Claims",
+      "summary": "How Climate Change Is Reshaping Skincare Formulation and Claims",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T01:09:05+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSk91WUFXZWRjX0RtNVNPdmtqazJTdFR0RkdNdjhKazV4bEcydy1CTUl3b3hwSUpjcF9aMXdLVHE0SkNZSFFQTjA3VHVDakRyV1FvNXFfRVF6Y2pIbldaX09yU1N1cm5vRnl1RTg5dFlvTkd3NkdTemc3ZmJxUTFvYw?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "1e5f8fb793f45c",
       "title": "Essentiality of Beauty",
