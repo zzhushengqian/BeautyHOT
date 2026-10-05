@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T05:49:40.118464+00:00",
+  "generatedAt": "2026-10-05T06:12:42.254212+00:00",
   "items": [
     {
       "id": "7cd36691e3840e",
@@ -151,6 +151,38 @@
       "companies": [],
       "tags": [
         "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "fc3bc2bd20efc2",
+      "title": "Huda Kattan To Receive Icon Award at Beautyworld Dubai",
+      "titleOriginal": "Huda Kattan To Receive Icon Award at Beautyworld Dubai",
+      "summary": "Huda Kattan To Receive Icon Award at Beautyworld Dubai",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T07:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMlR4QjNOUGhDbmdDUXBiMVJpSHotVE5DcEZ5aFVLNzVIXy1uVUZ5QURVN00zWXVERzNDT2dVS3hQVjNkbjNIM2NlQWZ1ZC1FMXFFb1hpUVJuOTBTU1dLMDQwUHJTQVhXVU9wbjdNZGZSYVRQOFB1RlpTdUdNOUZjeUF6WTdHaVdRbGtRaGlRSUFpY0l2akE?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
         "自动采集"
       ],
       "baseScore": 60,
