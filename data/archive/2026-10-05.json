@@ -1,7 +1,71 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T02:26:13.738858+00:00",
+  "generatedAt": "2026-10-05T05:49:40.118464+00:00",
   "items": [
+    {
+      "id": "7cd36691e3840e",
+      "title": "H&M Beauty Names Sharvari First Brand Ambassador in India",
+      "titleOriginal": "H&M Beauty Names Sharvari First Brand Ambassador in India",
+      "summary": "H&M Beauty Names Sharvari First Brand Ambassador in India",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-05T05:03:03+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEl3VEUtSmF5YmhkNGZuOTFzMENjZXM2ZWktdkRpVmVfTm1VV3VIaFNlblpxZ0pXVEtVUjJscHZQdGZMZHhtMFg3M0czNnpHVWNRcV9XbnRKaHRlLWRrdjZialF1ZXgxbGI2OTZ3RzNZd2NoVWRWZ3hlcjVsRjFzZllZeU1BZVBWQjE5T2JoZE1YNGJDTi1qUw?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e5844e708649e8",
+      "title": "What Beauty Brands Need to Know About the EU’s Changing Cosmetics Regulations",
+      "titleOriginal": "What Beauty Brands Need to Know About the EU’s Changing Cosmetics Regulations",
+      "summary": "What Beauty Brands Need to Know About the EU’s Changing Cosmetics Regulations",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "regulation",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-05T02:48:45+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TcjRybmtvOEU3ODVJZWphRDZPV0hqQVV2RU80aFlIUGNHR0EtQTYzV3ZUWlFseFBkemdFZFVKUkJkX2MwTG1jUTAyUGhQOV9qRC1SX3hQSGJ6MktpY055WnFJcnF2NzlELXBramwzZ1BuRjhXVDlrSjFoeF8?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "18cde6def9f7ba",
       "title": "Weekly Recap: Listerine Launch, Target Beauty and More",
@@ -99,58 +163,26 @@
       }
     },
     {
-      "id": "e5844e708649e8",
-      "title": "What Beauty Brands Need to Know About the EU’s Changing Cosmetics Regulations",
-      "titleOriginal": "What Beauty Brands Need to Know About the EU’s Changing Cosmetics Regulations",
-      "summary": "What Beauty Brands Need to Know About the EU’s Changing Cosmetics Regulations",
+      "id": "6c842af387f0c3",
+      "title": "Global Cosmetics News – Weekly Review",
+      "titleOriginal": "Global Cosmetics News – Weekly Review",
+      "summary": "Global Cosmetics News – Weekly Review",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "regulation",
-      "source": "BeautyMatter",
+      "category": "brands",
+      "source": "Global Cosmetics News",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-04T18:25:22+00:00",
+      "publishedAt": "2026-10-03T05:01:50+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TcjRybmtvOEU3ODVJZWphRDZPV0hqQVV2RU80aFlIUGNHR0EtQTYzV3ZUWlFseFBkemdFZFVKUkJkX2MwTG1jUTAyUGhQOV9qRC1SX3hQSGJ6MktpY055WnFJcnF2NzlELXBramwzZ1BuRjhXVDlrSjFoeF8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTd0OG9uYlc0R1o0NC1UUlVwTF9RLXhMblNXTUZnZ2N1c0FvLWhqVzRSWDNER0FYT2hyRnE4TEVMWVhXcnkxWUF0MWRaTldLUC1GcG8tSVBqMjlRZkxHSktRR2gybmJVT0hBb2RmazlIR01NR3A1N0lwaDJkRHpOTThaSG1PRVJ1N1JhbmNEclBaY1NqNDExRg?oc=5",
       "companies": [],
       "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "53244e4098ee7d",
-      "title": "The Backbone of Beauty: 2026 Best Contract Manufacturers",
-      "titleOriginal": "The Backbone of Beauty: 2026 Best Contract Manufacturers",
-      "summary": "The Backbone of Beauty: 2026 Best Contract Manufacturers",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T01:05:47+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkhiTUFYNGlYb09ySEVRNi1md0lVaGdpbzB0M0wwR0ItandIS3RsdjB6SERyTUloX3d4dFlnanF1Y2cxZjM0dmFZVGhDc1k2eWtJaDVsT25rMEpzd3h3Vi1HRFVSc0Nqb3F2WWtjNkpFTk04MHpDd0lFdFRNVTZfVEx2YnpaOEI5LS1SMkhFQU5zOWM?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
+        "Global Cosmetics News",
         "自动采集"
       ],
       "baseScore": 60,
@@ -158,8 +190,8 @@
         "impact": 6,
         "magnitude": 6,
         "china": 3,
-        "novelty": 6,
-        "actionability": 8
+        "novelty": 8,
+        "actionability": 6
       }
     },
     {
@@ -192,6 +224,38 @@
         "china": 3,
         "novelty": 8,
         "actionability": 6
+      }
+    },
+    {
+      "id": "169326bac8f58e",
+      "title": "Key Holder - The Cosmetics Company Store - Part-Time - Miromar Outlets - Estero",
+      "titleOriginal": "Key Holder - The Cosmetics Company Store - Part-Time - Miromar Outlets - Estero",
+      "summary": "Key Holder - The Cosmetics Company Store - Part-Time - Miromar Outlets - Estero",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T14:36:36+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLWdsNl9lblBuS2pKM2NsTWZGcTJqRkVKREt1dGpXa1paN24yeFVIbFlwaTVGNG50VjlVcC1IWjdQU3lJckQxQkFNUTJqblpJYmlVVnVEWmgzOEYwVW5RNDA3SVQ5SmloSTMxRG9WNHk5ODRxYlBaV0pIazViSzZJbmFxcWU0ZmNLZ0tiU25SODh5bXNOQkN5RTlJaF9xS25ISHZobG5ZeGlYbzFFUHZfd2M0Z2pPTXV4SkVoR25hN1FUQkQwSzR1QWMyUFpaazEycmNwZWRGNnpTZWI3TjlqMjMzeWtBamZDRm9pcDl6M1hTdV9nMHdVYm9EMA?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
