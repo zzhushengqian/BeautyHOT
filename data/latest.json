@@ -1,28 +1,188 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T03:21:40.065138+00:00",
+  "generatedAt": "2026-10-06T06:28:48.060915+00:00",
   "items": [
     {
-      "id": "8bb2bad5af8f6e",
-      "title": "Iberchem unveils the space between at Beautyworld Middle East 2026",
-      "titleOriginal": "Iberchem unveils the space between at Beautyworld Middle East 2026",
-      "summary": "Iberchem unveils the space between at Beautyworld Middle East 2026",
+      "id": "efa55ba033b617",
+      "title": "Trending at Boots: Why the retailer is responding to beauty trends in real-time",
+      "titleOriginal": "Trending at Boots: Why the retailer is responding to beauty trends in real-time",
+      "summary": "Trending at Boots: Why the retailer is responding to beauty trends in real-time",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T05:05:30+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVlCMjRzdTRINmJpX2pKY2xJYUQwSS1fMWlBZlVNWFdKWkROM1JBLWJoWTQ1VmR6R2g0U3ZhbUlSYTZZX1MtNkREWGt0eGNRWVlkS3I4cTJfd3VFay1lX2tPdGZkUkRiaUxJZ01iMGRVVVgydmx5TFJzZ3ZlbWNJd3gyQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "ed8fd75d5515cc",
+      "title": "Amorepacific India Creates Premium Division for Laneige and Sulwhasoo",
+      "titleOriginal": "Amorepacific India Creates Premium Division for Laneige and Sulwhasoo",
+      "summary": "Amorepacific India Creates Premium Division for Laneige and Sulwhasoo",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
-      "source": "Cosmetics Business",
+      "source": "Global Cosmetics News",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-06T00:50:35+00:00",
+      "publishedAt": "2026-10-06T05:00:56+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZE5DSmx5a2lKN2VMYV9JS190bk1MUXFtN1dGYlNfY3dDTExNZXhpOWlZYTlMbFcyazEwem9BQ1F6ZkZfMFF1azVTSEM5UUp1VkthOG9rTm5XTElxMHRzelZJOGl0eFY4TWg3cnBpbGRlSEl1QVZSTkNDcVYxMHl5VEtTaExzRE0zRjQ2Um9DZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDk2Qk9aYlc4QWlYTVpiY0ZMbldxRmlKVkMwOVdpd2o4bGFNdHNaOWhpZC1mLXBsbUFJRTlGcGNiYWVMVTFVRlU5NkgtYXFFUmRNSUE3Wno2OVBKYkZodGJDYXJmVTI4VF80ejFhbkdPQWtyc3p2c3RYblZtWlJQMHdVVXg1OGZvX09ST29pT21CZnE5bERpelZBWTdlblhFQ0FqeHpMY2lOUQ?oc=5",
       "companies": [],
       "tags": [
-        "Cosmetics Business",
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "3930533926bebc",
+      "title": "Birkenstock Enters India’s Personal Care Market with Care Essentials",
+      "titleOriginal": "Birkenstock Enters India’s Personal Care Market with Care Essentials",
+      "summary": "Birkenstock Enters India’s Personal Care Market with Care Essentials",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T05:00:56+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtTazJISkhRTU11NGtkaEVyeE9mbmhhZmZtUk80a0N1RG5TMVpIaTNEY2pWeXFsVTFaLVZaVDZxNFFCRm1DSXFYYU42VEp3clF4Vm44bmJLNlgxTWY0N2kxOWJRTEtUdFItdVBVUnNCaWNYdDRFcW1vZGU5WVl3amRUVGoyY0hGOXVQeWxnTDgwSDY5MTRTaDJWLVJ5bndsUnlFZTRjRQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d44f10c403a615",
+      "title": "Korean Cosmetics Exports Hit Record US$7 Billion in First Half",
+      "titleOriginal": "Korean Cosmetics Exports Hit Record US$7 Billion in First Half",
+      "summary": "Korean Cosmetics Exports Hit Record US$7 Billion in First Half",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T05:00:54+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVZWYjlqTHdfVFhoWVROT3dzSnhIZFBSOWV1R09KLWZFV0NmUzBHZ1Z0OVdWNGtteC1YYy1SYnF2b2hqUVhRdU9nWnVha1lQalhlbmFOQWFUc1RPaUp6RUp3YU91dklUWWZUTWVwWDNDZ1daY2hNeHNobWxXTGkxMmgyY21GeEdGeFNfM0JrMDctSWZSS2VLVEdCNFZzUUE?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "39332594ebb08a",
+      "title": "Superga Beauty commits EUR 15 million to transform skin and hair care factory",
+      "titleOriginal": "Superga Beauty commits EUR 15 million to transform skin and hair care factory",
+      "summary": "Superga Beauty commits EUR 15 million to transform skin and hair care factory",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T04:41:02+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUMUdOQ2stNzFROWVDOHFfdGlrQnN1UUpzWWc1a2E2eGtCS2IxempTZnZkN3F6WHFKd0FUMUQ0bDdYUmlYMHN6angzWERhRFN2bEE4MFpKZ2VJcVlfdUsxWjJWQ2xrOWlHOGM2Z1doTHMySXpHbENDd1BMYVg?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "e0134736b0df80",
+      "title": "Beauty Briefing: Are you olive, cool or warm-toned? Why beauty consumers are obsessing over undertones",
+      "titleOriginal": "Beauty Briefing: Are you olive, cool or warm-toned? Why beauty consumers are obsessing over undertones",
+      "summary": "Beauty Briefing: Are you olive, cool or warm-toned? Why beauty consumers are obsessing over undertones",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T04:05:42+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0E5QmNySlNsQkRyalFNeVJ4dTN3UTFLSnl3WEJSbl8yZXZmWmNuVktYT2hqWW9tREZwMkNtQVhwanB5cFFRMVVEd1c0eTdUUGZyaGd1Y3E2eThTNUFSUU0zVV8wcVpxaS1yM1JidVVaNzU0M1dOaUVNYXFObklVSjJFanB0QmNfT3piUTJJQTIwNVpuenNLWkhfUzdWUlduOENtd2l2RkRrZXRueGdWMTlFRmVlYnNEdHVCSFlicy1aeXl3Mm02Ng?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
         "自动采集"
       ],
       "baseScore": 60,
@@ -49,12 +209,44 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-06T00:16:07+00:00",
+      "publishedAt": "2026-10-06T02:18:49+00:00",
       "publishedLabel": "最近 7 天",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xZEcwQWVmQmdHMW1QbGJQbGdrR180T2dDWXVaM0VVNU5fTjlPOXBycnBNN1dRS2paMGlMeTdUUTY0TTNJYk9mQjJSQl9TYU1PMWlsZm93ZTlyLTh0b1ViSmNCZmpYa0tKM2VsT2JDdFNxQklYMlFlbTh3?oc=5",
       "companies": [],
       "tags": [
         "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "8bb2bad5af8f6e",
+      "title": "Iberchem unveils the space between at Beautyworld Middle East 2026",
+      "titleOriginal": "Iberchem unveils the space between at Beautyworld Middle East 2026",
+      "summary": "Iberchem unveils the space between at Beautyworld Middle East 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T01:01:59+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZE5DSmx5a2lKN2VMYV9JS190bk1MUXFtN1dGYlNfY3dDTExNZXhpOWlZYTlMbFcyazEwem9BQ1F6ZkZfMFF1azVTSEM5UUp1VkthOG9rTm5XTElxMHRzelZJOGl0eFY4TWg3cnBpbGRlSEl1QVZSTkNDcVYxMHl5VEtTaExzRE0zRjQ2Um9DZw?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
         "自动采集"
       ],
       "baseScore": 60,
@@ -93,6 +285,38 @@
       "signals": {
         "impact": 6,
         "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "bd17fdb25442d4",
+      "title": "How Kelley Liu Is Building Song of Skin Into an $8.5 Million K-beauty Retail Business",
+      "titleOriginal": "How Kelley Liu Is Building Song of Skin Into an $8.5 Million K-beauty Retail Business",
+      "summary": "How Kelley Liu Is Building Song of Skin Into an $8.5 Million K-beauty Retail Business",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-05T16:54:35+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0RuUUFPbU5qTG5yVG5rRW9mYUFfaThTazJPSmg0VVVERHB4S29oT1JySlhud1FLY3lVSnpQTGk4QzBPU2lwZzA4YVhYeUZvclFxd0o3N0lTVWtXcmZHMU5GY0JUYUdyUzZTUmhTckdWVnM0UnJUWGlnVFRIaklMTFZ6SWR4eWZHaDhHRklPVl9rVS1NSXdZNldlOUlhbWVQTEtUZXFoMkJhSkM1bVE?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
         "china": 3,
         "novelty": 6,
         "actionability": 8
