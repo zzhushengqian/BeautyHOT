@@ -1,25 +1,89 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T02:43:52.840309+00:00",
+  "generatedAt": "2026-10-07T06:07:49.159078+00:00",
   "items": [
     {
-      "id": "6e0545bd5c871e",
-      "title": "How Fel Beauty Is Combining Makeup Innovation with Feel-Good Science",
-      "titleOriginal": "How Fel Beauty Is Combining Makeup Innovation with Feel-Good Science",
-      "summary": "How Fel Beauty Is Combining Makeup Innovation with Feel-Good Science",
+      "id": "9688942cf6fe92",
+      "title": "M&S grows Studio fragrance range with limited-edition scent and men's collection",
+      "titleOriginal": "M&S grows Studio fragrance range with limited-edition scent and men's collection",
+      "summary": "M&S grows Studio fragrance range with limited-edition scent and men's collection",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-07T06:06:44+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWwwRTh4TTlsakhtbkU4UTR6SExJck1xZUIwYU9ldU5rQ1J2c084ajd2YUdRR2JFWVNyalRTaHlsdUNsamJ6MXBjLU5qLTFtVlRWMWswcEU4VlpwYWFVY2hCeEtPS1l2eDlvWkdHdkg2VGVRNm5JSkV2UmUyOEtRQ0M4MDFWSFNwNkR6UkJFUlJpSzIzQ3lQZ1FpeWJfd1VjUExQZ09YaEQ4QQ?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2a83df81ad197b",
+      "title": "The Only Fashion & Beauty Brands You Should Be Shopping During Amazon's October Prime Day",
+      "titleOriginal": "The Only Fashion & Beauty Brands You Should Be Shopping During Amazon's October Prime Day",
+      "summary": "The Only Fashion & Beauty Brands You Should Be Shopping During Amazon's October Prime Day",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-07T03:03:05+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEdEX1hxQ09oZWFuaUNxWmdjX3FmS0VEMjRnYm9YV3BwZnFNTUZVTFNFMUdSUTBCQmphaDRDZGRfNHYweGNQLXR2X0ZHcnIxcnlSeUI5RDg0NkdNeFludEN2SHQ2a1pxUEF6SmxJUmx0ZW9OaUtnQklQRzZGMFZBRDBOaHJEWjRScTd4Y3RidVZfWHdmQlprQk1lVURiTlJ5d2hycA?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "968cfa884fefaf",
+      "title": "The Biggest Beauty Executive Moves and Leadership Changes of September 2026",
+      "titleOriginal": "The Biggest Beauty Executive Moves and Leadership Changes of September 2026",
+      "summary": "The Biggest Beauty Executive Moves and Leadership Changes of September 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
       "source": "BeautyMatter",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-07T00:40:34+00:00",
+      "publishedAt": "2026-10-07T00:40:29+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Nc0NaVzdEOV96SVhPYkg2UzdjZ0llbFRHdkhZemNsVnVCa3ItQ1Z0SzUxN3JBRXN1Vk9zcEkyQzZNazlzMVJjcFRnTE5hay14bXhiRFhsc0FOcTR4bnVXSXdXdkk2TW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFhzcHNsT0N1N3NSRmFrSl8zSkVIM3U5YkYxa1pVejJjLUhIdzk5TGdSTDRLQ1VpeEt5ZklrQWwwdV9TYlM1cWJTc0VPcDVVTDUxNU9raXhjSE9Vakd2RnZLQnY0MzQydjJ2VS1XRjZHTnd4dlU1a1FnUWF2bEY1Y2dmdw?oc=5",
       "companies": [],
       "tags": [
         "BeautyMatter",
@@ -543,38 +607,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "2a83df81ad197b",
-      "title": "The Only Fashion & Beauty Brands You Should Be Shopping During Amazon's October Prime Day",
-      "titleOriginal": "The Only Fashion & Beauty Brands You Should Be Shopping During Amazon's October Prime Day",
-      "summary": "The Only Fashion & Beauty Brands You Should Be Shopping During Amazon's October Prime Day",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-06T02:37:53+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEdEX1hxQ09oZWFuaUNxWmdjX3FmS0VEMjRnYm9YV3BwZnFNTUZVTFNFMUdSUTBCQmphaDRDZGRfNHYweGNQLXR2X0ZHcnIxcnlSeUI5RDg0NkdNeFludEN2SHQ2a1pxUEF6SmxJUmx0ZW9OaUtnQklQRzZGMFZBRDBOaHJEWjRScTd4Y3RidVZfWHdmQlprQk1lVURiTlJ5d2hycA?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
         "actionability": 6
       }
     },
