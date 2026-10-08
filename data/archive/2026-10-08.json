@@ -1,7 +1,39 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T03:00:57.990395+00:00",
+  "generatedAt": "2026-10-08T06:13:36.121312+00:00",
   "items": [
+    {
+      "id": "9258e794466a7b",
+      "title": "South Korea Launches IP Protection Initiative for K-Beauty Brands Overseas",
+      "titleOriginal": "South Korea Launches IP Protection Initiative for K-Beauty Brands Overseas",
+      "summary": "South Korea Launches IP Protection Initiative for K-Beauty Brands Overseas",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-08T05:00:57+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWW5iaks0azhTc0lvc0hEUmNzendPbDhMSERoVVFoU2NsN0p6MmJ3ZmE0bXk4MUM5OUxlM2UyY01QQXJqaGtnMVlRT21pS3JCQnYtdDE5U1p2cnJRTmJZNVN1cW1qQ2ozckxjNVI5RGJ3T3ZyMTB6SGN1OTQ5c0pMeDluQkduVF9CVU5Hd2c2b3k5bi1uVnRMQzZ0Sy1IOUxCZHlESUZhM2NhMElBU0xQUg?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "b1e95fd848cc3e",
       "title": "2026CiE美妆巡展·郑州站",
