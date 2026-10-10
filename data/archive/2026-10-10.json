@@ -1,7 +1,39 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T02:48:10.864379+00:00",
+  "generatedAt": "2026-10-10T05:59:41.524231+00:00",
   "items": [
+    {
+      "id": "320e4c670cc03b",
+      "title": "Bold Eyes, Maxi Fringe and More Beauty Trends That Emerged From Fashion Month",
+      "titleOriginal": "Bold Eyes, Maxi Fringe and More Beauty Trends That Emerged From Fashion Month",
+      "summary": "Bold Eyes, Maxi Fringe and More Beauty Trends That Emerged From Fashion Month",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-09T22:12:01+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0ZGTHNhekxFRXhyQWlXV0oxSl9mcF8tMUVaR3RtUUg2R3RMOS13OHN2ZklDSFlCRlpSUlJhcVR2aXctNnFTOXU2RzRKeTJ3TVdTUGo2TEhXRXNiRVpzZGhYeVFmbEFhU1dvdUpYV0RJQWJjcDRsVlBFZTBNOFhkOHZzRkI0SXNaMkRCUG1Ya1dtaFYyWVFBOG55N3pfZDZSUjkzd3hBbnJOREJwbGxyQ0Fn?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "8c12495788b3f1",
       "title": "Predictive, Protective, Planet-Positive: How Millennials Are Redefining Cosmetics in 2026",
@@ -371,7 +403,7 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-09T01:50:01+00:00",
       "publishedLabel": "最近 7 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTzlmR0xzYU8wZERRXy1xdzRjVzgzazZFUFB0N28wRV84dm9JdnI5ekNSUXo0MFZEUzEyOUFodk85NWFuT1BJOFF5S1BoQ2NCbVozSg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45aFE0SmtXeHJxRXpQbkFQTTJXOUdVbVhnSGlvM0VONjBxSTNNVzdidTdESVdZYmNOSmU1eTE4Mi1fR240bEtkNWtwRkFaY21XV09R?oc=5",
       "companies": [],
       "tags": [
         "聚美丽",
