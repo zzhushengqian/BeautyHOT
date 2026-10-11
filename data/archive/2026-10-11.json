@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T05:55:55.232878+00:00",
+  "generatedAt": "2026-10-11T06:25:38.940931+00:00",
   "items": [
     {
       "id": "15335c91e41b0e",
@@ -163,6 +163,38 @@
       }
     },
     {
+      "id": "a1278a2d367e1d",
+      "title": "Argos expands marketplace beauty offering with K-beauty favourite Medicube and Dermalogica",
+      "titleOriginal": "Argos expands marketplace beauty offering with K-beauty favourite Medicube and Dermalogica",
+      "summary": "Argos expands marketplace beauty offering with K-beauty favourite Medicube and Dermalogica",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-09T10:18:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQelNKUjNPeW9KbDd4OWpYVnZYVkRERXNSM2dSVk9SaDhqLWc3SndHVXhYOVlFM29uQzBEYjRYSjJTVFlSOE13Um00V0xHVGRQVVhtbk1rdTQzWUJfa1Y1eWxiQUNaN01LeHc3SGJfNUVWbjRKQlJpemJWMTVDWGlZYkNucERoT1U?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "6626d0fab303e7",
       "title": "Seasonal Associate - Sephora - 297555",
       "titleOriginal": "Seasonal Associate - Sephora - 297555",
@@ -288,6 +320,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "87b41096b90d11",
+      "title": "Seasonal Sales Associate - The Cosmetics Company Store - PT- LV Premium Outlets North Las Vegas, NV",
+      "titleOriginal": "Seasonal Sales Associate - The Cosmetics Company Store - PT- LV Premium Outlets North Las Vegas, NV",
+      "summary": "Seasonal Sales Associate - The Cosmetics Company Store - PT- LV Premium Outlets North Las Vegas, NV",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-07T03:34:04+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVBVVkJseVg4MU9Ed3l0RklVaHA4VUZnYXVYTmlQdExjdkF2ZE9ObmdXc2NCalRiVEcyay16VkJOSmVrd1J4UXl0a01sOWVyaXN6RWVOaklKTUpQb1BTV01DZkM1c0hhMGtZNTc0d3RZdXpYM0tEMUdzTkdOc2txX2VJaUNTMmo3MVAxM2ZENE93ZzhEX0tfVGpiMEliUExqNlBHQXBDRHhxcnd5S0JwcHk5WHBfbW02NDFZNFZlLWVEYzJRTXVrNGliNDRBbTh6U1YzdUl4UW84VFlQYjNCdmtRV283MDViTUhDM1BsaXFFN0ZLM3p1a0lCbFAwblVRLUhxejRXVFNVakxnblE?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     }
   ]
