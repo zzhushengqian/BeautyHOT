@@ -104,6 +104,7 @@ CHANGE_ACTION_TERMS = [
 ]
 LOOKBACK_DAYS = int(os.getenv("BEAUTYHOT_DEDUP_LOOKBACK_DAYS", "30"))
 DISCOVERY_LOOKBACK_DAYS = int(os.getenv("BEAUTYHOT_DISCOVERY_LOOKBACK_DAYS", "14"))
+MIN_PUBLISH_ITEMS = int(os.getenv("BEAUTYHOT_MIN_PUBLISH_ITEMS", "18"))
 MATERIAL_UPDATE_TERMS = [
     "官方", "公告", "确认", "披露", "交易所", "监管", "批准", "完成", "交割",
     "生效", "raised", "completed", "closed", "approved",
@@ -520,6 +521,40 @@ def remove_historical_duplicates(items, current_date):
     safe_log(f"dedup: removed {dropped} historical repeats")
     return kept
 
+
+def supplement_from_previous_feed(items):
+    """Keep a temporary source outage from collapsing an otherwise useful feed."""
+    if len(items) >= MIN_PUBLISH_ITEMS:
+        return items
+    try:
+        previous = json.loads((ROOT / "data/latest.json").read_text(encoding="utf-8"))
+    except Exception:
+        return items
+    cutoff = datetime.now(timezone.utc) - timedelta(days=DISCOVERY_LOOKBACK_DAYS)
+    supplemented = list(items)
+    for candidate in previous.get("items") or []:
+        title = candidate.get("title", "")
+        if excluded_title(title):
+            continue
+        is_priority = candidate.get("priorityDisclosure") or candidate.get("priorityPersonnel")
+        if not is_priority and not is_beauty_relevant_title(title):
+            continue
+        try:
+            published = datetime.fromisoformat(candidate.get("publishedAt", "").replace("Z", "+00:00"))
+            if published.tzinfo is None:
+                published = published.replace(tzinfo=timezone.utc)
+        except Exception:
+            continue
+        if not is_priority and published < cutoff:
+            continue
+        if any(same_event(candidate, existing) for existing in supplemented):
+            continue
+        supplemented.append(candidate)
+        if len(supplemented) >= MIN_PUBLISH_ITEMS:
+            break
+    safe_log(f"feed fallback: retained {len(supplemented) - len(items)} recent verified items")
+    return supplemented
+
 def collect_priority_personnel():
     found = []
     terms = " OR ".join(PERSONNEL_TERMS)
@@ -746,6 +781,7 @@ def main():
         )
     ]
     items = remove_historical_duplicates(items, current_date)
+    items = supplement_from_previous_feed(items)
     if not items: raise SystemExit("No candidates collected; existing feed preserved")
     payload = {"date":current_date,"generatedAt":now.isoformat(),"items":items}
     data = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
