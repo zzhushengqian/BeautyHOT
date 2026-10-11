@@ -90,11 +90,12 @@ EXCLUDED_TITLE_TERMS = [
     "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
     "job opening", "jobs", "hiring", "vacancy", "careers", "internship", "apprentice",
     "offre d'emploi", "emploi", "beauty consultant", "beauty advisor",
-    "financial analyst", "part time", "job details", "stellenanzeige",
+    "financial analyst", "part time", "full time", "job details", "stellenanzeige",
+    "seasonal associate", "sales and service leader", "skin pro", "(40 hours)",
     "archives", "locations", "discover", "category archive",
 ]
 JOB_ROLE_TERMS = [
-    "manager", "director", "assistant", "specialist", "coordinator", "intern", "apprentice",
+    "manager", "director", "assistant", "associate", "specialist", "coordinator", "intern", "apprentice",
 ]
 CHANGE_ACTION_TERMS = [
     "appoint", "promot", "named", "joins", "joined", "resign", "steps down", "leaves",
@@ -102,6 +103,7 @@ CHANGE_ACTION_TERMS = [
     "新任", "接任", "接替", "履新", "换帅",
 ]
 LOOKBACK_DAYS = int(os.getenv("BEAUTYHOT_DEDUP_LOOKBACK_DAYS", "30"))
+DISCOVERY_LOOKBACK_DAYS = int(os.getenv("BEAUTYHOT_DISCOVERY_LOOKBACK_DAYS", "14"))
 MATERIAL_UPDATE_TERMS = [
     "官方", "公告", "确认", "披露", "交易所", "监管", "批准", "完成", "交割",
     "生效", "raised", "completed", "closed", "approved",
@@ -584,7 +586,7 @@ def collect():
         keywords = " OR ".join(f'"{term}"' if " " in term and not str(term).startswith("\"") else str(term) for term in source_terms)
         issuer = source.get("issuer")
         issuer_query = f'"{issuer}" ' if issuer else ""
-        query = f'site:{source["domain"]} {issuer_query}({keywords}) when:7d'
+        query = f'site:{source["domain"]} {issuer_query}({keywords}) when:{DISCOVERY_LOOKBACK_DAYS}d'
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({
             "q": query,
             "hl": source.get("hl", "en-US"),
@@ -603,7 +605,7 @@ def collect():
                 continue
             try: published = email.utils.parsedate_to_datetime(entry.findtext("pubDate") or "").astimezone(timezone.utc)
             except Exception: published = now_utc
-            if published < now_utc - timedelta(days=7):
+            if published < now_utc - timedelta(days=DISCOVERY_LOOKBACK_DAYS):
                 continue
             sig = signals(title, source)
             item_id = hashlib.sha1((title + source["domain"]).encode()).hexdigest()[:14]
@@ -617,7 +619,7 @@ def collect():
                 "category": category(title), "source": source["name"], "sourceTier": source["tier"],
                 "verification": "official" if source["tier"] == "A" else "reported",
                 "sourceCount": 1, "publishedAt": published.isoformat(),
-                "publishedLabel": "最近 7 天", "url": link,
+                "publishedLabel": f"最近 {DISCOVERY_LOOKBACK_DAYS} 天", "url": link,
                 "companies": [issuer] if issuer else [],
                 "tags": [source["name"], "官方信源" if source["tier"] == "A" else "自动采集"],
                 "baseScore": 60, "signals": sig
