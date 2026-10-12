@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T02:40:44.551659+00:00",
+  "generatedAt": "2026-10-12T06:06:38.652242+00:00",
   "items": [
     {
       "id": "3e5a679dbf5fe9",
@@ -128,6 +128,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "dbf22bda361f4f",
+      "title": "L'Oréal Luxe Multi-Brand Team Leader, Boots Southampton (30 Hours) at L'Oreal",
+      "titleOriginal": "L'Oréal Luxe Multi-Brand Team Leader, Boots Southampton (30 Hours) at L'Oreal",
+      "summary": "L'Oréal Luxe Multi-Brand Team Leader, Boots Southampton (30 Hours) at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUi1QMWhwQmxmNUlnekpuTld3ekVGN1RCS2xBYllqRngtWDMyRkRJNXowRGNoSzVwS19IZEVpVy1xU0l4b3M2Z254SkpIUzlKTWtDVzBsSGtvTW5rVFB1X055Und6bU44MEl0X05nNGg3TjJzNlkwZV9pTjhsaGJyaFlSWHNoVU5lOElId3BxdnNtMk5pOTJicms3TDlIeEk3LVBmVmdMSmp4ZTU2cUpZU0pURU11OFRZMWZ3T2JLR1BpSEMz?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -541,38 +573,6 @@
       "signals": {
         "impact": 6,
         "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "bf26d05d26c997",
-      "title": "Next-gen Leaders at the Estée Lauder Cos. Talk Honoring Heritage and Forging the Future of Beauty",
-      "titleOriginal": "Next-gen Leaders at the Estée Lauder Cos. Talk Honoring Heritage and Forging the Future of Beauty",
-      "summary": "Next-gen Leaders at the Estée Lauder Cos. Talk Honoring Heritage and Forging the Future of Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T04:03:47+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3JqWjhVRHVhRDdDOTdYdzFlelpncDE4T2tqWG56MVJUZjl5LUFBVTNPTDduRkxoTG5ZUGVtSlg2ZC1ZaE5vdTkyZzZ3S1J4ZUtydnpwYkZ6ZS01VUhUalBRanAyZ2hFWGo2T1VqWnNtM2NrVFR4Y3BkaVg0V3B4VnVPbkJmRkZlUzBmc2dQOEVLZllYNE5OXzVNQ0JUaHJk?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
