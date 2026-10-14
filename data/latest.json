@@ -1,7 +1,39 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T02:11:43.527228+00:00",
+  "generatedAt": "2026-10-14T05:00:22.097752+00:00",
   "items": [
+    {
+      "id": "1aacb2d11241de",
+      "title": "How Did a “Frozen Serum” Come to Life? Shiseido’s Pursuit of New Value Creation Through Sorbet Serum",
+      "titleOriginal": "How Did a “Frozen Serum” Come to Life? Shiseido’s Pursuit of New Value Creation Through Sorbet Serum",
+      "summary": "How Did a “Frozen Serum” Come to Life? Shiseido’s Pursuit of New Value Creation Through Sorbet Serum",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Shiseido",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-14T02:15:04+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRZWM1c2JnUFlaQng3MmlCVUp4cXJ0RVhUSXVpOWpsSkt0YW43QmhYOUxlWU1XT19vQU1rMW1DRmk1d3BsY1pyWHpTN01kQ1VFZjVNUm5BSkFKZzU5ank5TXQ5aEpEQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Shiseido",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "a55e225c561350",
       "title": "HAP_Beauty_And_Wellness_eBook_10_26",
@@ -392,6 +424,40 @@
       }
     },
     {
+      "id": "c26139904ff754",
+      "title": "e.l.f. Expands Into Fragrance and Body Care Categories with Launch of e.l.f. POP, Debuting Limited-Edition Holiday “Spicy Bundt Nice” Collection Inspired by Tromsø, Norway",
+      "titleOriginal": "e.l.f. Expands Into Fragrance and Body Care Categories with Launch of e.l.f. POP, Debuting Limited-Edition Holiday “Spicy Bundt Nice” Collection Inspired by Tromsø, Norway",
+      "summary": "e.l.f. Expands Into Fragrance and Body Care Categories with Launch of e.l.f. POP, Debuting Limited-Edition Holiday “Spicy Bundt Nice” Collection Inspired by Tromsø, Norway",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "e.l.f. Beauty IR",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWxjLVJFM045dEE5TTNXM3FOeGJXX0phMDFqYzVnTlcyVVBVN1hkNkFwTkl0S3BYZW93bFJIOXJYVFN3NGFzX0dtc0dLOWpYM2I0QjRQbFJSTDlFZ3Q5bFhsUlJpWDJhY2xiODYwWlowdDVFdUtzc0U3cnFhbUdRM2lYTDFhZzJBQ1BocTk5bnpmOHhXM0RNeF9BYVQtSDAwQnVYaC1Obw?oc=5",
+      "companies": [
+        "e.l.f. Beauty"
+      ],
+      "tags": [
+        "e.l.f. Beauty IR",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
       "id": "f889fe5fff9010",
       "title": "L’Oréal Travel Retail and Avolta Partner to Accelerate Sustainability in Duty-Free Beauty",
       "titleOriginal": "L’Oréal Travel Retail and Avolta Partner to Accelerate Sustainability in Duty-Free Beauty",
@@ -516,70 +582,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ef78debcf02227",
-      "title": "Beauty Briefing: How far can Y2K nostalgia go?",
-      "titleOriginal": "Beauty Briefing: How far can Y2K nostalgia go?",
-      "summary": "Beauty Briefing: How far can Y2K nostalgia go?",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Glossy",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T04:01:59+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UbWNjLTVzX2pvZkIyMHNPVTh0cGx5bU56ZDMwZXJ5N2tmZWJWQ3lNSFpJckY0b01Ed2NTdHJ0dm9sUWdLanhIWXQzYkFfNkVJR045WXc4U3dhMmh2czMwLVVxMXh2MThLdFphbmxkaXZERkEzTE1sYmxiVTJoODQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Glossy",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "50c76049d0dd97",
-      "title": "Science spotlight: Is cosmetic tourism a cause for concern?",
-      "titleOriginal": "Science spotlight: Is cosmetic tourism a cause for concern?",
-      "summary": "Science spotlight: Is cosmetic tourism a cause for concern?",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T01:28:46+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ycEZKQy1DT1pHbGV2WVVmbHNhYzI3MXdaTXpSQnVYRFlQWE1BYmpjSlpNaW8wNk9od3lzMHRPTEdNTnZONWlwWk4temNPUklzZ1VZcDVISWdFdjVWc29CaHlGY2J1bDVlXy11TUpzRWFMbWEybWx2a3RHMnE5Rnc?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
         "actionability": 6
       }
     }
