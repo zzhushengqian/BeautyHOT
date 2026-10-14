@@ -1,7 +1,396 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T07:05:50.934959+00:00",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T02:11:43.527228+00:00",
   "items": [
+    {
+      "id": "a55e225c561350",
+      "title": "HAP_Beauty_And_Wellness_eBook_10_26",
+      "titleOriginal": "HAP_Beauty_And_Wellness_eBook_10_26",
+      "summary": "HAP_Beauty_And_Wellness_eBook_10_26",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-14T01:27:08+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02d01BRkdnbnpCWTJtNmdwS0dhY1N6SnNjLVJWdVc3bGx2aVZZM3NYQUEzeVZIZmlxX09vMmpscHJ0eFRFUzNmNi1XUU9iVFhHV0FZbzdoTUxLaTF5dW9ySFdqTldvOEtHakVN?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "fb8aa7fe40ee10",
+      "title": "How Mecca Built a $1.43 Billion Beauty Retail Business on Customer Obsession",
+      "titleOriginal": "How Mecca Built a $1.43 Billion Beauty Retail Business on Customer Obsession",
+      "summary": "How Mecca Built a $1.43 Billion Beauty Retail Business on Customer Obsession",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T19:56:09+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GZmQ3c3F0b0FUdWZPOV9UV1VOcnZnWDN5dHh1czRZS1Q2NXc5VVdVblVCMmFqWUtpNHJ1M0tDelJzN0Zob2lFUGw2YXl6ZU5vdllzUnY2bGdzeGE1dlQzbTN0cmlqZzBqclkxbm01VVNwNmJsTzMwQ1k1TzVBZw?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "5c191008125a91",
+      "title": "Meet the 2026 BeautyMatter Awards Best Pop-Up Finalists",
+      "titleOriginal": "Meet the 2026 BeautyMatter Awards Best Pop-Up Finalists",
+      "summary": "Meet the 2026 BeautyMatter Awards Best Pop-Up Finalists",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T19:56:09+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2NG90dHRaZ1NBZ2F2M3ZMMkRtQzRyUnJsM1l5dHFsTUgwWDBFVm9ISkM2WEtnZXJRamFXYmVWTEVtSnRoQmlieFhidG5QOTZHZEVNTUs2TVF2QU9RYXNkM1N6VW40cWdDRFpoZG9YVThkaEJhOUFJMG1DZV9Zdw?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e3fd4b9954fa1e",
+      "title": "John Demsey Parts Ways With Gap Inc. Amid Beauty Category Revamp",
+      "titleOriginal": "John Demsey Parts Ways With Gap Inc. Amid Beauty Category Revamp",
+      "summary": "John Demsey Parts Ways With Gap Inc. Amid Beauty Category Revamp",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T19:41:35+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTE1WXRBTV9obWJvYWx4QU5lQzF2UHNlVm1KaUlJUTRNN0VtUGtyMnFFR0dJMkxZVFFpd3J2Z0NXd1RwV1dlOS1vWGpTTHpQZXUtMGt0T1EyZFYxN3BjcVFoNFBCOHo5VGQxS1JWSldkZDU3RU94aVpPVjBTbzJWOUdxRFB1TWdfTHdxc0JaVVVQbDZhTjh5X1k5cjBHN1lmMGJwcw?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "1a1e77116d57d6",
+      "title": "鲁商福瑞达医药股份有限公司关于公司董事、高级管理人员离任的公告",
+      "titleOriginal": "鲁商福瑞达医药股份有限公司关于公司董事、高级管理人员离任的公告",
+      "summary": "鲁商福瑞达医药股份有限公司关于公司董事、高级管理人员离任的公告",
+      "why": "福瑞达（600223）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "people",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225602764.PDF",
+      "companies": [
+        "福瑞达"
+      ],
+      "tags": [
+        "福瑞达",
+        "600223",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "282fce5b0f87ac",
+      "title": "IBA Hosts Its Virtual Cosmetics Convergence",
+      "titleOriginal": "IBA Hosts Its Virtual Cosmetics Convergence",
+      "summary": "IBA Hosts Its Virtual Cosmetics Convergence",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T12:07:21+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVVzMm9MMTl3ZUZTeTJwTkVZOWp0M3FzRHdiUlcwbUxjeEpnWkNDNFEzdWJmSFNTTndobC10S3JiaFFob1FTT2RzM3NudFlQS0cxMVJBVS14Y0FlY2NZSnF3ZWlKc2xLRUZST0pmOFZWejg5VnduTWNnbTJsTmE4U251WjJLajdmR3JhUUwybnBPQjVB?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "80ff264191ae3b",
+      "title": "Exclusive: BeautyPro acquires Supercover to bolster colour cosmetics offering",
+      "titleOriginal": "Exclusive: BeautyPro acquires Supercover to bolster colour cosmetics offering",
+      "summary": "Exclusive: BeautyPro acquires Supercover to bolster colour cosmetics offering",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T11:50:19+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUZjZEtlLUJHTlM2TTIxTGsyc0kyUkJoNW5ydjZHeDBnVEZUNnI3UXVBcVBJS0t1Y0s1WUpqV3ViejJoN1c5SEdwY3E1OXJVMC1Cb3BuMGFuRG5CSEpwNnExalR0SjlkaXppV2E2cE8yak0wUTJKQWJ1X0JGWm91cUdManlNNzFXVHBVd3ZUNlFlZDYxVmNhZWxPSTNGZDNTbTVr?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "9447cf340dc230",
+      "title": "SuccessFactors People Module Junior Consultant (all genders)",
+      "titleOriginal": "SuccessFactors People Module Junior Consultant (all genders)",
+      "summary": "SuccessFactors People Module Junior Consultant (all genders)",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Beiersdorf",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T11:22:34+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FNWJWUV9uTUc2cGxIcXQ3V242Ym9xVDhqcEZORmFtQl9ybkRTV1cteW56SG0yY3ZXeXNSNDgyWjFQUWg1WlpNeDRTVEtzTUU4NU9vX1FuYkZsYThidnB1TFFHbGdUdFdwb3FBRlRpbVNRdktuYjdnNlJ3aw?oc=5",
+      "companies": [],
+      "tags": [
+        "Beiersdorf",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "7f998865abba63",
+      "title": "Givaudan’s results for first nine months of 2026 bolstered by fine fragrances",
+      "titleOriginal": "Givaudan’s results for first nine months of 2026 bolstered by fine fragrances",
+      "summary": "Givaudan’s results for first nine months of 2026 bolstered by fine fragrances",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T11:05:27+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GRk1qY18tVEdnLVM4c0pwMlRrcmlZdGkweGljTVgtaHlWbTB5SlRDcE1HNllRRmR0TmRvcVhra0F1ZVc3NGh2dHlhN3hKVlJWVWVfOElHNkRORjkwWndfUkdrTVdoTnlTb3lQYTgtT21SUkRmTVpEaA?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "5f03c6f8175eb3",
+      "title": "Personal Care Philippines Customer Strategy and Planning Lead",
+      "titleOriginal": "Personal Care Philippines Customer Strategy and Planning Lead",
+      "summary": "Personal Care Philippines Customer Strategy and Planning Lead",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T08:55:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFdIYXVvMUlxT3dEZ3Y4LWoyWnFPMU9RRkNwYjFNWHk2OXE3OHk0bGZjQkpQMWJNZDlSNkNWRnUxUVFUcVkwQnY3Y2UzbGlTNU1VcDBWNWpZODlWTGczMWF4b01kSmtLeUZnOUlpd2Zlc0swTUlSY0MtOC02NEgxRU9kckpkYU5HTkprSjJQcUV6Z0FuM1RjMzg3ZGNYcEhpUjNvR0FpQVlOTEFrb0M5SlBodnlDdWk1ckV2ZlhELWpMbWlfejhnVGdSMA?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "7f6f2d5ad0b770",
+      "title": "How Beauty Brands Can Ride the Live Shopping Wave",
+      "titleOriginal": "How Beauty Brands Can Ride the Live Shopping Wave",
+      "summary": "How Beauty Brands Can Ride the Live Shopping Wave",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T04:12:58+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUdDT1UxNjQ4UHVTNG5OQkZBTUJfS0Q2SmlQUUFsVHdicUpHcm9tQmVDMWVaWjlhamlnQlJZNTM4X2NscUhXQVdVOEdBQW9iN3pBLUdUSjVzdGtDbW5nbW5JRENjTHEzWHlQRkRfMGdBUlZXSXZvWU8wV2xLZkQtVUJIWFZDYlViWllKMjNGRVl6NVJ0dlVZQXUwZGtUcUhldFBEV0VxXzJYTDQ?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "740bd925bf736a",
+      "title": "化妆品企业的集体“医美焦虑”",
+      "titleOriginal": "化妆品企业的集体“医美焦虑”",
+      "summary": "化妆品企业的集体“医美焦虑”",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T22:27:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44YnVkVjQyWkF3ZTdaX3o4aXY0c0lUQ2NuY3I1TFJJMHR5cnZicE5pa0JkdklDVW5pbWJZV1hvX2pmRjM2RVNaZnIxekhjUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "f889fe5fff9010",
       "title": "L’Oréal Travel Retail and Avolta Partner to Accelerate Sustainability in Duty-Free Beauty",
@@ -192,392 +581,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "265c2bb323023a",
-      "title": "Perfume and AI: Berlin Packaging and Ininum win award at Luxe Pack Monaco",
-      "titleOriginal": "Perfume and AI: Berlin Packaging and Ininum win award at Luxe Pack Monaco",
-      "summary": "Perfume and AI: Berlin Packaging and Ininum win award at Luxe Pack Monaco",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T00:16:05+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFFpSVF5enpvTEFBWXlESXM0THNaa2pTMmhWdVE2SkhvaVhPUEdqTEJhekxFS3lSckhsUGZBdTR1UHZKN2ctSlFRdWdVb2xaZkIzZWctYjluVExJUk1XWEpDSzg5cnFvMG5yZVpZc0NCN0RLZjNMVWhCcVM1ZGotVWdCa2VBRVAySE9DQXRaRXdGcjk3Y2FCX0RqRS1JY3M?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "9658166061987e",
-      "title": "British Haircare Brand Expands into the U.S. Online at Ulta",
-      "titleOriginal": "British Haircare Brand Expands into the U.S. Online at Ulta",
-      "summary": "British Haircare Brand Expands into the U.S. Online at Ulta",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T12:55:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZC1ZQmdWbXJCcTVzbVYtQmtFdnhCU3ZsX2g5cHpkeGp4OEI5RmNudkJpZnFHMEV6YmdFeHd6S3E2Q1dWMldWeFNxaWE2a0t6Y2JJTS00VXpPYUxneEpDUUtwNDN0WkRqWnlsUUEzc0hzR0p0QTVwNWI5aGZnSkdveW9qVnp3aUtpZWt5c3Y1alFrVUN1Yl9YUzVTX2V1SjJsa2Zselh0cGU?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "13a785e3fe7dac",
-      "title": "一批香水界的“钟薛高”离场",
-      "titleOriginal": "一批香水界的“钟薛高”离场",
-      "summary": "一批香水界的“钟薛高”离场",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T10:55:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kYW5FaHA4dEtheEJ1S0FQZVFYR1RsakVGazZwVS1Cd29qVDBEY2FsMExMTXZBM3ZCSk1fUHktSmNCNm1DcC1aMnRYNUl4QQ?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "69df710b57b1f8",
-      "title": "双11美妆大战前夜，国货用机制挑战国际大牌",
-      "titleOriginal": "双11美妆大战前夜，国货用机制挑战国际大牌",
-      "summary": "双11美妆大战前夜，国货用机制挑战国际大牌",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T09:08:17+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90MzJ1RXZ2TXhITUdMY3RaeGtWREUtNmFVSDBCQTN0d2VvSjdJbUlEN3ZzNDVmWW9Xc1NKdEJfNVlybWFPX1JVY1lGNmdFMWow?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "6ca342bf5c9c54",
-      "title": "e.l.f. Cosmetics Launches its First Virtual Styling Experience on ZEPETO: “Express Your e.l.f.”",
-      "titleOriginal": "e.l.f. Cosmetics Launches its First Virtual Styling Experience on ZEPETO: “Express Your e.l.f.”",
-      "summary": "e.l.f. Cosmetics Launches its First Virtual Styling Experience on ZEPETO: “Express Your e.l.f.”",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "e.l.f. Beauty IR",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T09:03:51+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWFLaElFakxXOThaMDhjRVdRV3piUDBzclR3bjhWdWNIblYtTU1RTVZ5Q0ZsUEZYUnptVkpjZnNSRTk4STB5TkZWWVZGb3hqdGdPSEhKWGtrdVhSeG1YS3hXbU1wRXNXY01oMTQ5bjcxR3ZUTUhmOGViZ0ctZWlHUlNBaHJyd0pxLWFtcVV3YzNBNVBsZnlERkU2YzhKdzI1aU16MFFrUQ?oc=5",
-      "companies": [
-        "e.l.f. Beauty"
-      ],
-      "tags": [
-        "e.l.f. Beauty IR",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "11a8e1778a6402",
-      "title": "How Ulta Beauty, Sephora, and Boots Are Competing on TikTok Shop",
-      "titleOriginal": "How Ulta Beauty, Sephora, and Boots Are Competing on TikTok Shop",
-      "summary": "How Ulta Beauty, Sephora, and Boots Are Competing on TikTok Shop",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T19:53:12+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0JHSFhtd3JJNjl1LWNYcExzcV9zNjAwTERpVUFxTVVmM29VeEREVmtjQm9feHd1b0xXV3h1RDhYX3hKN2FrWk56WEg5STZIZXNsWTJSaGlja3pBbVRlTkJGTk1LdkZQY3R1ejl6RUQ1b1VEeXVnQnYtSm5FeFh0TXZEU2Z5V3VzVW81Wi1kVXpXdDUxcUE?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "77e1792665988c",
-      "title": "Digital Marketing Industrial Placement 2027 at L'Oreal",
-      "titleOriginal": "Digital Marketing Industrial Placement 2027 at L'Oreal",
-      "summary": "Digital Marketing Industrial Placement 2027 at L'Oreal",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T20:15:34+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZUhONjhtUXp4X3MyZ2M4Q3BwZVl6X0dockxHT2xoS0s2UWRBenltWWxCbl9fNkMtbk5Ed2NuTmt3QnZ1c0tyaDhfNERhbjRIc25ULVR5cmpFVkpSZHpkWU1JNWd5c25UVDZuYk41ekVEcW5RQjl2MnFXMXpnZ25SNXgyS0pWdVZjd0JZUGNMY09RMzlJcDQ3UjNzcm1WbzlwcVZ3?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "3e5a679dbf5fe9",
-      "title": "Proof in the Press: Agencies Behind Beauty's Biggest Moments",
-      "titleOriginal": "Proof in the Press: Agencies Behind Beauty's Biggest Moments",
-      "summary": "Proof in the Press: Agencies Behind Beauty's Biggest Moments",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T01:26:52+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RZElwNnJrZmZZYVFkZVNVUW9tUjNPejFBWlNfekYyYklrV21Ldy0weWJ3dDBUUjAycXdtQ1QtdDkzWVc5RTVZeUxYbmN4b0l2eHJ0cjduZVA3eFBpSDNYOVJDS3hCb3l2NUthZ0lGaGV3OGF4dmNkNlpNYXNHUQ?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "19cd7bbc19b251",
-      "title": "How Exist Beauty Is Reinventing Sustainable Makeup Through Material Science and Biotechnology",
-      "titleOriginal": "How Exist Beauty Is Reinventing Sustainable Makeup Through Material Science and Biotechnology",
-      "summary": "How Exist Beauty Is Reinventing Sustainable Makeup Through Material Science and Biotechnology",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T00:49:24+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmaGgtM3J3VnpQcFU3aVlhanJ6NllZXzdYenRFazdpenRPREE4dnhBZG1wNlNZNkNlLS1mRlJQTlhGTzBFUlJsaXQ4Nm5pWkJ4dmR1alhCcjRGeVNlMnFyLQ?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "c99f19349f7fd7",
-      "title": "No Longer “Emerging”: Beauty’s Next Growth Markets Set Their Own Terms",
-      "titleOriginal": "No Longer “Emerging”: Beauty’s Next Growth Markets Set Their Own Terms",
-      "summary": "No Longer “Emerging”: Beauty’s Next Growth Markets Set Their Own Terms",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T19:52:53+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWUtZm9yUXNiRzFXYUZIdGJIRktRTnpUMFFXbWp0Q0x4UklFbVM5NUwtQzJXdjMzYldJcXVLUFlpVlBZZXo3dFQ3b2IxZGhpaHJsTEhSN2hsbldmY0JWU05uMWRuSkhuTmVwZDF0bHM3cVA4NTBpNVJMeENhQ2Z0NVFrQTVjNHpH?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "3baea406af1b0c",
-      "title": "Weekly Recap: Saying I Do to Serums, Mary Kay’s Take on K-Beauty",
-      "titleOriginal": "Weekly Recap: Saying I Do to Serums, Mary Kay’s Take on K-Beauty",
-      "summary": "Weekly Recap: Saying I Do to Serums, Mary Kay’s Take on K-Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T14:08:40+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlNDaGx5TFdBcE5Qd0U4cFlkR2ZaRlhub2FBcXA1VWVMUkNja2o1d3JPWmw2blA1c3BCNlh3VVdWSTRKQXZEdzJZZGdyLTZGaUN0anZ2aDhmR0JSWDBEWlhueUctRzBTZ0xRYnVWTG9PNndJWTJ3NktvazNRNmh6dVRlemp3QVFEYXdXdXBOczAwZWJXWmlZNGE0VDNDTm8?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "9b1f468349d433",
-      "title": "Veteran exec Jaimee Holmes unpacks ‘eye patch gate’ and why innovation spurred Fel Beauty’s quick Sephora sell out",
-      "titleOriginal": "Veteran exec Jaimee Holmes unpacks ‘eye patch gate’ and why innovation spurred Fel Beauty’s quick Sephora sell out",
-      "summary": "Veteran exec Jaimee Holmes unpacks ‘eye patch gate’ and why innovation spurred Fel Beauty’s quick Sephora sell out",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Glossy",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T09:53:02+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOczBqN0tGZUZIN29mcDB6VEt2aGxkaGhKSXJXNVBfWTk3RDgybEQzTF9MSmdXY0YzZDhlTVh5N3JzSEp0RmwyUTlOWUJUYzhES3R4d05CVVdQRVdKVFd5WGJjMDRObnZhR0tCNG1EMDd4TmRyZ2xyZTA3VE12VWo3dEhrcXZ2ZW9CYlRhaXUxTDBOdlJpX2tXdFdoODA3dDF3RzNtX0t3dDhwLWh3aERianp3V2lKZVFvak5JT2hubEEzRDhLRkp3OVdqNFV0anUtLWtqWlVlOFB4TUk?oc=5",
-      "companies": [],
-      "tags": [
-        "Glossy",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
