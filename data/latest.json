@@ -1,7 +1,39 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T05:00:22.097752+00:00",
+  "generatedAt": "2026-10-14T05:23:09.386618+00:00",
   "items": [
+    {
+      "id": "55675ed5082c70",
+      "title": "Isamaya Ffrench Departs Namesake Beauty Brand Amid Uncertain Future",
+      "titleOriginal": "Isamaya Ffrench Departs Namesake Beauty Brand Amid Uncertain Future",
+      "summary": "Isamaya Ffrench Departs Namesake Beauty Brand Amid Uncertain Future",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-14T05:00:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDRVY1IzU2theE1MYUppcjJMVEZsZDk2SkZEYXNfamg0ZDgtYnl1bHVLZXNwSEwwYVlWNGJzbHJyWmJsZ3hvNjVrdHl0cHNHY0l5dHpVVTNBcWdrNzFRemFDSWl4LUt5VFZMM1RBQm1vam9GRHNwOTctN1ZuNkQ5S3NhWnpGZmF0XzBSYmRsaUNhdDdGYlhhaEpWZWJiTlRzYXAxSUFnYw?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "1aacb2d11241de",
       "title": "How Did a “Frozen Serum” Come to Life? Shiseido’s Pursuit of New Value Creation Through Sorbet Serum",
@@ -550,38 +582,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "409baa80630d4e",
-      "title": "Canadian Cosmetic Cluster launches awards focused on industry opportunities",
-      "titleOriginal": "Canadian Cosmetic Cluster launches awards focused on industry opportunities",
-      "summary": "Canadian Cosmetic Cluster launches awards focused on industry opportunities",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T04:27:12+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdWFnUUpDM3pIODlxalJFbG1ULVA2dUJVUHR6akxjMXFLRmRoV0lSMWxDZUx2Ui0wTFBlZU9QUjYxZmJvelh4Z0JUMlpzNGNPRC1OdXY2WVhYUklGYW5rY0JDT0FsZFNubFI5NTlwYzdpUUdVdlg3NERFT2liWWVWUHpFMUVDX1lGR3c?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     }
