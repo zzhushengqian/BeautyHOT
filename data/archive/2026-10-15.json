@@ -1,7 +1,39 @@
 {
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T01:53:31.078022+00:00",
+  "generatedAt": "2026-10-15T04:48:54.203246+00:00",
   "items": [
+    {
+      "id": "352c03fbd9b7b8",
+      "title": "Amid an executive shakeup, Gap Beauty expands with its first gourmand fragrance",
+      "titleOriginal": "Amid an executive shakeup, Gap Beauty expands with its first gourmand fragrance",
+      "summary": "Amid an executive shakeup, Gap Beauty expands with its first gourmand fragrance",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T04:27:08+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXy1fbnRCNHNpU1lzQ2NDSkFIVnpPY3RzUjRUdXNubUVXRjk4RUhXb25Qa25xT3JHdGwxb0V3UGhKVS1UekdSUVVxZ0NaTjJWQm1BVjFfcFhZN1pPRjN0azhtU0hQMUhOTUJ4SnNBZlhha0tJc3dTUEtpSjB5RWR2RWJCMXlBSHRkaWpLR18wak5MSUNIbGRlWGFEU08xeG5vSXg4SzFGc0JWVVgw?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "19fe4827edc78e",
       "title": "品观· 值得信赖的化妆品产业资源平台",
@@ -128,6 +160,70 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "37c5c040bcbd55",
+      "title": "AVP, Medical Communcations at L'Oreal",
+      "titleOriginal": "AVP, Medical Communcations at L'Oreal",
+      "summary": "AVP, Medical Communcations at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2pzMHBFU2M2MkJOWGdzQ01wdDZBLUhxOVMyejZOVTBTd2F2SGoxazlseTZrdGQtMXNCdFFZOGlhTk9JTXZtcGFlN2RSZGJaU2ZHWGQzckdXNUpVYk1kUHVTZ19nVmpaaHRoUF9RakVLNUxyc0x5a0lGZTdsVUdmSktjWkFpV0VsLXdzbDVR?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b241e0d31df0cd",
+      "title": "L'Oréal Luxe Multi-Brand Beauty Activator, Belfast Stores (37.5 Hours) at L'Oreal",
+      "titleOriginal": "L'Oréal Luxe Multi-Brand Beauty Activator, Belfast Stores (37.5 Hours) at L'Oreal",
+      "summary": "L'Oréal Luxe Multi-Brand Beauty Activator, Belfast Stores (37.5 Hours) at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T21:00:30+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY182S2xUWEVmRVZfNENVREJGQWpXcGVEUTF5TkZJMTVGbllBd3RqU0hJZURyazVjN2ZmbmF4Q3BVUHVRU3Zod0hia3lkcGg3ckk2THRoMzBNdWVtV1dSX2VmRzVuc0U4ZjU4bzM2a0RpN3VzOU5tSXZ4c0tCS2t3bkZIWnY0d2R5YlNnUzdqQ2pQc2RpS1c1QzFkclJFX1Z5X1JpbHkzNW5QRFVZREhDVHVMaGRIOGEyVnFva1FUZWFZNDNT?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
@@ -485,102 +581,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 8
-      }
-    },
-    {
-      "id": "5f03c6f8175eb3",
-      "title": "Personal Care Philippines Customer Strategy and Planning Lead",
-      "titleOriginal": "Personal Care Philippines Customer Strategy and Planning Lead",
-      "summary": "Personal Care Philippines Customer Strategy and Planning Lead",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Unilever",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T08:55:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFdIYXVvMUlxT3dEZ3Y4LWoyWnFPMU9RRkNwYjFNWHk2OXE3OHk0bGZjQkpQMWJNZDlSNkNWRnUxUVFUcVkwQnY3Y2UzbGlTNU1VcDBWNWpZODlWTGczMWF4b01kSmtLeUZnOUlpd2Zlc0swTUlSY0MtOC02NEgxRU9kckpkYU5HTkprSjJQcUV6Z0FuM1RjMzg3ZGNYcEhpUjNvR0FpQVlOTEFrb0M5SlBodnlDdWk1ckV2ZlhELWpMbWlfejhnVGdSMA?oc=5",
-      "companies": [],
-      "tags": [
-        "Unilever",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "7f6f2d5ad0b770",
-      "title": "How Beauty Brands Can Ride the Live Shopping Wave",
-      "titleOriginal": "How Beauty Brands Can Ride the Live Shopping Wave",
-      "summary": "How Beauty Brands Can Ride the Live Shopping Wave",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T04:12:58+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUdDT1UxNjQ4UHVTNG5OQkZBTUJfS0Q2SmlQUUFsVHdicUpHcm9tQmVDMWVaWjlhamlnQlJZNTM4X2NscUhXQVdVOEdBQW9iN3pBLUdUSjVzdGtDbW5nbW5JRENjTHEzWHlQRkRfMGdBUlZXSXZvWU8wV2xLZkQtVUJIWFZDYlViWllKMjNGRVl6NVJ0dlVZQXUwZGtUcUhldFBEV0VxXzJYTDQ?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "740bd925bf736a",
-      "title": "化妆品企业的集体“医美焦虑”",
-      "titleOriginal": "化妆品企业的集体“医美焦虑”",
-      "summary": "化妆品企业的集体“医美焦虑”",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T22:27:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44YnVkVjQyWkF3ZTdaX3o4aXY0c0lUQ2NuY3I1TFJJMHR5cnZicE5pa0JkdklDVW5pbWJZV1hvX2pmRjM2RVNaZnIxekhjUQ?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
