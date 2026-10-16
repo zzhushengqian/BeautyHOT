@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generatedAt": "2026-10-16T04:39:00.406155+00:00",
+  "generatedAt": "2026-10-16T04:58:38.268870+00:00",
   "items": [
     {
       "id": "2c4b99294cc265",
@@ -67,6 +67,38 @@
       }
     },
     {
+      "id": "fc99260f97c871",
+      "title": "Shark, Makeup by Mario and Dcypher crowned Pure Beauty Awards 2026 winners",
+      "titleOriginal": "Shark, Makeup by Mario and Dcypher crowned Pure Beauty Awards 2026 winners",
+      "summary": "Shark, Makeup by Mario and Dcypher crowned Pure Beauty Awards 2026 winners",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T23:50:57+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zdVp5VkFfaUR2eFZZZmI4TzJscnp2STl3LVdiZk1fSDN1Z0IyaXo3Y2o0TlZSMEhrVVkwWlNWZTctX1JKYURfaTVJSG1nRUFlbEM2S002ZEhrNkh4WWQ5OHlQR2JZTW1tbnZjdHNSNDdZNkxGOVN6bGR3?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "22d90cecc27fa0",
       "title": "Marketing Management Trainee, Dermatological Beauty at L'Oreal",
       "titleOriginal": "Marketing Management Trainee, Dermatological Beauty at L'Oreal",
@@ -96,38 +128,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "054751ec3551e5",
-      "title": "Odile Roujol on the New Beauty Investment Thesis: From Skin Deep to Healthspan",
-      "titleOriginal": "Odile Roujol on the New Beauty Investment Thesis: From Skin Deep to Healthspan",
-      "summary": "Odile Roujol on the New Beauty Investment Thesis: From Skin Deep to Healthspan",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T19:28:22+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd0NxdWJ2LWtBNFVYdXpTenhCVTY2NjBtdW1MSDNNaDgtZFpMVDVnQlk0Rm51a3JVV2JiZHRmNjhoa1g4OWhJY2JkVldFdk1zbkFheVBraUNaTWNLTDBDTE9LZk5WX3pmN3Q3LXJyR01UZXVOaG0xbGxRSURBMGdxc3BLcUhOd3B3a19RX2pOdGJ4eHZoWVJRSW9pV2VJR0NWTXVzUi1ZVDF1RTIwMF9oc05VQURsbWtXeFdUMW9FZUpOZDRNVGlFWDB1dU44NUJvdjVYSU5neUZzbnRTTTVyN2NB?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
       }
     },
     {
@@ -355,6 +355,38 @@
       }
     },
     {
+      "id": "054751ec3551e5",
+      "title": "Odile Roujol on the New Beauty Investment Thesis: From Skin Deep to Healthspan",
+      "titleOriginal": "Odile Roujol on the New Beauty Investment Thesis: From Skin Deep to Healthspan",
+      "summary": "Odile Roujol on the New Beauty Investment Thesis: From Skin Deep to Healthspan",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T19:28:22+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd0NxdWJ2LWtBNFVYdXpTenhCVTY2NjBtdW1MSDNNaDgtZFpMVDVnQlk0Rm51a3JVV2JiZHRmNjhoa1g4OWhJY2JkVldFdk1zbkFheVBraUNaTWNLTDBDTE9LZk5WX3pmN3Q3LXJyR01UZXVOaG0xbGxRSURBMGdxc3BLcUhOd3B3a19RX2pOdGJ4eHZoWVJRSW9pV2VJR0NWTXVzUi1ZVDF1RTIwMF9oc05VQURsbWtXeFdUMW9FZUpOZDRNVGlFWDB1dU44NUJvdjVYSU5neUZzbnRTTTVyN2NB?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
       "id": "c87bd573e802c9",
       "title": "Flower Knows Expands In-Store at Ulta Beauty",
       "titleOriginal": "Flower Knows Expands In-Store at Ulta Beauty",
@@ -532,38 +564,6 @@
       "publishedAt": "2026-10-14T07:00:00+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR2hVYWc2WlRBYTFORi1EOUhoRWJHWVBpanl0bnBEMTBJbmhWcE9fdk53enpTdThybFhrTUxYM2Jad2tsLVY1UExnX3dBQ0QydjFTbkZlZzZEckhtYVBQWFVZbmVVVHRfbFZvT0VjcndrcUxlM3plbTdPSy1SMnJaSWtic1pidG9Xd0lZ?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "e633ddb3f8899b",
-      "title": "Can Consumers Keep Up with the Demands of Evolving Skincare Needs?",
-      "titleOriginal": "Can Consumers Keep Up with the Demands of Evolving Skincare Needs?",
-      "summary": "Can Consumers Keep Up with the Demands of Evolving Skincare Needs?",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T07:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUg2eVkwc1VkV0JWU0RpUFp1UDdzdDJXUmQ1dDA3NlFMamdlUUdRcy1laUMzY2pHN1NPOS1QVUFEbFJMdGZFMU5NNGwzN0lGQXpaQ21QMzhUSC1BVUFoN0ljQW5pa1JRN3ItdmNnY0dQSnhJWWMzUW1BbmJDZUlMT0ltVHpEcDFRc0R5OW1DNmdNbTJZa3RWZjgxNG5hdGgtODNDcg?oc=5",
       "companies": [],
       "tags": [
         "Happi",
