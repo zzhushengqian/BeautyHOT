@@ -1,7 +1,39 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T01:36:25.154316+00:00",
+  "generatedAt": "2026-10-17T04:36:24.539707+00:00",
   "items": [
+    {
+      "id": "a33a92f64dd7da",
+      "title": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
+      "titleOriginal": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
+      "summary": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T19:11:31+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlBVNjNabUZXUWdIWW5sc1FaS3ZTR1BZSDZnWXlscG90akRHZVBTMUN5NVYzXy1YX2ZnYXh5dUFDQm5xczh4RDRPR0xScXVOT0FORWdqN3N6QlFZNVZnRXdxYUxoSDhOOFZQdkgyMjFUTHBfQnVueDQzZnEtNF9rRXNOTmhHNzIyTGFkZWhJeWl6eS1NRjVQRHRxZHk5eEdDeXdscVhlV1BaWGhsSnA4MXJoazZDN055cHNsZ1BqUERnN3dXUVVkWTV1N2JmOUE?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "7c95edb8c853e5",
       "title": "Why brands are turning your favorite beauty products into fashion accessories",
@@ -63,38 +95,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "a33a92f64dd7da",
-      "title": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
-      "titleOriginal": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
-      "summary": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T16:21:51+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlBVNjNabUZXUWdIWW5sc1FaS3ZTR1BZSDZnWXlscG90akRHZVBTMUN5NVYzXy1YX2ZnYXh5dUFDQm5xczh4RDRPR0xScXVOT0FORWdqN3N6QlFZNVZnRXdxYUxoSDhOOFZQdkgyMjFUTHBfQnVueDQzZnEtNF9rRXNOTmhHNzIyTGFkZWhJeWl6eS1NRjVQRHRxZHk5eEdDeXdscVhlV1BaWGhsSnA4MXJoazZDN055cHNsZ1BqUERnN3dXUVVkWTV1N2JmOUE?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
         "actionability": 8
       }
     },
@@ -360,6 +360,38 @@
       }
     },
     {
+      "id": "aa5153182fe949",
+      "title": "Former Estée Lauder Executive John Demsey Departs Gap Inc. Amid Beauty Expansion",
+      "titleOriginal": "Former Estée Lauder Executive John Demsey Departs Gap Inc. Amid Beauty Expansion",
+      "summary": "Former Estée Lauder Executive John Demsey Departs Gap Inc. Amid Beauty Expansion",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T05:00:59+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGZLNjYwUkZRS3ZYS25LRUNRdnh0NGN0ZWRENlY0TnF4MmNvWnVZd0wzNEtZcXc1aDZRMFFWVlBDSzB2WklPOC15eFd4dlpDTUp6clV2dmtYb1hncE9MV3V1VWMzdjlsSlBJQ01rYjBPSzQ4S0kxazVBTzN1UG9aWlZLVk9ZamFudlVRdEoycGZrNzdSRFV5OXFONGtuSU5seU41c01pZkxsS1ZxTnZYUnVXYW5TMG8?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "dc9582951a9cf4",
       "title": "Marketing Management Trainee, Skincare, Consumer Products",
       "titleOriginal": "Marketing Management Trainee, Skincare, Consumer Products",
@@ -424,35 +456,35 @@
       }
     },
     {
-      "id": "d0762f5f7895c0",
-      "title": "Sr. Talent Acquisition Executive - Buycoor at L'Oreal",
-      "titleOriginal": "Sr. Talent Acquisition Executive - Buycoor at L'Oreal",
-      "summary": "Sr. Talent Acquisition Executive - Buycoor at L'Oreal",
+      "id": "e8366c3760be9b",
+      "title": "Survey Says: Social Media Has A Say in Teen Beauty",
+      "titleOriginal": "Survey Says: Social Media Has A Say in Teen Beauty",
+      "summary": "Survey Says: Social Media Has A Say in Teen Beauty",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "deals",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-15T19:41:34+00:00",
+      "publishedAt": "2026-10-15T14:08:34+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmI1WEFqcFJGemFtVzBKTUVOWl82eTJfX0NrQWhzekxvcS03NkYwQ05lQmxEdDJPdTFEc3BBWVA1dkRlQzNkWWhRRGZHcmFpalEyR2VpYzFWeVpSOWFtNjNmdGlZUmV6TERWdGVEUzVmNi1jYUtXU08yaDhuS3BYbTdabU5vOTUzQjN6M0FWVmdBSklhb3ZUNXNudlNqZ1NZV0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjNCN1JMcko3LWs4SHF3VHpUcGZvTHl5aWVLUHAxeEUyZ3dfWG95ZE9WVy1kWktzd3hMVk95dGVJc09WcVNoNENMNlkyRTJHUmNYS1Q0aDhKWWNJSTdJUDRfWVNtMUwxLTA3ZUg4T3NQSG9GQ1ZyWExZRmFEenl2Um0yZ1FLQ3NLU3lLSlFFMDdsRmpyRUk5SXBla0dWQUJGY0Z5eDA1WGlUWFl2SHc?oc=5",
       "companies": [],
       "tags": [
-        "L'Oréal Group",
-        "官方信源"
+        "Global Cosmetic Industry",
+        "自动采集"
       ],
       "baseScore": 60,
       "signals": {
-        "impact": 8,
+        "impact": 6,
         "magnitude": 6,
         "china": 3,
-        "novelty": 8,
-        "actionability": 8
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -488,6 +520,38 @@
       }
     },
     {
+      "id": "d0762f5f7895c0",
+      "title": "Sr. Talent Acquisition Executive - Buycoor at L'Oreal",
+      "titleOriginal": "Sr. Talent Acquisition Executive - Buycoor at L'Oreal",
+      "summary": "Sr. Talent Acquisition Executive - Buycoor at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T19:41:34+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmI1WEFqcFJGemFtVzBKTUVOWl82eTJfX0NrQWhzekxvcS03NkYwQ05lQmxEdDJPdTFEc3BBWVA1dkRlQzNkWWhRRGZHcmFpalEyR2VpYzFWeVpSOWFtNjNmdGlZUmV6TERWdGVEUzVmNi1jYUtXU08yaDhuS3BYbTdabU5vOTUzQjN6M0FWVmdBSklhb3ZUNXNudlNqZ1NZV0E?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
       "id": "2c4b99294cc265",
       "title": "How Beauty Brands Are Building Evidence-Based Claims for the AI Era",
       "titleOriginal": "How Beauty Brands Are Building Evidence-Based Claims for the AI Era",
@@ -508,70 +572,6 @@
       "companies": [],
       "tags": [
         "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "104e725beb9ff4",
-      "title": "Inclusive Beauty: The Next Chapter (10-15-26)",
-      "titleOriginal": "Inclusive Beauty: The Next Chapter (10-15-26)",
-      "summary": "Inclusive Beauty: The Next Chapter (10-15-26)",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T23:52:16+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11NDBoUFhBTnBtNy0weGJ6NVpVek1wLWFCUlZxTmhZMVZkQ2tOMVJGZ1VaUmlTWTJSS1M5NEVFeG5QMkhlUTdObURSZzRaV0htZ1NlVFdtUHI1NGVfZF9qUVk5NVhYVGNTY1phM0pOZ2RJOERBZ2tES1Vhaw?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "fc99260f97c871",
-      "title": "Shark, Makeup by Mario and Dcypher crowned Pure Beauty Awards 2026 winners",
-      "titleOriginal": "Shark, Makeup by Mario and Dcypher crowned Pure Beauty Awards 2026 winners",
-      "summary": "Shark, Makeup by Mario and Dcypher crowned Pure Beauty Awards 2026 winners",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T23:50:57+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zdVp5VkFfaUR2eFZZZmI4TzJscnp2STl3LVdiZk1fSDN1Z0IyaXo3Y2o0TlZSMEhrVVkwWlNWZTctX1JKYURfaTVJSG1nRUFlbEM2S002ZEhrNkh4WWQ5OHlQR2JZTW1tbnZjdHNSNDdZNkxGOVN6bGR3?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
         "自动采集"
       ],
       "baseScore": 60,
