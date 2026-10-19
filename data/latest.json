@@ -1,7 +1,135 @@
 {
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T05:07:37.865375+00:00",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T01:50:52.251601+00:00",
   "items": [
+    {
+      "id": "6720a053511bc7",
+      "title": "How Bliss Is Reinventing Its Skincare Business Through Amazon, DTC, and Bliss Pro",
+      "titleOriginal": "How Bliss Is Reinventing Its Skincare Business Through Amazon, DTC, and Bliss Pro",
+      "summary": "How Bliss Is Reinventing Its Skincare Business Through Amazon, DTC, and Bliss Pro",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T20:10:03+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnJ3N2VsNmFaUHh2NkJwQUdNMlFZelpxMDFsRFBoejJDTThTYnZNZFBUQVkySFJiZERYTk5lTGhyek5QaExtdjZDSUxoaEJTc0d4eHk4Wi1GMEVITXU4QnNFN3NoYUhrcUV5dmk4QjJIU3FTX3NvblFZaVNnSmhHag?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "f16561d4464d48",
+      "title": "Victoria’s Secret to leverage fashion show to promote beauty expansion and first-ever skin-care partnership",
+      "titleOriginal": "Victoria’s Secret to leverage fashion show to promote beauty expansion and first-ever skin-care partnership",
+      "summary": "Victoria’s Secret to leverage fashion show to promote beauty expansion and first-ever skin-care partnership",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T17:08:26+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1ZPemdqUTZfcXVLRzdHZUNwVU1sTHRUSHJmUjNQOWhDdTBONThtT2JwV3Q5T2VtRVlJaWs1blBFemFnUzdCdWtCSUlkdGZuTTJnOFJYOENQa1J6el9VWGFDbVZWQ3doS0ZCVEt4MGV1dTRFN1hFcVd6bmtrRnFfbFNfbzQybUNfd3JKaVRmTXhnOEVGMzVJTzU4amYwRWJ1X3NSVjhjQjRhR2w2OGNKbC0xMVVfTW4yLVJPZUpDN3BUTk9qdmtaZk5KVGpERnllT3c?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "dc3ce769897e96",
+      "title": "债务缠身！又一家老牌美妆代工厂倒下",
+      "titleOriginal": "债务缠身！又一家老牌美妆代工厂倒下",
+      "summary": "债务缠身！又一家老牌美妆代工厂倒下",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T03:46:36+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Z0VnLWlSZFlKR21wMzVMdW9UYnB5NHJGb1I1NHVQSFFzdC1HUUV0ak9XcTNoLU8xMHhQaG9uX00tV0xjcmtzeDhLSjQtcjZBTkxKVw?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "82bcadd289dbcc",
+      "title": "The Estée Lauder Companies, Nykaa & Startup India Announce Finalists for BEAUTY&YOU India 2026",
+      "titleOriginal": "The Estée Lauder Companies, Nykaa & Startup India Announce Finalists for BEAUTY&YOU India 2026",
+      "summary": "The Estée Lauder Companies, Nykaa & Startup India Announce Finalists for BEAUTY&YOU India 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDBxWTdPc1owdE5TeVlhRmZOVEdKeGdkY2U2U2pYRjZBQU41YjN0V0VGT2QxZzlSNWkycGJNOTE4NkhhTjNXOXEzSFo3bG1hMW52Umw5UWI2Q2tJQS1OTlJDTlpod0Y2ZDhVcjN5M0t2NEQ1WVlCbTlQcnZtTFZtWUVJTGNQb3dYZVJJcndn?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "c887f2fb351111",
       "title": "The Estée Lauder Companies Announces BEAUTY&YOU India 2026 Winners and Marks Five Years of Advancing Indian Beauty Entrepreneurship",
@@ -453,134 +581,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "dc9582951a9cf4",
-      "title": "Marketing Management Trainee, Skincare, Consumer Products",
-      "titleOriginal": "Marketing Management Trainee, Skincare, Consumer Products",
-      "summary": "Marketing Management Trainee, Skincare, Consumer Products",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T02:21:13+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXRCZWtsSGFJcnFEelJ0WjlibjNIWXJsWGRYY0tENFJrVVpvamcyTUdmLXdyNTJyN1ZIaFV1aUJRTnNlWTg2NEJjVEJybTNHalZtc3BkTkQ2YWIyTE9wTjlMeF9DclRFSEVlQ0Y0OGtVZU9TS3EwVjI3T3hnckV2NTFHc0pfcEFHY0RBNnZQbGw5VVBQNTIzdHFOcHdfTC0wTlRENjJDT2ctQnNyUldHaEJ5NDFjQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "9c0606d9749ba7",
-      "title": "Shelf Presence: Beauty's Best Packaging of 2026",
-      "titleOriginal": "Shelf Presence: Beauty's Best Packaging of 2026",
-      "summary": "Shelf Presence: Beauty's Best Packaging of 2026",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T01:44:09+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWN3bzUyaGlkTmNKcktOOGowckl3SDlXM3ZqSWhYQzJ6NGx1aG8wcEFmRHZIVEtCVHY1M0Z3a0VpRUJwY0lSOUZabms3V2NBeExqMXJzbDJRTDVkREoxcUtMOWotOVlnLTF2TjFJZmtvMzl4czBfTTZwYmZFMURNX2I4TjN2QQ?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "e8366c3760be9b",
-      "title": "Survey Says: Social Media Has A Say in Teen Beauty",
-      "titleOriginal": "Survey Says: Social Media Has A Say in Teen Beauty",
-      "summary": "Survey Says: Social Media Has A Say in Teen Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T14:08:34+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjNCN1JMcko3LWs4SHF3VHpUcGZvTHl5aWVLUHAxeEUyZ3dfWG95ZE9WVy1kWktzd3hMVk95dGVJc09WcVNoNENMNlkyRTJHUmNYS1Q0aDhKWWNJSTdJUDRfWVNtMUwxLTA3ZUg4T3NQSG9GQ1ZyWExZRmFEenl2Um0yZ1FLQ3NLU3lLSlFFMDdsRmpyRUk5SXBla0dWQUJGY0Z5eDA1WGlUWFl2SHc?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "54552870e9bc28",
-      "title": "Chanel去年分红58亿美元",
-      "titleOriginal": "Chanel去年分红58亿美元",
-      "summary": "Chanel去年分红58亿美元",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "Ladymax",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T08:17:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FQUREam11aTJCNk9USUF3bi1RVmthOElIVm9jN2RCeGE5dU40dlJsT19tck15aDRUamxNQ2NqMFdNMEVranlrd2tqLUxNTm0wcEZqN1VR?oc=5",
-      "companies": [],
-      "tags": [
-        "Ladymax",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
