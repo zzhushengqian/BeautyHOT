@@ -1,7 +1,39 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T04:58:17.655980+00:00",
+  "generatedAt": "2026-10-20T05:16:58.146097+00:00",
   "items": [
+    {
+      "id": "f492c72e1edf70",
+      "title": "Sephora Closes French Stores as Riots Damage 1,500 Retail Businesses",
+      "titleOriginal": "Sephora Closes French Stores as Riots Damage 1,500 Retail Businesses",
+      "summary": "Sephora Closes French Stores as Riots Damage 1,500 Retail Businesses",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T05:00:55+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjBzbzNDZXU1bldGRkFaOFRPNGhrYmhORXhlUTRPMmYtT2VzeTdnLW9tWHpvOHFkUGJ4cUpxZGUxdnFIU1BTbVNGTDhFU1dHZVRFdkdzMUVOS1BqSno1UGlIS3NTMktFR19oN2ZyN0ZmeFZhOTJyN2JraUtVNnc2Z0ZISi1VRExQbEVyUTdiUXhHOHV4akYwZVNhd0R2eEJWaXFTejhRNA?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "d1b88285dbd46b",
       "title": "Otzlab x Metapack: A perfume bottle suspended in a metal frame",
@@ -535,38 +567,6 @@
       "companies": [],
       "tags": [
         "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "6720a053511bc7",
-      "title": "How Bliss Is Reinventing Its Skincare Business Through Amazon, DTC, and Bliss Pro",
-      "titleOriginal": "How Bliss Is Reinventing Its Skincare Business Through Amazon, DTC, and Bliss Pro",
-      "summary": "How Bliss Is Reinventing Its Skincare Business Through Amazon, DTC, and Bliss Pro",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T20:10:03+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnJ3N2VsNmFaUHh2NkJwQUdNMlFZelpxMDFsRFBoejJDTThTYnZNZFBUQVkySFJiZERYTk5lTGhyek5QaExtdjZDSUxoaEJTc0d4eHk4Wi1GMEVITXU4QnNFN3NoYUhrcUV5dmk4QjJIU3FTX3NvblFZaVNnSmhHag?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
         "自动采集"
       ],
       "baseScore": 60,
