@@ -1,7 +1,39 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T02:09:50.835583+00:00",
+  "generatedAt": "2026-10-20T04:58:17.655980+00:00",
   "items": [
+    {
+      "id": "d1b88285dbd46b",
+      "title": "Otzlab x Metapack: A perfume bottle suspended in a metal frame",
+      "titleOriginal": "Otzlab x Metapack: A perfume bottle suspended in a metal frame",
+      "summary": "Otzlab x Metapack: A perfume bottle suspended in a metal frame",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T02:16:41+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmpTeFZJa3JZMnBJS3VzYWxmQmdmWGtFZU02MU4ydEkwTUtobFE1cmFqMGNuanlvR3B5TnFrNW1BVXJMRWZxUjlxOFRPMEFRN1p6NTZhSGFFQVBqWVNrWXB2ajlqMGRxWDViVHNrc2hpdFZ5Y2Faa3Vkd2hILWNoem5OYw?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "1d3a3a56b9b7f4",
       "title": "The Art of Lasting Beauty: A Century of Shiseido’s Refill Culture",
@@ -81,7 +113,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-19T22:45:35+00:00",
+      "publishedAt": "2026-10-19T22:49:08+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZ0Mwb25mTVdVRkl3OU1TcGxXMlpWWW5ncE5mcjBRMkpOSi1pUWhfVk85bGxMRE1IYUpGQzZzZlJxQ21YTExrVndrX3FvbnNqbExpVFhTMW4tM01zaVNtbGJUSGhQLXZUeDIxYnBONWV1YzJORXVpQ0ZR?oc=5",
       "companies": [],
@@ -96,6 +128,38 @@
         "china": 3,
         "novelty": 8,
         "actionability": 8
+      }
+    },
+    {
+      "id": "e6f47559c21d02",
+      "title": "The Must-See Beauty Moments From the 2026 Academy Museum Gala: Teyana Taylor, Taylor Swift and More",
+      "titleOriginal": "The Must-See Beauty Moments From the 2026 Academy Museum Gala: Teyana Taylor, Taylor Swift and More",
+      "summary": "The Must-See Beauty Moments From the 2026 Academy Museum Gala: Teyana Taylor, Taylor Swift and More",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T17:30:52+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXRFU1NnSklvckZKZDdhdjRKa2M3cUdFNmZRLS1QZF9oY052dlRRb0hsZGFDOGZxLVdkY2RIdkQxb05WTUlhY0JDRlQwUUxuZTZJejRwcERRVjRmUG5rdVNGa3VQUjl2WUx2NU94YkJCXzRQWmY1VnlWbE1URm40N2JnelpwZ0RHZ2tKcEgxaGlZVDF2bjQ4dklPQ00tdF9NLTM5V3o0UnRIZw?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -512,70 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "f16561d4464d48",
-      "title": "Victoria’s Secret to leverage fashion show to promote beauty expansion and first-ever skin-care partnership",
-      "titleOriginal": "Victoria’s Secret to leverage fashion show to promote beauty expansion and first-ever skin-care partnership",
-      "summary": "Victoria’s Secret to leverage fashion show to promote beauty expansion and first-ever skin-care partnership",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Glossy",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T17:08:26+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1ZPemdqUTZfcXVLRzdHZUNwVU1sTHRUSHJmUjNQOWhDdTBONThtT2JwV3Q5T2VtRVlJaWs1blBFemFnUzdCdWtCSUlkdGZuTTJnOFJYOENQa1J6el9VWGFDbVZWQ3doS0ZCVEt4MGV1dTRFN1hFcVd6bmtrRnFfbFNfbzQybUNfd3JKaVRmTXhnOEVGMzVJTzU4amYwRWJ1X3NSVjhjQjRhR2w2OGNKbC0xMVVfTW4yLVJPZUpDN3BUTk9qdmtaZk5KVGpERnllT3c?oc=5",
-      "companies": [],
-      "tags": [
-        "Glossy",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "dc3ce769897e96",
-      "title": "债务缠身！又一家老牌美妆代工厂倒下",
-      "titleOriginal": "债务缠身！又一家老牌美妆代工厂倒下",
-      "summary": "债务缠身！又一家老牌美妆代工厂倒下",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T03:46:36+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Z0VnLWlSZFlKR21wMzVMdW9UYnB5NHJGb1I1NHVQSFFzdC1HUUV0ak9XcTNoLU8xMHhQaG9uX00tV0xjcmtzeDhLSjQtcjZBTkxKVw?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
