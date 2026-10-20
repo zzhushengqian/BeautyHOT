@@ -1,7 +1,487 @@
 {
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-19T05:18:45.397464+00:00",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T02:09:50.835583+00:00",
   "items": [
+    {
+      "id": "1d3a3a56b9b7f4",
+      "title": "The Art of Lasting Beauty: A Century of Shiseido’s Refill Culture",
+      "titleOriginal": "The Art of Lasting Beauty: A Century of Shiseido’s Refill Culture",
+      "summary": "The Art of Lasting Beauty: A Century of Shiseido’s Refill Culture",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Shiseido",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T01:43:19+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SRVJ1U0JiOWRSLXVyTjN4QVo5YVMyaTR0VEpOdDFOenFRcXo4dkxOSnVVdTRyZ1VZbHlQWXc4QlZfU0REbVRocUhWSFM4eno5SUNsQjJzWU1Kc3JocDZQcVBUWnhidw?oc=5",
+      "companies": [],
+      "tags": [
+        "Shiseido",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "bead494df8dcd6",
+      "title": "French skincare brand La Rosée steps up its pharmacy expansion",
+      "titleOriginal": "French skincare brand La Rosée steps up its pharmacy expansion",
+      "summary": "French skincare brand La Rosée steps up its pharmacy expansion",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T00:21:29+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16UTlwUVJSZk8xQ1ptUVdfcEFLN1R4d1ZDV0Q4bjNZeVJfTU9RU2h0bVYxUTk2OVZZOTRhR09FeUlhdERHNkgxczU0MGhMWm9lcEJ1cG81QXI5Y1o0V05hY3ZnZTgwc1NPM3Q3NXdaYmR5SlZrMlItem83Yzl2UQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e7938c44f538dd",
+      "title": "FaiveleyTech invests EUR 15 million in a new beauty manufacturing facility",
+      "titleOriginal": "FaiveleyTech invests EUR 15 million in a new beauty manufacturing facility",
+      "summary": "FaiveleyTech invests EUR 15 million in a new beauty manufacturing facility",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T22:45:35+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZ0Mwb25mTVdVRkl3OU1TcGxXMlpWWW5ncE5mcjBRMkpOSi1pUWhfVk85bGxMRE1IYUpGQzZzZlJxQ21YTExrVndrX3FvbnNqbExpVFhTMW4tM01zaVNtbGJUSGhQLXZUeDIxYnBONWV1YzJORXVpQ0ZR?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "9bb62873faea55",
+      "title": "Proya Cosmetics Inaugurates New Europe Innovation Center Laboratory",
+      "titleOriginal": "Proya Cosmetics Inaugurates New Europe Innovation Center Laboratory",
+      "summary": "Proya Cosmetics Inaugurates New Europe Innovation Center Laboratory",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T17:03:39+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZVJfSFpHbmVfMWtnXzFoSVhMcmEzNTJtQThIcUphaGViYVRMVU9rRktzUnNVUlhJenNLbnFLSmJuZGJZRHVDdFprTDRKaGVKbGNKYXJ6Q2o3aXRudlVDUmY3eng4dnk1R2JCbEpJN09Idi1YTkNqQmo4NndiSVhqYzVyWklBVDhCMk9tSGNoWGtOX3lfVGhDd0lVeUsyVlN3MXU3NFJ5dXVzb1RuVng4SXpSaUhfQkY3bWNQQlBKaVg0MXRGbXhlbHJVNTB6eTJX?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "90ac0e418de97c",
+      "title": "Calling All Professional Beauty Brands: Readers' Choice Awards",
+      "titleOriginal": "Calling All Professional Beauty Brands: Readers' Choice Awards",
+      "summary": "Calling All Professional Beauty Brands: Readers' Choice Awards",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T15:25:01+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWY5TEk5X2JSdHp3V3AzMEVzZ19nMldhcTdmWC1kb2cxUkw1YVhQVV81Y09oNm5odGJ6aDdudjFBZ1dNUmc5ZFd0UmhWX1MtbG52ZTZrS3VBRTNZcWthMGR3a1p6ZjliR2RuaTFTNV8tMzYtRFdrWXJVZEliSXliTXp4UHUxelpVMlg2YXFPamE5NFdoUmhzNjNvN2d3cVdPYmJPQS1OZlBGVjRqREQ4azhwOHJsNXBnbHRqaFlUZzktc2JqNlBFS2Z0RQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "1d3e99e02c6a2d",
+      "title": "Estée Lauder puts former Galeries Lafayette exec in charge of two luxury fragrance houses",
+      "titleOriginal": "Estée Lauder puts former Galeries Lafayette exec in charge of two luxury fragrance houses",
+      "summary": "Estée Lauder puts former Galeries Lafayette exec in charge of two luxury fragrance houses",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T14:19:57+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTNDNGRMRVFReEJ6UFA5Mkk1TXhBOHhzLVBjTmZOdnE5Wmk4NkRNLXpFQ2hROWp0LWNXTWFxbW5MOC0tYUl3LTFvRUh3cS1YYlhLY1VySTNTcG12WUNkOXl1VzQyM0tnUURXNnNzNTlLWVI2d00xMnFhWjdJdGlhUlpSbHJWTG52OFBDX0FqU0hJeEZFRDRzbzdpNU5LQmNKLTJCdXZpTm9LY04wX1dmVy1kelNaeGhy?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c2657e504e1dd2",
+      "title": "Cherry or tabasco? Perfumers test weight-loss drug users' appetite for food-inspired scents",
+      "titleOriginal": "Cherry or tabasco? Perfumers test weight-loss drug users' appetite for food-inspired scents",
+      "summary": "Cherry or tabasco? Perfumers test weight-loss drug users' appetite for food-inspired scents",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Reuters",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T14:13:21+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbnpyZUxyMk1YNWg3QmZscE1xc3A0Z3V3OXFRajhLUmF6NFV6UjU0UzFvMFhtRXRlMEt2MGZpcjFBWGYzX1ZLLXpGb1QxWVM3Vl83ekRJTGY2VnpXNXhQeG9CVGxfQk45MVpaTVRGTVM4NkNXemx3VlJYMDZ2b2JROFN0WFJFdDBTVU5TZ0tWa2VhTzJjS0tJN1k4ZGRvODV2c0pKU3pZZ29jRWJDeGFFSzVsMFpCd0czcU1BclVrTk1rRWp6Y0J5bmRFejJ6WlozMzl4dHdn?oc=5",
+      "companies": [],
+      "tags": [
+        "Reuters",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "119ce76267e38d",
+      "title": "Beauty, Science and the Boardroom: Making the Connection Count",
+      "titleOriginal": "Beauty, Science and the Boardroom: Making the Connection Count",
+      "summary": "Beauty, Science and the Boardroom: Making the Connection Count",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T12:58:38+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejJNc0ZDOHh3NTJDdUV5NFA0WUk0dFo5bXIzdGFiOHJ1cUVuNmJhUlJpSkg5R1pLUHQyR1V3TjdRc2s1SDJxMlAzZk93X1pha05RbldFMkplZVk0dnQtWHFvQngtcmg4Qk5OU19pb25lNm9IeWNyS09TdV9hSEw1dTFpYlVvN3cteTFhVnptTjRjOU8tYTlYR0xKNGtzdlR2d0pIbmxpMmgweGZlTXd0RWtzN1EzN1FHNXc?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "26b4f086811667",
+      "title": "Marshique Launches at Ulta Beauty",
+      "titleOriginal": "Marshique Launches at Ulta Beauty",
+      "summary": "Marshique Launches at Ulta Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T12:28:16+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaXlyaEtqWFJPbHJtWV9LcnhLVk5yVXJMWFVPV3hUMzJ0Z2RCUHl2UUZzcWFWb3BWdnhtTUlQQktaTUdyeGdadjd1cEV3NlRIRE9vWmRZbDcxVUF5TUdPX2o4dG1nU1h1WGZiWTV0UGdrcnhQMlp1c05VcVFSRDJXOUJxMjI0ZmM?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "db42849c37d3a1",
+      "title": "Weekly Recap: Dr. Squatch Settlement, New at Ulta & More",
+      "titleOriginal": "Weekly Recap: Dr. Squatch Settlement, New at Ulta & More",
+      "summary": "Weekly Recap: Dr. Squatch Settlement, New at Ulta & More",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T12:10:44+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemZoUmhHcUNDRm1zZ2xBaUh1T2FRSWtBM2xMeDVZY0JVcGxvR3RxUDdLNnBTY284TkFhamhsZUpBWEJuTVFVVlpHUXpxQWUxcXpJSnZ0VC04a0hOVEdsMVVoWk9kdzNPVDI0YTBtb2dZNnRDbW1JNlAxd2EtNkJ5dzF6ZTZfS2h5aHUwb3FvUDhYaHBMcWhfSkRsOVh2M1E?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "db100ddd3fde2b",
+      "title": "Shiseido Wins Silver and Bronze at PENTAWARDS 2026 Global Packaging Design Competition",
+      "titleOriginal": "Shiseido Wins Silver and Bronze at PENTAWARDS 2026 Global Packaging Design Competition",
+      "summary": "Shiseido Wins Silver and Bronze at PENTAWARDS 2026 Global Packaging Design Competition",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Shiseido",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T06:05:11+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKZ3AtWHRsTUh1Z3RLR04tWnNzeXNMRG94RC1xZzBlS3R4Z1JRWWVBamlEbFZuTFB4cVI3NDRiekxLaEw3OTl2elVwYTdNU215VjdVSXpLYkxOZ3BsbmhxQlN3U0VITDNJeVp6U2prbw?oc=5",
+      "companies": [],
+      "tags": [
+        "Shiseido",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "62a59d0c1bb85e",
+      "title": "知名化妆师退出同名美妆品牌",
+      "titleOriginal": "知名化妆师退出同名美妆品牌",
+      "summary": "知名化妆师退出同名美妆品牌",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T02:02:55+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZUjBFWXcxaTRjckF6WHNZMU1WdGZIOGM0S3VyV0ptSlV5Wm1JV2ZNTE9qQXdEbFJLX3NqTFZRc2xoeDQ0dkZhWnB3eE5HYlNFNkFKWg?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "141769391e5c01",
+      "title": "Standout Beauty Looks on the 2026 Victoria’s Secret Fashion Show Runway",
+      "titleOriginal": "Standout Beauty Looks on the 2026 Victoria’s Secret Fashion Show Runway",
+      "summary": "Standout Beauty Looks on the 2026 Victoria’s Secret Fashion Show Runway",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T01:33:29+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGpURTVTbnhEWlZBZmdHWmR4OG1mVkpvZ01tQVF2azhadzZwcGRKWmtTN25mZGFDY21hSmFycU5jVi1KQkJ5dC1YQ0tWRGFHaFFSSnB5a3VPbldlNloxcnluLVVTYUxWcHNXNXRXdWhLVmQ4SmZLdE5UbTlDc3VTcmJXUFdKQXBfak5XZ25WdV9DNnhWbVEtcDcwLV96c2VaZlRNdmxuMTVCb2c?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b8eed2a323f670",
+      "title": "CEW’s New Blueprint: Strategies Reshaping the Beauty Landscape",
+      "titleOriginal": "CEW’s New Blueprint: Strategies Reshaping the Beauty Landscape",
+      "summary": "CEW’s New Blueprint: Strategies Reshaping the Beauty Landscape",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T16:04:50+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0swZXM4QXM3Q3lob2Ffa2RvWnRZTXlhYnZjZjJERmlkUnVmWFpSYWs2MFRxWUJsTHVUUUlBekFtSzlEZlNJNmVTeno2RU13ZDBvTjd3V3o0TU9fMjdJemp1aWZ0OHFJQWVFNGZyMWRkdC1VQ3pGbkZIaTYzbk1fSUFnNlU3ZTk0NU9TWEp3X0RlMDdndm45OGhNa3hrRGpUc3IwVVotYw?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "cb469d8d697037",
+      "title": "in-cosmetics Asia 2026 puts fragrance innovation in the spotlight",
+      "titleOriginal": "in-cosmetics Asia 2026 puts fragrance innovation in the spotlight",
+      "summary": "in-cosmetics Asia 2026 puts fragrance innovation in the spotlight",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xRVZuV1R6QUNZTHlFSXRWQl9Id3lKanhuNV82anlVRHdOUW1BWWpyay1renVRTGtpX25RUzZncnNqdmRaa3I5cEZZMktnRWJQMS02R2JhTXcyWUZUQWJLamQ0MTFoYmpacGU3TXBIY2hJdmFSTkZHX1p3?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "6720a053511bc7",
       "title": "How Bliss Is Reinventing Its Skincare Business Through Amazon, DTC, and Bliss Pro",
@@ -96,491 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "82bcadd289dbcc",
-      "title": "The Estée Lauder Companies, Nykaa & Startup India Announce Finalists for BEAUTY&YOU India 2026",
-      "titleOriginal": "The Estée Lauder Companies, Nykaa & Startup India Announce Finalists for BEAUTY&YOU India 2026",
-      "summary": "The Estée Lauder Companies, Nykaa & Startup India Announce Finalists for BEAUTY&YOU India 2026",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDBxWTdPc1owdE5TeVlhRmZOVEdKeGdkY2U2U2pYRjZBQU41YjN0V0VGT2QxZzlSNWkycGJNOTE4NkhhTjNXOXEzSFo3bG1hMW52Umw5UWI2Q2tJQS1OTlJDTlpod0Y2ZDhVcjN5M0t2NEQ1WVlCbTlQcnZtTFZtWUVJTGNQb3dYZVJJcndn?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "c887f2fb351111",
-      "title": "The Estée Lauder Companies Announces BEAUTY&YOU India 2026 Winners and Marks Five Years of Advancing Indian Beauty Entrepreneurship",
-      "titleOriginal": "The Estée Lauder Companies Announces BEAUTY&YOU India 2026 Winners and Marks Five Years of Advancing Indian Beauty Entrepreneurship",
-      "summary": "The Estée Lauder Companies Announces BEAUTY&YOU India 2026 Winners and Marks Five Years of Advancing Indian Beauty Entrepreneurship",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T16:02:34+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2k0X0VWY29pdGdoVG02d2ViNGUxcXE0OW9mNEcwdm1wc3kteDA4SHZ6czNaYkE4dTR0TEk2aW1taEU1VVZ2NTIxXzl3SU1vR1ZqZmN1ZVhUVjlGN2w1R1M4eVZRaWN3QWJuMll3REpOSXlqYTRDMXZwRjNKeEY0TzRtbk1Nb21iZGFDLTZyQllkcXlVWGt3eTNUNA?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "0e5cd75f1a28e6",
-      "title": "Keyholder-The Cosmetics Company Store- PT- Outlets at Castle Rock- Castle Rock, CO",
-      "titleOriginal": "Keyholder-The Cosmetics Company Store- PT- Outlets at Castle Rock- Castle Rock, CO",
-      "summary": "Keyholder-The Cosmetics Company Store- PT- Outlets at Castle Rock- Castle Rock, CO",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-08T03:29:15+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTkVjenJhb3lUTHRudjdVQWZsQ1ZpNUJ4dkNZZER6dHNyOWttSlAyTmVYeENObVNyMHFWQmhZVHVnZzg4N0NDbFRIa0FyNE9CZzlBRnZUemFjU003M18wbHV2WllZa2ZIWjJFOE9vdXduZEg0ZlFNMGtfUU1fX1BGcGFabzdYU3BkcU5IclQwWU1FWXBRVjNGY1FnWXhwOHUwb0V2d3g1cTJJaVRnMWFfUWphOFM3aXdjM2xUX0hUU1l2T2pRS05laWEyWlZTS3NUbC1UUU9PSUtWQW0wajdYR3RVak8xc1JFMkswZlpUSW15R043dDZQMjVjVU53ZGhGUWJGbTZhUmg2NXFBSUs0RDNSYU96aDUxZDlz?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "a33a92f64dd7da",
-      "title": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
-      "titleOriginal": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
-      "summary": "The Interview: Sephora’s VP of Marketing Europe on SEPHORiA London, emerging beauty brands and M&S partnership",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T19:11:31+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlBVNjNabUZXUWdIWW5sc1FaS3ZTR1BZSDZnWXlscG90akRHZVBTMUN5NVYzXy1YX2ZnYXh5dUFDQm5xczh4RDRPR0xScXVOT0FORWdqN3N6QlFZNVZnRXdxYUxoSDhOOFZQdkgyMjFUTHBfQnVueDQzZnEtNF9rRXNOTmhHNzIyTGFkZWhJeWl6eS1NRjVQRHRxZHk5eEdDeXdscVhlV1BaWGhsSnA4MXJoazZDN055cHNsZ1BqUERnN3dXUVVkWTV1N2JmOUE?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "7c95edb8c853e5",
-      "title": "Why brands are turning your favorite beauty products into fashion accessories",
-      "titleOriginal": "Why brands are turning your favorite beauty products into fashion accessories",
-      "summary": "Why brands are turning your favorite beauty products into fashion accessories",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Glossy",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T18:02:53+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWM1bGt1b1RPQ0kyNlpvTjAwYVZielpyM1RTU082dlBoOGUzdkZwenpzQWxQVVRXM3JmQmdjd2NzdFByejVDaG53MlBQVkZtdTlpNXU1NW1EaDZ3ZDQxbkdLZ3R3aTVPM29vVmthVWgyNWxyYjdkNzhoaEZIYWVTdWhJUXZ3N3Rkd0VJMnM1azdnQzRTVWxFLWVvejNhS1ZDejRQY3RkQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Glossy",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "a01f21609f0bb7",
-      "title": "BeautyPro Acquires Supercover",
-      "titleOriginal": "BeautyPro Acquires Supercover",
-      "summary": "BeautyPro Acquires Supercover",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T17:17:25+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfRjBKY3RvTE9qVTlfUllwUHdoUnFEY2tCNlhIMGFDb0hqWTVxeEZZc2Z1Z1RkbG5VSTR0d2dYUnhFR2N1VEIxYzZTTk52UE1KUEh3WldNcE9TYk42cVVoN1dqNldKNTZCWDk4OC1HZ0Y?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "e825a706984a7f",
-      "title": "Perfume clubs: Forget virtual, fragrance brands take it IRL",
-      "titleOriginal": "Perfume clubs: Forget virtual, fragrance brands take it IRL",
-      "summary": "Perfume clubs: Forget virtual, fragrance brands take it IRL",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T16:13:11+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XaGp6UnByTC1CeXNZMjlObEl5OThmVnpsbmJGU1JmZU5SM002SVo3cG04ekRnQlJiZENBOVRYRDFTTjRrZW5vZ1A1dk16ZVhYRFRrMjhCZjhPRWRoYlg2WXJVRUdkU08tb1lSVXlsU040WjJLR3hwOFpNTQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "a972871e8dc968",
-      "title": "鲁商福瑞达医药股份有限公司关于聘任公司高级管理人员的公告",
-      "titleOriginal": "鲁商福瑞达医药股份有限公司关于聘任公司高级管理人员的公告",
-      "summary": "鲁商福瑞达医药股份有限公司关于聘任公司高级管理人员的公告",
-      "why": "福瑞达（600223）的法定公告，属于可直接核验的一手披露。",
-      "analysis": {
-        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
-        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
-      },
-      "category": "brands",
-      "source": "巨潮资讯（法定公告）",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T16:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607974.PDF",
-      "companies": [
-        "福瑞达"
-      ],
-      "tags": [
-        "福瑞达",
-        "600223",
-        "上市公司公告",
-        "官方信源"
-      ],
-      "baseScore": 88,
-      "priorityDisclosure": true,
-      "signals": {
-        "impact": 10,
-        "magnitude": 9,
-        "china": 10,
-        "novelty": 8,
-        "actionability": 10
-      }
-    },
-    {
-      "id": "ef2e179c97760b",
-      "title": "Glasshouse Fragrances Debuts Its 20026 Holiday Collection",
-      "titleOriginal": "Glasshouse Fragrances Debuts Its 20026 Holiday Collection",
-      "summary": "Glasshouse Fragrances Debuts Its 20026 Holiday Collection",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T12:54:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzFzLVRSZExKcTFaczRScUZRU3FzeE9UODR6T29jb1NIZ2JUemVMdFUwbGVPRy1zazlJYmFiT2VOZ1pXR3ZVZUhtS1lLYVgxWmJQRmFPZXNTQlJzOC1COFRwZzByOHY2QVJWbWFVbHl0RDVmUUNQelY0ZS1OMF84R2NOR3EzN1libjVFYTJLT0QxeW9ENWNJbkZEQURCcXJLSFpXSTVTVQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "f2365863d559d2",
-      "title": "Brand Platform Executive (Temporary/Contract-Based) at L'Oreal",
-      "titleOriginal": "Brand Platform Executive (Temporary/Contract-Based) at L'Oreal",
-      "summary": "Brand Platform Executive (Temporary/Contract-Based) at L'Oreal",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T08:12:39+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONG42ZWt1aXBWTUp4V0xHTG9mWGpzcUotQTVHWnBlaWdpLXRrVVE3WDliemcybnpkelZBZlNHUFd5bE9BbmdtTnFWdWdtMlZfU0x4WEJuVHpfdWktbi1PR0VCdXFJSlQ1MklUTDl0clEtSExEWWZTN0FzNGY1bmliQUcxTkNhbHh6MDZiQ0dnaW13dU43dEVOZ2hkV0wtM3BRUTZBc3VEYlhVdG4w?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "e8fbd22fcb5c14",
-      "title": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance",
-      "titleOriginal": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance",
-      "summary": "Coty Launches Global Fragrance Club, A New Community for The Voices Shaping The Future of Fragrance",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Coty",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T07:53:18+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pTWxseGt2QVc2QXBmaS1ZajRHXy05ckNUbk1iS1RlZTR2MEExQU9fSjRpLWlfUjdOcTlhbjhBOFJkdVlUa0xzdVdZMWdMSmpiQ0ZJNXNDQjc5WFRxLWdXbGhmV21jY2d5cjcwTUh3?oc=5",
-      "companies": [],
-      "tags": [
-        "Coty",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "00483daf43a4ae",
-      "title": "Dolce & Gabbana Beauty unit sees double-digit growth in 2026",
-      "titleOriginal": "Dolce & Gabbana Beauty unit sees double-digit growth in 2026",
-      "summary": "Dolce & Gabbana Beauty unit sees double-digit growth in 2026",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "regulation",
-      "source": "Reuters",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T06:13:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGRhc1J0b3dNZ2ZrZGV2QjBCTllmTTNpd01iY2hqLWtDWjV5NmNWTEUzc212MElncFZuSmE1RkZGMGRmRmZsbVVTQWFramhUSDRxSUY0NWRzS2JRUzVvT3AzRjJpb3dHVG5MVWM4M0c1SmNFTW44V3E5NURJNlhhY19HOWM2QnFoWnlLNVVVSENFRnRuclNmeE11S1lVMkVmZy1Sd1hKTXNMc0syOFNJc01jT1RQUkk?oc=5",
-      "companies": [],
-      "tags": [
-        "Reuters",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "f2420e7a24339c",
-      "title": "Mane to invest EUR 45 million in new Fragrance Design Centre in France",
-      "titleOriginal": "Mane to invest EUR 45 million in new Fragrance Design Centre in France",
-      "summary": "Mane to invest EUR 45 million in new Fragrance Design Centre in France",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T05:54:55+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0VoQUIzYWxZY3E4UzNlMGJROGZkbVptSDd6Z0d2d0ZlN2ZzMUdmdC1VOXhaQVhkM1lfZ1hVWGhuOXJrLS1ManlucG5GR0ctenRyeFRBMkRSSEk0dGltNHVwWVdIUjVoWkQtdXhFRzhTeVBRQ2lvMlpRRkdXQ2xmZg?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "05f6480b3b5f57",
-      "title": "Bluemercury Relaunches Lune+Aster as Part of Luxury Beauty Retail Strategy",
-      "titleOriginal": "Bluemercury Relaunches Lune+Aster as Part of Luxury Beauty Retail Strategy",
-      "summary": "Bluemercury Relaunches Lune+Aster as Part of Luxury Beauty Retail Strategy",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T05:04:12+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTlGZnZfM1ZDZ2Z6UDRXRzFRYTZRaVJuMlplTWQ1djdvS1U5NzFsS2FXQ19kWnFGYnNOczFxby10YldOTTR1SHdwS18zRmcwM1g3U3ktVU1yRGNycVRRbDI0Q0htN0FLMkZyQUwzcFVHNWlRZFU4MlFxalk1a0pZbDhkaHl2aDRWd2MwOXlhbGFkaEZROXFJQWs5ZUxTelg5SmkyU3I5ano1ZTROOERZ?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "aa5153182fe949",
-      "title": "Former Estée Lauder Executive John Demsey Departs Gap Inc. Amid Beauty Expansion",
-      "titleOriginal": "Former Estée Lauder Executive John Demsey Departs Gap Inc. Amid Beauty Expansion",
-      "summary": "Former Estée Lauder Executive John Demsey Departs Gap Inc. Amid Beauty Expansion",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T05:00:59+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGZLNjYwUkZRS3ZYS25LRUNRdnh0NGN0ZWRENlY0TnF4MmNvWnVZd0wzNEtZcXc1aDZRMFFWVlBDSzB2WklPOC15eFd4dlpDTUp6clV2dmtYb1hncE9MV3V1VWMzdjlsSlBJQ01rYjBPSzQ4S0kxazVBTzN1UG9aWlZLVk9ZamFudlVRdEoycGZrNzdSRFV5OXFONGtuSU5seU41c01pZkxsS1ZxTnZYUnVXYW5TMG8?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
