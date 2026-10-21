@@ -1,7 +1,39 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T02:04:17.512326+00:00",
+  "generatedAt": "2026-10-21T04:57:30.222974+00:00",
   "items": [
+    {
+      "id": "cf5547a3e325d7",
+      "title": "Beauty Retail Expansion 2026: New Brand Launches at Ulta Beauty, Sephora, Target, and SpaceNK",
+      "titleOriginal": "Beauty Retail Expansion 2026: New Brand Launches at Ulta Beauty, Sephora, Target, and SpaceNK",
+      "summary": "Beauty Retail Expansion 2026: New Brand Launches at Ulta Beauty, Sephora, Target, and SpaceNK",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T03:33:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMm1nWEwySnRXSUU5dVJ3b1dZSDJuZndCd2NUX2N2ZUdwY0xVbGxlSEM3cm1WbWN0YUwtNUVvZHR5bHVFVGdwN1o4LVdPazhDVm1sbV9TY2pTMFN6djJkeFV2SnkzR19BMmJ1ZmZFSnRySFJqNDZkbmtEQm05MmZwWFZpZVZ3SVk?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
     {
       "id": "ed5b264495f614",
       "title": "EXCLUSIVE: L’Artisan Parfumeur Creates the First Fragrance Talent Show, ‘Le Nez’",
@@ -227,6 +259,38 @@
       }
     },
     {
+      "id": "3c90f1678b4c46",
+      "title": "婷美小屋AI定制护肤落地：从单次检测到长期追踪全链路升级",
+      "titleOriginal": "婷美小屋AI定制护肤落地：从单次检测到长期追踪全链路升级",
+      "summary": "婷美小屋AI定制护肤落地：从单次检测到长期追踪全链路升级",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T12:12:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZmF0NFh2Q0VhdF9jMzdkME9FVk9URTc2VVRaZkNxNWtfNTRtTzF5a3J5ZUE0OS0weWhpaWNROS1Vd1ladXlWTmtHdThDQnlLVTBF?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "e9e1326e7acfde",
       "title": "Beauty M&A has outperformed the broader consumer market in 2026",
       "titleOriginal": "Beauty M&A has outperformed the broader consumer market in 2026",
@@ -389,6 +453,38 @@
       }
     },
     {
+      "id": "f2c8cf387fb3b2",
+      "title": "Jump Accelerator: Q3 2026 Ulta + Sephora Hair Care",
+      "titleOriginal": "Jump Accelerator: Q3 2026 Ulta + Sephora Hair Care",
+      "summary": "Jump Accelerator: Q3 2026 Ulta + Sephora Hair Care",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "CEW",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T04:32:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMFp2TWtEZUZlNGMtM2FmTFhvY0hobGowSXgtRkFwczJMQVNKXzZOeC1WVlR5blE5MkZkaFJsZlVZeVBIWjNPQ3c0QU9idTVLMF83NXQyUFZKcWpfb1RSaDdXTlczQWVTMXhhYjlQY2t0bkctNGVQNzh6SWt3aDRQSVM4d1Jla0pIQ2lR?oc=5",
+      "companies": [],
+      "tags": [
+        "CEW",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
       "id": "6b833f7f8b86d5",
       "title": "Are Extraits de Parfum the New Growth Engine for Fragrances?",
       "titleOriginal": "Are Extraits de Parfum the New Growth Engine for Fragrances?",
@@ -485,6 +581,102 @@
       }
     },
     {
+      "id": "6e75a721e56e8b",
+      "title": "Beautyworld Middle East stands out as a global fragrance hub amid Gulf tensions",
+      "titleOriginal": "Beautyworld Middle East stands out as a global fragrance hub amid Gulf tensions",
+      "summary": "Beautyworld Middle East stands out as a global fragrance hub amid Gulf tensions",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T21:01:32+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaW1BOG1QdXlXcGdfMldnN2VIUVdudWVta0o4bEVsR2lYV0NfZFVETEpRNW8tdUdfSE90eXhkbVR2Mi0wYUtidndHLUprSUFZdTdZaWN0VGhMWHV3dmUyLVhtVGItdHpnMi1YU0tleldFcjdMMEZEQXctQlF5N3B3ZjZGMA?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e20d82d36074dd",
+      "title": "L' Campus Ambassadors PT 2026/2027 at L'Oreal",
+      "titleOriginal": "L' Campus Ambassadors PT 2026/2027 at L'Oreal",
+      "summary": "L' Campus Ambassadors PT 2026/2027 at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T20:34:19+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkhwZUkxb3dZOEVPd1pPd19mUi15bE1ESjY4ZG90UDBScWxaNnAzX2NvOGJmUHhfcF8yYUdVbzZ6dkJhdVpldVNYRlFLaktJY0pHMXRJTEM2TVpTT2V1cTdiRG9KRmZYT0VqZ0pLUHE0bjFFSHdCVmhrQXo5SWg2ZkJ1Z01UOUVHR3VRNmd3Z3gtT1V2SFE?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "ea353389fe8222",
+      "title": "The Estée Lauder Companies Appoints Krista Lee Berger Senior Vice President, Global Marketing, Clinique",
+      "titleOriginal": "The Estée Lauder Companies Appoints Krista Lee Berger Senior Vice President, Global Marketing, Clinique",
+      "summary": "The Estée Lauder Companies Appoints Krista Lee Berger Senior Vice President, Global Marketing, Clinique",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T19:12:27+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWREcTBnWjI4MHBScEF3TFVFdnFUNllkNDNkSFE5MDlxNDFMVnJHYTlqYWRocXFBX0VqdWkweTF2allYVWhnS1FuNklUeXFtV2lSZ2Y4SFdUSkhSMmZGaTQ5V3k0eXl4RHlNbEhjNFJRSS1GX01Pajd5a1JOX3FpRDcwbEd0T192NVpucDlCcVo2WlM5cURuZHEzMA?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
       "id": "2f68262724f878",
       "title": "Best Beauty on the 2026 Victoria's Secret Fashion Show Runway",
       "titleOriginal": "Best Beauty on the 2026 Victoria's Secret Fashion Show Runway",
@@ -517,10 +709,10 @@
       }
     },
     {
-      "id": "1f279443f6c4fc",
-      "title": "Finance Management Trainee, Dermatological Beauty at L'Oreal",
-      "titleOriginal": "Finance Management Trainee, Dermatological Beauty at L'Oreal",
-      "summary": "Finance Management Trainee, Dermatological Beauty at L'Oreal",
+      "id": "7ef42d582b4e23",
+      "title": "Practicante Comercial at L'Oreal",
+      "titleOriginal": "Practicante Comercial at L'Oreal",
+      "summary": "Practicante Comercial at L'Oreal",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -531,9 +723,9 @@
       "sourceTier": "A",
       "verification": "official",
       "sourceCount": 1,
-      "publishedAt": "2026-10-12T07:00:00+00:00",
+      "publishedAt": "2026-10-12T21:53:29+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcG1GbXlrODNoUWZnVEZqSmNrZ2FBcHZjTTYtbUllaW5QWTE2Z1BERUlkeWU0UnBDR3BCRDZMOVRKdDliUkdpZDFxSEhEU0pDV2p1SzV3enRjR2pnbjNfcXlLcEd1NWl4LXhEZVdyN1hBc1pPa21vbDMzOXNlV04yVE9hQXVDMHBEUWNaQkVibnRwcURzRkw5NFEtMmpsNXJ2TGwwVi1hYk1qQTlv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWl85T2VBSVVZREdmaVhvMG5QVHFackNEZmEyV3QyeGI3TllWQzdwUHN6TXlqbmZhdzV3eTBnTEd2WkJ4RDg1aWk5N3lCMXg0Nlc5ZDJfTnN5ckJDNlpzM25qNlVOeS1ueDRWVHhfaVU1cW5aMkRWUDZQNEdjdWdyNW5DVQ?oc=5",
       "companies": [],
       "tags": [
         "L'Oréal Group",
@@ -546,38 +738,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "f492c72e1edf70",
-      "title": "Sephora Closes French Stores as Riots Damage 1,500 Retail Businesses",
-      "titleOriginal": "Sephora Closes French Stores as Riots Damage 1,500 Retail Businesses",
-      "summary": "Sephora Closes French Stores as Riots Damage 1,500 Retail Businesses",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T05:00:55+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjBzbzNDZXU1bldGRkFaOFRPNGhrYmhORXhlUTRPMmYtT2VzeTdnLW9tWHpvOHFkUGJ4cUpxZGUxdnFIU1BTbVNGTDhFU1dHZVRFdkdzMUVOS1BqSno1UGlIS3NTMktFR19oN2ZyN0ZmeFZhOTJyN2JraUtVNnc2Z0ZISi1VRExQbEVyUTdiUXhHOHV4akYwZVNhd0R2eEJWaXFTejhRNA?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
