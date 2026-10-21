@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T04:57:30.222974+00:00",
+  "generatedAt": "2026-10-21T05:18:27.464403+00:00",
   "items": [
     {
       "id": "cf5547a3e325d7",
@@ -195,10 +195,10 @@
       }
     },
     {
-      "id": "816c069e6c6d8e",
-      "title": "ELC Names Krista Lee Berger SVP of Global Marketing for Clinique",
-      "titleOriginal": "ELC Names Krista Lee Berger SVP of Global Marketing for Clinique",
-      "summary": "ELC Names Krista Lee Berger SVP of Global Marketing for Clinique",
+      "id": "da97eae75a06e5",
+      "title": "Beauty Is Entering the Age of Expressed Intent",
+      "titleOriginal": "Beauty Is Entering the Age of Expressed Intent",
+      "summary": "Beauty Is Entering the Age of Expressed Intent",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -209,9 +209,9 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-20T12:34:00+00:00",
+      "publishedAt": "2026-10-20T12:30:00+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2U5ME8tQklJR25mTXhEanJBNkJfUjc0VndPc2Vkdlhlbl9LN0doMHdHcDRENG1hOGZtN05MUTFfZnZjYnFFVFhJMDRiZXpzbTZCOFVRRENqVjBRb3JNZExiUG9vSzZMOEZxSlJnbkFWU1ZIZll1M2xiQUVHa3k2TlB6cEp0VVFKMHluNkNzcU11b2pEWld1WmxCT1VUMlNkT1UybFN1OVhGOXdHOGJlRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUllLMF9Lbjhpbjg0SkVVelhEaGlrOTVBcnRlcEllZ2U4ay1iSFM3ZEpmTmRVM2h5ejRIMEEzMjYtTzVhanoxUXBMTU1WMUhZRmRPd1g5U3RFblFyZlJfVXBscnBXbnk2Rzd0bXBFamdxanE4dkxvcUtRYy1LaW5fOWxxRVh0NDA2NGM0NTQ1OUVlczJG?oc=5",
       "companies": [],
       "tags": [
         "Beauty Packaging",
@@ -323,37 +323,67 @@
       }
     },
     {
-      "id": "ea7528d2a2798d",
-      "title": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
-      "titleOriginal": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
-      "summary": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
+      "id": "e09f27b1a458ca",
+      "title": "Skincare Packaging That Works Harder",
+      "titleOriginal": "Skincare Packaging That Works Harder",
+      "summary": "Skincare Packaging That Works Harder",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "brands",
-      "source": "e.l.f. Beauty IR",
-      "sourceTier": "A",
-      "verification": "official",
+      "category": "supply-chain",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-20T10:37:02+00:00",
+      "publishedAt": "2026-10-20T11:11:00+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3k1RnFneno1d2p0Q19rSGtkb0l3NHBhYzg0a0JLZ1F2SDl0R1NwZXQ5VDRRNFNEUTA3S1oxM3NQbjZCQXNTT19lTHdKcTl5WnFrYmVkdS1rQnlQcWstNldCcWN4VVlLbkpsNnpCOU51TXBoZXBwS0Y1SHFENnAyUjlTaFBHbEdaRDBiZ0FGZWwwUWlMdlpjb0g1VlVpN24wWWFRSmJKRQ?oc=5",
-      "companies": [
-        "e.l.f. Beauty"
-      ],
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LQWhyRjBvY2tvc0ZBX0VkZDFwYkZCTlh0bUt4ZHdjSTB2Y05OdmN6SnhKZFVYel9kel9WTU5WdThKM0RqVTBEQWtxSVZBQXNpcEwwYUdWcE1WMC1mdkdBRmJZdFJrMHpXMHdtMUdzVDRGbDM0NlpzNA?oc=5",
+      "companies": [],
       "tags": [
-        "e.l.f. Beauty IR",
-        "官方信源"
+        "Beauty Packaging",
+        "自动采集"
       ],
       "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
         "china": 3,
-        "novelty": 8,
-        "actionability": 6
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "25b5c71e35d239",
+      "title": "Mono-Material Packaging: Beauty’s Next Sustainability Shift",
+      "titleOriginal": "Mono-Material Packaging: Beauty’s Next Sustainability Shift",
+      "summary": "Mono-Material Packaging: Beauty’s Next Sustainability Shift",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T11:11:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnZnaU14MnBXWFNZNXE0NDQ0bVc5ckQ2MG5iYnJ0R3gzaUMwWWhmbWJ2bzQ3dzBXVXZnMXA2ODMzU3VRREhGdjR5MHlPQ2xkYUVVazMwYWxaTzVBcE1YWVhmemdJdVgtWV9KM2NPOTVMUTdLa2tuWHdscDk5cE5CcXpnTlU0RFJZNk03bG1WM3BkZDNX?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
@@ -569,38 +599,6 @@
       "companies": [],
       "tags": [
         "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "6e75a721e56e8b",
-      "title": "Beautyworld Middle East stands out as a global fragrance hub amid Gulf tensions",
-      "titleOriginal": "Beautyworld Middle East stands out as a global fragrance hub amid Gulf tensions",
-      "summary": "Beautyworld Middle East stands out as a global fragrance hub amid Gulf tensions",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-19T21:01:32+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaW1BOG1QdXlXcGdfMldnN2VIUVdudWVta0o4bEVsR2lYV0NfZFVETEpRNW8tdUdfSE90eXhkbVR2Mi0wYUtidndHLUprSUFZdTdZaWN0VGhMWHV3dmUyLVhtVGItdHpnMi1YU0tleldFcjdMMEZEQXctQlF5N3B3ZjZGMA?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
         "自动采集"
       ],
       "baseScore": 60,
