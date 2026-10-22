@@ -1,7 +1,73 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T01:57:55.214539+00:00",
+  "generatedAt": "2026-10-22T04:58:10.736268+00:00",
   "items": [
+    {
+      "id": "33b93aa4bf4855",
+      "title": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
+      "titleOriginal": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
+      "summary": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T04:09:52+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83US1td1ZXeHpkLVdrcGhEc3VVZjJoeFIxaWZvbzIzYkZHUmh0UW1CWVFPTUtLb1Z3ZUlBUV93UkFCQzNTcGsyS2tSNVA4elJJZU1YSlk1QVk?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "62be9fe46dd500",
+      "title": "e.l.f. Beauty Announces Earnings Release Date for Second Quarter Fiscal 2027 Results",
+      "titleOriginal": "e.l.f. Beauty Announces Earnings Release Date for Second Quarter Fiscal 2027 Results",
+      "summary": "e.l.f. Beauty Announces Earnings Release Date for Second Quarter Fiscal 2027 Results",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "e.l.f. Beauty IR",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T02:38:20+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX3pDQmh5TE1OVU9NNUFibndlVVBRa0lzanlEQThtQTE0TGZQV0M1U2k3SExBRWpIVXh6dXg2cG5vbWlqaGI2cklKTVA2TFA4Smw2YkF2YzZNTWRNZ2NnV3NnX2RQSUxSdlFVeWlTbElWN1JyTXVCLXE5aHVDVnNMc1k2OHdGQ1ZqUnRrbTNybzdBNXNmTGFPanp4VjlwTDlodDRST3VPYw?oc=5",
+      "companies": [
+        "e.l.f. Beauty"
+      ],
+      "tags": [
+        "e.l.f. Beauty IR",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "cdf4958240820a",
       "title": "全球顶级奢侈集团抛售美妆代工厂",
@@ -136,6 +202,38 @@
       }
     },
     {
+      "id": "c11b64ed1ab95d",
+      "title": "Balancing product protection, premium appeal and recyclability in skincare packaging",
+      "titleOriginal": "Balancing product protection, premium appeal and recyclability in skincare packaging",
+      "summary": "Balancing product protection, premium appeal and recyclability in skincare packaging",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T13:25:49+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1ZULWVucGF6R0lvWE1wcW05RXAyVDBrNWEyM1JVbDU5dmxvbFlQbS16VnpKekd6bVBZNEtxdy1vVnZHM3FxS0ZudWlKQV9YS3EtMVdYdm9CQmwtdWJkZlFvcDdHbW9vbGJFUE5lUk1MN3RlRTBleG91NUNYU3k5QUR0eFlnbUN6UnNnYjZwVl9MMXZ4R2NDaV9ESkU2TnM?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
       "id": "d738d75451e7cd",
       "title": "Sephora UK MD on 2027 expansion plans and the M&S store partnership: ‘Now we want proximity’",
       "titleOriginal": "Sephora UK MD on 2027 expansion plans and the M&S store partnership: ‘Now we want proximity’",
@@ -165,38 +263,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "38b9aec8458fd7",
-      "title": "La Roche-Posay unveils first Anthelios sunscreen featuring bemotrizinol (BEMT)",
-      "titleOriginal": "La Roche-Posay unveils first Anthelios sunscreen featuring bemotrizinol (BEMT)",
-      "summary": "La Roche-Posay unveils first Anthelios sunscreen featuring bemotrizinol (BEMT)",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-21T10:48:09+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGdKQkRHSXpLOUwtdmN4WFFMaFBvRlZmU3RmMWJRcURNdjVzOVN3a1A5eWZvZnZteE44aFdfdVdwd3FweTZsR3FwQ1FLZ0hIUHhLczBwM2lVQUZVNTJtMjFUNVplSmR4akNhUDZvRDdaX0RxNEh1SmhCQmpsSi02ZXQ5em1KdVZpdE1kWkI4OWdsd25TYWJ1cXZ4MG5VR3dhbVE?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
       }
     },
     {
@@ -456,6 +522,40 @@
       }
     },
     {
+      "id": "ea7528d2a2798d",
+      "title": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
+      "titleOriginal": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
+      "summary": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "e.l.f. Beauty IR",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T10:37:02+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3k1RnFneno1d2p0Q19rSGtkb0l3NHBhYzg0a0JLZ1F2SDl0R1NwZXQ5VDRRNFNEUTA3S1oxM3NQbjZCQXNTT19lTHdKcTl5WnFrYmVkdS1rQnlQcWstNldCcWN4VVlLbkpsNnpCOU51TXBoZXBwS0Y1SHFENnAyUjlTaFBHbEdaRDBiZ0FGZWwwUWlMdlpjb0g1VlVpN24wWWFRSmJKRQ?oc=5",
+      "companies": [
+        "e.l.f. Beauty"
+      ],
+      "tags": [
+        "e.l.f. Beauty IR",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
       "id": "ba4f33a8c8662e",
       "title": "Givenchy Beauty Ambassador",
       "titleOriginal": "Givenchy Beauty Ambassador",
@@ -485,102 +585,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "cf5547a3e325d7",
-      "title": "Beauty Retail Expansion 2026: New Brand Launches at Ulta Beauty, Sephora, Target, and SpaceNK",
-      "titleOriginal": "Beauty Retail Expansion 2026: New Brand Launches at Ulta Beauty, Sephora, Target, and SpaceNK",
-      "summary": "Beauty Retail Expansion 2026: New Brand Launches at Ulta Beauty, Sephora, Target, and SpaceNK",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-21T03:33:45+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMm1nWEwySnRXSUU5dVJ3b1dZSDJuZndCd2NUX2N2ZUdwY0xVbGxlSEM3cm1WbWN0YUwtNUVvZHR5bHVFVGdwN1o4LVdPazhDVm1sbV9TY2pTMFN6djJkeFV2SnkzR19BMmJ1ZmZFSnRySFJqNDZkbmtEQm05MmZwWFZpZVZ3SVk?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "ed5b264495f614",
-      "title": "EXCLUSIVE: L’Artisan Parfumeur Creates the First Fragrance Talent Show, ‘Le Nez’",
-      "titleOriginal": "EXCLUSIVE: L’Artisan Parfumeur Creates the First Fragrance Talent Show, ‘Le Nez’",
-      "summary": "EXCLUSIVE: L’Artisan Parfumeur Creates the First Fragrance Talent Show, ‘Le Nez’",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T17:26:17+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZDBhdkZVeHZhQU5SZl9RWEhWbE8xMWZnVXluT1dLM3JuekhhblpDNW1VYVhQaHdZelY3Q1BpSU1CTlByZWhZbjM1YzBxYlh3OEpJLVZvUy15M1BqYUo0QWlwT2F4Z2RFWmE0N3oxUEw5dEpZNHhIVVYtNVFPX2s0T2JSTWJ0MUxGVHpwaGU4ZlRyVVdQUzg0UmJOUi1pQUFSYVJyNlZaMFpQUEc1UlROYXpnWQ?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "7ff206853fe37d",
-      "title": "POV Beauty Secures Series A Investment Led by Silas Capital",
-      "titleOriginal": "POV Beauty Secures Series A Investment Led by Silas Capital",
-      "summary": "POV Beauty Secures Series A Investment Led by Silas Capital",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T16:59:04+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnUwR1lsTUQzUW1jbEdkWklZVXY1V3JQRWd5T1g0MDVJZzdoS1FQN1NsYlJGUmRJQ0ZSYXdPSTRaS1FLb21PS0FLMGpzaVoyQjN6cDVlX0FSdmdwbEF5MUJybEVJSkVtNWhQZ2pEOUZGVUVkQW5NbkpXYUJncXV4Yk9BT08zdVYxemNqVm5Fcy1zWFdyV1BMWjA5THc?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
