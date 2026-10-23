@@ -1,39 +1,7 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T04:59:36.110372+00:00",
+  "generatedAt": "2026-10-23T05:21:15.046582+00:00",
   "items": [
-    {
-      "id": "f8e10f0d77e90e",
-      "title": "Innovation Exploration at In-Cosmetics Asia 2026",
-      "titleOriginal": "Innovation Exploration at In-Cosmetics Asia 2026",
-      "summary": "Innovation Exploration at In-Cosmetics Asia 2026",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T23:04:20+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRnNPMGRQc3p5Ny1tS1MwNHlFdjU2Vjk2QVJxQTNGdkdvYjhwRUxxSTVTckJiWmlaY3VGaDZ6VlJvcnR4Mkx1RWZfbzVja2diOThnNGZoczVaV092a0hxVmtoRjk0RFhSLTlIWnd4U1YxQ2hLNkVYNnhEVGljWXA1bXRSYkwtNmxicDJGRFBR?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
     {
       "id": "de010b64701af9",
       "title": "Brick by Brick: The Best Spatial Design in Beauty",
@@ -160,70 +128,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "f979f6d932725e",
-      "title": "青少年护肤",
-      "titleOriginal": "青少年护肤",
-      "summary": "青少年护肤",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T13:57:32+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmF4MHZlTnNQd09VNVo5cGR1d1VqNjlvM1B2UG9CaVNIWk1EUktDOFpHM2FGMnplMnljbU9EcGltc29RNGNJUnNtSFdILThqeGdYdV9vVUota0UwdEFYYWhaSGJHQWZ1M3FlRGtBN3BxU191NndlWDgwT2pvWktuTUk1WFlVSWhPdUhsVkdYNXFEQloxOW9ocXR3?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "197c0e847dd54c",
-      "title": "Dove Debuts Its First-Ever Fine Fragrance",
-      "titleOriginal": "Dove Debuts Its First-Ever Fine Fragrance",
-      "summary": "Dove Debuts Its First-Ever Fine Fragrance",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T13:20:09+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWR4TWZYc01UTWFOamFBRUVuODk1bGtpSFR5a0h1VTNWZmVIYWxWaDF0UFhxRlk5RXZEMTBrUkpVRlp2RkhuRGtoWUZtRWxFZktWQUhET2VGenpWRjkzTTFmSXE5ZU5seWc1dTB1UGJfTE5DX01HTElybTk5SGRaM0xwaV9lRXdvY2ViaVFjZFRhQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
       }
     },
     {
@@ -419,38 +323,6 @@
       }
     },
     {
-      "id": "649abe81aa8851",
-      "title": "Business Analyst at L'Oreal",
-      "titleOriginal": "Business Analyst at L'Oreal",
-      "summary": "Business Analyst at L'Oreal",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-21T00:43:45+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY25ybWE3MWtjYm52Qk1Pc0hvMHR1LWdzM01fRTFNcUNiNmZPQ1RXMjcyVHctYkZQakxQNkdsV3M0dVBtOUhGUXNrVTRoSXE0MjJnWlY3YV9uNmNONzc0bk1KTmNMaC1HU2cyREVsaUdHa1BOVExKdnRiVmpBemFyY3hkcTV5Zw?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "fbde0db6cd2086",
       "title": "Regarding the Future Activities of the Shiseido Running Club",
       "titleOriginal": "Regarding the Future Activities of the Shiseido Running Club",
@@ -471,6 +343,134 @@
       "companies": [],
       "tags": [
         "Shiseido",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "f8e10f0d77e90e",
+      "title": "Innovation Exploration at In-Cosmetics Asia 2026",
+      "titleOriginal": "Innovation Exploration at In-Cosmetics Asia 2026",
+      "summary": "Innovation Exploration at In-Cosmetics Asia 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T23:04:20+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRnNPMGRQc3p5Ny1tS1MwNHlFdjU2Vjk2QVJxQTNGdkdvYjhwRUxxSTVTckJiWmlaY3VGaDZ6VlJvcnR4Mkx1RWZfbzVja2diOThnNGZoczVaV092a0hxVmtoRjk0RFhSLTlIWnd4U1YxQ2hLNkVYNnhEVGljWXA1bXRSYkwtNmxicDJGRFBR?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "f979f6d932725e",
+      "title": "青少年护肤",
+      "titleOriginal": "青少年护肤",
+      "summary": "青少年护肤",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T13:57:32+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmF4MHZlTnNQd09VNVo5cGR1d1VqNjlvM1B2UG9CaVNIWk1EUktDOFpHM2FGMnplMnljbU9EcGltc29RNGNJUnNtSFdILThqeGdYdV9vVUota0UwdEFYYWhaSGJHQWZ1M3FlRGtBN3BxU191NndlWDgwT2pvWktuTUk1WFlVSWhPdUhsVkdYNXFEQloxOW9ocXR3?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "197c0e847dd54c",
+      "title": "Dove Debuts Its First-Ever Fine Fragrance",
+      "titleOriginal": "Dove Debuts Its First-Ever Fine Fragrance",
+      "summary": "Dove Debuts Its First-Ever Fine Fragrance",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T13:20:09+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWR4TWZYc01UTWFOamFBRUVuODk1bGtpSFR5a0h1VTNWZmVIYWxWaDF0UFhxRlk5RXZEMTBrUkpVRlp2RkhuRGtoWUZtRWxFZktWQUhET2VGenpWRjkzTTFmSXE5ZU5seWc1dTB1UGJfTE5DX01HTElybTk5SGRaM0xwaV9lRXdvY2ViaVFjZFRhQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "649abe81aa8851",
+      "title": "Business Analyst at L'Oreal",
+      "titleOriginal": "Business Analyst at L'Oreal",
+      "summary": "Business Analyst at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T00:43:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY25ybWE3MWtjYm52Qk1Pc0hvMHR1LWdzM01fRTFNcUNiNmZPQ1RXMjcyVHctYkZQakxQNkdsV3M0dVBtOUhGUXNrVTRoSXE0MjJnWlY3YV9uNmNONzc0bk1KTmNMaC1HU2cyREVsaUdHa1BOVExKdnRiVmpBemFyY3hkcTV5Zw?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
         "官方信源"
       ],
       "baseScore": 60,
