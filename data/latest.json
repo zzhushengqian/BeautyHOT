@@ -1,7 +1,327 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T05:21:09.940209+00:00",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T02:00:17.872854+00:00",
   "items": [
+    {
+      "id": "de010b64701af9",
+      "title": "Brick by Brick: The Best Spatial Design in Beauty",
+      "titleOriginal": "Brick by Brick: The Best Spatial Design in Beauty",
+      "summary": "Brick by Brick: The Best Spatial Design in Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T20:06:19+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05ekZQVGtPNEl0QzhJeDNvWkhZU2d0SkVBRnlyNEFBTjBBbzBTNUkwWm00anYtVEw4cG84RmlMbzRBR00ybWtFY0lwTjVPZ1hSMURyWXhWUENLVTcyQ2NtanFfQzh0VUpzUDZJUUVnYUFwYmc5bUE?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e9751a0e670830",
+      "title": "L'Oreal Q3 sales beat forecasts as consumers indulge in premium beauty",
+      "titleOriginal": "L'Oreal Q3 sales beat forecasts as consumers indulge in premium beauty",
+      "summary": "L'Oreal Q3 sales beat forecasts as consumers indulge in premium beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Reuters",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T19:27:10+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlRLSXJTajZJa0haam9Qb1UyRDJKbXVyalhKMlBwSXozWTlONFNXemZaaC1zZkpnQzdSWXVHcE1Yb194RkotaDAwSS1uWldqeE54elJCTzM0QnBFOVhpZ0NtbGNGWVlNN0RQM2ZaRGRMUmFpMTJkQWZjQk9vN2plQUhZY3ZDNS1wS1VWemNEdHlhVTVVZ2E4b3JqTThqVGlFUmFmcjdISHNBLUZhWEZzdVpOZw?oc=5",
+      "companies": [],
+      "tags": [
+        "Reuters",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "9efac308106c55",
+      "title": "Puig hits record Q3 sales on makeup and fragrance growth",
+      "titleOriginal": "Puig hits record Q3 sales on makeup and fragrance growth",
+      "summary": "Puig hits record Q3 sales on makeup and fragrance growth",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T15:27:54+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4YndBME5aOVdKZnctdTl2dW1QUy13X1NiSHh6WW4tVWV3VTFGSHE5NUlyMXRtQmJ4RlgxZUJOSEg0eTM0UV9hR0VJWVliVnpnYVRIM1N5S3JxTUdncDNIek9FVnlLbTR0VUowUlNMZWRhSVFJWFBaenI3Yw?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "f5ebbcb51870a5",
+      "title": "Puig posts record third quarter as make-up sales climb 16%",
+      "titleOriginal": "Puig posts record third quarter as make-up sales climb 16%",
+      "summary": "Puig posts record third quarter as make-up sales climb 16%",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T09:21:48+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0lFUUtmU2p4MjkweVZ1STVrSUFmYVRndXJ5YmdWYW4tWXBQb2VUbEtLeW1Wci1rMjV1dGlIZzB6a2tlYk9NemdUNEFPWDJjU09rX0RoZG1QVTFwb0ZsbkVxSWRRSUVCdDF5Z1VkcUd4R0huV1gzRUM4MFBlSVpwaTlidDdkMEZQQUZ0ZmFB?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "edaf80f3d9d15b",
+      "title": "Cymbiotika sold 200 million liposomal sachets. Now it's taking on the beauty supplement market",
+      "titleOriginal": "Cymbiotika sold 200 million liposomal sachets. Now it's taking on the beauty supplement market",
+      "summary": "Cymbiotika sold 200 million liposomal sachets. Now it's taking on the beauty supplement market",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T08:48:36+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNanVwLTRESjNzdVlqaHpwdm00NS1wMW9hLVlHbU1vaGZCN2JMS19Veng3RVcyM0ttSkF2ZG5tOE9Zd2pmR1NHYlZtQ3pUT1JydzMwbFZkQmRKdXpYZ0JERHVKTU11UEVReTJ2Zlc5LUdZbm5EeFF6Y2NRcXllVlg1d3EtOE9pRGtxd2dqN0FvUW5GTDcwcnBjeEhobDROendxd1V1YUZyRUdnRVREeVZieWRUSlBnOGdheTlySXFPVG9Pdw?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "9685254a4a11a0",
+      "title": "Korean Fragrance Gains Global Momentum",
+      "titleOriginal": "Korean Fragrance Gains Global Momentum",
+      "summary": "Korean Fragrance Gains Global Momentum",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmEtUmVyUTlpak1SaGxqUUFPSlFkWmdPZ180aGh1SFBvNUVDZkhKVVByRG0yVDUwR0ZlTUIySWRMOWNUN2x5VE41bTBhVWVhWUxWNW1SUWdEXzRYLXIzeFR2R3ZZWUpnNlJITkdCZDNQdVRTMmFxVWRSMG5GUFc2cw?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "cbafc4a15079ae",
+      "title": "Beauty was Amazon’s Most-Purchased Category During Prime Big Deal Days 2026",
+      "titleOriginal": "Beauty was Amazon’s Most-Purchased Category During Prime Big Deal Days 2026",
+      "summary": "Beauty was Amazon’s Most-Purchased Category During Prime Big Deal Days 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFE2UFZkOS1uOUFmemxBd0FOZzctb1RGanRtc2N1RnJGUExURFBFRGF5cmc1S1BJRVNlanlUOHI5R3JKSXk0bS01b0dGNU42Q2xnS3BqMURqZ3lOZmV3UnJ3eG03cEpITmlwZ2xwQmg5YnVPMTY3QktjWlBYUHFKVXpXR1VXMXRkS0hzS1oyNjZqaHJrLUR2OFBDQ0tmYUpFQzRDcGFENjBqalJ6eUdfOQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "33b93aa4bf4855",
+      "title": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
+      "titleOriginal": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
+      "summary": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T04:11:52+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83US1td1ZXeHpkLVdrcGhEc3VVZjJoeFIxaWZvbzIzYkZHUmh0UW1CWVFPTUtLb1Z3ZUlBUV93UkFCQzNTcGsyS2tSNVA4elJJZU1YSlk1QVk?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "5e660076a931d8",
+      "title": "成立不到两年的名人美妆获亿元融资",
+      "titleOriginal": "成立不到两年的名人美妆获亿元融资",
+      "summary": "成立不到两年的名人美妆获亿元融资",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T02:13:30+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LUTJfQWlNeENhV1JfeEVxMUw3bkt0ZUs0T3FicjdxeW9NVGNZSlJ1TDBfUUFGRzBOekY1YlFrMzh6ZTF3V0hYUVhDakE2T3l0elRQTA?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "8b6ecfb67d7e9b",
+      "title": "O O Engineering lead at L'Oreal",
+      "titleOriginal": "O O Engineering lead at L'Oreal",
+      "summary": "O O Engineering lead at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T22:31:07+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlJUN0kwUXRhaUVEekgyYmFFVVZnUXN1ZWEtUjFXUGZQYTk3TVNYU05sUG9Zb0M3Y2F2ZUNwVGZzdWx4dGI0Tk03UEZjbldRZnpaczRlMnN5MURLS3hkR01sTUhzcGtOUDNubEI5RXVFeVdFb1hSeGJMb1NId2Y3S0Zpd1NRR0ZN?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "9250530b855530",
       "title": "从一瓶香水到全屋用香：双11香氛消费在发生什么改变？-36氪",
@@ -263,328 +583,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "38b9aec8458fd7",
-      "title": "La Roche-Posay unveils first Anthelios sunscreen featuring bemotrizinol (BEMT)",
-      "titleOriginal": "La Roche-Posay unveils first Anthelios sunscreen featuring bemotrizinol (BEMT)",
-      "summary": "La Roche-Posay unveils first Anthelios sunscreen featuring bemotrizinol (BEMT)",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-21T10:48:09+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGdKQkRHSXpLOUwtdmN4WFFMaFBvRlZmU3RmMWJRcURNdjVzOVN3a1A5eWZvZnZteE44aFdfdVdwd3FweTZsR3FwQ1FLZ0hIUHhLczBwM2lVQUZVNTJtMjFUNVplSmR4akNhUDZvRDdaX0RxNEh1SmhCQmpsSi02ZXQ5em1KdVZpdE1kWkI4OWdsd25TYWJ1cXZ4MG5VR3dhbVE?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "9f9191c1859467",
-      "title": "Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market",
-      "titleOriginal": "Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market",
-      "summary": "Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Reuters",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-21T06:02:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzBscFc1bVNobHJsZmJJNHE4dmlON3Viekp4ZDd1R2QwdlZaZkZJc1QyTW9aQmhnOGxmUW14NnFWbFlkSWVDbkJiRjdzdjhLODlSMmd1T2hETGxfbXRnaFo2NFE5UG5vbVNWZ21Zd0tWTDM2NExxaVI4bU5zNTlrbHM2dmhiT1ZOVkwzWVItdHlYeTFESEFSMVRla0hPUzFueUdGVl80NS1IbHJlQWhsakRqN0lsbjF3cF9TODFrMA?oc=5",
-      "companies": [],
-      "tags": [
-        "Reuters",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "19b54ea72b22f1",
-      "title": "雅诗兰黛挖来欧莱雅系香水操盘手",
-      "titleOriginal": "雅诗兰黛挖来欧莱雅系香水操盘手",
-      "summary": "雅诗兰黛挖来欧莱雅系香水操盘手",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-21T05:10:51+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uV1ZSc0I2VXp0Z0xFVXFNT09QamlQOGR3LXc1QU5lMUdSb1U5aVhRLWQzXy1kaEQyVTgzNWNzal9WcjR0bW5WSWRYem4tQ3Jaem5LYg?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "276afd1378d74b",
-      "title": "官媒央视网认证，青少年护肤为何选择袋鼠妈妈",
-      "titleOriginal": "官媒央视网认证，青少年护肤为何选择袋鼠妈妈",
-      "summary": "官媒央视网认证，青少年护肤为何选择袋鼠妈妈",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-21T02:16:38+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBobkN4aGgyWnlsN0ZsNDlLOHRrQllGb2tUaks5djU4dGVmcV9JY2w2MktxU09vRVE3SncwZ25YUnVtVHhrOFd5TzNCOWh0bXFIYVlJ?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "8581815ae02c46",
-      "title": "Cosmoprof North America Miami Launches The Fragrance Experience for 2027",
-      "titleOriginal": "Cosmoprof North America Miami Launches The Fragrance Experience for 2027",
-      "summary": "Cosmoprof North America Miami Launches The Fragrance Experience for 2027",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T20:54:30+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ndk9qQ3ZnYzhVX2xlNER2RC1UeTJ6eXA3WGJnRzh2dTBHdU1hRWhxcGRldlpRTGJwQWlQQnJQT2RLSEtjZVR0Q3RqczBpWkZsa2FTWTNxQTJJVW1reTB6X3BvdkM2bTE1LXpid1dxSEJaSEQt?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "8e932a7199bcb3",
-      "title": "淮海路再添美妆地标：WOW BEAUTY携手花知晓打造品牌全球旗舰店",
-      "titleOriginal": "淮海路再添美妆地标：WOW BEAUTY携手花知晓打造品牌全球旗舰店",
-      "summary": "淮海路再添美妆地标：WOW BEAUTY携手花知晓打造品牌全球旗舰店",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T17:30:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTQWYxRnVjOTE2aVBHRkJjUXdXWVB5MzJ3Y2ZUZ2lVTlRzbVhFX0ZGdnQxMEZvZ2tuOUg4RzhnSklRVm1EbXozSEFjNjhEZw?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "816c069e6c6d8e",
-      "title": "ELC Names Krista Lee Berger SVP of Global Marketing for Clinique",
-      "titleOriginal": "ELC Names Krista Lee Berger SVP of Global Marketing for Clinique",
-      "summary": "ELC Names Krista Lee Berger SVP of Global Marketing for Clinique",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T12:34:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2U5ME8tQklJR25mTXhEanJBNkJfUjc0VndPc2Vkdlhlbl9LN0doMHdHcDRENG1hOGZtN05MUTFfZnZjYnFFVFhJMDRiZXpzbTZCOFVRRENqVjBRb3JNZExiUG9vSzZMOEZxSlJnbkFWU1ZIZll1M2xiQUVHa3k2TlB6cEp0VVFKMHluNkNzcU11b2pEWld1WmxCT1VUMlNkT1UybFN1OVhGOXdHOGJlRQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "2801c15363e739",
-      "title": "Editor’s Letter: ‘Feel-Good’ Beauty Thrives",
-      "titleOriginal": "Editor’s Letter: ‘Feel-Good’ Beauty Thrives",
-      "summary": "Editor’s Letter: ‘Feel-Good’ Beauty Thrives",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T11:11:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Na3k3OXczN3NQeXpScU5uRjRyUUxRVUxoenc4WF96WUhvenZUcDFmMWtpX1dCbUc0TjktZy1JM2VOVFBNSXl6MFJ6MTV6N0tJdkxyY1BHWkJnSzdkZjVrRWxfUGZzTjViWGF4VGVDeUMzenN6QjkxcmhOSzA?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ea7528d2a2798d",
-      "title": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
-      "titleOriginal": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
-      "summary": "e.l.f. Cosmetics Welcomes Kuromi™ to Glow Up! for Her First-Ever Roblox Collaboration Outside Sanrio®’s Universe",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "e.l.f. Beauty IR",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T10:37:02+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3k1RnFneno1d2p0Q19rSGtkb0l3NHBhYzg0a0JLZ1F2SDl0R1NwZXQ5VDRRNFNEUTA3S1oxM3NQbjZCQXNTT19lTHdKcTl5WnFrYmVkdS1rQnlQcWstNldCcWN4VVlLbkpsNnpCOU51TXBoZXBwS0Y1SHFENnAyUjlTaFBHbEdaRDBiZ0FGZWwwUWlMdlpjb0g1VlVpN24wWWFRSmJKRQ?oc=5",
-      "companies": [
-        "e.l.f. Beauty"
-      ],
-      "tags": [
-        "e.l.f. Beauty IR",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ba4f33a8c8662e",
-      "title": "Givenchy Beauty Ambassador",
-      "titleOriginal": "Givenchy Beauty Ambassador",
-      "summary": "Givenchy Beauty Ambassador",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "LVMH",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-19T07:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XVkRwY2RwU2JsQi1vQ3ZtWHpyY1dQNnBneXRsNVFMY0daaEF1S1VUbm5aQ3ptTFBtSjhVeTVFMnRodzRVQVV5UGM5RXFBSGgtQUhsMHpoTUFEZXFQXzFQTjhqbE16QQ?oc=5",
-      "companies": [],
-      "tags": [
-        "LVMH",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
