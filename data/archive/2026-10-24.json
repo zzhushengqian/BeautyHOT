@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T02:01:14.573729+00:00",
+  "generatedAt": "2026-10-24T04:44:30.308053+00:00",
   "items": [
     {
       "id": "8c9c2d59d6f54b",
@@ -63,6 +63,38 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "89f8dd3e8cf24e",
+      "title": "New Dose of Derm Introduces Clinical Color Cosmetics",
+      "titleOriginal": "New Dose of Derm Introduces Clinical Color Cosmetics",
+      "summary": "New Dose of Derm Introduces Clinical Color Cosmetics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-23T12:32:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3ltZHhuZXM3RDNxQ3c4M1JoRnUtWjdLYzlOU1RKYUpoVUJESUpXNXZhWi0zWjlrYk1vRUoxankzVnNkQmd0dVVfMFVwM1VCeXR2WkU3SnFwZUJJd2lyQlIwc3dsMWJnTl9EMXRXc3EyQi1ZZkxaeWJONVV0d2RkUnJ2Y1BjNHhiYUFvQTUwS0RsOXQ1UjlCTkdOYXl0RUla?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
         "actionability": 6
       }
     },
@@ -544,38 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "8b6ecfb67d7e9b",
-      "title": "O O Engineering lead at L'Oreal",
-      "titleOriginal": "O O Engineering lead at L'Oreal",
-      "summary": "O O Engineering lead at L'Oreal",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-21T22:31:07+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlJUN0kwUXRhaUVEekgyYmFFVVZnUXN1ZWEtUjFXUGZQYTk3TVNYU05sUG9Zb0M3Y2F2ZUNwVGZzdWx4dGI0Tk03UEZjbldRZnpaczRlMnN5MURLS3hkR01sTUhzcGtOUDNubEI5RXVFeVdFb1hSeGJMb1NId2Y3S0Zpd1NRR0ZN?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
