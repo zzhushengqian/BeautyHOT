@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T01:45:44.815426+00:00",
+  "generatedAt": "2026-10-25T04:51:32.824252+00:00",
   "items": [
     {
       "id": "ef68fae7ff1dbf",
@@ -17,7 +17,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-24T22:27:03+00:00",
+      "publishedAt": "2026-10-24T22:32:04+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1ZGg5M3NBZVBtUkM0cVVwZENoaXBPVUV0MUxDd2FmVEMzSjI3eXpBMDNyaDcxLTRuZ0VPM1o0Mm5PR3JfcDk5ZGZTc3FyLUE4SlJ0X1k1anVBMDZlQ2I3dFV3MEJyaVk3TElpQUZBWldZUkM5OWZDOGpn?oc=5",
       "companies": [],
@@ -51,7 +51,7 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-24T03:05:45+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fQThuMjJELVFiTmRPYzgxMXJudHNqcjFYbFZudXYwNmp0U0FJVlpwb0UxdG9heTNzWEQ4T0VvUUR0NGI3MC1taFVUU3BsdDBsUjBqVg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hVURKT0REdkN2bjdUZDNabXJid3hrVHVicUU0ZFQ1ODY1MlBxQkhqeEh0ek13VFpUTlZZZkFXWVIwb3JZcVF6SXlHYzhfVEFCUmZTYWR3?oc=5",
       "companies": [],
       "tags": [
         "聚美丽",
@@ -95,6 +95,70 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "973d9a9be35f60",
+      "title": "Indonesia Extends Halal Certification Deadlines for Cosmetics and Personal Care to 2028",
+      "titleOriginal": "Indonesia Extends Halal Certification Deadlines for Cosmetics and Personal Care to 2028",
+      "summary": "Indonesia Extends Halal Certification Deadlines for Cosmetics and Personal Care to 2028",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-23T05:00:58+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGlPZXRFNjlOWWhpTE1ZRU81Z1FhYVAtT1lpTXYwUVZvUWFHcFFHN1JGWTAyWTR6cTR6dWd4RHFxUGh4ZnI2SXB3Z2Q5R3VibjA3a01DUmxveVFRX3dzSXpUSHB6aE9DYl9FdGx2LXlMTU12Q0htVzM0TTJwXzlSMy16V0hXZnJUNTRsQkdtTHFzencxTjNic0tlVU1aVlE0d1lTMVhGWEphZ19LaEtqVW5MdUxPbUJDVkVSQ2J3SWVLQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "1745c02e0aaf6f",
+      "title": "Kao Steps Up EMEA Skincare Growth with Curél Launch in the Nordics",
+      "titleOriginal": "Kao Steps Up EMEA Skincare Growth with Curél Launch in the Nordics",
+      "summary": "Kao Steps Up EMEA Skincare Growth with Curél Launch in the Nordics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Kao",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T00:25:16+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0tzNExrZ1djZ19BVVp2QjIwMk4zYjhLeVhVVEh5VXdpcW9jSHgwaVVZOTVPVVBNQk91Y3M5SlljV1pDdDh3N2JTWjZvVnAtNFEyc2dEY0NiWEFYb0Jzc2ZnakFJRnNFTlFsR2dxRHk1T3ZyS0RRcnd0WWZuTFYwSFBEU0M3UTZRbnd1VUlCbHNWODhsdUtKaVJPOVR3dzBMNDlOMFZKVm9GNmpLdjBJcG40TE8?oc=5",
+      "companies": [],
+      "tags": [
+        "Kao",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
         "actionability": 6
       }
     },
@@ -512,70 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "f5ebbcb51870a5",
-      "title": "Puig posts record third quarter as make-up sales climb 16%",
-      "titleOriginal": "Puig posts record third quarter as make-up sales climb 16%",
-      "summary": "Puig posts record third quarter as make-up sales climb 16%",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T09:21:48+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0lFUUtmU2p4MjkweVZ1STVrSUFmYVRndXJ5YmdWYW4tWXBQb2VUbEtLeW1Wci1rMjV1dGlIZzB6a2tlYk9NemdUNEFPWDJjU09rX0RoZG1QVTFwb0ZsbkVxSWRRSUVCdDF5Z1VkcUd4R0huV1gzRUM4MFBlSVpwaTlidDdkMEZQQUZ0ZmFB?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "9685254a4a11a0",
-      "title": "Korean Fragrance Gains Global Momentum",
-      "titleOriginal": "Korean Fragrance Gains Global Momentum",
-      "summary": "Korean Fragrance Gains Global Momentum",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T07:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmEtUmVyUTlpak1SaGxqUUFPSlFkWmdPZ180aGh1SFBvNUVDZkhKVVByRG0yVDUwR0ZlTUIySWRMOWNUN2x5VE41bTBhVWVhWUxWNW1SUWdEXzRYLXIzeFR2R3ZZWUpnNlJITkdCZDNQdVRTMmFxVWRSMG5GUFc2cw?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
