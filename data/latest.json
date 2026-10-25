@@ -1,7 +1,103 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T05:01:04.964744+00:00",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T01:45:44.815426+00:00",
   "items": [
+    {
+      "id": "ef68fae7ff1dbf",
+      "title": "Silgan Dispensing lends its expertise to Guerlain’s Longevity Concentrate",
+      "titleOriginal": "Silgan Dispensing lends its expertise to Guerlain’s Longevity Concentrate",
+      "summary": "Silgan Dispensing lends its expertise to Guerlain’s Longevity Concentrate",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T22:27:03+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1ZGg5M3NBZVBtUkM0cVVwZENoaXBPVUV0MUxDd2FmVEMzSjI3eXpBMDNyaDcxLTRuZ0VPM1o0Mm5PR3JfcDk5ZGZTc3FyLUE4SlJ0X1k1anVBMDZlQ2I3dFV3MEJyaVk3TElpQUZBWldZUkM5OWZDOGpn?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "9f2ae5162deb96",
+      "title": "落后竞对？国际香水巨头Q3无增长！",
+      "titleOriginal": "落后竞对？国际香水巨头Q3无增长！",
+      "summary": "落后竞对？国际香水巨头Q3无增长！",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T03:05:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fQThuMjJELVFiTmRPYzgxMXJudHNqcjFYbFZudXYwNmp0U0FJVlpwb0UxdG9heTNzWEQ4T0VvUUR0NGI3MC1taFVUU3BsdDBsUjBqVg?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "0cd918940b6eb7",
+      "title": "假冒SK-II、赫莲娜的企业被重罚327万元",
+      "titleOriginal": "假冒SK-II、赫莲娜的企业被重罚327万元",
+      "summary": "假冒SK-II、赫莲娜的企业被重罚327万元",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T01:28:39+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56Q1dnbTdEYnVobHU1ZzFSV3FVa3lQQnNYeGlwOUFiTGxIaEhQLVBnMlIzNmRVQWpkZ1VENUNINlE0ck9RVk42ajY2OVZCaGpQRlpOaDlB?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "8c9c2d59d6f54b",
       "title": "P&G Beauty and Grooming Excel in Q1, FY2027 Results",
@@ -480,102 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "cbafc4a15079ae",
-      "title": "Beauty was Amazon’s Most-Purchased Category During Prime Big Deal Days 2026",
-      "titleOriginal": "Beauty was Amazon’s Most-Purchased Category During Prime Big Deal Days 2026",
-      "summary": "Beauty was Amazon’s Most-Purchased Category During Prime Big Deal Days 2026",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T07:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFE2UFZkOS1uOUFmemxBd0FOZzctb1RGanRtc2N1RnJGUExURFBFRGF5cmc1S1BJRVNlanlUOHI5R3JKSXk0bS01b0dGNU42Q2xnS3BqMURqZ3lOZmV3UnJ3eG03cEpITmlwZ2xwQmg5YnVPMTY3QktjWlBYUHFKVXpXR1VXMXRkS0hzS1oyNjZqaHJrLUR2OFBDQ0tmYUpFQzRDcGFENjBqalJ6eUdfOQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "33b93aa4bf4855",
-      "title": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
-      "titleOriginal": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
-      "summary": "这些美妆爆款都来自上海，带动前三季化妆品产业持续增长",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "界面新闻",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T04:11:52+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83US1td1ZXeHpkLVdrcGhEc3VVZjJoeFIxaWZvbzIzYkZHUmh0UW1CWVFPTUtLb1Z3ZUlBUV93UkFCQzNTcGsyS2tSNVA4elJJZU1YSlk1QVk?oc=5",
-      "companies": [],
-      "tags": [
-        "界面新闻",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "5e660076a931d8",
-      "title": "成立不到两年的名人美妆获亿元融资",
-      "titleOriginal": "成立不到两年的名人美妆获亿元融资",
-      "summary": "成立不到两年的名人美妆获亿元融资",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T02:13:30+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LUTJfQWlNeENhV1JfeEVxMUw3bkt0ZUs0T3FicjdxeW9NVGNZSlJ1TDBfUUFGRzBOekY1YlFrMzh6ZTF3V0hYUVhDakE2T3l0elRQTA?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
