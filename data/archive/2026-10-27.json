@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T02:27:55.006011+00:00",
+  "generatedAt": "2026-10-27T05:13:05.122020+00:00",
   "items": [
     {
       "id": "771b5412eb606b",
@@ -291,38 +291,6 @@
       }
     },
     {
-      "id": "7ff98888d93f15",
-      "title": "Heights Wellness Retreat: Reimagining Beauty Rituals for the Future",
-      "titleOriginal": "Heights Wellness Retreat: Reimagining Beauty Rituals for the Future",
-      "summary": "Heights Wellness Retreat: Reimagining Beauty Rituals for the Future",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T04:16:08+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelhveHdLR3hFT2MxWTF2NnBSVmFubTBCRWhWR1NnUDQwX3RIZk02ZDE0YjNWT01faGFDbjR4Wnh6MVlLYU1DYnF3c3NlSnhjWVZjSTFtWEpIb2d4LVZSYTBndGxJXzJxYlo4VGU5ZjRES3NkRG9OTXlBYTlCelJfYmpxckRxYWVQOEFIaDFMVHozMk9wX3FDMGdSTQ?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "128d81aab63114",
       "title": "Tilt Beauty and Arthritis Foundation Partner on New Accessibility Lab",
       "titleOriginal": "Tilt Beauty and Arthritis Foundation Partner on New Accessibility Lab",
@@ -419,35 +387,67 @@
       }
     },
     {
-      "id": "84617839a43064",
-      "title": "How prescription skincare brand Musely drove 1,200% affiliate revenue growth",
-      "titleOriginal": "How prescription skincare brand Musely drove 1,200% affiliate revenue growth",
-      "summary": "How prescription skincare brand Musely drove 1,200% affiliate revenue growth",
+      "id": "dd3067157bc87c",
+      "title": "YSL Beauty steps up its investment in Brazil with first store in São Paulo",
+      "titleOriginal": "YSL Beauty steps up its investment in Brazil with first store in São Paulo",
+      "summary": "YSL Beauty steps up its investment in Brazil with first store in São Paulo",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "financials",
-      "source": "Glossy",
-      "sourceTier": "B",
+      "category": "deals",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-22T20:40:36+00:00",
+      "publishedAt": "2026-10-24T21:21:43+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXVDZUpnT0VwemFDZlhWWFNsYmpSQWlfYXlQcXpkdVdSMU5FMjFRYXdmRi1yOXZ4SGJkeDM3MzkweGVadXZXMFktVXpEZ2hqUWRuaHpNN0c0eXY5Mm5DQXhmelYtVUxlZHhJZzFITmUtaHhIRno4cGIwM0tjWGNseG5xcnZpUkFDOTBYZ0ZpSm84Zjcyckc3ZG9LZVNNVW9kdG9fWEg0MW5ab2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREFMSTdHb1EwMUF2a1poV2h3dWJvRVFuWjN4b0tndXFRVVdDcUxUOGFlcThpRE9rSjlhcDczWThza1lXSXBsQjVtVTR1c3loX0s0TUt6NUZ5enNnbmdKYWJkUTBScEh6STdlSHBZMFZLTy1LYWlMOXh0ZHU2VzFZbnpBVQ?oc=5",
       "companies": [],
       "tags": [
-        "Glossy",
+        "Premium Beauty News",
         "自动采集"
       ],
       "baseScore": 60,
       "signals": {
         "impact": 8,
-        "magnitude": 9,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "6ec619860dc24f",
+      "title": "EU: Parliament approves simpler rules on CMR substances in cosmetics",
+      "titleOriginal": "EU: Parliament approves simpler rules on CMR substances in cosmetics",
+      "summary": "EU: Parliament approves simpler rules on CMR substances in cosmetics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T10:40:58+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Odmh1TFBOZ2RkTnFNckNCVTNPQnRQQ25qVHQwdkpsN1hiN0lXVF9IMjNxLVU0VVRhUlA2UmhsRElQdXJIeWpoYi0zbnNkYmlwNWN5QUxkX1ZzeDJjSGM0bHdaQ3h4RWUtRDFVdHktRjZwbGFoT2h6U1pQWm96UQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 8
+        "actionability": 6
       }
     },
     {
@@ -476,38 +476,6 @@
       "baseScore": 60,
       "signals": {
         "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "48762af02d1d46",
-      "title": "Sales Analyst - Target Beauty & Wellness Team",
-      "titleOriginal": "Sales Analyst - Target Beauty & Wellness Team",
-      "summary": "Sales Analyst - Target Beauty & Wellness Team",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "Unilever",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T08:08:35+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX1hEZXdEVmU4dmEyZUxNRDQyalBfUTBuMlB1d1hPLUJXV3V0aWdTODFWZUUxZ2ZVcTFsZ01sR195RG8tSnd1cjZhTlQxbXV0M2tnVWVqandvRGhnTHo1X29GSVFaTUhkbHRES1owVk1QOFprbHVjWG5ORFBpTGdtbFk0TTFkM2FNd0pIN2JZbjVlRWRqZTNKdGhsdzdtOVNmeFB4clR2QTBoZU9jVEZ6R0h3?oc=5",
-      "companies": [],
-      "tags": [
-        "Unilever",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
@@ -547,32 +515,64 @@
       }
     },
     {
-      "id": "0e767c810dcf22",
-      "title": "How Beauty Brands Can Make Wild-Harvested Ingredients More Sustainable",
-      "titleOriginal": "How Beauty Brands Can Make Wild-Harvested Ingredients More Sustainable",
-      "summary": "How Beauty Brands Can Make Wild-Harvested Ingredients More Sustainable",
+      "id": "7ff98888d93f15",
+      "title": "Heights Wellness Retreat: Reimagining Beauty Rituals for the Future",
+      "titleOriginal": "Heights Wellness Retreat: Reimagining Beauty Rituals for the Future",
+      "summary": "Heights Wellness Retreat: Reimagining Beauty Rituals for the Future",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "supply-chain",
-      "source": "BeautyMatter",
+      "category": "brands",
+      "source": "CEW",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-25T18:02:18+00:00",
+      "publishedAt": "2026-10-26T04:16:08+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdEEzYWVOWmlfazJDR3R1SzRoYTE2bnlXdFluX1hwYkhxNEU4YjZybXN0V2xsc3ZHRmpveU54bmN3ZGxuVnRURFNRbVkzZG1wU0Facm11ZE5RMWE2eUM3MzlacjQzREZNa29ONExwRXdmWndxZkhVLVR5dXpOc0pYSw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelhveHdLR3hFT2MxWTF2NnBSVmFubTBCRWhWR1NnUDQwX3RIZk02ZDE0YjNWT01faGFDbjR4Wnh6MVlLYU1DYnF3c3NlSnhjWVZjSTFtWEpIb2d4LVZSYTBndGxJXzJxYlo4VGU5ZjRES3NkRG9OTXlBYTlCelJfYmpxckRxYWVQOEFIaDFMVHozMk9wX3FDMGdSTQ?oc=5",
       "companies": [],
       "tags": [
-        "BeautyMatter",
+        "CEW",
         "自动采集"
       ],
       "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "84617839a43064",
+      "title": "How prescription skincare brand Musely drove 1,200% affiliate revenue growth",
+      "titleOriginal": "How prescription skincare brand Musely drove 1,200% affiliate revenue growth",
+      "summary": "How prescription skincare brand Musely drove 1,200% affiliate revenue growth",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T20:40:36+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXVDZUpnT0VwemFDZlhWWFNsYmpSQWlfYXlQcXpkdVdSMU5FMjFRYXdmRi1yOXZ4SGJkeDM3MzkweGVadXZXMFktVXpEZ2hqUWRuaHpNN0c0eXY5Mm5DQXhmelYtVUxlZHhJZzFITmUtaHhIRno4cGIwM0tjWGNseG5xcnZpUkFDOTBYZ0ZpSm84Zjcyckc3ZG9LZVNNVW9kdG9fWEg0MW5ab2c?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
         "china": 3,
         "novelty": 6,
         "actionability": 8
