@@ -1,7 +1,39 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T05:55:35.350257+00:00",
+  "generatedAt": "2026-10-29T06:27:10.823779+00:00",
   "items": [
+    {
+      "id": "5e5e3a82f64202",
+      "title": "Unilever Reports 5.2% Sales Growth as Beauty and Personal Care Drive Third-Quarter Performance",
+      "titleOriginal": "Unilever Reports 5.2% Sales Growth as Beauty and Personal Care Drive Third-Quarter Performance",
+      "summary": "Unilever Reports 5.2% Sales Growth as Beauty and Personal Care Drive Third-Quarter Performance",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T06:02:27+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDZCMFVfcmpWc09aSHhKM295aWdFMmpYX1FYTkhJeXllMkZDc0h0N3ZweHpRQkZuVkdwYlhnSnkydXhDSTlxM3BkY05QQy1XMXZMX1dNaE1ZNDhIcEFyM0ZyemcxTjVEZUJQQ1FhZEVnUjd5dkhyRTU3SmtXNnp5VVNCb0lHU196T1l4US1JWGU3NnNMWm85TWJ3U2NXNVo2RDY4MHNpWXVjT1Y2VzlUOXh4bUg3SHlSbVVlbXlmTWVVWEFtbFFxUGNn?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "490e3bfaddc98e",
       "title": "Coptis unveils Purple, a “Prompt-to-Formula” AI agent for cosmetic R&D",
@@ -87,38 +119,6 @@
       "companies": [],
       "tags": [
         "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "1a51d468cb9bd2",
-      "title": "前三季度美妆交易盘点：量在涨，价在跌，钱在换赛道",
-      "titleOriginal": "前三季度美妆交易盘点：量在涨，价在跌，钱在换赛道",
-      "summary": "前三季度美妆交易盘点：量在涨，价在跌，钱在换赛道",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "界面新闻",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-28T14:16:02+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96SmhDbjkwUkRvYzBYeUlBX3FDOVZ3WC04aGUyVmVRZ2dBeHZKekd5N2NxX3hnempSTzRPYUVFZzQzazhWaEpxVVo4eDNBNTh4OERrU2R3VDA?oc=5",
-      "companies": [],
-      "tags": [
-        "界面新闻",
         "自动采集"
       ],
       "baseScore": 60,
@@ -323,6 +323,38 @@
       }
     },
     {
+      "id": "6c642a7f6d2b0f",
+      "title": "上海家化净利暴涨205%",
+      "titleOriginal": "上海家化净利暴涨205%",
+      "summary": "上海家化净利暴涨205%",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T06:21:27+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aMXhuaUVZTG8yQkQ1azQyNnFYSzFEcGFZdGxKSkpNeFgwaWR4bHhjcVVqcXlXVEhLX1VZU2Z2WkY3by1pejM3RlEzQU9qc1BUaXVKag?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "f74a7cd7e6a01c",
       "title": "2026年三季度报告",
       "titleOriginal": "2026年三季度报告",
@@ -360,38 +392,6 @@
       }
     },
     {
-      "id": "70f151ab812999",
-      "title": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
-      "titleOriginal": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
-      "summary": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Unilever",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T07:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakRWMmM2TWFIMVMzWENfYW1wWjA5VW9KNHROVEZzWVE5MklrTzlob3RIa0NnbzExRHV3ejRRLWEydFNqTmFpRk9ubXdPcDdiNE1vcnhxRzBOd3JFY2xUZDVlYk81cTJGVTNyX19ONkI2NkRuQUxVaDhOUi1iSlAwN05sRW9LRHVGbnluUGowb245UEpCeVBPLUpVVUhjX1I4bWZsTmRjS3J1MktZVFM5TDhrMkQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Unilever",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "48762af02d1d46",
       "title": "Sales Analyst - Target Beauty & Wellness Team",
       "titleOriginal": "Sales Analyst - Target Beauty & Wellness Team",
@@ -421,6 +421,70 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "1a51d468cb9bd2",
+      "title": "前三季度美妆交易盘点：量在涨，价在跌，钱在换赛道",
+      "titleOriginal": "前三季度美妆交易盘点：量在涨，价在跌，钱在换赛道",
+      "summary": "前三季度美妆交易盘点：量在涨，价在跌，钱在换赛道",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T14:16:02+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96SmhDbjkwUkRvYzBYeUlBX3FDOVZ3WC04aGUyVmVRZ2dBeHZKekd5N2NxX3hnempSTzRPYUVFZzQzazhWaEpxVVo4eDNBNTh4OERrU2R3VDA?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "70f151ab812999",
+      "title": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
+      "titleOriginal": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
+      "summary": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakRWMmM2TWFIMVMzWENfYW1wWjA5VW9KNHROVEZzWVE5MklrTzlob3RIa0NnbzExRHV3ejRRLWEydFNqTmFpRk9ubXdPcDdiNE1vcnhxRzBOd3JFY2xUZDVlYk81cTJGVTNyX19ONkI2NkRuQUxVaDhOUi1iSlAwN05sRW9LRHVGbnluUGowb245UEpCeVBPLUpVVUhjX1I4bWZsTmRjS3J1MktZVFM5TDhrMkQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -522,70 +586,6 @@
         "china": 10,
         "novelty": 8,
         "actionability": 10
-      }
-    },
-    {
-      "id": "da40e8048f7450",
-      "title": "Drake’s Better World Fragrance House Introduces Third Juice with October’s Very Own",
-      "titleOriginal": "Drake’s Better World Fragrance House Introduces Third Juice with October’s Very Own",
-      "summary": "Drake’s Better World Fragrance House Introduces Third Juice with October’s Very Own",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-27T15:26:32+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDlXNzBjS2JBc3N1ZkQ4dklTcFJrZE9LWTRXZFRuZTFDMDM2djFYNGd6ZTU4Y2V6bU1HcjdSOU5PLV94NzlfNC1OQmNFVVFoQk9qUjZfdERUVGYtSDl6WDhMYTFpZHA3bGd1RFU0cS1odGJqU0ZJSXBkcG5iNERDa3Y0aXdrb19FRkxLcmlPQzNPY2ppdnJISVB1Qy1WWnVUSFpvUXVYelJzSldCa0h4THpSRGxrcXVqRjBlN0x4d0lzSWF2?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "3ce46167280dff",
-      "title": "The Future of Beauty: The Brands and Strategies Turning AI Innovation into Real Business Impact",
-      "titleOriginal": "The Future of Beauty: The Brands and Strategies Turning AI Innovation into Real Business Impact",
-      "summary": "The Future of Beauty: The Brands and Strategies Turning AI Innovation into Real Business Impact",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-27T14:40:51+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2oyQkMwMkc5b1IzUDh2eVJmMEgwRnNmMklyOFlFcnRTQzA4NENWMjkwNzVzTGY2eWZpZVB3MDBmNFlhQmd4dWFMUkpUVkhWWnhVQ1hLd0l4UmZiZXcxclptZkduQWU0dkRvM0pLYjhvbGxYVWM0aVlzc0g4TjZjY05VNE1URjUtWjFUU0JBck9FTVJka1NLTXlVSldzRFZaLW91SHBuS0dZTzloT01PSmJ0VG9OMHVp?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
