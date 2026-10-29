@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T02:55:52.657055+00:00",
+  "generatedAt": "2026-10-29T05:55:35.350257+00:00",
   "items": [
     {
       "id": "490e3bfaddc98e",
@@ -17,7 +17,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-28T21:20:35+00:00",
+      "publishedAt": "2026-10-28T21:27:57+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMFhYcnVJN1VnaF9hMHBjZGJkNE1MUmdxVlZMbGVUSUZnLU9EaFNadUk3REQ2V05LZm9OQ1VIUXk0Um15dkdKSlZ3U2F1WHRSRVZjaXd0Ujhwb3VSdGhrZDBkM2h6Z0xDZXc4QzdyZE1leS0tYWN6aXFISzZ1U1A5UTlR?oc=5",
       "companies": [],
@@ -360,6 +360,38 @@
       }
     },
     {
+      "id": "70f151ab812999",
+      "title": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
+      "titleOriginal": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
+      "summary": "Beauty & Wellbeing Thailand Makro and 1UL CVS Lead",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Unilever",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakRWMmM2TWFIMVMzWENfYW1wWjA5VW9KNHROVEZzWVE5MklrTzlob3RIa0NnbzExRHV3ejRRLWEydFNqTmFpRk9ubXdPcDdiNE1vcnhxRzBOd3JFY2xUZDVlYk81cTJGVTNyX19ONkI2NkRuQUxVaDhOUi1iSlAwN05sRW9LRHVGbnluUGowb245UEpCeVBPLUpVVUhjX1I4bWZsTmRjS3J1MktZVFM5TDhrMkQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Unilever",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "48762af02d1d46",
       "title": "Sales Analyst - Target Beauty & Wellness Team",
       "titleOriginal": "Sales Analyst - Target Beauty & Wellness Team",
@@ -546,38 +578,6 @@
       "tags": [
         "CEW",
         "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "e14d9227633a3a",
-      "title": "Trade Activation Placement 2027 at L'Oreal",
-      "titleOriginal": "Trade Activation Placement 2027 at L'Oreal",
-      "summary": "Trade Activation Placement 2027 at L'Oreal",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-27T13:43:08+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3p4MkZYSFpHVVZLcHZQbUtoeFRQdERwYnlqbG8wdE5VZ2N6bDFRbG9WcVNuTTM1ZVRPTm9nWlZOTjRneVhPaUNYbC12ckpJM1o1X2FOQWNVcFYyYWlqWTVLMTJ0VWgxMWhLbERMWEd6V3I2Y29Ibnl2NFN4cF82a0s1cm9IcHVydDVWX0ZsbGlITEk?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
