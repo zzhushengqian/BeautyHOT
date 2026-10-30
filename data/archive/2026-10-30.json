@@ -1,0 +1,592 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T03:00:16.868200+00:00",
+  "items": [
+    {
+      "id": "833885b87191a4",
+      "title": "BeautyMatter MBA 2026: Expert Strategies for Scaling Beauty Brands",
+      "titleOriginal": "BeautyMatter MBA 2026: Expert Strategies for Scaling Beauty Brands",
+      "summary": "BeautyMatter MBA 2026: Expert Strategies for Scaling Beauty Brands",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T18:23:15+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzl6bldrU0NmOHNwckxnemdEQzdLVjZXY0xsdjM4d2ZlWjFaVHBzX1lBaEJySFFjNkcxaEZOUF83VlBwYXZ4MDVBWW9HVlc4WWhTR0RvY0J2b1pTcGVOTXNwZm1TaXpfcHFiSkJ5Z01LMlVvUWRmNTAxOTRwV3NQTV9uVzhSQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "445e240448afeb",
+      "title": "华熙生物2026年第三季度报告",
+      "titleOriginal": "华熙生物2026年第三季度报告",
+      "summary": "华熙生物2026年第三季度报告",
+      "why": "华熙生物（688363）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643985.PDF",
+      "companies": [
+        "华熙生物"
+      ],
+      "tags": [
+        "华熙生物",
+        "688363",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "8f422b48165091",
+      "title": "2026年三季度报告",
+      "titleOriginal": "2026年三季度报告",
+      "summary": "2026年三季度报告",
+      "why": "水羊股份（300740）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "financials",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642054.PDF",
+      "companies": [
+        "水羊股份"
+      ],
+      "tags": [
+        "水羊股份",
+        "300740",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "775f69c04120af",
+      "title": "How Estée Lauder Companies, Boots and Kiko Milano are driving growth and efficiencies in beauty",
+      "titleOriginal": "How Estée Lauder Companies, Boots and Kiko Milano are driving growth and efficiencies in beauty",
+      "summary": "How Estée Lauder Companies, Boots and Kiko Milano are driving growth and efficiencies in beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T15:56:04+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmMwT1hVQXJ3aVdYQWNzV0hyWnY0Uk96cjIzdm02ZEFPSVpuaTB4VHBtY3dsLVlCUmltTVEtN0ZERzRabVZoSE5scmxuOHNxWHVQMXRFRkRNaGVCUHc5OWU0bEJ4bGMxZGZyMktIUEVQMWtvajNwLTNMYmtEYXN1RmdxaF9tNmVLdExSWC1wM0hWSUJHOHg2bmJTS1pnUTVTWFZScXFrQTNZMzFldEhtZEd3OGRZRVRKVFBUeWM4NA?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "6d59a27531a9fb",
+      "title": "Maybelline Brings Real-Time Makeup Virtual Try-On To ChapGPT",
+      "titleOriginal": "Maybelline Brings Real-Time Makeup Virtual Try-On To ChapGPT",
+      "summary": "Maybelline Brings Real-Time Makeup Virtual Try-On To ChapGPT",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T15:55:32+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1VqQ1BaT2d2aHJHZ2FrUGpnR3lqbldPcTJpczBDbXFwQ0VBTUFPY1J0LXBRYlpwajVpQW0wRGdFeXV0OHpCWUstOGxnYWRNb19kNlppUllJQWx3YWVtRDN3QXJBWkxSeFZsem10WXVxMmVDLUd3eUxibmtaR1NKUkZ3QXJTa0tLX1RhWlhlajgzSlR4ZHRRdE42Z3U0UQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c6abd0867cf999",
+      "title": "Front Row bets on the continued K-beauty craze with the opening of a new office in Seoul",
+      "titleOriginal": "Front Row bets on the continued K-beauty craze with the opening of a new office in Seoul",
+      "summary": "Front Row bets on the continued K-beauty craze with the opening of a new office in Seoul",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T09:28:07+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZEZHd1ByTHBBSERkWDN5Q0NmNGJiT3FISDRxTW94Sk1vZnFGRXZ6MzUyZ25iOHhYN2xsTVdmbTN5UjJhQ19YeGZjWDc5ZU56NVVtMldCbk0wNC1va1JYSzExT0tpbXJtSVdQUnFPcEtkaU9HRGxvcnBlSEtzLXFNdFV4YjFrNXlhNW43SThsRTZkSUdMOWVZYXFvYnZfbFNUREowdDVZdHhyUEZ4SmtEZ0lSb05UTGF0SkE?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "44143531904a09",
+      "title": "国家药监局批准一款防晒类化妆品新原料",
+      "titleOriginal": "国家药监局批准一款防晒类化妆品新原料",
+      "summary": "国家药监局批准一款防晒类化妆品新原料",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T09:03:10+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2WnRqV2UxWXljcUMyMlctMnJkQ1h6UnpWSi05RHVnYzRjc2RxVHotT0VLaFhyY19OdVM0WlFyenlyaGZvcG1NSm1Kc1F0NGhTcEc1RmduTGM?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "762443acd75546",
+      "title": "重返源点：当算法不奖励好产品，美妆行业的长期主义该如何坚持？",
+      "titleOriginal": "重返源点：当算法不奖励好产品，美妆行业的长期主义该如何坚持？",
+      "summary": "重返源点：当算法不奖励好产品，美妆行业的长期主义该如何坚持？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T01:35:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9acXpQUUtMUnVXcklnc0Z4ZWhtbXBtWWkwZDRfVHJPQlY1Vkw0cXhEZjc4MnRnbXk1UmtWa3lJTloxVkZjbU9MSmV0aGhybHFqemt3?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "54e7284a190813",
+      "title": "Puig Aims to Cross 8-Billion-Euro Yearly Sales Mark by 2032",
+      "titleOriginal": "Puig Aims to Cross 8-Billion-Euro Yearly Sales Mark by 2032",
+      "summary": "Puig Aims to Cross 8-Billion-Euro Yearly Sales Mark by 2032",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T23:25:35+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdZZ01CNFYwWl9ObHVzNTdoaXY3M1pJVFk1eUpEVEg0N1NuXzBrTHZhOHpKLWtMT1Awd2tMUFcyYjJiZnI3TWRBZ292NmU3VDN5NTBHSHNORlR0dXF3MnpfcmlfLUhhd20tVGtldDJUa19QRmFLUjNXeUZZZU5yQ2l3YU1GZ05oYkJVZ2FxUS1QbWlFYkZlX0pzTW1nZGhyQnRfZC0wWDY3Q2Z4NjdMRDJWMVdjMzJRX2c?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "0d2889ede31d99",
+      "title": "Behind BEIIN’s Retail Partnership with Credo Beauty",
+      "titleOriginal": "Behind BEIIN’s Retail Partnership with Credo Beauty",
+      "summary": "Behind BEIIN’s Retail Partnership with Credo Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T19:56:52+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkNxaU41akpDZ2hNdUZIbGd6ZE5jUG9jSUMyNVFHSTEzYjBoMnVpWkJXRUl5Ujl3b3pRbWVJSGg0Z2ZqTVhlNmNWWGZPTVhHamdvX2tSeENGMUU4SnN0Vjl0MzlVRjQxQW1lMG5FYWJtYkJkTnd4Z2w0TDhUaTFYREFzTFl5ZllENHdYbVo3eFU1WFJ6c1N0VkRMd3dFa29leVZCZlR3dUc2NUkzeUgzX1JTLTFQUng5VURwU2lR?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "bdb02e240d66cd",
+      "title": "L'Oréal For Youth - Talent Community at L'Oreal",
+      "titleOriginal": "L'Oréal For Youth - Talent Community at L'Oreal",
+      "summary": "L'Oréal For Youth - Talent Community at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-27T12:41:08+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3JuT2VTLXVRSjYxRklTd194RExLSGI5SFdtcjJqWXVjWEg0V1dzMmVnenhnUUthYktUVTFTNElEaXhUOFdlOHRING45OFhjSDBRU3p6Ri0wMExSbmFfNjBvTHNzT2cySUNpcWx3ZDJmaHloVjZEZDBZM2UwTlNYZ2gxMVh0aHA0QUNiMVZzLW1CZXNibEc5c0hjbWk?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e3c490fa6dbe71",
+      "title": "Sephora Stratford 30hr Skincare Counter Lead",
+      "titleOriginal": "Sephora Stratford 30hr Skincare Counter Lead",
+      "summary": "Sephora Stratford 30hr Skincare Counter Lead",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T18:06:19+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZDVmcEFqdUNQRjloNEh6LW9vZ0tyWmE3b0Foeno5ai11SmJQc3ZtWGZST213c1d0ak1FcFBBNjdNdkE1RWJOUm9OcE5ISGhFY2s0bi1IcmZsbE9FdUhDRnNvYzhBR1ZJN1U4QXFtdmtxUm0wNE1zXzJMSlZSZm9mY1B1VFZfVTJkZm5SRGx3NC03c0dKYzlrZExBZHJZZ2oteFhOS0ZVdzFaQmdjYzhiYi1Fa2w2TzJNenhTT2szbEVLUUJDWi1QVW44S0FGMFFMeUc2QkozY2s1S1FzdlNjMDhUY1dfOWZNX2c?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "5e5e3a82f64202",
+      "title": "Unilever Reports 5.2% Sales Growth as Beauty and Personal Care Drive Third-Quarter Performance",
+      "titleOriginal": "Unilever Reports 5.2% Sales Growth as Beauty and Personal Care Drive Third-Quarter Performance",
+      "summary": "Unilever Reports 5.2% Sales Growth as Beauty and Personal Care Drive Third-Quarter Performance",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T06:02:27+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDZCMFVfcmpWc09aSHhKM295aWdFMmpYX1FYTkhJeXllMkZDc0h0N3ZweHpRQkZuVkdwYlhnSnkydXhDSTlxM3BkY05QQy1XMXZMX1dNaE1ZNDhIcEFyM0ZyemcxTjVEZUJQQ1FhZEVnUjd5dkhyRTU3SmtXNnp5VVNCb0lHU196T1l4US1JWGU3NnNMWm85TWJ3U2NXNVo2RDY4MHNpWXVjT1Y2VzlUOXh4bUg3SHlSbVVlbXlmTWVVWEFtbFFxUGNn?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "490e3bfaddc98e",
+      "title": "Coptis unveils Purple, a “Prompt-to-Formula” AI agent for cosmetic R&D",
+      "titleOriginal": "Coptis unveils Purple, a “Prompt-to-Formula” AI agent for cosmetic R&D",
+      "summary": "Coptis unveils Purple, a “Prompt-to-Formula” AI agent for cosmetic R&D",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T21:27:57+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMFhYcnVJN1VnaF9hMHBjZGJkNE1MUmdxVlZMbGVUSUZnLU9EaFNadUk3REQ2V05LZm9OQ1VIUXk0Um15dkdKSlZ3U2F1WHRSRVZjaXd0Ujhwb3VSdGhrZDBkM2h6Z0xDZXc4QzdyZE1leS0tYWN6aXFISzZ1U1A5UTlR?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "1df7ed3bef4f63",
+      "title": "80 Years of Beauty, Purpose, and Progress",
+      "titleOriginal": "80 Years of Beauty, Purpose, and Progress",
+      "summary": "80 Years of Beauty, Purpose, and Progress",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T20:21:05+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3pLcjd2alJPU21DRXdXOVpJWU9JQ1lWNUZfenB4NmtMQV9iM2VDSWR5OEhITHZvY2EyeHZIM0VxVmFtaGo0OHJBeFRKZEgwNXBxTTExaGxjeXJqUzNkZ1lzNU42Wml4T3ROUDJ6VmRKLTVoaENxeFBHUEtHUXNXdTBlNmdONEc4cV9CQ2Z3RS1jQmhBRXN2XzJ3?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "3a5342248cbd1a",
+      "title": "Fazit x Nike: Glow-in-the-Dark Beauty Takes Over LA’s After Dark Tour this Weekend",
+      "titleOriginal": "Fazit x Nike: Glow-in-the-Dark Beauty Takes Over LA’s After Dark Tour this Weekend",
+      "summary": "Fazit x Nike: Glow-in-the-Dark Beauty Takes Over LA’s After Dark Tour this Weekend",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T14:35:59+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZGhOVDdKZVM5VXVucVpzZjRnZWEyRG5feThtOVRacXFRb0hjckp0T1RrV0tTa0s0Y3RPZ09JTnEzT1NDeE5FSUZLNVVoMnRjQlVqeUR3UWFkZHZmNG5ZcnRkNlJHbmRUUmJCOEVDWE1sQTBaOWtXVnZndzIzR2ZSQVIxb2NvdTNBSG9XZ3lBNEpoQ3FsTXRqWkd4UG5jb1ZYWnhUR21PcEt2a3JFNmZUWVYyLXAzN2wzb1Qwb00yQmhYSmJNSkV1djliS3JJYzVuREVIQzJBc1c0QnF2T0w2TTk0S2I4dzlwOFE?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c0e157c4454a8a",
+      "title": "A Case Study in Developing the Next Generation of Biotech Skincare: Q&A with Dermalogica, Core Biogenesis",
+      "titleOriginal": "A Case Study in Developing the Next Generation of Biotech Skincare: Q&A with Dermalogica, Core Biogenesis",
+      "summary": "A Case Study in Developing the Next Generation of Biotech Skincare: Q&A with Dermalogica, Core Biogenesis",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T13:34:10+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQS0JLNDR0Nmw5d3p3OTZSUTNpZGtickk1SjhFUks4UkJrdWdIV3MtdGx4WFBhTXNlZE96RjNpbHVjVkxyU0VmQldWQno2SEZET2NHdVNYSlFtQXJ2REVJMFJBZE95OE41ZXM4bjhjcjVzT3g2c2hoYzRybDRXNGRSTmtwMUVCWjJrUWZOYVR5bzJFT1F1SlgtU0phVjRFeXhueG5fTnFzS0N2UHhEY3QwcVhEengzcXBNZE9sYjBtbE5RMzJyTC1FdXRkdkFNMDgtUVEwbGF4SFBRekNSZFRIRWtLbmsydU00NDVVTW5KQk1xLUQ2aWJqTkg5OXdBNG5CdHYyRVFPV1lBQVpPbkgza2NCTVhrZw?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "9eea5535da7fd1",
+      "title": "LipoTrue to Launch Three New Biotech Actives at in-cosmetics Asia",
+      "titleOriginal": "LipoTrue to Launch Three New Biotech Actives at in-cosmetics Asia",
+      "summary": "LipoTrue to Launch Three New Biotech Actives at in-cosmetics Asia",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T13:34:10+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM2NZZ0ZwTU12T09hYTFLdW5vWUpPZnotbGpJai1adjJOSktOX3FBdGIxZ1VGbjJNN3BpSGFkcmVISHkxTFcwSmdTZ0w3Tjl3enIwZ2JrRVBWSTVGa09mT1FHU0dCMDNsZGNGQWtMTDl0WDNLYlR1SlpYR2pwbEtKUngxQ1lUbGtwck1iOFBYMEkzODZLZGc1T2tlYmxJMTVUdDk5dDMxcG5RTVRnVEZwVExXVDc5dkd6VnJYcDZ4cUtYclhoOHRnVHdhVFdhZXVkSzE3ZGpjV1ZZN19TNzhUY0hlcmhLQU1tdVlr?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    }
+  ]
+}
