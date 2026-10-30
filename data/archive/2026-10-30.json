@@ -1,7 +1,71 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T05:56:58.764375+00:00",
+  "generatedAt": "2026-10-30T06:26:00.509239+00:00",
   "items": [
+    {
+      "id": "1e70e0c2a799c6",
+      "title": "Charlotte Tilbury Expands into Southeast Asia with Jakarta Flagship",
+      "titleOriginal": "Charlotte Tilbury Expands into Southeast Asia with Jakarta Flagship",
+      "summary": "Charlotte Tilbury Expands into Southeast Asia with Jakarta Flagship",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T06:00:40+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkNvOE9iS096X3dIOWtaTWgyWVlwWkJiRzR0eUZYdnA5WUVOMlpZdEZhNkJmRHpLNnhpYjRYY1NDbUd0LW1VN19LTkNVWGViNGVPMmUtS3dtWEFBQkpZdlREaGlVNkdWZmVVcnlwMk94MWh2WXdXRGFfb1ducjJKOS1CbTR4enEzaGhzeUVJcVNSTmZpZUV3N3ZxenE5YjJObGNXbndDTQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "5331ead56a89a2",
+      "title": "Beauty Independent: Beauty’s Next Billion-Dollar Businesses Aren’t Just Beauty Brands",
+      "titleOriginal": "Beauty Independent: Beauty’s Next Billion-Dollar Businesses Aren’t Just Beauty Brands",
+      "summary": "Beauty Independent: Beauty’s Next Billion-Dollar Businesses Aren’t Just Beauty Brands",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "CEW",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T04:32:12+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUF4aVpxXzZZcWhfQUxIQ0c1NE5yc1REbG9udGNFSjY0S0hzSDhxb2RSZ19JWUk1VzZMRTRwWVZPeVhFeHdSLUpRdmxzeVI2Nm8yb1FqZTlDOS12dHNod3paMjNQa3M3U1RsZERXTXFubUh4TmpZVl9EaEp2dzhGMG1NQWZoM3JMS1ZqMHRObHRocG5QTHJv?oc=5",
+      "companies": [],
+      "tags": [
+        "CEW",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "833885b87191a4",
       "title": "BeautyMatter MBA 2026: Expert Strategies for Scaling Beauty Brands",
@@ -521,70 +585,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "c0e157c4454a8a",
-      "title": "A Case Study in Developing the Next Generation of Biotech Skincare: Q&A with Dermalogica, Core Biogenesis",
-      "titleOriginal": "A Case Study in Developing the Next Generation of Biotech Skincare: Q&A with Dermalogica, Core Biogenesis",
-      "summary": "A Case Study in Developing the Next Generation of Biotech Skincare: Q&A with Dermalogica, Core Biogenesis",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics & Toiletries",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-28T13:34:10+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQS0JLNDR0Nmw5d3p3OTZSUTNpZGtickk1SjhFUks4UkJrdWdIV3MtdGx4WFBhTXNlZE96RjNpbHVjVkxyU0VmQldWQno2SEZET2NHdVNYSlFtQXJ2REVJMFJBZE95OE41ZXM4bjhjcjVzT3g2c2hoYzRybDRXNGRSTmtwMUVCWjJrUWZOYVR5bzJFT1F1SlgtU0phVjRFeXhueG5fTnFzS0N2UHhEY3QwcVhEengzcXBNZE9sYjBtbE5RMzJyTC1FdXRkdkFNMDgtUVEwbGF4SFBRekNSZFRIRWtLbmsydU00NDVVTW5KQk1xLUQ2aWJqTkg5OXdBNG5CdHYyRVFPV1lBQVpPbkgza2NCTVhrZw?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics & Toiletries",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "9eea5535da7fd1",
-      "title": "LipoTrue to Launch Three New Biotech Actives at in-cosmetics Asia",
-      "titleOriginal": "LipoTrue to Launch Three New Biotech Actives at in-cosmetics Asia",
-      "summary": "LipoTrue to Launch Three New Biotech Actives at in-cosmetics Asia",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Cosmetics & Toiletries",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-28T13:34:10+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM2NZZ0ZwTU12T09hYTFLdW5vWUpPZnotbGpJai1adjJOSktOX3FBdGIxZ1VGbjJNN3BpSGFkcmVISHkxTFcwSmdTZ0w3Tjl3enIwZ2JrRVBWSTVGa09mT1FHU0dCMDNsZGNGQWtMTDl0WDNLYlR1SlpYR2pwbEtKUngxQ1lUbGtwck1iOFBYMEkzODZLZGc1T2tlYmxJMTVUdDk5dDMxcG5RTVRnVEZwVExXVDc5dkd6VnJYcDZ4cUtYclhoOHRnVHdhVFdhZXVkSzE3ZGpjV1ZZN19TNzhUY0hlcmhLQU1tdVlr?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics & Toiletries",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     }
