@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T05:53:11.187584+00:00",
+  "generatedAt": "2026-10-31T06:16:27.532146+00:00",
   "items": [
     {
       "id": "db3014b2107804",
@@ -296,26 +296,90 @@
       }
     },
     {
-      "id": "3c424c362404d5",
-      "title": "9个月360项代言合作，美妆越冷品牌越敢签？",
-      "titleOriginal": "9个月360项代言合作，美妆越冷品牌越敢签？",
-      "summary": "9个月360项代言合作，美妆越冷品牌越敢签？",
+      "id": "dab20d2b69a614",
+      "title": "Valentino Beauty Launches First Haute Beauté Product in China",
+      "titleOriginal": "Valentino Beauty Launches First Haute Beauté Product in China",
+      "summary": "Valentino Beauty Launches First Haute Beauté Product in China",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T06:02:04+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkdYQ2g1ZFFabXEyOXV1V01LY0FEOHBncWNuTTVfbDQteWJCTTdjOExvMmlJMzE4b3JTNU4zckp3QXNZcWZUVGNiZGo2NHJlRER5N0JpenlMQXVaVEQ1cDJ0ZlFrMW5McGhHZFpFbVhJc2VvYktxTllwUkNOWWNQTWtZYS1WbTVWRHQyR2ZfMXBiNDdNejFWMk41UnVtZ2c?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "8585839f079803",
+      "title": "Kylie Jenner Files Cosmetics Trademark for Daughter Stormi",
+      "titleOriginal": "Kylie Jenner Files Cosmetics Trademark for Daughter Stormi",
+      "summary": "Kylie Jenner Files Cosmetics Trademark for Daughter Stormi",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
-      "source": "聚美丽",
+      "source": "Global Cosmetics News",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-10-30T02:54:41+00:00",
+      "publishedAt": "2026-10-30T06:00:40+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwVWdWSDRHRXdEcVV6T2laWEFxZVE4d2JLcmc0TXU2REFibHRoY1l5S3FCY2UtNUFfVEowOFZadG5PcFlqYXFkV1lieUNSaHpaOURkZg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXdPWjlJTG56QmJmQnpHWGZKTDJ2NDhGcDdia2JLSG1tQ0pRRWx0VnVnLXNybEN6bzR5Rk8zRmVKYXBOazlIdGFlcWtHdXBPUXh1eDhvQjRwWWxaTDdhUTVnUEJkcElyVWVFVE1JWEVHUDhRSGtjUGRHVy1vRVctTl9ldjhIVGFFUVZlVlpWd2luNkJLRkRZb1RZUQ?oc=5",
       "companies": [],
       "tags": [
-        "聚美丽",
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "88e4b1b8e6fa44",
+      "title": "Lady Gaga Takes Over as CEO of Haus Labs",
+      "titleOriginal": "Lady Gaga Takes Over as CEO of Haus Labs",
+      "summary": "Lady Gaga Takes Over as CEO of Haus Labs",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T06:00:40+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXMwQ2hTY09sZDl1U1JETjB0dUpwcndtV2FENjYyaGg5TTM3TnpwS2JObWE3djFwRURaZmtwcEhrSDFfclBFd25VQUo2Vm1Jc09qMkR5WlFrMkhZWWlUdEtNdUpyX2l1X19sQ1RfNGNETmxKUk1xaWJscHd3a1VxOVYyYw?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
         "自动采集"
       ],
       "baseScore": 60,
@@ -357,6 +421,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "3c424c362404d5",
+      "title": "9个月360项代言合作，美妆越冷品牌越敢签？",
+      "titleOriginal": "9个月360项代言合作，美妆越冷品牌越敢签？",
+      "summary": "9个月360项代言合作，美妆越冷品牌越敢签？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T02:54:41+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwVWdWSDRHRXdEcVV6T2laWEFxZVE4d2JLcmc0TXU2REFibHRoY1l5S3FCY2UtNUFfVEowOFZadG5PcFlqYXFkV1lieUNSaHpaOURkZg?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -490,107 +586,6 @@
         "china": 10,
         "novelty": 8,
         "actionability": 10
-      }
-    },
-    {
-      "id": "8f422b48165091",
-      "title": "2026年三季度报告",
-      "titleOriginal": "2026年三季度报告",
-      "summary": "2026年三季度报告",
-      "why": "水羊股份（300740）的法定公告，属于可直接核验的一手披露。",
-      "analysis": {
-        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
-        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
-      },
-      "category": "financials",
-      "source": "巨潮资讯（法定公告）",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T16:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642054.PDF",
-      "companies": [
-        "水羊股份"
-      ],
-      "tags": [
-        "水羊股份",
-        "300740",
-        "上市公司公告",
-        "官方信源"
-      ],
-      "baseScore": 88,
-      "priorityDisclosure": true,
-      "signals": {
-        "impact": 10,
-        "magnitude": 9,
-        "china": 10,
-        "novelty": 8,
-        "actionability": 10
-      }
-    },
-    {
-      "id": "775f69c04120af",
-      "title": "How Estée Lauder Companies, Boots and Kiko Milano are driving growth and efficiencies in beauty",
-      "titleOriginal": "How Estée Lauder Companies, Boots and Kiko Milano are driving growth and efficiencies in beauty",
-      "summary": "How Estée Lauder Companies, Boots and Kiko Milano are driving growth and efficiencies in beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T15:56:04+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmMwT1hVQXJ3aVdYQWNzV0hyWnY0Uk96cjIzdm02ZEFPSVpuaTB4VHBtY3dsLVlCUmltTVEtN0ZERzRabVZoSE5scmxuOHNxWHVQMXRFRkRNaGVCUHc5OWU0bEJ4bGMxZGZyMktIUEVQMWtvajNwLTNMYmtEYXN1RmdxaF9tNmVLdExSWC1wM0hWSUJHOHg2bmJTS1pnUTVTWFZScXFrQTNZMzFldEhtZEd3OGRZRVRKVFBUeWM4NA?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "6d59a27531a9fb",
-      "title": "Maybelline Brings Real-Time Makeup Virtual Try-On To ChapGPT",
-      "titleOriginal": "Maybelline Brings Real-Time Makeup Virtual Try-On To ChapGPT",
-      "summary": "Maybelline Brings Real-Time Makeup Virtual Try-On To ChapGPT",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T15:55:32+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1VqQ1BaT2d2aHJHZ2FrUGpnR3lqbldPcTJpczBDbXFwQ0VBTUFPY1J0LXBRYlpwajVpQW0wRGdFeXV0OHpCWUstOGxnYWRNb19kNlppUllJQWx3YWVtRDN3QXJBWkxSeFZsem10WXVxMmVDLUd3eUxibmtaR1NKUkZ3QXJTa0tLX1RhWlhlajgzSlR4ZHRRdE42Z3U0UQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
