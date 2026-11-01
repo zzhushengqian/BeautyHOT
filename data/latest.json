@@ -1,7 +1,135 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T06:16:27.532146+00:00",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T02:39:45.498990+00:00",
   "items": [
+    {
+      "id": "02615716bc5658",
+      "title": "Victoria’s Secret Decks Beauty Brands in ‘Pink’ with New Mini Bar",
+      "titleOriginal": "Victoria’s Secret Decks Beauty Brands in ‘Pink’ with New Mini Bar",
+      "summary": "Victoria’s Secret Decks Beauty Brands in ‘Pink’ with New Mini Bar",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcU1kYnQ0RDFCM2lGdFNNQVRzRWZpTkFTcG5kNVNEU1M0VmMtLUNyVUhucTFqc0t2cHdoNFQwNXhORi1OajJlYjlBSjYwelE5Y2hvbldfTGtZb2NRS3l1Vk9Fd3FKeEh4YVpzQ2Myd0pUMGZPNTZZa05rZjhpNDd1cnoxRE52NFJjMzh3VTI2V1FKNUJ2aUpLb2VINXl4YWJl?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2ad570f2838690",
+      "title": "Glossy: News and analysis in beauty, fashion and luxury",
+      "titleOriginal": "Glossy: News and analysis in beauty, fashion and luxury",
+      "summary": "Glossy: News and analysis in beauty, fashion and luxury",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5ZcjlJVkxGMzY5M3lHRzFleXJtQWwxeVl5UXF6eEltb1JsSExPbzhrNWhiUzRWRERvUHc?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "1a149b5f54fc6e",
+      "title": "皮肤科医生推出“长寿彩妆”？",
+      "titleOriginal": "皮肤科医生推出“长寿彩妆”？",
+      "summary": "皮肤科医生推出“长寿彩妆”？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T03:11:44+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xM0hGX2JLcWdjc0x0cGVzRlhqYTRYMXZvWUdtUGUzcVhLbDRjeThIaWU2S1RfTWpNQXlraG5JVkQ4N0t6UzhuRDJlVUNmeTBlSE1Meg?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "3521e2ca4d44ce",
+      "title": "'Hunger Games: Sunrise on the Reaping' Cast Beauty at London Premiere",
+      "titleOriginal": "'Hunger Games: Sunrise on the Reaping' Cast Beauty at London Premiere",
+      "summary": "'Hunger Games: Sunrise on the Reaping' Cast Beauty at London Premiere",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T21:14:29+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU9ma0dtazFFcGtYdnRzZjZZOVVBWVdMS0g2OHhlYjJjdlowQllKZERPNXpjNVY2Q3lsR1FWTEZWMWNSbmlWRDlBb1JQZTV4a0FfME51amhLUkktMThvMU14aEJHUjNhSVdWY0lpbEtta1FvT1FjcmdvaERhOTF1Yi1fN045ZEpBM3VuRDYzbURLeENZNC1lVzRzcU13elhkYVE?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "db3014b2107804",
       "title": "EXCLUSIVE: Hailey Bieber Opens Up About Women’s Health as Rhode Commits $5 Million to Research",
@@ -453,139 +581,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "1e70e0c2a799c6",
-      "title": "Charlotte Tilbury Expands into Southeast Asia with Jakarta Flagship",
-      "titleOriginal": "Charlotte Tilbury Expands into Southeast Asia with Jakarta Flagship",
-      "summary": "Charlotte Tilbury Expands into Southeast Asia with Jakarta Flagship",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T06:00:40+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkNvOE9iS096X3dIOWtaTWgyWVlwWkJiRzR0eUZYdnA5WUVOMlpZdEZhNkJmRHpLNnhpYjRYY1NDbUd0LW1VN19LTkNVWGViNGVPMmUtS3dtWEFBQkpZdlREaGlVNkdWZmVVcnlwMk94MWh2WXdXRGFfb1ducjJKOS1CbTR4enEzaGhzeUVJcVNSTmZpZUV3N3ZxenE5YjJObGNXbndDTQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "5331ead56a89a2",
-      "title": "Beauty Independent: Beauty’s Next Billion-Dollar Businesses Aren’t Just Beauty Brands",
-      "titleOriginal": "Beauty Independent: Beauty’s Next Billion-Dollar Businesses Aren’t Just Beauty Brands",
-      "summary": "Beauty Independent: Beauty’s Next Billion-Dollar Businesses Aren’t Just Beauty Brands",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T04:32:12+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUF4aVpxXzZZcWhfQUxIQ0c1NE5yc1REbG9udGNFSjY0S0hzSDhxb2RSZ19JWUk1VzZMRTRwWVZPeVhFeHdSLUpRdmxzeVI2Nm8yb1FqZTlDOS12dHNod3paMjNQa3M3U1RsZERXTXFubUh4TmpZVl9EaEp2dzhGMG1NQWZoM3JMS1ZqMHRObHRocG5QTHJv?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "833885b87191a4",
-      "title": "BeautyMatter MBA 2026: Expert Strategies for Scaling Beauty Brands",
-      "titleOriginal": "BeautyMatter MBA 2026: Expert Strategies for Scaling Beauty Brands",
-      "summary": "BeautyMatter MBA 2026: Expert Strategies for Scaling Beauty Brands",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T18:23:15+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzl6bldrU0NmOHNwckxnemdEQzdLVjZXY0xsdjM4d2ZlWjFaVHBzX1lBaEJySFFjNkcxaEZOUF83VlBwYXZ4MDVBWW9HVlc4WWhTR0RvY0J2b1pTcGVOTXNwZm1TaXpfcHFiSkJ5Z01LMlVvUWRmNTAxOTRwV3NQTV9uVzhSQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "445e240448afeb",
-      "title": "华熙生物2026年第三季度报告",
-      "titleOriginal": "华熙生物2026年第三季度报告",
-      "summary": "华熙生物2026年第三季度报告",
-      "why": "华熙生物（688363）的法定公告，属于可直接核验的一手披露。",
-      "analysis": {
-        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
-        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
-      },
-      "category": "financials",
-      "source": "巨潮资讯（法定公告）",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T16:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643985.PDF",
-      "companies": [
-        "华熙生物"
-      ],
-      "tags": [
-        "华熙生物",
-        "688363",
-        "上市公司公告",
-        "官方信源"
-      ],
-      "baseScore": 88,
-      "priorityDisclosure": true,
-      "signals": {
-        "impact": 10,
-        "magnitude": 9,
-        "china": 10,
-        "novelty": 8,
-        "actionability": 10
       }
     }
   ]
