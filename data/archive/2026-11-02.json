@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T06:19:14.423338+00:00",
+  "generatedAt": "2026-11-02T06:48:31.139715+00:00",
   "items": [
     {
       "id": "79797960217373",
@@ -183,6 +183,70 @@
       "companies": [],
       "tags": [
         "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c1cc297b335eeb",
+      "title": "2025具身智能赛道资本新趋势 机器人柔性电子皮肤成融资核心风口",
+      "titleOriginal": "2025具身智能赛道资本新趋势 机器人柔性电子皮肤成融资核心风口",
+      "summary": "2025具身智能赛道资本新趋势 机器人柔性电子皮肤成融资核心风口",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-01T10:43:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40SGdHUHFBT3NzSnJzOTJ0SHFFV0t6SkFrdUlyYkc2WldYRDNsV2taaVFQTmNoMWxFYUhZV1JiaXVEYXp5SW1VMmNOMnJYNWJBTjZN?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "0ed10c9ce14df3",
+      "title": "On the Nose: 2026’s Best Breakthrough Fragrance",
+      "titleOriginal": "On the Nose: 2026’s Best Breakthrough Fragrance",
+      "summary": "On the Nose: 2026’s Best Breakthrough Fragrance",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-01T08:12:30+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cTBseEFqb1FYR3U1dGdrX3k0dHo5YnhjVW9KQmllQ2lBcU5iRldPb0lVb0x6bHhCQUQ3NXdFUVliTjBRT0h6ekoyTTNDRXY3R2tlVWtFZWRTRGh4SzJGaExYOGpPelNaNjN1c2FIdzhtcXFwdFE?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
         "自动采集"
       ],
       "baseScore": 60,
@@ -512,75 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "c6d709bdad0a24",
-      "title": "广东丸美生物技术股份有限公司2026年第三季度报告",
-      "titleOriginal": "广东丸美生物技术股份有限公司2026年第三季度报告",
-      "summary": "广东丸美生物技术股份有限公司2026年第三季度报告",
-      "why": "丸美生物（603983）的法定公告，属于可直接核验的一手披露。",
-      "analysis": {
-        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
-        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
-      },
-      "category": "financials",
-      "source": "巨潮资讯（法定公告）",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T16:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225650606.PDF",
-      "companies": [
-        "丸美生物"
-      ],
-      "tags": [
-        "丸美生物",
-        "603983",
-        "上市公司公告",
-        "官方信源"
-      ],
-      "baseScore": 88,
-      "priorityDisclosure": true,
-      "signals": {
-        "impact": 10,
-        "magnitude": 9,
-        "china": 10,
-        "novelty": 8,
-        "actionability": 10
-      }
-    },
-    {
-      "id": "a7f68a482a8519",
-      "title": "Counterfeit beauty products found to contain mercury, lead and methanol",
-      "titleOriginal": "Counterfeit beauty products found to contain mercury, lead and methanol",
-      "summary": "Counterfeit beauty products found to contain mercury, lead and methanol",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T15:41:52+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQellQeE1BbWg3ZEVOX25TQWdyWC1McldLU2h2UVU4MmlvVF8zZ04xMzJjdmpucHdvMHRsNVFhYmo5RGxQbmtXM1dsbWx5SkZXT3htbk5jaTlYLWpKN3ZXTV9NV3dmenEzNDB0dGpmRkVSS1pxNWxBTTAxOG0wT0lLQzg5bTZsQk5QSDNjM2xwVnRiNnA3RWRFdk9WdnJGazg?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
