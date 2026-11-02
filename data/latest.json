@@ -1,7 +1,167 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T06:50:20.934628+00:00",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T02:47:25.669844+00:00",
   "items": [
+    {
+      "id": "eaa7775cf77957",
+      "title": "FDA Finalizes Mandatory Cosmetics Recall Guidance Under MoCRA",
+      "titleOriginal": "FDA Finalizes Mandatory Cosmetics Recall Guidance Under MoCRA",
+      "summary": "FDA Finalizes Mandatory Cosmetics Recall Guidance Under MoCRA",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-01T22:42:08+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXZGdmlfSUhuMmNveFROYWxLc25hNGhYdnI0RUQ5TzdodDIyVVVsbnRlSVJQQ3JxMUdMNE9QVWRQQ29YeDJrTTFJOVpHOFNNNExaaDk1WVRuOVQ5UHQ1NEJidGtJQ19ad2JqdzdOWUZEaHZxXzkwVmw0VHAxX1dtLUZkbUZHZXN4NWRj?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "103cefa70e354e",
+      "title": "Lady Gaga接任自创美妆品牌CEO",
+      "titleOriginal": "Lady Gaga接任自创美妆品牌CEO",
+      "summary": "Lady Gaga接任自创美妆品牌CEO",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-01T14:40:56+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PYjZYTk9qblNKS3JsS2Fva1JKM2NaWm91QUYzeU5kempMRUdqTVF4RjlYOUVxZFFvMk1lQVJfRGMxZ0VBdTZtalJGaUJ5Y3dMUWpIXw?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "6bdb96896af81b",
+      "title": "Beauty Brands Raise the Bar on Sustainable Innovation",
+      "titleOriginal": "Beauty Brands Raise the Bar on Sustainable Innovation",
+      "summary": "Beauty Brands Raise the Bar on Sustainable Innovation",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-01T11:11:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjFmRjhNblo2dmlGWmRDS2pYZzJ3cEEyQnh2R0pNeTZnd3JpX3RUMXFUa1dFRUFLUHVrbXZVUGxCUWNmbldMTXl0UVA5LXE5VGRBSU02dzdtMlRHMF9sT3RlT2liWWwzSFVvRVZ3SkN3NnRXRFlyX2ZURENqbUJFc21n?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "bb410578aca082",
+      "title": "MAC Cosmetics Donates $165K To Help Fund New Mural in NYC",
+      "titleOriginal": "MAC Cosmetics Donates $165K To Help Fund New Mural in NYC",
+      "summary": "MAC Cosmetics Donates $165K To Help Fund New Mural in NYC",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-01T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdjNXdWp4U1RQR1QtODVsVVdGYkx2dkFfTDFXVjBicmtXb3pnZm01U3B1S1VFVzdFYnB6OXdyWVpacGxEdEtOWTdxRjI4TV8tSzhoSWgtRGxVdEEyd3RjOHR2bnFHd0dPZk82QVJzd00wMUxsMjZqS2l2ZER2b2kya2JEdHFFNm8?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "891192a00651bc",
+      "title": "Senior Developer, Promotional Development, L'Oreal Dermatological Beauty, L'Oreal Operations",
+      "titleOriginal": "Senior Developer, Promotional Development, L'Oreal Dermatological Beauty, L'Oreal Operations",
+      "summary": "Senior Developer, Promotional Development, L'Oreal Dermatological Beauty, L'Oreal Operations",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPenJKUmdvcDJpcUhiR212VVo5N050Q012eGtkTnRFWWgzQU5DM25MZWNFSC1pWm84NnJIeVNmUjRXWk41bXpXS2k2dmJXUkdyRkVkUDd2c0hQSUZlRmxaVEVMaFRxTkNaY1RTRW5SeUlfTUVuS3lYZ044b2FXTktHUFhJSElaTXphQlZBOFBFektOcVZLalhlT0pnb0ptVjJTR2d1WGVaM3B3RC1TZWJOZnB3Wk15dUdmZHhqT3lvU2VldU1KSXR2U0lXNFFUaDR5U0hkcmp6eVFJY0Eyc2Jj?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "02615716bc5658",
       "title": "Victoria’s Secret Decks Beauty Brands in ‘Pink’ with New Mini Bar",
@@ -412,166 +572,6 @@
       "companies": [],
       "tags": [
         "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "dab20d2b69a614",
-      "title": "Valentino Beauty Launches First Haute Beauté Product in China",
-      "titleOriginal": "Valentino Beauty Launches First Haute Beauté Product in China",
-      "summary": "Valentino Beauty Launches First Haute Beauté Product in China",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T06:02:04+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkdYQ2g1ZFFabXEyOXV1V01LY0FEOHBncWNuTTVfbDQteWJCTTdjOExvMmlJMzE4b3JTNU4zckp3QXNZcWZUVGNiZGo2NHJlRER5N0JpenlMQXVaVEQ1cDJ0ZlFrMW5McGhHZFpFbVhJc2VvYktxTllwUkNOWWNQTWtZYS1WbTVWRHQyR2ZfMXBiNDdNejFWMk41UnVtZ2c?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "8585839f079803",
-      "title": "Kylie Jenner Files Cosmetics Trademark for Daughter Stormi",
-      "titleOriginal": "Kylie Jenner Files Cosmetics Trademark for Daughter Stormi",
-      "summary": "Kylie Jenner Files Cosmetics Trademark for Daughter Stormi",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T06:00:40+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXdPWjlJTG56QmJmQnpHWGZKTDJ2NDhGcDdia2JLSG1tQ0pRRWx0VnVnLXNybEN6bzR5Rk8zRmVKYXBOazlIdGFlcWtHdXBPUXh1eDhvQjRwWWxaTDdhUTVnUEJkcElyVWVFVE1JWEVHUDhRSGtjUGRHVy1vRVctTl9ldjhIVGFFUVZlVlpWd2luNkJLRkRZb1RZUQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "88e4b1b8e6fa44",
-      "title": "Lady Gaga Takes Over as CEO of Haus Labs",
-      "titleOriginal": "Lady Gaga Takes Over as CEO of Haus Labs",
-      "summary": "Lady Gaga Takes Over as CEO of Haus Labs",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T06:00:40+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXMwQ2hTY09sZDl1U1JETjB0dUpwcndtV2FENjYyaGg5TTM3TnpwS2JObWE3djFwRURaZmtwcEhrSDFfclBFd25VQUo2Vm1Jc09qMkR5WlFrMkhZWWlUdEtNdUpyX2l1X19sQ1RfNGNETmxKUk1xaWJscHd3a1VxOVYyYw?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "7a7b87d26f1b7a",
-      "title": "医美三剑客，业绩承压",
-      "titleOriginal": "医美三剑客，业绩承压",
-      "summary": "医美三剑客，业绩承压",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T16:46:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zdlVmWWtKMGlXUHRXbndaZGw4TndzckNGOXJjVlBFZl9CenhBTVFQdmZxMEkyaHR2SkIxS0pRazdTeHJCVW9Gd1BQTjlCdw?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "3c424c362404d5",
-      "title": "9个月360项代言合作，美妆越冷品牌越敢签？",
-      "titleOriginal": "9个月360项代言合作，美妆越冷品牌越敢签？",
-      "summary": "9个月360项代言合作，美妆越冷品牌越敢签？",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T02:54:41+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwVWdWSDRHRXdEcVV6T2laWEFxZVE4d2JLcmc0TXU2REFibHRoY1l5S3FCY2UtNUFfVEowOFZadG5PcFlqYXFkV1lieUNSaHpaOURkZg?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
         "自动采集"
       ],
       "baseScore": 60,
