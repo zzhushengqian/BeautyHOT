@@ -1,7 +1,103 @@
 {
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T02:47:25.669844+00:00",
+  "generatedAt": "2026-11-02T06:19:14.423338+00:00",
   "items": [
+    {
+      "id": "79797960217373",
+      "title": "Front Row Expands into South Korea to Support US Cosmetics Growth",
+      "titleOriginal": "Front Row Expands into South Korea to Support US Cosmetics Growth",
+      "summary": "Front Row Expands into South Korea to Support US Cosmetics Growth",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-02T06:02:27+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEhEdzBha1I1dXFqOXdyeXgwXzJtNUJESVg0YWY2OG84ZU56U3R4M0REUTBZMi1HYjk3RTRmZE8xc2p0WlVLX3d0dXdMeU9iQ0JYdkM5TTNRZE44STMzcFpGeWhmY0tfWTI1eVJyY242NnRTZVdzbmw0OFpCVXc3a3lIcXBqcVJLNVA2SzFtdE1aQUtoM2FhM1g1Q0dwNWpwZTFUQw?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "608be949aa9204",
+      "title": "India's Reliance set for best day since January 2024 as oil business, Jio Platforms lift outlook",
+      "titleOriginal": "India's Reliance set for best day since January 2024 as oil business, Jio Platforms lift outlook",
+      "summary": "India's Reliance set for best day since January 2024 as oil business, Jio Platforms lift outlook",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Reuters",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-02T03:50:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5",
+      "companies": [],
+      "tags": [
+        "Reuters",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "23e44958b0f3e5",
+      "title": "214亿，全球美妆TOP榜“守门员”涨了",
+      "titleOriginal": "214亿，全球美妆TOP榜“守门员”涨了",
+      "summary": "214亿，全球美妆TOP榜“守门员”涨了",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-02T01:29:15+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mbmJCaGprNDBPb1ItQU1vZHdpYUlLUTRJOXVZZ29SM0Y1Nll0R3Zfd2RvRURLUFNaVHVKWmhLSFhpUGEyLUJKUFBNMmZOeDRjeEpB?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "eaa7775cf77957",
       "title": "FDA Finalizes Mandatory Cosmetics Recall Guidance Under MoCRA",
@@ -473,102 +569,6 @@
       "publishedAt": "2026-10-30T15:41:52+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQellQeE1BbWg3ZEVOX25TQWdyWC1McldLU2h2UVU4MmlvVF8zZ04xMzJjdmpucHdvMHRsNVFhYmo5RGxQbmtXM1dsbWx5SkZXT3htbk5jaTlYLWpKN3ZXTV9NV3dmenEzNDB0dGpmRkVSS1pxNWxBTTAxOG0wT0lLQzg5bTZsQk5QSDNjM2xwVnRiNnA3RWRFdk9WdnJGazg?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "2fdb2fa03238ba",
-      "title": "Jennifer Lawrence Launches New Biodesigned Haircare Brand Created with Arcaea",
-      "titleOriginal": "Jennifer Lawrence Launches New Biodesigned Haircare Brand Created with Arcaea",
-      "summary": "Jennifer Lawrence Launches New Biodesigned Haircare Brand Created with Arcaea",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T14:22:14+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM3g4Z3p4alFMQ2FrbDB1ZG5xc3ZpUFI3a3JnczdrcW9nVlZ2T2ZqSHBpbHo1LXFFMVVMX1RaeEhJZTVnYi1lN29oU3J0clRZVGhmUXNZTVlBMFZVYzFsaWg5aGQ1ZU9nemRPNDh5UGdsckhKZlRpVGZNOHE3VnUxQkp3MVpISXhycW8yY3lyMzR3TkY3clVwdnNRak82UU9LcDJncUNxVy1aR2Ezc3Q3VDAwRWhZYzJhTlIwWm5kTjg4Ql80VUdJaUtHRzhtc0JBQXM2Y01jZU1qSUlraXc?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "b6874fc1a21ed6",
-      "title": "从昆明到埃里温：贝泰妮亮相COP17，把自然写进治理，以“中国方案”作答全球生物多样命题",
-      "titleOriginal": "从昆明到埃里温：贝泰妮亮相COP17，把自然写进治理，以“中国方案”作答全球生物多样命题",
-      "summary": "从昆明到埃里温：贝泰妮亮相COP17，把自然写进治理，以“中国方案”作答全球生物多样命题",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T09:15:26+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hdWNjNVVnZk5GNnVfbGQxdnJncm1CeFJiYmpMMG92TFBVVE9YU0Y4SERla1VHYkNDRUg5VWt6dHBTZFVuSTVNT3dDeC0?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "cb390d1cf52d93",
-      "title": "In Review, October 2026: Headline highlights from Boots, L’Oréal, British Beauty Council and more...",
-      "titleOriginal": "In Review, October 2026: Headline highlights from Boots, L’Oréal, British Beauty Council and more...",
-      "summary": "In Review, October 2026: Headline highlights from Boots, L’Oréal, British Beauty Council and more...",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T07:09:46+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMWZWbjhWZ04tNjhka01yNHM0ZkF1YllOaFg4ek5RcFgwUEROUl9mRkhDZ1Ezajc2alFOeDFrTUhfakNZZTlMZHBSakpleGNDeVlTZUYweGcwRWNXZkxVaFYtczF2VVBtOThxRUFQMnpHTU00RVFFdTV5STZ3dk9pM3FBU28zeHZJT2txeTdseF9OdmpQWG5jMWdkNGJ2WnBQY2hONzlxQ0djazAxcWVmWGQxNlRfVWt2aElqVQ?oc=5",
       "companies": [],
       "tags": [
         "TheIndustry.beauty",
