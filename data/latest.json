@@ -1,7 +1,391 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T07:14:03.298267+00:00",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T03:21:53.320484+00:00",
   "items": [
+    {
+      "id": "a9967c9a7837f4",
+      "title": "Q3 2026 Fragrance Launches: New Perfumes, Trends, and Standout Scents",
+      "titleOriginal": "Q3 2026 Fragrance Launches: New Perfumes, Trends, and Standout Scents",
+      "summary": "Q3 2026 Fragrance Launches: New Perfumes, Trends, and Standout Scents",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T23:12:53+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnpXTXdBNXZBUy1WQlg3RFJ4VEFjTktPX2hSQ3V1YjZrU1RzbFhCQ2dCemRlRUxwXzRzbjUyamVvRC1IanZJckluY2FkZnJXVXduNjZYNFdLMDE4RmhEdWVBb2VjeXRPVzdkdGtlZGp5cm93VWF5WkN5Yk9PbTBDdzZB?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "02c5e704ee6ea0",
+      "title": "Winners Announced at in-cosmetics Asia 2026 Awards",
+      "titleOriginal": "Winners Announced at in-cosmetics Asia 2026 Awards",
+      "summary": "Winners Announced at in-cosmetics Asia 2026 Awards",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T21:33:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGlmclFlS1VVS0hGS1BJczIwWUZzS1hydnRJWE94dE9HbXZmdWduNUtDYzJTTW9mTC1hN2k1MFNiMm1MalFRQl95alNTdHNNcHJSdnlOODlaeVRLOTNFSWpYRzNfbGdFOHFDTG1JZ25TX2NsS1UyUk5HNTJIeDdUWUlRd2gtQmlxak1vTHlqUXA5R1ZQWkNmcS1hRmJBVTBMNThMQmE1LTNsTEZ5anhsY0wxVGM5dFNvWXpaS3hTYw?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a6f4e6f95f1c3f",
+      "title": "Consumers Demand Proof – The Skincare Efficacy Race",
+      "titleOriginal": "Consumers Demand Proof – The Skincare Efficacy Race",
+      "summary": "Consumers Demand Proof – The Skincare Efficacy Race",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T21:09:22+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0MxMFlQYmk4VkZXMmRTMUotcndzcHN2dlF1TVZPd2dmYTBTTHZqN1NqUG50czFlb1RWYk5ON3RMNTV1UW1IVUpoRHdWSmFtWkxKcVB1NnNNanUtclZnX18wZFd5Mkg0Vjk2QjB3WDczMGNSclZvSjNZSXFuTHZ1dW5kTUdwNlYyMlBEVVdnT2tqeElmRHhyUHJCWHFZZGlY?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "92e99e53c3ee97",
+      "title": "Winners Revealed at In-Cosmetics Asia 2026",
+      "titleOriginal": "Winners Revealed at In-Cosmetics Asia 2026",
+      "summary": "Winners Revealed at In-Cosmetics Asia 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T18:45:18+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QNGstRjA4RWVxR3dUcGFQSkhOU0VYQU4wOG1HeEh3ZHZBbFBqbWg5b0dFSVhrUzVNM1dyLU5WdnZieGU4X3VhWDBjV1FudWVNSHFaOXk0Q2I0S1lhTEtkNjIxNU1Za0RmSFNmaGl1aXpnTzlReTJaUXpwNmExZWc?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e58ea1b2a20e83",
+      "title": "Unilever targets $1.12 billion savings in home, personal care pivot",
+      "titleOriginal": "Unilever targets $1.12 billion savings in home, personal care pivot",
+      "summary": "Unilever targets $1.12 billion savings in home, personal care pivot",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Reuters",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T18:06:53+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFJYeG9UMjdNc1k0TElralpWVEwzN1lCTkVMV0V3VUlEYW5sV1RhVUk0MzFKSGZNNGFFTVVBcmRlR0h0VWExMFIyNlAzaFhOWklFLXo1Z25qNlBGYUtCMmNfeDltTlk4MVpkZmVpaHlrOTl6Ylg5VnFxcU5DYWtEczVPQ3FBRVhqZlJETmQxNFlnVVc0OXZOYmM0aXc5UFUyS2RqYVFIT1pZcTVmRkE?oc=5",
+      "companies": [],
+      "tags": [
+        "Reuters",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a41cde174149d7",
+      "title": "Clariant Launches Three New Ingredients at in-cosmetics Asia 2026",
+      "titleOriginal": "Clariant Launches Three New Ingredients at in-cosmetics Asia 2026",
+      "summary": "Clariant Launches Three New Ingredients at in-cosmetics Asia 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T17:42:12+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZVNiaUZucGo0VXZiU2lTVlZCSUZrZ0FXSzhxZGM5X2J4RF8taExHM0hERjVMeEtjUW9FaURBRGFkMlBmdG1vVmRWZUx5czJaaHA3MWEyY052bS15WGt1ejlNdm9wN1poaVN6NllzWUJ0dkdvSFVrSXlET3FoSlhuSXc1ZWNLd01pN09uRVpSZW92aGZZY0E3Z09vanZ6RVFQQTM4UUNsSGhpQVVGYzV1SVdDckZ3bTlHbEdaUGhpenI1SmdxNVFicXQ4M0hLQzlxcnlaaFRuSlU0aE5WMHh5UEdzRFVIRkJNN2tBYkpoc29SZkQ2ZDdicW5DSE53eFR3WVVz?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "f57a4b75f74203",
+      "title": "CAIA Cosmetics to open first UK pop-up in London this December",
+      "titleOriginal": "CAIA Cosmetics to open first UK pop-up in London this December",
+      "summary": "CAIA Cosmetics to open first UK pop-up in London this December",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T17:28:56+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT2FwTExvbjBVWGw3a3F0ekNJdjhxcnJXWmdzb0xMQ0x2eXNwOHVqZ21neWEtaXNFcmFpWVRKc0JSWmNRTEpGOVhWVjhQZS1hbkgwX0dpTkRpbzdSZFZBRG1adktKZmJqZ2FZbExlYWNHcHlpWUN4NktieUJxZVRlUGs2NmNsb1N3OGpObm5OeHV6UlF3?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "f6c592df140613",
+      "title": "Violette_FR launches at Sephora UK across ten stores",
+      "titleOriginal": "Violette_FR launches at Sephora UK across ten stores",
+      "summary": "Violette_FR launches at Sephora UK across ten stores",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T15:24:11+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RSE9kQzlNRVNWbEYwYTF3dUlLTy0yczJVUkJMeG1MVXlqMVotVXRUX0U4SGc1Tnp3aERvQmFGNE5hSk1veWlzbU83VExqRU1qTlFFQlE2NG1ISW1lemo5aWk1SjMyOWlOX0xN?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "2629c560a1a1ef",
+      "title": "KLK OLEO showcases its Personal Care portfolio at Making Cosmetics 2026",
+      "titleOriginal": "KLK OLEO showcases its Personal Care portfolio at Making Cosmetics 2026",
+      "summary": "KLK OLEO showcases its Personal Care portfolio at Making Cosmetics 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T15:04:09+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0Jtc0ZXSThBSWNtaTNoZUFSc0ZvNlJOM2gySU1UVnNPaTV4VGlQUnNJamRoWUIxRUZHZEJsbi16d041MHlfYWxLVWVDdy1iYmJrUmNGdXhUaTF1d2dEZ0dNQkFUMW9VVU9FdkdpSDdGS0VkZW1TaFM2bDJEaThTNUJhTU4zcjZkWVROZmJZTUVrdmpLdTJRczhZWE1fSEtoUmhWMQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b4498546b4bb16",
+      "title": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+      "titleOriginal": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+      "summary": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T10:47:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3Z0enFMUXdnVFQ5WjRBb0RPcEZ0QWtiMFhjeGF3VFN2NFJiTllma09zNnVLVmZrR1JkbGx0b1o4SzRfQlpsQVlvR3ZKSzliZkdzUW82WGdHakZLVG45YlZOVFpSdlB0c21SN3R3dTBMTWJ2N3FqTkVOMDIxX2FzSWllNzdsb3l3UklOanUzdE5aZ0NMdzNUNWtJODB1OV94?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "bfab2b9e499a57",
+      "title": "2027 L'Oréal USA Fellowship Program at L'Oreal",
+      "titleOriginal": "2027 L'Oréal USA Fellowship Program at L'Oreal",
+      "summary": "2027 L'Oréal USA Fellowship Program at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-02T12:33:21+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEVLcE5DZzZ2RWplV2RlQWdPVmU2Rlk0RlRYS1NjRHRIbGhJUExVR1VqLXFQc0draXlRLTJZelFLdV9FcEdQemFkVXlZcHRGY2VMLU1QdVNhQmx5d2NJQ0RkSm90MEFHTTBZazk3WW10by1LSFFtTGRWcGl0TnRHdzk0QzNvOWcxeDNlYlhCS1ZEdkluSGJNV1A1WQ?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "7eac9bd902e745",
+      "title": "Designer - Too Faced Cosmetics",
+      "titleOriginal": "Designer - Too Faced Cosmetics",
+      "summary": "Designer - Too Faced Cosmetics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T14:14:21+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc05UZ0JtUF9VR0MwSDNVazlXaUtIZUpMNVZWd0NrVnZwTG9CTk9kZjN0X1h1TEoyV2dnWE1IZWQ1V3VOUTQ2a3BuQy1nZVU1ZE9VN0xSU1N6eDl4SmtPWXV1dW1rSDBoNDJuUE5XdXVsazh3eUVETGRBT19SUFh6alFRWG9ZQWM?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "9726d2f7707739",
       "title": "CVC, Cinven and Puig Eye Parfums de Marly Acquisition",
@@ -192,390 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "2550c78f1bca4a",
-      "title": "Estee Lauder cuts promotions as luxury fragrances help lift outlook",
-      "titleOriginal": "Estee Lauder cuts promotions as luxury fragrances help lift outlook",
-      "summary": "Estee Lauder cuts promotions as luxury fragrances help lift outlook",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Reuters",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T15:56:58+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbmZJd2JrWjJua2JQc3F6Mnd3VWlMNmgySGtwRTN6N1hoeXIwYWdJXzNweENWSUVfc2J2SndsRThHYVZaeklXYlBIN0xISWs3UGtGRHVXeElhbXpzcEhPUGx6Z1puTndTQVZDRTZadmZmeS1GMFVERXpmMFR4REdhUjZRY3BqRDc4WWpoVmhNdWdYcHBYdGxtblJrcnR1Q0xmRUN6cXpSVmdfVXZNYXlwMUNTc3Y5bHQ4dll2S044UFhyZnNJNW5CRi1vdl9senA0?oc=5",
-      "companies": [],
-      "tags": [
-        "Reuters",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "4dfbbba02e45fd",
-      "title": "The Estée Lauder Companies reports continued growth, with fragrance still driving the charge",
-      "titleOriginal": "The Estée Lauder Companies reports continued growth, with fragrance still driving the charge",
-      "summary": "The Estée Lauder Companies reports continued growth, with fragrance still driving the charge",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Glossy",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T15:00:54+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUZZWWJOdVhxaFg3RDNOLTA0ZVJPdlBTeHNPcmphRk53dVJ6S0FjdUtHWUl1SEtjdnU4Q1lWTEE3REVVX2oxNFd3dlVULXI3TVo0cl9nUFNLMXprV2NrZ2FwZ0Rna243eTBDMnkyM2hYdVJBSVRwZll5X2lYTHcyWDduQ2FsTkxTc2txMERqYjJZMzZsNWpkZWVVLWU4bGtMWC16MTNWcDdlT2xaQk92SElENDNGODZYUDNnSDZn?oc=5",
-      "companies": [],
-      "tags": [
-        "Glossy",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "db757e1ac15a07",
-      "title": "Selfridges opens permanent Biodance and Medicube counters in new K-Beauty destination",
-      "titleOriginal": "Selfridges opens permanent Biodance and Medicube counters in new K-Beauty destination",
-      "summary": "Selfridges opens permanent Biodance and Medicube counters in new K-Beauty destination",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T11:33:56+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVExWFU2bF81ZHFHZDc3QWRIM3pMcVpTRVh3UHdYT0F1WmlxdVZGaTI3Yll3aDFnM1poVnF0YnA1dlBhdmRyU2dmU1Awa19aVnFjVV9RampCek5vdERZTzMxaVVGaWtPaHd4ZFRwQkVfTWVDaEw4OTYtVGlCR2g1SmlqeXo5cG1hYlByTzBvT0RWcUZqODE1bWhXb01YaXBSb2lyYVFYWnBUemFoUzVWVmtYcw?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "1114b2eee3c6e8",
-      "title": "知名护肤品牌倒在双11前",
-      "titleOriginal": "知名护肤品牌倒在双11前",
-      "summary": "知名护肤品牌倒在双11前",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T07:42:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mSm56Z2JqTWlKc0xhdWQtdUFKV2lfYkhwekxuODNLN2Jfb2JneGdFZ2piN0wzejhSMDdsdTZBQ0tzRVZaMGVSaHNGejFFZw?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "79797960217373",
-      "title": "Front Row Expands into South Korea to Support US Cosmetics Growth",
-      "titleOriginal": "Front Row Expands into South Korea to Support US Cosmetics Growth",
-      "summary": "Front Row Expands into South Korea to Support US Cosmetics Growth",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T06:02:27+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEhEdzBha1I1dXFqOXdyeXgwXzJtNUJESVg0YWY2OG84ZU56U3R4M0REUTBZMi1HYjk3RTRmZE8xc2p0WlVLX3d0dXdMeU9iQ0JYdkM5TTNRZE44STMzcFpGeWhmY0tfWTI1eVJyY242NnRTZVdzbmw0OFpCVXc3a3lIcXBqcVJLNVA2SzFtdE1aQUtoM2FhM1g1Q0dwNWpwZTFUQw?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "608be949aa9204",
-      "title": "India's Reliance set for best day since January 2024 as oil business, Jio Platforms lift outlook",
-      "titleOriginal": "India's Reliance set for best day since January 2024 as oil business, Jio Platforms lift outlook",
-      "summary": "India's Reliance set for best day since January 2024 as oil business, Jio Platforms lift outlook",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Reuters",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T03:50:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5",
-      "companies": [],
-      "tags": [
-        "Reuters",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "23e44958b0f3e5",
-      "title": "214亿，全球美妆TOP榜“守门员”涨了",
-      "titleOriginal": "214亿，全球美妆TOP榜“守门员”涨了",
-      "summary": "214亿，全球美妆TOP榜“守门员”涨了",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T01:29:15+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mbmJCaGprNDBPb1ItQU1vZHdpYUlLUTRJOXVZZ29SM0Y1Nll0R3Zfd2RvRURLUFNaVHVKWmhLSFhpUGEyLUJKUFBNMmZOeDRjeEpB?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "eaa7775cf77957",
-      "title": "FDA Finalizes Mandatory Cosmetics Recall Guidance Under MoCRA",
-      "titleOriginal": "FDA Finalizes Mandatory Cosmetics Recall Guidance Under MoCRA",
-      "summary": "FDA Finalizes Mandatory Cosmetics Recall Guidance Under MoCRA",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-01T22:42:08+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXZGdmlfSUhuMmNveFROYWxLc25hNGhYdnI0RUQ5TzdodDIyVVVsbnRlSVJQQ3JxMUdMNE9QVWRQQ29YeDJrTTFJOVpHOFNNNExaaDk1WVRuOVQ5UHQ1NEJidGtJQ19ad2JqdzdOWUZEaHZxXzkwVmw0VHAxX1dtLUZkbUZHZXN4NWRj?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "103cefa70e354e",
-      "title": "Lady Gaga接任自创美妆品牌CEO",
-      "titleOriginal": "Lady Gaga接任自创美妆品牌CEO",
-      "summary": "Lady Gaga接任自创美妆品牌CEO",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-01T14:40:56+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PYjZYTk9qblNKS3JsS2Fva1JKM2NaWm91QUYzeU5kempMRUdqTVF4RjlYOUVxZFFvMk1lQVJfRGMxZ0VBdTZtalJGaUJ5Y3dMUWpIXw?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "6bdb96896af81b",
-      "title": "Beauty Brands Raise the Bar on Sustainable Innovation",
-      "titleOriginal": "Beauty Brands Raise the Bar on Sustainable Innovation",
-      "summary": "Beauty Brands Raise the Bar on Sustainable Innovation",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-01T11:11:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjFmRjhNblo2dmlGWmRDS2pYZzJ3cEEyQnh2R0pNeTZnd3JpX3RUMXFUa1dFRUFLUHVrbXZVUGxCUWNmbldMTXl0UVA5LXE5VGRBSU02dzdtMlRHMF9sT3RlT2liWWwzSFVvRVZ3SkN3NnRXRFlyX2ZURENqbUJFc21n?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "c1cc297b335eeb",
-      "title": "2025具身智能赛道资本新趋势 机器人柔性电子皮肤成融资核心风口",
-      "titleOriginal": "2025具身智能赛道资本新趋势 机器人柔性电子皮肤成融资核心风口",
-      "summary": "2025具身智能赛道资本新趋势 机器人柔性电子皮肤成融资核心风口",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-01T10:43:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40SGdHUHFBT3NzSnJzOTJ0SHFFV0t6SkFrdUlyYkc2WldYRDNsV2taaVFQTmNoMWxFYUhZV1JiaXVEYXp5SW1VMmNOMnJYNWJBTjZN?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "0ed10c9ce14df3",
-      "title": "On the Nose: 2026’s Best Breakthrough Fragrance",
-      "titleOriginal": "On the Nose: 2026’s Best Breakthrough Fragrance",
-      "summary": "On the Nose: 2026’s Best Breakthrough Fragrance",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-01T08:12:30+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cTBseEFqb1FYR3U1dGdrX3k0dHo5YnhjVW9KQmllQ2lBcU5iRldPb0lVb0x6bHhCQUQ3NXdFUVliTjBRT0h6ekoyTTNDRXY3R2tlVWtFZWRTRGh4SzJGaExYOGpPelNaNjN1c2FIdzhtcXFwdFE?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
