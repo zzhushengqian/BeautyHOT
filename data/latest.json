@@ -1,7 +1,71 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T03:21:53.320484+00:00",
+  "generatedAt": "2026-11-04T06:36:25.956124+00:00",
   "items": [
+    {
+      "id": "c69de97ae06ccf",
+      "title": "Demand Planner at L'Oreal",
+      "titleOriginal": "Demand Planner at L'Oreal",
+      "summary": "Demand Planner at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T05:01:22+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZZW1HV0t0T1BvUFUwd0Z2WEIyNjI4bU02VjhRRUp2R3g2R3l5N2NIVE1yY29YT1RtNUdxbGNyWTFLbXJ2eW9hWUliYjlJdlp0N0h2bVRZelFxZTB3RDlvYzRUbVZyYmI2Z05PU2NROGcwN1dFVHl3ejl3SHY?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b4498546b4bb16",
+      "title": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+      "titleOriginal": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+      "summary": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T03:37:06+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3Z0enFMUXdnVFQ5WjRBb0RPcEZ0QWtiMFhjeGF3VFN2NFJiTllma09zNnVLVmZrR1JkbGx0b1o4SzRfQlpsQVlvR3ZKSzliZkdzUW82WGdHakZLVG45YlZOVFpSdlB0c21SN3R3dTBMTWJ2N3FqTkVOMDIxX2FzSWllNzdsb3l3UklOanUzdE5aZ0NMdzNUNWtJODB1OV94?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "a9967c9a7837f4",
       "title": "Q3 2026 Fragrance Launches: New Perfumes, Trends, and Standout Scents",
@@ -49,7 +113,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-03T21:33:45+00:00",
+      "publishedAt": "2026-11-03T21:42:13+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGlmclFlS1VVS0hGS1BJczIwWUZzS1hydnRJWE94dE9HbXZmdWduNUtDYzJTTW9mTC1hN2k1MFNiMm1MalFRQl95alNTdHNNcHJSdnlOODlaeVRLOTNFSWpYRzNfbGdFOHFDTG1JZ25TX2NsS1UyUk5HNTJIeDdUWUlRd2gtQmlxak1vTHlqUXA5R1ZQWkNmcS1hRmJBVTBMNThMQmE1LTNsTEZ5anhsY0wxVGM5dFNvWXpaS3hTYw?oc=5",
       "companies": [],
@@ -291,38 +355,6 @@
       }
     },
     {
-      "id": "b4498546b4bb16",
-      "title": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
-      "titleOriginal": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
-      "summary": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-03T10:47:45+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3Z0enFMUXdnVFQ5WjRBb0RPcEZ0QWtiMFhjeGF3VFN2NFJiTllma09zNnVLVmZrR1JkbGx0b1o4SzRfQlpsQVlvR3ZKSzliZkdzUW82WGdHakZLVG45YlZOVFpSdlB0c21SN3R3dTBMTWJ2N3FqTkVOMDIxX2FzSWllNzdsb3l3UklOanUzdE5aZ0NMdzNUNWtJODB1OV94?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
       "id": "bfab2b9e499a57",
       "title": "2027 L'Oréal USA Fellowship Program at L'Oreal",
       "titleOriginal": "2027 L'Oréal USA Fellowship Program at L'Oreal",
@@ -375,6 +407,38 @@
       "companies": [],
       "tags": [
         "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a0d3a07174d226",
+      "title": "Product Marketing Analyst - BeneFit Cosmetics - BE...",
+      "titleOriginal": "Product Marketing Analyst - BeneFit Cosmetics - BE...",
+      "summary": "Product Marketing Analyst - BeneFit Cosmetics - BE...",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "LVMH",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUlxd0tvU2VkYVhEOU5EdlZVWWRDY2ZBRWFqZ21WazRPVzBCREZUbndnWHBoWjlMS181QVk0RkpVemFUOXYxWW9ITFVxRFF2MmEzSmotSFd2eUtzRF9wclhiVGdIRVpNb1pOMUJWa2J5LVFsam9HNUhNRjN1UzRJdFk0SFcyajFtN2VNV0IybkhxckJX?oc=5",
+      "companies": [],
+      "tags": [
+        "LVMH",
         "官方信源"
       ],
       "baseScore": 60,
@@ -512,70 +576,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 6
-      }
-    },
-    {
-      "id": "f3af650269af19",
-      "title": "Baralan and Istituto Marangoni Milano Join Forces to Train the Next Generation of Cosmetic Packaging Talent",
-      "titleOriginal": "Baralan and Istituto Marangoni Milano Join Forces to Train the Next Generation of Cosmetic Packaging Talent",
-      "summary": "Baralan and Istituto Marangoni Milano Join Forces to Train the Next Generation of Cosmetic Packaging Talent",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T20:44:48+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeXMxZ0Q5ZkFzY1d1dzBwNnVJZTdNVC1UZnZvYnUwQURtbzA5S1p2Z3d2RTVfUTNiUGI2RkgwLTBteWNpeVpWSEdtMHZZMS0tOTFVeGdVbnBzbUZTdUlvWmhvRy14alMyb051WnpWdUktMnFUOVhEbXVPbWYyd0x2VTczM3VMWHR6MUM2LWhUQXNtUmZxOTVrQVoyeDVVV2tVd0tld2NnQlBxWWRIQndQdjNtUHQ1aEhQMDBwWDJGODJORXBuVUVwN3c5RzhrR0tRRGsxVHRUUXdCNC1ER2VQVjFZaDlxd0xqU2hhdXNSbkNwZVVvTkpBSG10MkN3Qk53Z2t3?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "aeb15331ae6d68",
-      "title": "Biodance and Medicube Bring K-Beauty to Selfridges’ Luxury Retail",
-      "titleOriginal": "Biodance and Medicube Bring K-Beauty to Selfridges’ Luxury Retail",
-      "summary": "Biodance and Medicube Bring K-Beauty to Selfridges’ Luxury Retail",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T18:27:25+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xY3NnRmYtNUFpV1AzLW1qTHJuWEhFTXA5d1BLTDJNYXVvZ1JHTWI1YnVPeUZIN0NlYTYzencwOHlJQXF1TXJzcHlPR1FabEw1eWlwM1M1QXFVZGJDWWNqZ25FUS1yU2lFekxrcGdLcw?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
