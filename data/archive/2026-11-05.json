@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T03:46:14.194353+00:00",
+  "generatedAt": "2026-11-05T06:56:46.866448+00:00",
   "items": [
     {
       "id": "244b78ac0a5304",
@@ -49,7 +49,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-04T21:53:33+00:00",
+      "publishedAt": "2026-11-04T21:54:45+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS2U2Qlo1elhBS2FDWnpZTmU0MnJFOU9YUnJJSEExS3JXOFY1eG9CUWNSVUZHZTlTWkc2U1lWOWFUVDRsby1oVkhQSS1ZWUdUTUZVT0pTcjVzeEp4dVM1RUhoNFFWV3dWRGxMaDgyeDFuTmZaTjNwX2xPMTlDUWlVQmR1bzl0eTlpNkhMR1UwM2NQQzF5YlRmYVhsYXU5TzBpV1NsTXJkbDBtcktKRUlKX3BQQm9Ydk51WE5kR1Aydnduem9zbUNyZjRaMTEzMHBobmUzVXVVRXREX0RhYTNaNnMyMkFhVzJkemhIdlNB?oc=5",
       "companies": [],
@@ -87,6 +87,38 @@
       "companies": [],
       "tags": [
         "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "bc26dd632cc9ed",
+      "title": "Fenty Beauty and CASETiFY Serve On-The-Go Glam To Consumers",
+      "titleOriginal": "Fenty Beauty and CASETiFY Serve On-The-Go Glam To Consumers",
+      "summary": "Fenty Beauty and CASETiFY Serve On-The-Go Glam To Consumers",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T19:44:05+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkx3VFlXcGpFdDM5SG9jMmFFN3I4UzRlckFGNkhUZTNCSFRGWEVTcnFfMDhGblpleW9LREgtQVRtY181WFI4X0Zvb2pRelJGVGZRY2FmTjNjRGdRR2JzMnBWUXdxRXJSSWg2WU14WktURFI0RUpUWS1vSFRub18xT2hpcGF4cTdVVWFkd2RsVjFQZmlVeWJqc0JiSlk3UlFwRXM0N2xrV0NBaTFsWkVSM3RXT1Y0bmF4YWJVLUI0VEhuTmRWc3NR?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
         "自动采集"
       ],
       "baseScore": 60,
@@ -159,6 +191,38 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2ffd061b438935",
+      "title": "EXCLUSIVE: Kathy Hilton Gets Hands-on With New Beauty Brand Touché",
+      "titleOriginal": "EXCLUSIVE: Kathy Hilton Gets Hands-on With New Beauty Brand Touché",
+      "summary": "EXCLUSIVE: Kathy Hilton Gets Hands-on With New Beauty Brand Touché",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T17:02:04+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3BnSVpxaWg3VWJqVVFRR0ZMV3ktVDZwMVEyd3pJQ0twbWNSLTZrOTBjRl85bUpta2RYMFVIenNOTXAzcm9ORzhCTzYyNnM1VHN3clBMREQxRUFoaDNPUGZKc3J4T0RLUXdveHR5eTN4NUZuZGNWWTBkUjVYUnBQNF9PTGY3ak1kaUFwYTFSS2JrYmRQOHdSTzU1UGtwS0ViOGYw?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
         "actionability": 6
       }
     },
@@ -355,6 +419,38 @@
       }
     },
     {
+      "id": "58a62bc93e6c06",
+      "title": "Mibelle Biochemistry Introduces PhytoCellTec Aloha at in-cosmetics Asia 2026",
+      "titleOriginal": "Mibelle Biochemistry Introduces PhytoCellTec Aloha at in-cosmetics Asia 2026",
+      "summary": "Mibelle Biochemistry Introduces PhytoCellTec Aloha at in-cosmetics Asia 2026",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics & Toiletries",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T17:47:10+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOclQ2UThpaFJwNFJFTkdNRnp0a1V2YXp6dEtFcG5TXzU0WXBnOGlWSWNPbWNGTG91RkhtOUt2VmJqeWdGaWNSU3pvbWJxRElKRWtxMmhKQVdUdDBzc2JyS3FNRDZSdWZ2MUYxLXpuak0wOG5xMkNGOWJSeXlfLW5WVURjSWsxeGYwRGowRGpWbEVPdTZNd19XUWh2SFJISHNybWl2ampKQXU5TUtqSVlNejdNS1BZdEc5RTVWdVlyeEpuYlV3QUJNd25KSjYtdUd3bFpSM1B1Uk96VWhreGdyVHNaenZsSElyZTc2ckt1WFVGUjZ4YV9KZmpLd2YxeE01QjcyR1ZseVdaRy1CRjJYWVM2TEctZjRBNTR1WA?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics & Toiletries",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "f4ebbd1dd8ed96",
       "title": "Graduate Management Trainee – Marketing (London) at L'Oreal",
       "titleOriginal": "Graduate Management Trainee – Marketing (London) at L'Oreal",
@@ -480,102 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "a9967c9a7837f4",
-      "title": "Q3 2026 Fragrance Launches: New Perfumes, Trends, and Standout Scents",
-      "titleOriginal": "Q3 2026 Fragrance Launches: New Perfumes, Trends, and Standout Scents",
-      "summary": "Q3 2026 Fragrance Launches: New Perfumes, Trends, and Standout Scents",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-03T23:12:53+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnpXTXdBNXZBUy1WQlg3RFJ4VEFjTktPX2hSQ3V1YjZrU1RzbFhCQ2dCemRlRUxwXzRzbjUyamVvRC1IanZJckluY2FkZnJXVXduNjZYNFdLMDE4RmhEdWVBb2VjeXRPVzdkdGtlZGp5cm93VWF5WkN5Yk9PbTBDdzZB?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "02c5e704ee6ea0",
-      "title": "Winners Announced at in-cosmetics Asia 2026 Awards",
-      "titleOriginal": "Winners Announced at in-cosmetics Asia 2026 Awards",
-      "summary": "Winners Announced at in-cosmetics Asia 2026 Awards",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics & Toiletries",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-03T21:42:13+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGlmclFlS1VVS0hGS1BJczIwWUZzS1hydnRJWE94dE9HbXZmdWduNUtDYzJTTW9mTC1hN2k1MFNiMm1MalFRQl95alNTdHNNcHJSdnlOODlaeVRLOTNFSWpYRzNfbGdFOHFDTG1JZ25TX2NsS1UyUk5HNTJIeDdUWUlRd2gtQmlxak1vTHlqUXA5R1ZQWkNmcS1hRmJBVTBMNThMQmE1LTNsTEZ5anhsY0wxVGM5dFNvWXpaS3hTYw?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics & Toiletries",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "a6f4e6f95f1c3f",
-      "title": "Consumers Demand Proof – The Skincare Efficacy Race",
-      "titleOriginal": "Consumers Demand Proof – The Skincare Efficacy Race",
-      "summary": "Consumers Demand Proof – The Skincare Efficacy Race",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-03T21:09:22+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0MxMFlQYmk4VkZXMmRTMUotcndzcHN2dlF1TVZPd2dmYTBTTHZqN1NqUG50czFlb1RWYk5ON3RMNTV1UW1IVUpoRHdWSmFtWkxKcVB1NnNNanUtclZnX18wZFd5Mkg0Vjk2QjB3WDczMGNSclZvSjNZSXFuTHZ1dW5kTUdwNlYyMlBEVVdnT2tqeElmRHhyUHJCWHFZZGlY?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
