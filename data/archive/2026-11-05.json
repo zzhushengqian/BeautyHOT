@@ -1,7 +1,39 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T06:56:46.866448+00:00",
+  "generatedAt": "2026-11-05T07:23:22.095320+00:00",
   "items": [
+    {
+      "id": "dd51dabec75e8c",
+      "title": "从产品到品牌，DPDP以“练习型研发”探索纯净彩妆长期路径",
+      "titleOriginal": "从产品到品牌，DPDP以“练习型研发”探索纯净彩妆长期路径",
+      "summary": "从产品到品牌，DPDP以“练习型研发”探索纯净彩妆长期路径",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T06:59:32+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPb2hrSmtaNS1PMEhWbTJYeEZFWThZWmlPaFhvNDlPYUNOdTBwZHZ6RjBjbGd5TTg2SzRjTU4yYnVES0tUdlA4LVZ6ZW5zMGVwbGRMNWltRjg?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "244b78ac0a5304",
       "title": "Rhode’s European summer fuels 51% sales spike for E.l.f. Beauty",
@@ -259,38 +291,6 @@
       }
     },
     {
-      "id": "611c81ba3b68e7",
-      "title": "3 - Estee Lauder Companies",
-      "titleOriginal": "3 - Estee Lauder Companies",
-      "summary": "3 - Estee Lauder Companies",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-04T09:48:17+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNW81ZnBNYUV2ZWpFdWNEWVhCX2cwREd0Z2Q1WlRnMzJpbjNpYnM3cDVvOTJsdEtDdEpfdjA1cWk4aW9qQW9HTG05WHNObGJtc0lraFBIb0pyMFdGVFhwS1BTZDRXVDZmaUhIS3UxbmYyZkdWZV9Nam9nMWxDdDFtcXZVcHhuR3BlbExJb3NjSm05a3ZtbUtJNHpUNmxydFNDRHRrRXJNYjZ4WHE3TTNqQ0hLbElraUlucVUweHVReUppNm13TWtlZmpmNndPa0NHRkdOR1ZFU3NfU01FS1l2TjNMMTZYclNKNG5sUFZaTElUVGJ6THU2blNYMA?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "0ee8525e44287b",
       "title": "Coty Extends Marc Jacobs License, Securing 40-Year License Duration",
       "titleOriginal": "Coty Extends Marc Jacobs License, Securing 40-Year License Duration",
@@ -451,6 +451,38 @@
       }
     },
     {
+      "id": "ddac1039327deb",
+      "title": "Ouai enters fragrance wearables through Heaven Mayhem jewellery collaboration",
+      "titleOriginal": "Ouai enters fragrance wearables through Heaven Mayhem jewellery collaboration",
+      "summary": "Ouai enters fragrance wearables through Heaven Mayhem jewellery collaboration",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T11:19:30+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFAyQlFFNFEwa1RFMGs1eDktQmNTQWZHcEVKV2VIR2VHWldSeFhSZ2lPd0s4Z09FVmxsUHBaWFdDMjJkR0dSVkRyZVFrWmdJUW1GdEt6U3FCc2pMWUVseFBKLTI3NXFHUUdDTWQtWlVfWHNVTThiTWJGSW9EYzE1X3hTYl9QcC1fRHM2YTVsamlXMkU?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "f4ebbd1dd8ed96",
       "title": "Graduate Management Trainee – Marketing (London) at L'Oreal",
       "titleOriginal": "Graduate Management Trainee – Marketing (London) at L'Oreal",
@@ -471,6 +503,38 @@
       "companies": [],
       "tags": [
         "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "611c81ba3b68e7",
+      "title": "3 - Estee Lauder Companies",
+      "titleOriginal": "3 - Estee Lauder Companies",
+      "summary": "3 - Estee Lauder Companies",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T09:48:17+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNW81ZnBNYUV2ZWpFdWNEWVhCX2cwREd0Z2Q1WlRnMzJpbjNpYnM3cDVvOTJsdEtDdEpfdjA1cWk4aW9qQW9HTG05WHNObGJtc0lraFBIb0pyMFdGVFhwS1BTZDRXVDZmaUhIS3UxbmYyZkdWZV9Nam9nMWxDdDFtcXZVcHhuR3BlbExJb3NjSm05a3ZtbUtJNHpUNmxydFNDRHRrRXJNYjZ4WHE3TTNqQ0hLbElraUlucVUweHVReUppNm13TWtlZmpmNndPa0NHRkdOR1ZFU3NfU01FS1l2TjNMMTZYclNKNG5sUFZaTElUVGJ6THU2blNYMA?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
         "官方信源"
       ],
       "baseScore": 60,
@@ -512,70 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "c69de97ae06ccf",
-      "title": "Demand Planner at L'Oreal",
-      "titleOriginal": "Demand Planner at L'Oreal",
-      "summary": "Demand Planner at L'Oreal",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-04T05:01:22+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZZW1HV0t0T1BvUFUwd0Z2WEIyNjI4bU02VjhRRUp2R3g2R3l5N2NIVE1yY29YT1RtNUdxbGNyWTFLbXJ2eW9hWUliYjlJdlp0N0h2bVRZelFxZTB3RDlvYzRUbVZyYmI2Z05PU2NROGcwN1dFVHl3ejl3SHY?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "b4498546b4bb16",
-      "title": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
-      "titleOriginal": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
-      "summary": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-04T03:37:06+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3Z0enFMUXdnVFQ5WjRBb0RPcEZ0QWtiMFhjeGF3VFN2NFJiTllma09zNnVLVmZrR1JkbGx0b1o4SzRfQlpsQVlvR3ZKSzliZkdzUW82WGdHakZLVG45YlZOVFpSdlB0c21SN3R3dTBMTWJ2N3FqTkVOMDIxX2FzSWllNzdsb3l3UklOanUzdE5aZ0NMdzNUNWtJODB1OV94?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
