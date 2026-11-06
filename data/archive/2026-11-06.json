@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T03:43:14.236175+00:00",
+  "generatedAt": "2026-11-06T06:56:27.811824+00:00",
   "items": [
     {
       "id": "ae19d3538a77ce",
@@ -255,6 +255,38 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c6411c00cdbc81",
+      "title": "当国货美妆成为“买手”，先读懂巨头们的并购术",
+      "titleOriginal": "当国货美妆成为“买手”，先读懂巨头们的并购术",
+      "summary": "当国货美妆成为“买手”，先读懂巨头们的并购术",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T12:19:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qVTVGTjRtUEVvNGZzZXpnb3VYQld5NENmUGZpaWFaeWQyVDYtU2Y4ZTM2MXJWa1ExeVZ2WHhqdmpjZ3VocFpqZS1HOWVveVAt?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
         "actionability": 6
       }
     },
@@ -534,38 +566,6 @@
       "publishedAt": "2026-11-04T18:58:36+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGJBVEFWMXp1dGw5UDdoVzRtZENKMHRJZUQzQnlra2R3Q1l1VkpXWlI3bHdOYUtMVDBKc1BwSnYtV3NVbVN6M3FIdG11by1zR29sQ2FsbkVqUG03QXhjNGNsZWhDaVliVU1xSDZ0V1FiMnZVTThodFlSWW5OeDRlR3RqWHROd2s?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "53f22867e2f893",
-      "title": "Korean Skincare Brand Goodal Lands at Costco",
-      "titleOriginal": "Korean Skincare Brand Goodal Lands at Costco",
-      "summary": "Korean Skincare Brand Goodal Lands at Costco",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-04T18:44:54+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXV3OFdHN3pNbERqR1ZlU3ZBUnFMUWczQXlXeU9sNHFDUl91bzYzSUFNTGpGRHN4eHlhTVE5Mlo4MlNVNk5mRnpqOGYwWUlDQ21IWXNiQ1lTWTdhTkdLczdseXQ2M1lYdDhHSWJFQ1kzRGFaMlhKRzhfeDRaTUxKQmJmajdSZ3pS?oc=5",
       "companies": [],
       "tags": [
         "Happi",
