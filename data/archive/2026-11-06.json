@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T06:56:27.811824+00:00",
+  "generatedAt": "2026-11-06T07:23:50.799184+00:00",
   "items": [
     {
       "id": "ae19d3538a77ce",
@@ -291,6 +291,38 @@
       }
     },
     {
+      "id": "7946ab5e39f51b",
+      "title": "Space NK turnover rises 19% following Ulta Beauty acquisition",
+      "titleOriginal": "Space NK turnover rises 19% following Ulta Beauty acquisition",
+      "summary": "Space NK turnover rises 19% following Ulta Beauty acquisition",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T10:32:10+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTXQ4SktiM1JBT2czbGRXN0J5Q2ZJX0lubjFFNmJJVXBCQmNjSHlxVVZ1V01QVlptbDF0T1plQkFfV09EOUlTMUQ3ZkxVSGlJQ2EyQnF5STJaaUFNRzNnYllNM192dHFBZ2lLVnNGM2Nic3BjOXp6VTF3Q1k3TFQ5dmNrM1k3NDlGWno1MXVvelhrdw?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
       "id": "8d0c654808b910",
       "title": "BeautyMatter Awards: Best Product Collaborations of 2026",
       "titleOriginal": "BeautyMatter Awards: Best Product Collaborations of 2026",
@@ -537,38 +569,6 @@
       "companies": [],
       "tags": [
         "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "749affb4332d23",
-      "title": "Kearney Releases 2027 Beauty Outlook Report",
-      "titleOriginal": "Kearney Releases 2027 Beauty Outlook Report",
-      "summary": "Kearney Releases 2027 Beauty Outlook Report",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-04T18:58:36+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGJBVEFWMXp1dGw5UDdoVzRtZENKMHRJZUQzQnlra2R3Q1l1VkpXWlI3bHdOYUtMVDBKc1BwSnYtV3NVbVN6M3FIdG11by1zR29sQ2FsbkVqUG03QXhjNGNsZWhDaVliVU1xSDZ0V1FiMnZVTThodFlSWW5OeDRlR3RqWHROd2s?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
         "自动采集"
       ],
       "baseScore": 60,
