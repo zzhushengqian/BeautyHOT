@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T06:07:53.098460+00:00",
+  "generatedAt": "2026-11-07T06:35:25.355275+00:00",
   "items": [
     {
       "id": "6c842af387f0c3",
@@ -35,6 +35,38 @@
       }
     },
     {
+      "id": "763b2eddd83404",
+      "title": "杜嘉班纳参展第九届中国国际进口博览会 展出全系列美妆产品",
+      "titleOriginal": "杜嘉班纳参展第九届中国国际进口博览会 展出全系列美妆产品",
+      "summary": "杜嘉班纳参展第九届中国国际进口博览会 展出全系列美妆产品",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T05:10:30+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53ZkpSR29BbFRWX1pWM0xmbkRvUFktcXV3YTBhRFEyLUVRUVV2V2R6SXdxeVNFdGJnOHdRVGlfYmZmazQxSmxHRHJSMjI?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "7ddb2275773c6e",
       "title": "New launch for in-cosmetics Asia: PhytoCellTec Aloha",
       "titleOriginal": "New launch for in-cosmetics Asia: PhytoCellTec Aloha",
@@ -63,6 +95,70 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "72452047c248ed",
+      "title": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
+      "titleOriginal": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
+      "summary": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T14:46:42+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVdSaGhldTkweTN2MVRBR1JIYkduUmN1MEw4bWNYMmZjY2R2eGozeE9HOGxZeVU3Zy1JVkFlNjAxbTBKd0N3Q0ZQRllzZWxGdDZtbG43cThGVDR5Y19rZXdIMWhkazFMT2Z3Z3Foa203NmpjV2lnWHlpUnZhcWFXc0lkb21RSU0x?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "eff65a75d711dc",
+      "title": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
+      "titleOriginal": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
+      "summary": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T14:40:43+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXJMa3IyQzJaUmdiZ0x0RFhBUmdCT2VNcVBnRVZLYmN5VmE4Q3U4dHllbWJIN3JuMWVPME9QWTNlX0txajFEbHpyd09jT3UtX0V2UUduVnBmeVhpcjlpR1dTOGJsN0pQUzd6SjZ2UzRXZzY5b29oLXRrdXdNYTJ3V2dXT3dqbzFtdUh2bUlzTjM3SGc?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
         "actionability": 6
       }
     },
@@ -163,10 +259,10 @@
       }
     },
     {
-      "id": "8b5a18f6c870d8",
-      "title": "千元国货美妆大卖：高端化是风口还是幻觉？",
-      "titleOriginal": "千元国货美妆大卖：高端化是风口还是幻觉？",
-      "summary": "千元国货美妆大卖：高端化是风口还是幻觉？",
+      "id": "81fef007612061",
+      "title": "千元国货美妆大卖：高端化是风口还是幻觉？-36氪",
+      "titleOriginal": "千元国货美妆大卖：高端化是风口还是幻觉？-36氪",
+      "summary": "千元国货美妆大卖：高端化是风口还是幻觉？-36氪",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
@@ -179,7 +275,7 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T20:37:00+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SQUhlSmlEUjcwU3F1QklzdWdWV2RTajVmTjRKWF8wY3p4TUVtOGhmZ2pmYVNldFdQQkZZS2NxRXBENlJaeXcyYU8yb3RKZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UMUNiTmEzd0hacHc4OERQVklXZUdyVkR6WHJEeVI1OEVkQWRlNWplaVVPM3hIOUhuYUN6UVhnZ19Vd3ZEUlFUcVZpTzY2aEpp?oc=5",
       "companies": [],
       "tags": [
         "36Kr",
@@ -259,65 +355,33 @@
       }
     },
     {
-      "id": "72452047c248ed",
-      "title": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
-      "titleOriginal": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
-      "summary": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
+      "id": "8b5a18f6c870d8",
+      "title": "千元国货美妆大卖：高端化是风口还是幻觉？",
+      "titleOriginal": "千元国货美妆大卖：高端化是风口还是幻觉？",
+      "summary": "千元国货美妆大卖：高端化是风口还是幻觉？",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
+      "source": "36Kr",
+      "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-06T14:46:42+00:00",
+      "publishedAt": "2026-11-05T20:37:00+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVdSaGhldTkweTN2MVRBR1JIYkduUmN1MEw4bWNYMmZjY2R2eGozeE9HOGxZeVU3Zy1JVkFlNjAxbTBKd0N3Q0ZQRllzZWxGdDZtbG43cThGVDR5Y19rZXdIMWhkazFMT2Z3Z3Foa203NmpjV2lnWHlpUnZhcWFXc0lkb21RSU0x?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SQUhlSmlEUjcwU3F1QklzdWdWV2RTajVmTjRKWF8wY3p4TUVtOGhmZ2pmYVNldFdQQkZZS2NxRXBENlJaeXcyYU8yb3RKZw?oc=5",
       "companies": [],
       "tags": [
-        "Happi",
+        "36Kr",
         "自动采集"
       ],
       "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "eff65a75d711dc",
-      "title": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "titleOriginal": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "summary": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T14:40:43+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXJMa3IyQzJaUmdiZ0x0RFhBUmdCT2VNcVBnRVZLYmN5VmE4Q3U4dHllbWJIN3JuMWVPME9QWTNlX0txajFEbHpyd09jT3UtX0V2UUduVnBmeVhpcjlpR1dTOGJsN0pQUzd6SjZ2UzRXZzY5b29oLXRrdXdNYTJ3V2dXT3dqbzFtdUh2bUlzTjM3SGc?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
+        "china": 10,
         "novelty": 6,
         "actionability": 6
       }
@@ -511,70 +575,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "0b75d19726529d",
-      "title": "The 2027 Beauty Outlook Report from Kearney",
-      "titleOriginal": "The 2027 Beauty Outlook Report from Kearney",
-      "summary": "The 2027 Beauty Outlook Report from Kearney",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T13:18:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDVQNWxXVURFVTVTdFZfSW5yV01MZzBrd0RXZDZVNmFqZzFzajg3QXQ2MDJDUFNOVjRyOTlyUkgwTjZEUUx4ZXkyanNuYVJTUXN4Y2JZM3BvNVBFQ2MxX0E2YU5IWXl1c1hqV1pubDFBNmNwYmpJbVhHYnV0MlRpekdJNnRDSzJRbGlYVUtlcl9Xa2Iw?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "f574c28b8d3db4",
-      "title": "Coty Reports First Quarter 2027 Financials",
-      "titleOriginal": "Coty Reports First Quarter 2027 Financials",
-      "summary": "Coty Reports First Quarter 2027 Financials",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T13:16:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTNJZVp2Y1RNU1RMT3A1NXBPSThBUHVtUW1ZY2ltRnctQzY1VWQxX2dScHJVRjJwRmdGX3FjaFA5bGpEdy1lYzNLZDloM0RjdWZQZjl1aklaYUx0dUp1Z2xPS2VRcjJvS3pSeGpUREV6YmprRlU5MEp5bGNTRnJPSldOZVVhd012ZGJaMXpBLS1fNVE?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     }
