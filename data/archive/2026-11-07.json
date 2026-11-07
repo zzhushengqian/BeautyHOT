@@ -1,7 +1,39 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T03:16:36.183784+00:00",
+  "generatedAt": "2026-11-07T06:07:53.098460+00:00",
   "items": [
+    {
+      "id": "6c842af387f0c3",
+      "title": "Global Cosmetics News – Weekly Review",
+      "titleOriginal": "Global Cosmetics News – Weekly Review",
+      "summary": "Global Cosmetics News – Weekly Review",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T06:00:39+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkM2T2U1MTQ1Z0NyZ0N5VXEwd1VmV3hPVkhWSTA0SF9RSnh2b1h2UG51OTFhUFRpSmtRX0thLWZwU3NFVWtmeVR0TkthZTktN09lWVNMY0lwX1M2SmJjY2JqUlEwU3REdWIxZVM0VTI4NE45aHQwNENadnJFeHdxanpTNnZDY21ZdnpiUjF5QkVvVXJ2cC1RTk5n?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "7ddb2275773c6e",
       "title": "New launch for in-cosmetics Asia: PhytoCellTec Aloha",
@@ -31,70 +63,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "72452047c248ed",
-      "title": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
-      "titleOriginal": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
-      "summary": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T14:46:42+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVdSaGhldTkweTN2MVRBR1JIYkduUmN1MEw4bWNYMmZjY2R2eGozeE9HOGxZeVU3Zy1JVkFlNjAxbTBKd0N3Q0ZQRllzZWxGdDZtbG43cThGVDR5Y19rZXdIMWhkazFMT2Z3Z3Foa203NmpjV2lnWHlpUnZhcWFXc0lkb21RSU0x?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "eff65a75d711dc",
-      "title": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "titleOriginal": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "summary": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T14:40:43+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXJMa3IyQzJaUmdiZ0x0RFhBUmdCT2VNcVBnRVZLYmN5VmE4Q3U4dHllbWJIN3JuMWVPME9QWTNlX0txajFEbHpyd09jT3UtX0V2UUduVnBmeVhpcjlpR1dTOGJsN0pQUzd6SjZ2UzRXZzY5b29oLXRrdXdNYTJ3V2dXT3dqbzFtdUh2bUlzTjM3SGc?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
         "actionability": 6
       }
     },
@@ -280,6 +248,70 @@
       "tags": [
         "L'Oréal Group",
         "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "72452047c248ed",
+      "title": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
+      "titleOriginal": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
+      "summary": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T14:46:42+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVdSaGhldTkweTN2MVRBR1JIYkduUmN1MEw4bWNYMmZjY2R2eGozeE9HOGxZeVU3Zy1JVkFlNjAxbTBKd0N3Q0ZQRllzZWxGdDZtbG43cThGVDR5Y19rZXdIMWhkazFMT2Z3Z3Foa203NmpjV2lnWHlpUnZhcWFXc0lkb21RSU0x?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "eff65a75d711dc",
+      "title": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
+      "titleOriginal": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
+      "summary": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T14:40:43+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXJMa3IyQzJaUmdiZ0x0RFhBUmdCT2VNcVBnRVZLYmN5VmE4Q3U4dHllbWJIN3JuMWVPME9QWTNlX0txajFEbHpyd09jT3UtX0V2UUduVnBmeVhpcjlpR1dTOGJsN0pQUzd6SjZ2UzRXZzY5b29oLXRrdXdNYTJ3V2dXT3dqbzFtdUh2bUlzTjM3SGc?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
       ],
       "baseScore": 60,
       "signals": {
@@ -543,38 +575,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "c6411c00cdbc81",
-      "title": "当国货美妆成为“买手”，先读懂巨头们的并购术",
-      "titleOriginal": "当国货美妆成为“买手”，先读懂巨头们的并购术",
-      "summary": "当国货美妆成为“买手”，先读懂巨头们的并购术",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T12:19:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qVTVGTjRtUEVvNGZzZXpnb3VYQld5NENmUGZpaWFaeWQyVDYtU2Y4ZTM2MXJWa1ExeVZ2WHhqdmpjZ3VocFpqZS1HOWVveVAt?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
         "actionability": 6
       }
     }
