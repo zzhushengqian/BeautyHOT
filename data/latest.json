@@ -1,7 +1,71 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T02:45:13.585616+00:00",
+  "generatedAt": "2026-11-08T06:13:45.086350+00:00",
   "items": [
+    {
+      "id": "0f62d3f51c0e3e",
+      "title": "Bold Makeup, Big Hair Top Spring 2027 Runway Beauty Looks",
+      "titleOriginal": "Bold Makeup, Big Hair Top Spring 2027 Runway Beauty Looks",
+      "summary": "Bold Makeup, Big Hair Top Spring 2027 Runway Beauty Looks",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T05:11:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVzMwb1BzSkpyT3QtYndvN0hCanpSRlVndWpaRl84QjJhbkZRR0pibklXS2hLNU9QazRVcDhrZjY3NEw2Z1I3WEFhWDgtVVJJcTAtaUZwU2c4LWR2dF9uVTg0QzhKalQzMVEtVHAyRTRFYlFlNXl3dk5ac1Z4eUdXZmtaMTAtc2VzNXFIcnVxX0ctT1c0?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b5b5db5bb2649b",
+      "title": "东方美谷国际化妆品大会首次亮相进博会",
+      "titleOriginal": "东方美谷国际化妆品大会首次亮相进博会",
+      "summary": "东方美谷国际化妆品大会首次亮相进博会",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T17:53:11+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrWVdHVDJQUGNGUjdKVDVsNWNQczhKMEl6NllXWlRtbnBRWmZMQW1pVG85MXdGOU9WS0M3N0dpdFB5WjJYOFF1NUhDZElvSXM1ZjNoUk1rYy0?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
     {
       "id": "33461158fbb16a",
       "title": "25亿级国货美妆下场抢婴童生意了",
@@ -88,6 +152,38 @@
       "tags": [
         "聚美丽",
         "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d3ed28373c1b0c",
+      "title": "Make-up Artist MAC Cosmetics Bijenkorf Amsterdam (32h)",
+      "titleOriginal": "Make-up Artist MAC Cosmetics Bijenkorf Amsterdam (32h)",
+      "summary": "Make-up Artist MAC Cosmetics Bijenkorf Amsterdam (32h)",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T07:15:24+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbjRmNWRQVHVBTlFUdE9qREJnc3VkUXVDSkNyLTJRQlNKbjdwdDdaSW9hTm1ZeGwwRUEwMG9wNEczUkRma2NjWjZia01Jejh3OWYyM0ZIZ2l1UUx6cmREM0NJM01vNGhIMkpQcW53WkZ4Qzd5dnlTZDB6MVU0amFSNDNSc2dvRDdZWUUyUFBqcnY0NHpBaWxMQXJVT1RiQnVjazZLQVYySWtlYUZBMTdqWE8zZlR3WFZGTVY1TUR4bksxdDA3RmpWS3Voc2tucVdib3poRDZB?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
@@ -490,102 +586,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 8
-      }
-    },
-    {
-      "id": "3d5b2cd564f389",
-      "title": "化妆品，未必没有药“难”",
-      "titleOriginal": "化妆品，未必没有药“难”",
-      "summary": "化妆品，未必没有药“难”",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T02:37:29+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JLXcxaWRlRmJ5ZHQ2T09aOGFWU1F3eUtvd0F1RkdrYWxJNzljYTVVWHlNSnFfS2ZMcDNSc3FsTmxSMDg0ME1vVmd2bTh1WWtaUDF3?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "81fef007612061",
-      "title": "千元国货美妆大卖：高端化是风口还是幻觉？-36氪",
-      "titleOriginal": "千元国货美妆大卖：高端化是风口还是幻觉？-36氪",
-      "summary": "千元国货美妆大卖：高端化是风口还是幻觉？-36氪",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T20:37:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UMUNiTmEzd0hacHc4OERQVklXZUdyVkR6WHJEeVI1OEVkQWRlNWplaVVPM3hIOUhuYUN6UVhnZ19Vd3ZEUlFUcVZpTzY2aEpp?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "c619efccf377eb",
-      "title": "Warby Parker and Rare Beauty Collaborate for New Campaign Starring Katseye’s Megan Skiendiel",
-      "titleOriginal": "Warby Parker and Rare Beauty Collaborate for New Campaign Starring Katseye’s Megan Skiendiel",
-      "summary": "Warby Parker and Rare Beauty Collaborate for New Campaign Starring Katseye’s Megan Skiendiel",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T18:08:40+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0tnN2p3OWJ3Z1MydHVlWXQ2el9od2Y2cGEzdDRCZlhiVXR2Q3BnMXUxQjB1TjBRcmQ5UmdiZG5UeWhrdmk4NGtCdk5HbDZJSkVEcy1QVkdhS1FSNjc5MWF0ZkktYzVzMHNLcVQ4bE5oQ0hQN0cwczg0WDhhUEFGcVdENEZUTmQxcWxwU0RuZzJoSjZFX2lVNnZqNA?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
       }
     }
   ]
