@@ -1,7 +1,135 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T06:41:38.378225+00:00",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T03:02:26.227342+00:00",
   "items": [
+    {
+      "id": "634d45bfb150e9",
+      "title": "Amazon Prime Big Deal Days 2026: K-Beauty and Skincare Lead",
+      "titleOriginal": "Amazon Prime Big Deal Days 2026: K-Beauty and Skincare Lead",
+      "summary": "Amazon Prime Big Deal Days 2026: K-Beauty and Skincare Lead",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T23:55:25+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjlVdEt1WmIzVTR2dkR1QnN6N3ZhN0d0X0tUbzRTZlVULWVsbWVfanNaZ0tRbGNnbnRGcDV2ZFd1WDgyNGhJaWduZnVwUVozLV9Qc2xCVVRjQ1lYTE04UDF0R3k0QlR5S1Jyb2FTQndzV2dmbDJWZjk3cHlGUmRQZDlIOVU?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d8a3d777c197e7",
+      "title": "Meet the 2026 BeautyMatter Awards Changemaker of the Year Finalists",
+      "titleOriginal": "Meet the 2026 BeautyMatter Awards Changemaker of the Year Finalists",
+      "summary": "Meet the 2026 BeautyMatter Awards Changemaker of the Year Finalists",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T10:21:09+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbF9xZ09uV3NxU19wZEN4aUN6R01uTGtWa05xeHUtZDI2dXNKM0Y3SWdtZFZWWFNfdThUM2dQbDFscHVTajhyNWNqam1Vd0syU2lDMFRFcFA0ZXFYZDdjUTczdk50WkpJTF9yM3Vqb0NEM2Z4SU54blZfQUw?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "070af8a450599c",
+      "title": "Korean Derma Skincare Brand MDP+ Launches at Nordstrom",
+      "titleOriginal": "Korean Derma Skincare Brand MDP+ Launches at Nordstrom",
+      "summary": "Korean Derma Skincare Brand MDP+ Launches at Nordstrom",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWhtY2M0ZC0wcUROVXcyaFVhU2FIRHRDUFpxU0VWeXJxbDJPdTkxdldzbU5CTHlsbTNIekVxdUtVVk5HS0NVcWJGVW1fZWZCT1ZhUlVqQkR1NHBVOFJnSE9FbXdpM1ZsRWxEREJ0SkxyQ0lyaUg2d0hXU3MwOTZ5ajBONmVDdnBrRk9DbUFnLTdpWEta?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "960290982e1eb6",
+      "title": "Nykaa profit surges 207% as premiumisation drives beauty sales",
+      "titleOriginal": "Nykaa profit surges 207% as premiumisation drives beauty sales",
+      "summary": "Nykaa profit surges 207% as premiumisation drives beauty sales",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T12:05:57+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnVxd2JoY2RjcV9RNUNxYnhFRTE2RnNjU3JoVXR5ZUZOcjJTaVE4ZVl6TVBjWTZzQm01eHhvY3BzYm5zRXlkRzVvM01LVlpJNVp1c2dsd1owXzN1R2ZiaFhURy1PcHczUFIyVndNYmJJdnpnQWZFNndZVTNOb1U2WHNXR2NTSDYwTFE?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "0f62d3f51c0e3e",
       "title": "Bold Makeup, Big Hair Top Spring 2027 Runway Beauty Looks",
@@ -458,134 +586,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 6
-      }
-    },
-    {
-      "id": "72452047c248ed",
-      "title": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
-      "titleOriginal": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
-      "summary": "Croda Beauty welcomes Ian Michael Crumm to the lab!",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T14:46:42+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVdSaGhldTkweTN2MVRBR1JIYkduUmN1MEw4bWNYMmZjY2R2eGozeE9HOGxZeVU3Zy1JVkFlNjAxbTBKd0N3Q0ZQRllzZWxGdDZtbG43cThGVDR5Y19rZXdIMWhkazFMT2Z3Z3Foa203NmpjV2lnWHlpUnZhcWFXc0lkb21RSU0x?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "eff65a75d711dc",
-      "title": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "titleOriginal": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "summary": "Malvallin™ Redefines Luxury Skincare Through Skin Longevity",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T14:40:43+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXJMa3IyQzJaUmdiZ0x0RFhBUmdCT2VNcVBnRVZLYmN5VmE4Q3U4dHllbWJIN3JuMWVPME9QWTNlX0txajFEbHpyd09jT3UtX0V2UUduVnBmeVhpcjlpR1dTOGJsN0pQUzd6SjZ2UzRXZzY5b29oLXRrdXdNYTJ3V2dXT3dqbzFtdUh2bUlzTjM3SGc?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "342bb794baff08",
-      "title": "The Gen Alpha Beauty Opportunity: Understanding How Gen Alpha is Reshaping Beauty Engagement",
-      "titleOriginal": "The Gen Alpha Beauty Opportunity: Understanding How Gen Alpha is Reshaping Beauty Engagement",
-      "summary": "The Gen Alpha Beauty Opportunity: Understanding How Gen Alpha is Reshaping Beauty Engagement",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T13:50:50+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWxLUFpwVURJU2NoMDBHSms4VlRPMWFKMkZ2VkU1bGFwYTU1aUNQWTJ1WWh5YVM3VGU3MHp3ZlltZFUtbnBMRmRUMjBJNGQ1T3hGa0N0NUNhelJJSkhVa2I4cDBvZzNOZVhtUHRTNlZEOHctX1p5bjBBVXdBNHMwMkhfVWpOUDJPOFVaVHVxN2g0SkFiMmY0UjhDMVFXOTVwUWxJWmx0QVpCdzJpUEJjRks5eExjNmJOSzNDY0dIYw?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "62965c05d4615f",
-      "title": "Space NK’s comparable turnover surges 19% as Ulta Beauty acquisition and new stores drive sales",
-      "titleOriginal": "Space NK’s comparable turnover surges 19% as Ulta Beauty acquisition and new stores drive sales",
-      "summary": "Space NK’s comparable turnover surges 19% as Ulta Beauty acquisition and new stores drive sales",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T12:41:06+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTF6a243RWd1b09xc0hwbExRSXktdXUxZkstbm1qZ1ozRG9oRHZ5RlhPSkZvQ2tQWDRnVlU4WXFiS1MzclpwQ2p6aV9uRE5TZENhUUtfSGhpaGpCcFRjM0RDeVB6NXcyWXF5VkpLbjN0YUNCTEVFV1pWWU50RG9ndS1DVnZ3N3NPeGc?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
       }
     }
   ]
