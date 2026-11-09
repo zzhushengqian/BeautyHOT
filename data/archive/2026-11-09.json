@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T03:02:26.227342+00:00",
+  "generatedAt": "2026-11-09T06:46:26.095750+00:00",
   "items": [
     {
       "id": "634d45bfb150e9",
@@ -32,6 +32,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "d3d69c0313b7f2",
+      "title": "Why Beauty Innovation Struggles: Science, Retail Barriers, and Marketing Hype",
+      "titleOriginal": "Why Beauty Innovation Struggles: Science, Retail Barriers, and Marketing Hype",
+      "summary": "Why Beauty Innovation Struggles: Science, Retail Barriers, and Marketing Hype",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T19:22:38+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZUdyZ0JjdEEtT0lkVUZjQUVkSl9OWnk4WmVIN3pCU3JvS01nVVhERjYxTTNfbUk4dFA0WFoxMFdjbTZQV1BCTmpLYW9XZkl5WnRNbk9NVkZyQ2g1Q2dHR3Z0eHhiSjYwbTJZRHNMeTB0RlR5WGRhUkw5ZGxZVFBhcEFValVGcUo3Vno4SC1OY3Q4M2s?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
@@ -128,6 +160,70 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "2390a80565694d",
+      "title": "Seppic strengthens its natural cosmetics business with Minasolve acquisition",
+      "titleOriginal": "Seppic strengthens its natural cosmetics business with Minasolve acquisition",
+      "summary": "Seppic strengthens its natural cosmetics business with Minasolve acquisition",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "Premium Beauty News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T08:03:19+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMelhVWDluYkJWQ2pCWjZ3Y0k0Tm03OVNWYVY2MlR0T1lLZG00U2tWQk9Sa0pnMEI4TlBaNFpnZzBULThJdEthY0RVejNUMGxQTkI4blZoYlQxZFVfUzBRR0I2c1NyalhEZE5oZVFqU1BDb0ZIR2M1SExBdDZLdw?oc=5",
+      "companies": [],
+      "tags": [
+        "Premium Beauty News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "d260b0da439548",
+      "title": "Informatore Medico Scientifico – Dermatological Beauty Division at L'Oreal",
+      "titleOriginal": "Informatore Medico Scientifico – Dermatological Beauty Division at L'Oreal",
+      "summary": "Informatore Medico Scientifico – Dermatological Beauty Division at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T21:28:50+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEtwdS1fSTJmTmFMOVR3NDJHU1Z6RVdRNDVBYlRMWkRUZFdYbGtCNG1DWUllTHVwcWxLTGh6WjZPdmJOZU93VndMVU5qVFdEd1B5YTJNRkR0S1RLTm9abWtLbEIxa3E4U0tYOEhqcjFnaG1oMTZZSS1VZjZlTEZOcFhVUmx3VkZXbkhmLXJjTTA4TG1YYmstV2hUM3pYd0o4RC13T1pvSXA4MjktMDVqQW1HR0pJY0ZYZUE?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -489,102 +585,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "6c842af387f0c3",
-      "title": "Global Cosmetics News – Weekly Review",
-      "titleOriginal": "Global Cosmetics News – Weekly Review",
-      "summary": "Global Cosmetics News – Weekly Review",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T06:00:39+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkM2T2U1MTQ1Z0NyZ0N5VXEwd1VmV3hPVkhWSTA0SF9RSnh2b1h2UG51OTFhUFRpSmtRX0thLWZwU3NFVWtmeVR0TkthZTktN09lWVNMY0lwX1M2SmJjY2JqUlEwU3REdWIxZVM0VTI4NE45aHQwNENadnJFeHdxanpTNnZDY21ZdnpiUjF5QkVvVXJ2cC1RTk5n?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "763b2eddd83404",
-      "title": "杜嘉班纳参展第九届中国国际进口博览会 展出全系列美妆产品",
-      "titleOriginal": "杜嘉班纳参展第九届中国国际进口博览会 展出全系列美妆产品",
-      "summary": "杜嘉班纳参展第九届中国国际进口博览会 展出全系列美妆产品",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T05:10:30+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53ZkpSR29BbFRWX1pWM0xmbkRvUFktcXV3YTBhRFEyLUVRUVV2V2R6SXdxeVNFdGJnOHdRVGlfYmZmazQxSmxHRHJSMjI?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "7ddb2275773c6e",
-      "title": "New launch for in-cosmetics Asia: PhytoCellTec Aloha",
-      "titleOriginal": "New launch for in-cosmetics Asia: PhytoCellTec Aloha",
-      "summary": "New launch for in-cosmetics Asia: PhytoCellTec Aloha",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T16:39:53+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWkZUYlJNaTJLNkdlZ3pjYTdkcHlBbFdKSXpndmpnNXlqaU5Yb3lhM1FTTTA4d2hTTE1aMlZMODdNQmVJY3FXNGoxWmQ5Sl9kVEc4WWNmV2VuSkk3bzhUeWNJQ1FPSk5DTmdiMkszYmQ2MnZiZVlWMmhQNm5GeGVzUm5kNUxRNmhPbW41dENB?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     }
