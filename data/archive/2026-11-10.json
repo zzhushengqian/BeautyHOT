@@ -1,7 +1,39 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T04:48:43.778908+00:00",
+  "generatedAt": "2026-11-10T07:26:27.574268+00:00",
   "items": [
+    {
+      "id": "8eb40afb61b84c",
+      "title": "Beauty Briefing: How Sephora is banking on expertise",
+      "titleOriginal": "Beauty Briefing: How Sephora is banking on expertise",
+      "summary": "Beauty Briefing: How Sephora is banking on expertise",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "regulation",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T05:20:46+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHNSWUUzZ1ZOZGF5WWV3TTAwcVlMX193U0pScjM1dmZMUjZINWRMeHp4Z09FTm1zQ3pwX19SQ05ON3ZidVIwdWRxaXpTNUpuRWxEYWJXOVhVYS1BOEpRZDhucUx1dmRmMDA1UlZXQ1NEYTJnOTZ4R0NINnRhNlYtOVBWUlB1RVV0?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "69f61982f80a3a",
       "title": "Monica + Andy Enters Baby Personal Care Market",
@@ -119,6 +151,38 @@
       "companies": [],
       "tags": [
         "第一财经",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a4b02dbf225fed",
+      "title": "全球美妆十强裁员",
+      "titleOriginal": "全球美妆十强裁员",
+      "summary": "全球美妆十强裁员",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T13:13:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DYk9JRE5mb0hWZGNrVWRHR0FGdGY5NDRyeDdTQ3RFc19CLUJTSlZGMVdXMS12VGJfd3BVenV6RVBCUnZ1UW9uQ3dKWUE3UQ?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
         "自动采集"
       ],
       "baseScore": 60,
@@ -512,70 +576,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 8
-      }
-    },
-    {
-      "id": "d260b0da439548",
-      "title": "Informatore Medico Scientifico – Dermatological Beauty Division at L'Oreal",
-      "titleOriginal": "Informatore Medico Scientifico – Dermatological Beauty Division at L'Oreal",
-      "summary": "Informatore Medico Scientifico – Dermatological Beauty Division at L'Oreal",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T21:28:50+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEtwdS1fSTJmTmFMOVR3NDJHU1Z6RVdRNDVBYlRMWkRUZFdYbGtCNG1DWUllTHVwcWxLTGh6WjZPdmJOZU93VndMVU5qVFdEd1B5YTJNRkR0S1RLTm9abWtLbEIxa3E4U0tYOEhqcjFnaG1oMTZZSS1VZjZlTEZOcFhVUmx3VkZXbkhmLXJjTTA4TG1YYmstV2hUM3pYd0o4RC13T1pvSXA4MjktMDVqQW1HR0pJY0ZYZUE?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "068f4b76496c0f",
-      "title": "TheIndustry.beauty Awards Winners’ Interview: Wonderskin co-founder Marina Kalenchyts on innovation, long-lasting beauty and driving brand growth",
-      "titleOriginal": "TheIndustry.beauty Awards Winners’ Interview: Wonderskin co-founder Marina Kalenchyts on innovation, long-lasting beauty and driving brand growth",
-      "summary": "TheIndustry.beauty Awards Winners’ Interview: Wonderskin co-founder Marina Kalenchyts on innovation, long-lasting beauty and driving brand growth",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T07:11:48+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZnc4Zml3VlpjSEg0dlBBa2RjYlZQZDVQSFA1VzhQdVpYOHhNZTQ1WHcwNE9xRHhXQl9CSEhmWEIycnE2WnBXUDBCVjBvNXgtZHV1djMwZEFkY1piMTE4cTM3N3FQSjJEcVFDQjVEbTVEZXFMRXliN2JWQ2d6ZFNWQ0s3RlVhWUx0dUVCNW0tcjZyN3hMOWFMaWhVZ3ltZVJlTXBLVDNJdjE1WHY3bHVOQUtTZnVIRWlhVUhrblZmYXVFc1I4MUs1VF9ySjFTaFZlblJjc0RzU3RtaXZQLV9tUGg3d2M0U2FhTmZJam1Mem9TWnRJbHlaZ1k5NXNBcWM?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
