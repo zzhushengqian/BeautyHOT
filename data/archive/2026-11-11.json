@@ -1,7 +1,71 @@
 {
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T06:37:56.762625+00:00",
+  "generatedAt": "2026-11-11T07:06:57.534213+00:00",
   "items": [
+    {
+      "id": "d528c84e0cfda0",
+      "title": "Wellness Briefing: Why Ulta Beauty is racing toward wearables, plus news",
+      "titleOriginal": "Wellness Briefing: Why Ulta Beauty is racing toward wearables, plus news",
+      "summary": "Wellness Briefing: Why Ulta Beauty is racing toward wearables, plus news",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-11T06:48:07+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQzVQTE5nR1NXUW0wMWlFeklkRjhpaTJyLVh5ZVlGbERtYkhPWXNlSXQyTUprNXJjeU9Kb1Z1MDc5aGpyaTN6MGFaTWtNWUFlQmVXa2Q4YmtBTDhtVnZPd1dzVTdSd01XNW9Vb0x3WXFTeDNqRlIwdThHQnA0eGdQckEwdlNVWFAyc2l0RmlDcXNObTUwTFpQQmVPVnpyZmpBd1ZYdXNoVEZHRDFyV2c?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "03f341db6219d0",
+      "title": "Dir - Marketing - Prada Makeup",
+      "titleOriginal": "Dir - Marketing - Prada Makeup",
+      "summary": "Dir - Marketing - Prada Makeup",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-11T01:41:39+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUms2QndSdHZaUmJmY0puMkpvRkhxekV3dER1Vm4zQUhDWGI2TV9ZYS05QzRJWURDMnlIOFNZV1ZlSnVxRGNaNnB5TVJpWFdPNWVoTmc5bDhuanR3eHdfQmRfOWdlNGxRVXlPQ0RDNDdHNERnSlQ5RUhUa05pUGY1N3RPNjVYOG5zUWZyNmZzRQ?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "b5ceed9cb5a8a3",
       "title": "The Interview: Flâner co-founder Andrew Hardeman on building an independent global fragrance brand and taking its urban perfumery concept to London",
@@ -119,38 +183,6 @@
       "companies": [],
       "tags": [
         "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "139b60543968d2",
-      "title": "名媛名妆破产、索柔商标1901元拍卖，美妆企业的N种死法",
-      "titleOriginal": "名媛名妆破产、索柔商标1901元拍卖，美妆企业的N种死法",
-      "summary": "名媛名妆破产、索柔商标1901元拍卖，美妆企业的N种死法",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T11:59:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NVm1TUnlUU1E0SDFMRG9OSWNFRUVxdExtbnRLMV81REczeGVnRnJ5RzdZMnZyU3lGNXVyN1psSVZTV3c5TUJOcWg2Vm1OQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
         "自动采集"
       ],
       "baseScore": 60,
@@ -419,6 +451,38 @@
       }
     },
     {
+      "id": "139b60543968d2",
+      "title": "名媛名妆破产、索柔商标1901元拍卖，美妆企业的N种死法",
+      "titleOriginal": "名媛名妆破产、索柔商标1901元拍卖，美妆企业的N种死法",
+      "summary": "名媛名妆破产、索柔商标1901元拍卖，美妆企业的N种死法",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T11:59:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NVm1TUnlUU1E0SDFMRG9OSWNFRUVxdExtbnRLMV81REczeGVnRnJ5RzdZMnZyU3lGNXVyN1psSVZTV3c5TUJOcWg2Vm1OQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "390191068810fa",
       "title": "NUBIRAWAVE: Iberchem’s new digital platform to create blooming fragrances with emotional benefits",
       "titleOriginal": "NUBIRAWAVE: Iberchem’s new digital platform to create blooming fragrances with emotional benefits",
@@ -512,70 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "69f61982f80a3a",
-      "title": "Monica + Andy Enters Baby Personal Care Market",
-      "titleOriginal": "Monica + Andy Enters Baby Personal Care Market",
-      "summary": "Monica + Andy Enters Baby Personal Care Market",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T03:53:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUdMY3ZMSFZ4cU5VY211U1RrcGhUYThZWmpTSUo3WWljZjRaWnJJV21XNDJpS3d4Ry16bUE0T19xMDR6c1hYUFVUMnZqNmFsbEZLQzhYTGRDLVZ2QnZqZ1BRRG84QkxxeUFRMmdlbmpDaGgtV01LbkNkUEczQi1ENjBLajE?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ed4f4b2014c111",
-      "title": "Silab Presents Detoxifying Natural Active for Skincare",
-      "titleOriginal": "Silab Presents Detoxifying Natural Active for Skincare",
-      "summary": "Silab Presents Detoxifying Natural Active for Skincare",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-09T19:17:41+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXZSd1VQVnA1akhsd3NMUkJhWTNPaFZtZ25peFN1TDVkMTVONXN5TFRmb3dqSzdpU2hYbFdUakVWTzNCLVhFTGh1QUJpUHUxd21nZjlxTDdmckNoR1J5TXNCT0lLcWdhMEdjbXdZa2VDUkh1cmpFZHNuWGs3dU1LZEhjd0UydGczTU44ckw2eC1DM2l0UlE?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
