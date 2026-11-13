@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T06:53:42.920292+00:00",
+  "generatedAt": "2026-11-13T07:17:06.435260+00:00",
   "items": [
     {
       "id": "840ff680b14028",
@@ -227,6 +227,38 @@
       }
     },
     {
+      "id": "568846cd94f391",
+      "title": "Regulation (EU) 2026/909: What Changes for Cosmetic Formulas in 2027",
+      "titleOriginal": "Regulation (EU) 2026/909: What Changes for Cosmetic Formulas in 2027",
+      "summary": "Regulation (EU) 2026/909: What Changes for Cosmetic Formulas in 2027",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "regulation",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-12T16:32:36+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QUDlQcVFaektmSGZHQTByT2pCVU8zS3JmWHhuanc0aEp0bGpZbU9KWS0ybTlDdk9qWmU5WGhsbElwTUpYMGVOUHJIcXRIWjV3M1VGM0VKZ3A5NHM1Zm55MXZTSEIzVlRyME5PUDBYNGs?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
       "id": "ed1212c209e8ab",
       "title": "Five Key Trends from the in-cosmetics Asia 2026 Innovation Zone",
       "titleOriginal": "Five Key Trends from the in-cosmetics Asia 2026 Innovation Zone",
@@ -446,38 +478,6 @@
         "impact": 6,
         "magnitude": 6,
         "china": 10,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "568846cd94f391",
-      "title": "Regulation (EU) 2026/909: What Changes for Cosmetic Formulas in 2027",
-      "titleOriginal": "Regulation (EU) 2026/909: What Changes for Cosmetic Formulas in 2027",
-      "summary": "Regulation (EU) 2026/909: What Changes for Cosmetic Formulas in 2027",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "regulation",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T16:32:36+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QUDlQcVFaektmSGZHQTByT2pCVU8zS3JmWHhuanc0aEp0bGpZbU9KWS0ybTlDdk9qWmU5WGhsbElwTUpYMGVOUHJIcXRIWjV3M1VGM0VKZ3A5NHM1Zm55MXZTSEIzVlRyME5PUDBYNGs?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
         "novelty": 6,
         "actionability": 8
       }
