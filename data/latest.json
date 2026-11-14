@@ -1,7 +1,265 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T07:17:06.435260+00:00",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T03:38:02.754363+00:00",
   "items": [
+    {
+      "id": "20b3dbc0a93d16",
+      "title": "Guinness Atkinson Launches K-Beauty Fund",
+      "titleOriginal": "Guinness Atkinson Launches K-Beauty Fund",
+      "summary": "Guinness Atkinson Launches K-Beauty Fund",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T16:40:25+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94MnN1Q09yb09nekNzNlN5ZEhKam9hcGd3QXBsYXQ4Q2h0YVVJLUp5NzR1czFxdjRETG90eEhMQ3EwWTA1eGtEdDY0SFVRRUxJYjJNZzlJRjBxMHBsbEFac0xHTXBjZXhlZDJLckVsdnlmeHpoeVVCdkJ4dVgtOEE?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d6cca14354f57a",
+      "title": "Silke London expands into 177 Boots stores as co-founder Maria Sotiriou sets sights on future growth",
+      "titleOriginal": "Silke London expands into 177 Boots stores as co-founder Maria Sotiriou sets sights on future growth",
+      "summary": "Silke London expands into 177 Boots stores as co-founder Maria Sotiriou sets sights on future growth",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T12:08:13+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOHJFTjlNQlF0T3NXN3BwYVdxWms2cmd4cmhFLXpzWUdiOFU3MWFNNW4tRUVLeld4bmJIRjJkOW9fLTdxbEdzX2FTTWZJSGJ4empmd2wtb3lCSTdhSFVVWjBLcV9WRlN0WmhuWWthYlZUczU5dHp5OXJqRnJUVXQtcldYREdlcHg3NnB0Vnk0Z0NReWxXX0c2MmtqbnF1M0xkeGlKZUltY3FZanJxVW1oUTV5ZUFlUUo4YzZOVXpzQ3M2OEdWTmpn?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "9ae935826a0081",
+      "title": "Skin care beyond the face: How Skinification is reshaping personal care",
+      "titleOriginal": "Skin care beyond the face: How Skinification is reshaping personal care",
+      "summary": "Skin care beyond the face: How Skinification is reshaping personal care",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Beiersdorf",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T11:10:46+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXpPeXhqTUt1Y2RqQmNVSTZfOU8tekRwVmdtd3N0S2FfMGs5STNIbWtLYkV1bWU3LXZJejZFdEdlVEUySnhQMHRkQmlPRHNQTXZvbzl3TmtLTlRDSXcyZ19yTGlOQTYxSTNGM296MUtKX09FRjJzMUpYdWlfU214TTU4NUJsT05hNTBzazRjUGs?oc=5",
+      "companies": [],
+      "tags": [
+        "Beiersdorf",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "07bca767ce081d",
+      "title": "美妆个护里的小众偏好，正在长成一种生活方式",
+      "titleOriginal": "美妆个护里的小众偏好，正在长成一种生活方式",
+      "summary": "美妆个护里的小众偏好，正在长成一种生活方式",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T09:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sYi1qOVpabVJ0TWFWVUJ5UG5peVFHdkM5aXozcU9uWGJjbWZlbWgxREw4SndlQlBLbWhueVI3cXFZR3NraWl1eHVDTlZSdw?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "16cb853b5b304b",
+      "title": "宠物食品卖爆、中小美妆掉队：双11快递单量里藏着消费小心思",
+      "titleOriginal": "宠物食品卖爆、中小美妆掉队：双11快递单量里藏着消费小心思",
+      "summary": "宠物食品卖爆、中小美妆掉队：双11快递单量里藏着消费小心思",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "第一财经",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T02:13:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VNXpXcm5fWGYtTmZlYUtSOVBHSkFpMER3WFNnSjZINjdYQkZzZDFoWFhXMlBjTmIzdGNaZ3FpODJudXNQV1NqeE9vc0R0OFQtcmo4?oc=5",
+      "companies": [],
+      "tags": [
+        "第一财经",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "56e716a8688644",
+      "title": "美妆产业创新生态社区在上海奉贤区启用",
+      "titleOriginal": "美妆产业创新生态社区在上海奉贤区启用",
+      "summary": "美妆产业创新生态社区在上海奉贤区启用",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-12T11:33:06+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmbmJJMnljNTEyM3QybGtYWUpvZXljUHpxcFRQY2xfN3o2TlpYeGtrbGVrdmFCWWJjN0NiWUNNel96SWUyMzl0M0RET2JndWZBNnJ4Ynpn?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c88475e657c3f4",
+      "title": "e.l.f. Beauty Launches ‘Dial 0 for Zero Distance’ - a Direct Hotline to CEO Tarang Amin - to Highlight Fifth Annual Impact Report",
+      "titleOriginal": "e.l.f. Beauty Launches ‘Dial 0 for Zero Distance’ - a Direct Hotline to CEO Tarang Amin - to Highlight Fifth Annual Impact Report",
+      "summary": "e.l.f. Beauty Launches ‘Dial 0 for Zero Distance’ - a Direct Hotline to CEO Tarang Amin - to Highlight Fifth Annual Impact Report",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "people",
+      "source": "e.l.f. Beauty IR",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-12T08:40:31+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2pxRE82MXNubWtwMERoeERZYmVKZ3U3UTdhNERtM1Bobi1IcjVaN3F3YzFLazhocEc5elhBODh3Uk9EZVN5eWF4dlN4SWlhYmc5WFc5RnBTc091UkRGa0Y2c2NuY19xUDg5ZHZTN0x6SlAwS0tHbm95YjhsQ3ZJRFgzclBDOHcyc3RfVkVBLXVDQURzcU9DQjE1VDdTWFo4ZF92YnYxUQ?oc=5",
+      "companies": [
+        "e.l.f. Beauty"
+      ],
+      "tags": [
+        "e.l.f. Beauty IR",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "281a6589d9c6e5",
+      "title": "Skincare beauty poradce - Kiehl's (L'Oréal Luxe)",
+      "titleOriginal": "Skincare beauty poradce - Kiehl's (L'Oréal Luxe)",
+      "summary": "Skincare beauty poradce - Kiehl's (L'Oréal Luxe)",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-12T08:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzZoUWNGdDlDZmxfWW5tUS1ibVJIWlBxa0lvMlliY3poTXlJNVRoU0xFdHk4Z2hHcFlBY0c2YmptcDdDMG1YVWl2NjZBZUp2bWRqV1pQWXh0NHUyWFJ0Zlk1NGNkU1RrQVJSeE1kUzFIcDc2OXVSZFBBY2VMcFhNRVRqMnA4ZjdhcHhaMmo5UFo1TGtsSTQxc3VfNjl5d0hfZl9YWQ?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "840ff680b14028",
       "title": "林清轩回应收购婴童护肤品牌咿儿润-36氪",
@@ -23,38 +281,6 @@
       "companies": [],
       "tags": [
         "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "dc6f21ebcd4c5e",
-      "title": "林清轩回应收购婴童护肤品牌咿儿润",
-      "titleOriginal": "林清轩回应收购婴童护肤品牌咿儿润",
-      "summary": "林清轩回应收购婴童护肤品牌咿儿润",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "界面新闻",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T03:11:45+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HWWRGRmlqeDZxSlUzS1pNQmxFcmtMUW1OOEtxMWRORWt3SzE1Zi1uYzg3aGFwZmRiazM0cTJaT0h0TlFFUnExU0FueGdxX2x4a1lLdk1DZjk?oc=5",
-      "companies": [],
-      "tags": [
-        "界面新闻",
         "自动采集"
       ],
       "baseScore": 60,
@@ -350,230 +576,6 @@
         "impact": 6,
         "magnitude": 6,
         "china": 10,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ad24c7bb0f592c",
-      "title": "“长寿科学”外，全球美妆巨头2027盯上这些方向",
-      "titleOriginal": "“长寿科学”外，全球美妆巨头2027盯上这些方向",
-      "summary": "“长寿科学”外，全球美妆巨头2027盯上这些方向",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T02:18:32+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TTNPNzhPbExqaHlGb0lUWHZJeTdEZ3RvY2p2M1hrVG9rV3Y3TTc5Q0JVM3VLYVlDSDk1bmNYaWVmTTlnUm8wZ2RCZEtSV2V4cmUw?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "d036326e92c066",
-      "title": "What Brands Should Take Away From Kearney 2027 Beauty Outlook Report",
-      "titleOriginal": "What Brands Should Take Away From Kearney 2027 Beauty Outlook Report",
-      "summary": "What Brands Should Take Away From Kearney 2027 Beauty Outlook Report",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T15:33:53+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmF5eTFUZXZZWnpUTUVLZVVHZWU0THRKZ3FiSlZGQ3M5dnZVaGdWemRLUnpydmc3eTNFSVY3UE1QYmg0Q0hXUWl5a183TmVIelI5RnVWaktwQlZTb19ta28yenFiNzQ5Q0hyQWkwMFFKUGZYTEZ2eVNFSkxKVlZOcWJHbXNuVl9GTHpMSGFZOTNsRDNKRUdiN2pGeURmaHAwWmt6T2hMa1ZjQ2s0VEhnWHRQdGV4Z05GbGpkdE1fS0w?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "abb944347f2e41",
-      "title": "Sol de Janeiro and Smashbox among brands donating $83 million excess stock in new initiative",
-      "titleOriginal": "Sol de Janeiro and Smashbox among brands donating $83 million excess stock in new initiative",
-      "summary": "Sol de Janeiro and Smashbox among brands donating $83 million excess stock in new initiative",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T12:12:44+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXR0OUFXT1lPZ2VMOGgtUGRkQU4wRWhmTDhBQ0N4NzB0Q0VEdFR6d0dwUFM0RTI1ZHlSdTlaeFpLWjc4TkhCRWZxX2hLcnM5Q2c0ZTAxdk9HSnFYWWZQaE9aXy1La1pScUF2akkwVWRNTmxKUGFsZWxmUmpPLVVncEF4eno2OEQtN2M4a3ZZVEVXQlQ5M3NvdkNGZFY?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "108270bbb295cc",
-      "title": "How Flower Knows Is Taking Chinese Beauty Global Through Ulta Beauty and Viral Marketing",
-      "titleOriginal": "How Flower Knows Is Taking Chinese Beauty Global Through Ulta Beauty and Viral Marketing",
-      "summary": "How Flower Knows Is Taking Chinese Beauty Global Through Ulta Beauty and Viral Marketing",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T10:44:06+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3ZKWFNiM1ROb3Qzb1FfUDZvVFA3bGpGVTNKbU1WXzc5VDZicEc1NmJoblQxSjU3bkZUdVY1eXB0NXBVa0hWRnk1X3ZWVF9KN05Qc25VQkRKemlxam1vcFZmd250YzhDbm1BMWhGcGFXM2dRblE0ZUNOUHo2TGhSM1M5UjROamJhT1phdmI3RWM?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "ba95f7c6934a78",
-      "title": "K-Beauty Retailer Olive Young Will Open Five Stores in California in 2027",
-      "titleOriginal": "K-Beauty Retailer Olive Young Will Open Five Stores in California in 2027",
-      "summary": "K-Beauty Retailer Olive Young Will Open Five Stores in California in 2027",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T07:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY09nVmFjdG5XaU42MGd5WjFaeEV4RGJFUnpBVVl4cVo2NVkyXzAyVGJfS1ROQ0ZPYlFLX3lBNm1VY01OZDRIOTNMYjZDRTUzc2dEeW1tQjc0QjJJaF9YVDBoN2lXa1FvTUdFNjZEVGE5bHM2LTJ0cTJVVVJadnVraGV0QktOdnRqU2h6MVlWNlhLXzc5OWJr?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "2b9eed449b38ae",
-      "title": "POV Beauty’s Mikayla Nogueira unpacks her creator-brand playbook with CEO and co-founder Ani Hadjinian",
-      "titleOriginal": "POV Beauty’s Mikayla Nogueira unpacks her creator-brand playbook with CEO and co-founder Ani Hadjinian",
-      "summary": "POV Beauty’s Mikayla Nogueira unpacks her creator-brand playbook with CEO and co-founder Ani Hadjinian",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "Glossy",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T05:04:28+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHN4QmRYOGdSZEthVmZrZ184U2dsNkFYTGJ1TW9tNnZncWdWZmdweE80LU9KME9mOG0yYmlaV2JqcDg5TzNRYjJ5RkRndmRabzVHUkhaZzQwenBGYzNJYm5fRm04b3FtcVVyVHFJMXJ1VjdqdmFJTk10Z2VVR2NEbU5PVndDZHdFMDFiVllhejhKOXZxMDNPU0tLRjQ5QkFmYmdvN1M2SWl2STZYdVg0LWI3WFhHdDh3N0l4VWdZUlg3ZTJ3SW50RlRiVTVFUQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Glossy",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "73eeb3196280bd",
-      "title": "CEW Beauty Awards 2026 Winners and Photo Gallery",
-      "titleOriginal": "CEW Beauty Awards 2026 Winners and Photo Gallery",
-      "summary": "CEW Beauty Awards 2026 Winners and Photo Gallery",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T19:34:08+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yRjdaTklRbU1fYlcxa1RXdjJTejM5d0FxXzlnZTJpUUlackVReXNUTlpQWkFDUUxYT1cxazNObS1QYUkxcUhscjU1YllPWnFHS1VKMFRn?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
         "novelty": 6,
         "actionability": 6
       }
