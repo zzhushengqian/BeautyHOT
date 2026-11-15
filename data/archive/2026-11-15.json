@@ -1,7 +1,39 @@
 {
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T03:10:30.555330+00:00",
+  "generatedAt": "2026-11-15T06:43:52.750548+00:00",
   "items": [
+    {
+      "id": "7ceae5845d9c05",
+      "title": "One Swipe Ahead: 2026’s Best Breakthrough Color Cosmetics",
+      "titleOriginal": "One Swipe Ahead: 2026’s Best Breakthrough Color Cosmetics",
+      "summary": "One Swipe Ahead: 2026’s Best Breakthrough Color Cosmetics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-15T05:01:19+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aRTVGNTFzbzhNQTYzZjVzUVM1VzI0NEpuZWJVcjYxREZTTmlhNzRSNVFkb1NycTdFX0drck1heHIwTy1iSHBaNDBjajhOSTV1RDJ6aTVBLUFTUjJtSWZqQ1cwVjBaVXhmcWR2a0U5MHdUY0lpSkdld1MzdnF2UQ?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "b9b31d0260c964",
       "title": "双11战报：极萌连续4年双11美容仪销售全网TOP1",
@@ -88,6 +120,38 @@
       "tags": [
         "Global Cosmetic Industry",
         "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "efc60dad04d0d1",
+      "title": "ED, Skincare Intelligence & Analytics",
+      "titleOriginal": "ED, Skincare Intelligence & Analytics",
+      "summary": "ED, Skincare Intelligence & Analytics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-12T17:51:30+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOWloWkNRWkVtMUUta3p0aWJ4ekZpdVR6eEJDUDhNSDh6SGR6cU1XbTVJMHVsZHl5LUxMTXhVQzVteGN4UE9FTTNZQV9pYVhCUXk1a2VacThhNEV5ejBRQ2FjXzVqRTRqRzh0dUtjX2dZMlQ2N0FLYVVrX1dvVHFsSHN0LVg0LXdMUHJEekV5V2t4aTdXMHVfTjZPQTlwUVRjYnBxMUJtVDBMZEE3cU1Tbng5NHg2YlpMTHczeDlOWjFuclBrb3NfNEZaUDlFVy1rS3AtVTJnRTh6Ynhz?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
       ],
       "baseScore": 60,
       "signals": {
@@ -514,70 +578,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "74eae0d6aa9782",
-      "title": "Missha to make UK pop-up debut as Boots ramps up K-beauty offering",
-      "titleOriginal": "Missha to make UK pop-up debut as Boots ramps up K-beauty offering",
-      "summary": "Missha to make UK pop-up debut as Boots ramps up K-beauty offering",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T17:46:21+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYks1a0FCdUVMdS1Ham5MdnFFVWZQQTRNYzB6RnlSaXVzS3p4bkNZa3lPTGVKN1VlalNOUTJObUc5UGpiX3pMNEo0TGlLR2dwWWI2aV8xUnZjeGt3WWQtbXAzVVdsc2NhVTJudlRRWDBFSWdJYm1ZWkx0X3ZwdlFnYmItVFFuRW5taVJnM1ZPNnh6am84RUU2NF9B?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ebc473f0c34fb9",
-      "title": "PPWR compliance for cosmetics: what to ask your manufacturer",
-      "titleOriginal": "PPWR compliance for cosmetics: what to ask your manufacturer",
-      "summary": "PPWR compliance for cosmetics: what to ask your manufacturer",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T16:48:26+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQW5TTkNvei1IdUxuM3JjR0lKdkd0TWJTS2VxMXRHdUlqV3dJYmw4b2lfbkFPY2dnSTdKMGJXUzUwakdSY2NIOThtUnRDbmRIc2dUWVFoLWItb05nZ290ejhZblB5VVkxbWhmUURyNVE2YkRtWW1wUFRKS1ZMSHJoR0tB?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
