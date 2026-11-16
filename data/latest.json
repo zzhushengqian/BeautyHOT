@@ -1,7 +1,39 @@
 {
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T06:42:21.181275+00:00",
+  "generatedAt": "2026-11-16T07:15:24.873363+00:00",
   "items": [
+    {
+      "id": "72a59ecfadad1c",
+      "title": "ELF Beauty’s Miami Hotel Takeover",
+      "titleOriginal": "ELF Beauty’s Miami Hotel Takeover",
+      "summary": "ELF Beauty’s Miami Hotel Takeover",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-16T07:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ012QWpvSC1pMURObTRiMlRuMGpIVG8wWnE4VXNIdnNXQ3VMSXU0MGdOQ0o2LVFBbHRhTmpMcXFKT05SNjRRNjEydE8wbVZCTmNjVGtYMHBIam11S2ZoTFppM3RyRFVMaEgxWHFucWs1SkJQRWR0UWZNVFQyRGRvMlVYZDVBYWJzQVlnTkltdE5fZk1ybU01M3EwOA?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "c7fcc9590996df",
       "title": "Industry Professionals Dissect the Role of Laundry & Personal Care",
@@ -546,38 +578,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 6
-      }
-    },
-    {
-      "id": "840ff680b14028",
-      "title": "林清轩回应收购婴童护肤品牌咿儿润-36氪",
-      "titleOriginal": "林清轩回应收购婴童护肤品牌咿儿润-36氪",
-      "summary": "林清轩回应收购婴童护肤品牌咿儿润-36氪",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "36Kr",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T03:58:07+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzUDUyWlBDaTFoblVBNU1TTFpiZWZpaF9WaWsxLU53TXhHd2V3YlJWZFBuaGs5X0xhSHZ5OU9XNDRHOGNiSWFWUmMweG1aV2I3Z0hRbTdrRng?oc=5",
-      "companies": [],
-      "tags": [
-        "36Kr",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
       }
     }
   ]
