@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T07:39:00.028073+00:00",
+  "generatedAt": "2026-11-18T07:55:44.680990+00:00",
   "items": [
     {
       "id": "f12dd72a9c4eaf",
@@ -35,6 +35,38 @@
       }
     },
     {
+      "id": "2a86fd4c0a1336",
+      "title": "CeraVe Takes the Movie Screen",
+      "titleOriginal": "CeraVe Takes the Movie Screen",
+      "summary": "CeraVe Takes the Movie Screen",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T20:28:32+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb01kbmxtWUNDNVZQWFdoaWdkQ0tBMkJoNkdiZ0w5R0RkaUUxUU5idVJvX28td1lZT1VLaGlaZkJndldtQm5zR011VEpMZkMzWDczRUZHblgxU0hKckdzNTBiUVR4T092RmFUZ3NzME9pQk5TNS1jRzBEaUFaZWtZenNsam42SVhkTHBEekNhTnNqOE11aGpvYW12d3N5dGxaUmc?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "f5f8e5fd02e29f",
       "title": "(Translation) November 17, 2026 Notice Regarding Change in Consolidated Subsidiary (Transfer of Equity Interest in Shiseido Liy",
       "titleOriginal": "(Translation) November 17, 2026 Notice Regarding Change in Consolidated Subsidiary (Transfer of Equity Interest in Shiseido Liy",
@@ -61,6 +93,70 @@
       "signals": {
         "impact": 6,
         "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a7569a7cb7e24d",
+      "title": "Beauty Connect LA: From Startup Dreams to the Business of Scaling Beauty",
+      "titleOriginal": "Beauty Connect LA: From Startup Dreams to the Business of Scaling Beauty",
+      "summary": "Beauty Connect LA: From Startup Dreams to the Business of Scaling Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T17:35:58+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVRwMVBrWkNpNUNoSWZFVHdFVWpHVkZWMUVQTURDM1VBOFYtMDVqU2VDcUc1RlR5c01NS0pFSkVmV1pORmlYR2o1NEkydk42YUItQkEtQ0VjbFV3ZTBjWl95XzRRS1lTX1RYYTAwX3RZWWtaYW85R2ViVWlzQjkzdDZDR3JIYWJ4ZDBGLWhleEQ3UDR1SEdMMDBoZjhNaXJIM1I5aXd0RUpCVXB1TWdNQTF0bi1oaGJJWXEyRmlxUXRKVnk5eUJwTnNTX1dzLTU3MmczUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b37186fdd0d10d",
+      "title": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "titleOriginal": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "summary": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T13:34:18+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LTFBBWWJ4VWVnX0l6LUR2bm9LbjFITHItSlY0QWV0alNoMjB0cWRfOUUtTzRqeXpJYTdrVEZhSGJVdzlmVm8weFdVTU0?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
         "china": 3,
         "novelty": 6,
         "actionability": 6
@@ -125,38 +221,6 @@
       "signals": {
         "impact": 6,
         "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "b37186fdd0d10d",
-      "title": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
-      "titleOriginal": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
-      "summary": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-17T08:03:05+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iaHJjN3BxY1kyNnNZQXdrVTQ2VkV5QjdUck5Fc1J5ZlJXdlMyMGoxSC1qRFNfRnd2WWNjZjRRUDMtTXE2czBvMkpxYnVNemlzUFB0cWVyWTM?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
         "china": 3,
         "novelty": 6,
         "actionability": 6
@@ -500,70 +564,6 @@
       "publishedAt": "2026-11-16T00:00:30+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bUJlRHZWRWZCTWx1Wl9jRW1oclQ0T0lvR3hfeTkwbTBLSFl0VXd0TnZzcUpCMFFBY2VhWGxvS1l4TW5pakdFUHMyVjV0YWtUSWpvalA0bFdoaERiMEpuUjhPaUJXUmVGejg5RDFTVmdPV2lvUTFJNFZIaHBsZw?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "8ebf355c3fb3f3",
-      "title": "Savannah James Builds Reframe Beauty with Science and Slow Growth",
-      "titleOriginal": "Savannah James Builds Reframe Beauty with Science and Slow Growth",
-      "summary": "Savannah James Builds Reframe Beauty with Science and Slow Growth",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-15T23:11:39+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRG56WWJwV05zVlR2bTNfYVFlRWVnWjdQX1hfZG5GVFNyMFJ3Z3Jza2drbmhGcGlYTDZOQlZoME5CV2tkR1d1YTRTRlBCQk1GMnFRNWN5TlBKbXh3bU15S0o3UnZKczlUSnZYUUpORnhfdGNraWc3STZ6cnNiSTlUbFNlUXMzWXc?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "d4d77f9e610738",
-      "title": "October 2026 Beauty Retail Expansions: Ulta, Walmart, and More",
-      "titleOriginal": "October 2026 Beauty Retail Expansions: Ulta, Walmart, and More",
-      "summary": "October 2026 Beauty Retail Expansions: Ulta, Walmart, and More",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-15T19:47:09+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjVpNWFncHRrbzAxakRFbDhHaVhsc1BFOC1BZ0daZy1Zc2I5dFhSZnpweGJ0UTBaNHM5ZlRsN21uSmJsRjBINW5tTnJKZW9HbVZmaS03S0wxYm1SRVlJdC1USzdsV3lkbk1SMHozT0xfanU1MTI0RHBfZ2trUWVfRXA3RkhCSGpJTjliV2N3?oc=5",
       "companies": [],
       "tags": [
         "BeautyMatter",
