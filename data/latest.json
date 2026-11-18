@@ -1,7 +1,231 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T08:28:28.449857+00:00",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T04:44:36.624884+00:00",
   "items": [
+    {
+      "id": "f12dd72a9c4eaf",
+      "title": "Stagiaire - Acquisition de Talents at L'Oreal",
+      "titleOriginal": "Stagiaire - Acquisition de Talents at L'Oreal",
+      "summary": "Stagiaire - Acquisition de Talents at L'Oreal",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "L'Oréal Group",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-18T01:20:17+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHJ6MmljX1U1ZHQxQ1hzWHp6elJsV3BhWS1leFBwUHlSQXZ4MkxEWHFod2VEWUI4c1BGeUhGZjNmVzl3VGpIVzd3cjhNbWVyT0c3Y3o5ZUZZUXFBYkF4WVlEaENfZUxOYU9fRFdMSGRJbHdaMkVVcy1zdjVPa3pRUGN6aXQzclpQY3Q1d1VBaENQRFM5Smk0?oc=5",
+      "companies": [],
+      "tags": [
+        "L'Oréal Group",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "f5f8e5fd02e29f",
+      "title": "(Translation) November 17, 2026 Notice Regarding Change in Consolidated Subsidiary (Transfer of Equity Interest in Shiseido Liy",
+      "titleOriginal": "(Translation) November 17, 2026 Notice Regarding Change in Consolidated Subsidiary (Transfer of Equity Interest in Shiseido Liy",
+      "summary": "(Translation) November 17, 2026 Notice Regarding Change in Consolidated Subsidiary (Transfer of Equity Interest in Shiseido Liy",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Shiseido",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T17:47:59+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qSjJiemtqMXdFaVk4U19lak41UnMxY2pfdnJOOW5PUWFvWFEyV0J6THRzT2RpZ1VUVW1zUml5bjdJbXBKYzMzZGl2dk9pQ3ljVnZZVGhCU3hZbzE0UVFzUzlCeU8?oc=5",
+      "companies": [],
+      "tags": [
+        "Shiseido",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b37186fdd0d10d",
+      "title": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "titleOriginal": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "summary": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T13:34:18+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LTFBBWWJ4VWVnX0l6LUR2bm9LbjFITHItSlY0QWV0alNoMjB0cWRfOUUtTzRqeXpJYTdrVEZhSGJVdzlmVm8weFdVTU0?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "07a04a3ffbd5c7",
+      "title": "珀莱雅收购花知晓，贝泰妮收购踩坑，美妆大并购时代来了？",
+      "titleOriginal": "珀莱雅收购花知晓，贝泰妮收购踩坑，美妆大并购时代来了？",
+      "summary": "珀莱雅收购花知晓，贝泰妮收购踩坑，美妆大并购时代来了？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T10:49:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ma1Fqb0ZzZEFYcmlnbl8tNV9Vc3kwWExWbWtGWnBISzFoaGpJbllLYjhTang1cVJmbG1KeEtNSnJMNWxKRWZlVGJXQlA0dw?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "9aab01c89b2bc9",
+      "title": "Notice Regarding Change in Shiseido Liyuan Cosmetics Co., Ltd.",
+      "titleOriginal": "Notice Regarding Change in Shiseido Liyuan Cosmetics Co., Ltd.",
+      "summary": "Notice Regarding Change in Shiseido Liyuan Cosmetics Co., Ltd.",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Shiseido",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T08:37:28+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZUxiRm5nWVB2Q2h0cVBoRG5QVHItckxVN0xnNFR3Q2Y2Ym5TQUJWN1dkbnlRMlpIVnNsdGVDSE5sNkIwSVFJbEtDWjlQZkJMSTlZWTExc05SNV94eU9seEFHeDREc0FvU05pMTA1Zw?oc=5",
+      "companies": [],
+      "tags": [
+        "Shiseido",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d46fe8972f96e0",
+      "title": "How 25 of Beauty’s Top Innovators Get Inspired and Keep Things Fresh",
+      "titleOriginal": "How 25 of Beauty’s Top Innovators Get Inspired and Keep Things Fresh",
+      "summary": "How 25 of Beauty’s Top Innovators Get Inspired and Keep Things Fresh",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "WWD",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T05:04:18+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUms0T3BKTmdMdjJLMW4yZlFHS3ZKLURkcG9aMF85WDk3RDdOZHdNVFFoeHliSjNOQktRUzlLNThxR2g4Zk1CVTdBMGFJZy05Vk45eEd2QTdWMEF6aU9uVC1oeFVrS3VfWHc2LVZobFRITHFrclBYWjJTcG9HN3VnTVNzOEtyTjJ2SmRNRUtMeGFhQVVmT1JCVWxMblNPbm1qTDVKMndja1BmNENORGo2NzJkaFMtQVh1Z1NZNlNEOA?oc=5",
+      "companies": [],
+      "tags": [
+        "WWD",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "1ed3f6f84daab4",
+      "title": "Nuon Medical's Interchangeable Applicator Heads Transform Your Skincare Routine",
+      "titleOriginal": "Nuon Medical's Interchangeable Applicator Heads Transform Your Skincare Routine",
+      "summary": "Nuon Medical's Interchangeable Applicator Heads Transform Your Skincare Routine",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetic Industry",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-16T19:23:33+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR0FpNHc3SUNFdU4wNDhfX3FIaHNNbUI3MktiN1RTanZSSGhnVEwyX2tHV1JsWFk3VlNsRU5lS1ZVMTB2cy1FYkFqelJoUzVndFZ5SW1SX0FnNXN3MmpqRVFkQS1TajVZbjlUWUptRWgxRmlkc1J6N18yLUFkQnJjQUFIY3BWSTB5aHktbDE5MXQxVU0xbXBobXFGVTd1S2stSVkwVmUxMUJYbXhWT0FKVDFtT0xDVllwai1wVzg5YXNCM3psTlBHOGRQSWNlOHVkMU1vTmM3T1JxSkVSQllQRGNoTm9IZlZkY1hwOWpUUlJEN3Jvd1E?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetic Industry",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "fb00aa1c841e56",
       "title": "增长不够、组织来救？全球美妆16强进入混战",
@@ -348,230 +572,6 @@
       "baseScore": 60,
       "signals": {
         "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "54a0abdee2c49a",
-      "title": "孙俪也做美妆品牌了？",
-      "titleOriginal": "孙俪也做美妆品牌了？",
-      "summary": "孙俪也做美妆品牌了？",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T09:04:48+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlZkU1ekdKR0lJNWxwc2djZk9ya3R1OVNsdThSWW9hVzdzSGh5TEttQlBBd0NkX2R4WkVLR1pMOVJweDhYc3dFdGVPazg0SjNKdXZzVA?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "94c5f66c1e9fd5",
-      "title": "China's Double 11 Beauty Sales 2026: AI, Trends, and Winners",
-      "titleOriginal": "China's Double 11 Beauty Sales 2026: AI, Trends, and Winners",
-      "summary": "China's Double 11 Beauty Sales 2026: AI, Trends, and Winners",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T04:35:12+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXM4cXJNUDlWWU5XYksteTN2bHQ5Zmh4Rk9kMjR0bkx5ckptSzlCMHNpQ1prbndzTzlxaXVFXzZSOTVqdmJpaTFuSm94ZWZRUERfdU1BMEVhTGNLWlJ6VUlkX1RPZUVYNGZhenU3UUp5ckN2cGY4VUpyRmVPZ2pqdQ?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "5799ce0e7c8341",
-      "title": "Is Masstige Beauty at Risk? The K-Shaped Economy's Impact",
-      "titleOriginal": "Is Masstige Beauty at Risk? The K-Shaped Economy's Impact",
-      "summary": "Is Masstige Beauty at Risk? The K-Shaped Economy's Impact",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T04:35:12+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGw2VjQ4b2RXdG1VNGxpQk1JVGw3dVh6WVJvTm9mY2dZZ0dxemRSX0NVU0Y2X21WMEM4Qm5ZNHRaR0t4bnc3NXZjX1dXYnNGUkwwc2pZakE3Z2hQYzFTaUdrcWlMa09JLU5LazV4Rmd5Y1F2V180MzIwRWpncmNCcnU3eXhLd3ozdTZhUlgtYlg?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "49ea4460d0b281",
-      "title": "L’Oréal Dermatological Beauty",
-      "titleOriginal": "L’Oréal Dermatological Beauty",
-      "summary": "L’Oréal Dermatological Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "L'Oréal Group",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T19:58:43+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOanFxaGFOMU9KZ0VBYWZGN0pqbXEwbWhMRWU3LUlacDYwYkdERWszX2tqc3NkZS04VU93dmZVQ2o0aVdTTUFzVXdTS1ZHZlluMEt3RnMtdDdJNVhZRWN3ZjIxb21iMzVjdzhxcjVrQjNoMDNfVTdSNTM5UjI2ejEtOFIzVjVGalhVLVc0?oc=5",
-      "companies": [],
-      "tags": [
-        "L'Oréal Group",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "c8cd51cf00c4ca",
-      "title": "K-Beauty Group Goodai Global Files for IPO",
-      "titleOriginal": "K-Beauty Group Goodai Global Files for IPO",
-      "summary": "K-Beauty Group Goodai Global Files for IPO",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-16T00:00:28+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN0NNa0NTem1IUTRfUnpKeUtyekp0eHF3SXFiMlBJYmlSUHRiSjVfRERwSXl6ZUxWaWU4U1E0OU9iZC1IUDY5X1JiS2RPY2lDT1l6WC1RdkI0MXVXc0pnSEJ2LUYxVmZudFVFOVppcTc2QWdkYk9ramNnU0JINXNaZmZ3?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "7e42f474e9afa4",
-      "title": "Beiersdorf and Novelis push recycled aluminium in Nivea Creme tin to 95%",
-      "titleOriginal": "Beiersdorf and Novelis push recycled aluminium in Nivea Creme tin to 95%",
-      "summary": "Beiersdorf and Novelis push recycled aluminium in Nivea Creme tin to 95%",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Premium Beauty News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T08:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pYm10RkFlanNRMVpoV0UwTmJVa1RHWmo5a0toRmRDT1oyQmRfR0hfWFowZzVEOXdwbldnMndJR1BrRkNra28zWC1INFlQam9WX0RPRkxqVm80dU5OR0tvTG9SU0pZSmlfdGJnZV9lUjlkbkQ1RWhQc3F3?oc=5",
-      "companies": [],
-      "tags": [
-        "Premium Beauty News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "4e80ef299bbafb",
-      "title": "Beauty Deals: Investment + M&A Transactions Q3 2026",
-      "titleOriginal": "Beauty Deals: Investment + M&A Transactions Q3 2026",
-      "summary": "Beauty Deals: Investment + M&A Transactions Q3 2026",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-09T19:29:51+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0xMQ0UyYVpEczBnYmU5MGZIb0dVMERPYm8xbm1JMThPNGEtRTZfWjJpV2ROZnNRNEI5Q2VwaVh4QlNuX2RsV0p2ak16VWlzSTdOWHlsa0tjdGMtd2NrYVJmcVZocW5ya1ZoSDdMUy1UaTJGMy1wblFFYV9yc20yQXNsc1hEUkk?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
