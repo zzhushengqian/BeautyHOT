@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T04:44:36.624884+00:00",
+  "generatedAt": "2026-11-18T07:39:00.028073+00:00",
   "items": [
     {
       "id": "f12dd72a9c4eaf",
@@ -67,38 +67,6 @@
       }
     },
     {
-      "id": "b37186fdd0d10d",
-      "title": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
-      "titleOriginal": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
-      "summary": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-17T13:34:18+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LTFBBWWJ4VWVnX0l6LUR2bm9LbjFITHItSlY0QWV0alNoMjB0cWRfOUUtTzRqeXpJYTdrVEZhSGJVdzlmVm8weFdVTU0?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
       "id": "07a04a3ffbd5c7",
       "title": "珀莱雅收购花知晓，贝泰妮收购踩坑，美妆大并购时代来了？",
       "titleOriginal": "珀莱雅收购花知晓，贝泰妮收购踩坑，美妆大并购时代来了？",
@@ -157,6 +125,38 @@
       "signals": {
         "impact": 6,
         "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b37186fdd0d10d",
+      "title": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "titleOriginal": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "summary": "百雀羚/巨子生物齐入局，这个千亿赛道开始“挤水分”",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T08:03:05+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iaHJjN3BxY1kyNnNZQXdrVTQ2VkV5QjdUck5Fc1J5ZlJXdlMyMGoxSC1qRFNfRnd2WWNjZjRRUDMtTXE2czBvMkpxYnVNemlzUFB0cWVyWTM?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
         "china": 3,
         "novelty": 6,
         "actionability": 6
