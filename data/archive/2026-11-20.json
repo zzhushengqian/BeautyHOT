@@ -1,7 +1,39 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T04:22:51.701484+00:00",
+  "generatedAt": "2026-11-20T07:26:05.514378+00:00",
   "items": [
+    {
+      "id": "54ed62da60ae4a",
+      "title": "Beauty Independent: The 15 Indie Beauty Brands Leading Organic Sales Growth on TikTok Shop",
+      "titleOriginal": "Beauty Independent: The 15 Indie Beauty Brands Leading Organic Sales Growth on TikTok Shop",
+      "summary": "Beauty Independent: The 15 Indie Beauty Brands Leading Organic Sales Growth on TikTok Shop",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "CEW",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T05:15:51+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0hNc3phSEF0U0J6a1A2ekJDQ0owS2IyLUk1b1FNY1FNZzJLdndsZU52RHZvTkFuTS14ekNTN1U2MlBqUm5NYW5Tb1lvRnFOQWNyU1VHeEo4emk3ckhYOUR3QWFNeV9XUGlTVVgwZTFHdzFOR0VNUmNCZnBMRVpzZXNrcVZWXzJndVdLQTdiaHRJZDdwM0lQaHFQTE1pOFIz?oc=5",
+      "companies": [],
+      "tags": [
+        "CEW",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "6ecc02c980491c",
       "title": "2026 Week 47: Beauty Brand and Product Launches",
@@ -544,38 +576,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "b27f30fec41001",
-      "title": "Proya Debuts at Ulta Beauty",
-      "titleOriginal": "Proya Debuts at Ulta Beauty",
-      "summary": "Proya Debuts at Ulta Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T13:30:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nX1lpTnBoV2ZXRFVwdHdza0xJWkwyVHNKdklCUEFlQ196a2NhamllWVd1OVhPVGtrYTA0V2czM0NXREtpU0MyWUE0YUlteVFteDFKZmszUjk0MkFfNHg4M3h4dHdpekdvUldHUVg3VjRFM092SFJFclp6TG5GNTg?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
