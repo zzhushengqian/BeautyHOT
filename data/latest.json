@@ -1,7 +1,297 @@
 {
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T07:44:25.346499+00:00",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T04:19:19.935592+00:00",
   "items": [
+    {
+      "id": "63d9c3caf137b1",
+      "title": "The art of gifting: Bvlgari celebrates the beauty of the gesture with “Joy Is in Our Hands”",
+      "titleOriginal": "The art of gifting: Bvlgari celebrates the beauty of the gesture with “Joy Is in Our Hands”",
+      "summary": "The art of gifting: Bvlgari celebrates the beauty of the gesture with “Joy Is in Our Hands”",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "LVMH",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T19:15:58+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdDBMXzVBLXQycDFLSmt3RmRVb2QwRVR6VjBDWERFTU9XMlBxdVctWjlnN0pETlhVSDBGWV9mcm5LNFhXWWVTWlpNSkxwMlBuU0lSc3o3VlJNZVZpdF83SlpJVDVCWElkWHBQeFBWbmZ3NGxxaFdDV1dlOEhiU0liTGhPN1VsSFlsXzBCUWxTOXlpbUhOYUdsWGpqYURkdEl3b3JpdFNxNDhuYTVZSU04QVIxNUp5Tks5WTQydTl2NA?oc=5",
+      "companies": [],
+      "tags": [
+        "LVMH",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "64cb50e9b5c9fb",
+      "title": "‘Beauty Is Borderless’ Forum Reflects Evolving Consumers and Cosmetics Industry",
+      "titleOriginal": "‘Beauty Is Borderless’ Forum Reflects Evolving Consumers and Cosmetics Industry",
+      "summary": "‘Beauty Is Borderless’ Forum Reflects Evolving Consumers and Cosmetics Industry",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T18:09:09+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFHZlNjUTFVTlBwR2hEMHc1ZnVLMzFLZThYbUhHNUlSQzlGa2w1VkxVV3NHR2NWZU5uVWhqSnc0YkdPdGNYcUJNMXRISUwxZ3MtbmpnbGoyRWVwbEJtRy1DbGJCVEhuWHdOR3ZqNVhRS3VWeU91Uko2X2FNaWNCM3E0RnJ0NVBCWGQyeU43ZHNHUnIwZFZIVGlJX25zZEdWY0pramxRSEx5d081Ykdmcw?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "1ccaf7d5391811",
+      "title": "DOC Brands Acquires Moon Oral Beauty",
+      "titleOriginal": "DOC Brands Acquires Moon Oral Beauty",
+      "summary": "DOC Brands Acquires Moon Oral Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T15:37:05+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjQm9WYzBBWUJ1YmlQcXBVNGRLdHhKaEtpUDJUbDZvanBfNjk0bVFQVHNuRzlSemZDemxCQnNmX1JIZ3lwaldaZkFEckwyVDRTaEJVZWxEdzZQbFJpYlVoVDQ5UUgwdmRFZ3Fvblp3MW1uekI3czNRSzlB?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "b5bf10fae617f3",
+      "title": "探访水羊乳霜研发实验室：“五感护肤”背后的科学体系",
+      "titleOriginal": "探访水羊乳霜研发实验室：“五感护肤”背后的科学体系",
+      "summary": "探访水羊乳霜研发实验室：“五感护肤”背后的科学体系",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T15:24:02+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rU0phLXF6eFEtVTNmNVFIOVhBUG1LUHlEZWdPNFI5WWk0RmlLNGV1bnZJbUZUc0d0c0RXTUdlZlZyZzZqZnphQWwxZS0?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "3edf27a1dbdd2a",
+      "title": "二十周年战略交底：水羊向“全球高奢护肤集团TOP3”冲刺",
+      "titleOriginal": "二十周年战略交底：水羊向“全球高奢护肤集团TOP3”冲刺",
+      "summary": "二十周年战略交底：水羊向“全球高奢护肤集团TOP3”冲刺",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T06:19:08+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnQlhpcU9DeWJ3Q0dZOFFwakZuT2t5QlpYdHJIRU8wUy1DazdYM2xMSnFUNmxvTHVBVHFPUmtfaGNzSVIzejVBZGczUXZITjZrcUI2R25jOGw?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "32550f5e384b3a",
+      "title": "全球美妆TOP2集团敲定中国“一把手”",
+      "titleOriginal": "全球美妆TOP2集团敲定中国“一把手”",
+      "summary": "全球美妆TOP2集团敲定中国“一把手”",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T02:25:22+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LVGtuZDBCSmZmallMTTJVaGdkbTN0bnRrdWVBem1TRU1EaE56dFZoaWh1TjdXeERSM1VSb2dSZHlmcjNlQmw2OTF3OGp2bDRoRUln?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a4347aa3c6977d",
+      "title": "Jimmy Choo Introduces a New Fragrance in Luxe Packaging",
+      "titleOriginal": "Jimmy Choo Introduces a New Fragrance in Luxe Packaging",
+      "summary": "Jimmy Choo Introduces a New Fragrance in Luxe Packaging",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "Beauty Packaging",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-18T13:44:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGdjZzFwbzRqQXFMR21DZ2dTUWR1TVpYeHRLbkhFTDl6UnR4V1pSR0xQRXpMVk5sNFMzN19ZMHc2TThBc1NYUkNqV0VsTWFTblcxaHJiZzFrZ2c4eHoyb2FRUV9lSTUxTGYzWFR5LU1lVVlXM0cycThxY2lVQUhEdW9YT05ESC03LVUtRXBhZlp5bzkzN0RYNVdZQkJTeDJfZGNWZQ?oc=5",
+      "companies": [],
+      "tags": [
+        "Beauty Packaging",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "4d8dea64067e4d",
+      "title": "Travel Retail Beauty Planner (Dubai Based)",
+      "titleOriginal": "Travel Retail Beauty Planner (Dubai Based)",
+      "summary": "Travel Retail Beauty Planner (Dubai Based)",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-12T12:41:59+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eGEwWE82aWhoaGZCeW5mb2NUZVAtdjc1dHU0eVpOMV9Dam81LVktalk1eG93YWlkdlotYUN2eDlnLXV3ODVCVVRlQ1RqcTl5b2NpbWRsdVNyQjZyZ2hFMjlxVkFFczN2?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "953b10edf979b8",
+      "title": "Edgewell Personal Care Announces Fourth Quarter and Fiscal 2026 Results",
+      "titleOriginal": "Edgewell Personal Care Announces Fourth Quarter and Fiscal 2026 Results",
+      "summary": "Edgewell Personal Care Announces Fourth Quarter and Fiscal 2026 Results",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "Edgewell 官方",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-12T11:38:37+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjBHMl9EVndwSW5NUTFVT3FrNVh3cUhveEJhbENpZVdlNlo5TVVFdTlwWnBGNzE2SlJBU00zampZQXcyWUstenBlLXBYX3A1eHoxdTItNndaWnBWWlhJMG9MclRfbTlKdXpHVEVfYXRPVE85N1dZY2NneWhnU1NYV1ZuYkc3dU92RFZjck9PVU41aVJMSXc?oc=5",
+      "companies": [
+        "Edgewell Personal Care"
+      ],
+      "tags": [
+        "Edgewell 官方",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "6ecc02c980491c",
       "title": "2026 Week 47: Beauty Brand and Product Launches",
@@ -288,294 +578,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "20f2c0cbbe145c",
-      "title": "Shiseido Develops “Mirror Veil Technology” Inspired by Bird Eyes",
-      "titleOriginal": "Shiseido Develops “Mirror Veil Technology” Inspired by Bird Eyes",
-      "summary": "Shiseido Develops “Mirror Veil Technology” Inspired by Bird Eyes",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Shiseido",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T08:19:14+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XN24yUU5Pb0t4Tm9oQjR3VS00WjQ5S0Uwcl9tS3l3VWkzZDNYTHhCTEZ5LUlpZmNwUWxpbWZpbWdvMVoya3gyTk9VNGh0M2wzR3c2ZHJMSENlQVQ2WjdyUnRYV1hKQmZzRU1PamVXUQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Shiseido",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "53f49552c2d7b3",
-      "title": "水羊创始人亲笔：水羊要成为全球三大高奢护肤集团之一",
-      "titleOriginal": "水羊创始人亲笔：水羊要成为全球三大高奢护肤集团之一",
-      "summary": "水羊创始人亲笔：水羊要成为全球三大高奢护肤集团之一",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T07:51:25+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xZ2xFaDhfYVZmX1lwLTFaOGhDTnV5NVVKVDBVX2xfc0tXcktNQ3hJY2UxaGt0QmJWcmJOcW55azE5Ry02eXhVRXoxbDU3OWhpb0c0?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "c79e8bc4e461b9",
-      "title": "Jennifer Lawrence, Jordyn Woods' Shoes at 2026 Beauty Inc Awards",
-      "titleOriginal": "Jennifer Lawrence, Jordyn Woods' Shoes at 2026 Beauty Inc Awards",
-      "summary": "Jennifer Lawrence, Jordyn Woods' Shoes at 2026 Beauty Inc Awards",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "WWD",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T05:21:04+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMks0LXcxaHlZdElBZUNWaVZ6WjdDSmFlWENPTkVaak1QOUNNeElNNDBzYVNEWmZZX2c1VS1jRE5TYTFJcFRSeE1MSW5jVDViRFpyMGFZLU5VbE9teVM5Z2RqOWNfeUhSUVJvdzV0VUZlVV8tdjQ4RGQ1aUJocjhlNHFuRUx5cmw1SnVOcTJvcHBKb3MtSTFPOGppemhYanpDdXFMUzJwX2tKVTlWNVdMVDZZZw?oc=5",
-      "companies": [],
-      "tags": [
-        "WWD",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "452c350905212c",
-      "title": "Build What's Next in Beauty: Agile, Custom Formulation from Clean Clinical to Bold Innovation",
-      "titleOriginal": "Build What's Next in Beauty: Agile, Custom Formulation from Clean Clinical to Bold Innovation",
-      "summary": "Build What's Next in Beauty: Agile, Custom Formulation from Clean Clinical to Bold Innovation",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "Global Cosmetic Industry",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T17:08:43+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPekdxTGVweWQtYUs1ako1RVFON2tiRzZVck9hWnM2bHJVV0ZKREhVaVdhb3FHS3d4TktKUXJoQU91SWdvOXJPeDZ2LTkwTmU1dnZYeUtxTlVPdHFfYnVzazFHMmpfZHg5bmYxUXhCZXVQOXhaUDM3MnRqOXBnRFVTNWJOZW91bkJOb1BQenF3WUg1a19pZTRhbU0zcXNzbHEzYmR3YThpVkdKaEp1MmFGNjlZRUJKLVBiR0ZxR3ZHc2JWeDUzczEyZ0lVNkd4LXZHWWdzd1RZZWd2RHNhUXktV1lLYXdEbGhQd3ZhRGJMSk51YUNoX0ZCb1p1UWpaYjZhMERBUnZqdzZTeXVibXdIdTBwOA?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetic Industry",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "d2094139bbc263",
-      "title": "Sales & Education Executive - Makeup & Skincare - Travel Retail West (based Dubai)",
-      "titleOriginal": "Sales & Education Executive - Makeup & Skincare - Travel Retail West (based Dubai)",
-      "summary": "Sales & Education Executive - Makeup & Skincare - Travel Retail West (based Dubai)",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "people",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-17T14:10:04+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUTlaemNDczhuRkFtRmFMTFFwSVYydUVqajBNcUhRNl9NMHFMXzlqNjFiVUE2bEg1X3l0UVlIeDFzRW9aNllRSHBURXZ5SzFSR0dOalIwZEl4Z3lUbTdqNWlYZzJKazVVVjVrWS1Qakp0cmFZQjY4STgxbXpfMTNVaW5kT2d6UTFKRGo5eERvU2JueEs3dzF4X0F1MVI1S0tYUkRmd242ek9MUDBoWHRXTzAwQ3NNcFRoZHhhWnFpWnM0ZkdHWnlMenJmUzZjeFNFTzFiaVpRbEFOUEoxSVRLRWRneGU5MVVRazhoanAtMWdYdVRPMG1qbEhJWUxHbS10N3pnZ0RSYnFzaWg2Ym16UFIxSHhjUQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "54ed62da60ae4a",
-      "title": "Beauty Independent: The 15 Indie Beauty Brands Leading Organic Sales Growth on TikTok Shop",
-      "titleOriginal": "Beauty Independent: The 15 Indie Beauty Brands Leading Organic Sales Growth on TikTok Shop",
-      "summary": "Beauty Independent: The 15 Indie Beauty Brands Leading Organic Sales Growth on TikTok Shop",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T05:15:51+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0hNc3phSEF0U0J6a1A2ekJDQ0owS2IyLUk1b1FNY1FNZzJLdndsZU52RHZvTkFuTS14ekNTN1U2MlBqUm5NYW5Tb1lvRnFOQWNyU1VHeEo4emk3ckhYOUR3QWFNeV9XUGlTVVgwZTFHdzFOR0VNUmNCZnBMRVpzZXNrcVZWXzJndVdLQTdiaHRJZDdwM0lQaHFQTE1pOFIz?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "e6bd0def1e79f7",
-      "title": "Brazil Simplifies Cosmetics Exports Across Latin America",
-      "titleOriginal": "Brazil Simplifies Cosmetics Exports Across Latin America",
-      "summary": "Brazil Simplifies Cosmetics Exports Across Latin America",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T06:16:49+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMTVHZWlpRnN2R1BjV0pTLVdMYk93SmVmSy1BajFUbENkbzUzZFNkVXBXazBBdVBrTmZrczlwLVlmRmZIYzhnUnBPVlRlMF9DRnV1SW1OaHVzOFVUejV6TENmeGJCWmwyVmxpcjVrWTY3RmVmM3czRXpaRHVyekM4NWNFNnN3bmU4VXRlbDN1Y3BObEVuY29WQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "b2cd07eaf042f5",
-      "title": "David Beckham’s Company Sues Coty for US$41 Million Over Fragrance Distribution",
-      "titleOriginal": "David Beckham’s Company Sues Coty for US$41 Million Over Fragrance Distribution",
-      "summary": "David Beckham’s Company Sues Coty for US$41 Million Over Fragrance Distribution",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T06:07:01+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYk1HOGxGODRySWdHWkRCejVBUHZmYWpnRDdfbGhGaFNKUEYwV1ZKSXJiMDBERHQ3aTNjaUYxMll5SWI5ZWYzWkFnMFZOblZzQWN1NEF1a0hXQWtRejM4dmJMdUZnSER2UWVUTS1XdVctS0txZ1EtVnVjN1AtQnVFVjNMM0Y2ck1oNWxaRGdzWmljLTVPYzkxR1hNTzI5aW10T1pFdVNwbjFnUDV1VXp0OVMzUUQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "7680b0d829b183",
-      "title": "Celebrating the Women Driving Beauty Science Forward",
-      "titleOriginal": "Celebrating the Women Driving Beauty Science Forward",
-      "summary": "Celebrating the Women Driving Beauty Science Forward",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "CEW",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T17:10:25+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEhoQTRGQXI5cmdwVklka3hsV2dPbFFsYW1pWU9Ed0pMcUFHVXY2Nkt5VV9fbE9NWV85RVhsMXEydllGcEJXeGZGcUJKLVFObDY4dk82T0dBaDcwcTh5aEx2eE84WDRPcE5oTDNGd2hjcDBuWXNzN1pTMlhMOTducEIyeG5PMkhJNmZmaDVmMDQyQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "CEW",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
