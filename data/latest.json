@@ -1,7 +1,201 @@
 {
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T07:41:33.022977+00:00",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T03:31:37.273726+00:00",
   "items": [
+    {
+      "id": "3777e357b2e1d8",
+      "title": "Beautycounter Founder Gregg Renfrew Launches Beecee for Gen Z",
+      "titleOriginal": "Beautycounter Founder Gregg Renfrew Launches Beecee for Gen Z",
+      "summary": "Beautycounter Founder Gregg Renfrew Launches Beecee for Gen Z",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Happi",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T02:49:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGdIdGJIOXZVVlBWQU1oZXZPZlB2a3V0WmhMN09rYXpUekcyVHpmNTF2WHBiMkhxVGNxdE9mTGRvWnY5YTFNRFJXUzljRTZzUW9xdkhNXzJNdkNaT1h0S3laSUVQZGFudWxMNHlTVTlkNjhyRUhGWGZPYzRyMFNvc2RYdEowNldkNmlrcy1IN0FhYUNHVVk4OTJZcFBETW0tdUpTQkZkQ0RuUVYtSWc?oc=5",
+      "companies": [],
+      "tags": [
+        "Happi",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "bebc91b19deb2f",
+      "title": "BeautyMatter Awards 2026: Best Beauty Impact Initiative Finalists",
+      "titleOriginal": "BeautyMatter Awards 2026: Best Beauty Impact Initiative Finalists",
+      "summary": "BeautyMatter Awards 2026: Best Beauty Impact Initiative Finalists",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T01:32:41+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkZVVHdZMzBXN180ZDl3Ujl1T0dVYTBkSWZOR05TU3NwdjFITkJSTm9NcGF0Yk9aS0c3NEJuZ3NPV2hSdUVZWW4tbFZ4OU9PZF9HVFdNZUxLM3hLdEdQc2pENWtON1U5ZGpwSmpULUFnc2JnMGlBd1RYLVpvaTVQb2Z1NzJBSG9YankyZXJTMERKQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a13cb9884fbd20",
+      "title": "第一本护肤科普书，30位专家教授2年倾力打造",
+      "titleOriginal": "第一本护肤科普书，30位专家教授2年倾力打造",
+      "summary": "第一本护肤科普书，30位专家教授2年倾力打造",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-21T01:59:55+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01TFBkQ29mcVVaN0tmTi02WkI1azN1ZEZ0UE0wV1ZYVWR6S1RGa0NTT2paRWgzcS1qUkZWNDRWMy1kVHFaRHBiekhZRGVxblpZTHl3?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "6ab3868d4bb2b5",
+      "title": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
+      "titleOriginal": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
+      "summary": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Glossy",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T05:03:52+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFVNYlVDaUgzSnh2ZmVKRmhKMElYamxoalp3aDNGdTkta0VpVWxQd1VKQnN1M1BjUDN0Slkxb19nQlpYQlB6YXV6NEtsMjNmWEtQUmNBbG1JWE15di1SdDRVZGR2bi1oTHl3X3o2OFByV0hSMWV2Zllka0xJV0lIWmhSUUdJZjVFNHN3OWdwWWJnNm5GNTJhRDhQTWxrd1ZjOTB2aVZETEN5SDhpUWc?oc=5",
+      "companies": [],
+      "tags": [
+        "Glossy",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a44148eeb51de9",
+      "title": "e.l.f. Beauty and RIVET Empower Next Generation of Changemakers Through Positivity, Inclusivity and Accessibility Across the UK and India",
+      "titleOriginal": "e.l.f. Beauty and RIVET Empower Next Generation of Changemakers Through Positivity, Inclusivity and Accessibility Across the UK and India",
+      "summary": "e.l.f. Beauty and RIVET Empower Next Generation of Changemakers Through Positivity, Inclusivity and Accessibility Across the UK and India",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "e.l.f. Beauty IR",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T12:13:43+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlhTQTBYcWlpdmNaMG9UM0RQRGl1VExoX2swSWMweGt5VEVrQ20yNEZucEdKcGdQZGlIbTFGNFEtX2ttbU1SdEcyWlR2alFlOXNZQmVqTXNhRWRCc01Fd0Z4NFdTSFJqR3QzSUxqLXFqQ1p4Y09MSkFUODBiaG5sRVpVWGo4Tm9jVjRBd0ZHRGxrRXc2bVIyT3pBQ1VFNDhTamp0bVdOVQ?oc=5",
+      "companies": [
+        "e.l.f. Beauty"
+      ],
+      "tags": [
+        "e.l.f. Beauty IR",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "71f1267e6d4b41",
+      "title": "Le Labo Shoreditch Fragrance advisor 37.5 hrs",
+      "titleOriginal": "Le Labo Shoreditch Fragrance advisor 37.5 hrs",
+      "summary": "Le Labo Shoreditch Fragrance advisor 37.5 hrs",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Estée Lauder Companies",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T20:36:48+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb0ttMzA1ZVQ3NExROEJEd1I0azVHanlEVkNuRXRaVG5zNDlCV25qNW95dHdjcDZ1Y2FRdDEycGF2RW91M1g1SHZ1ZElFekJTei1Gc3NNcDQ1d0pMeHdVLTJ6X0pZcFo0MmtXTDdNa3RQZzFqTG4ydTI3ZjRjZHM1RmpqbFV0VUZJNmJnX2xLVUMzSmMwQllPaUxjOHhlZS14VlRrUXJOTWJVTEI3MTdIQ1RIRW5wTjBzSDRJZUlxVEsxeXZDZFE3SVBZcjJWdmRLd29MUWpRTUNvalc4a3dmeE9NZVRvekxBNDZV?oc=5",
+      "companies": [],
+      "tags": [
+        "Estée Lauder Companies",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "63d9c3caf137b1",
       "title": "The art of gifting: Bvlgari celebrates the beauty of the gesture with “Joy Is in Our Hands”",
@@ -386,198 +580,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 6
-      }
-    },
-    {
-      "id": "74e462e6e932d8",
-      "title": "How Do You Calculate Fragrance Allergens for a Cosmetic Label?",
-      "titleOriginal": "How Do You Calculate Fragrance Allergens for a Cosmetic Label?",
-      "summary": "How Do You Calculate Fragrance Allergens for a Cosmetic Label?",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics & Toiletries",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T23:12:17+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSG5vb0N5bTBBNXBlSTlENEJTcWZUcnRZdG9UNnAybnIzRU9xSlMzRUVNTlhMN0RyUGEtUjBrTDR3VU5ZWkIwb1hTYVNjSFFHdkhyd25fOEtNRnNjUGI3XzRDLXhsSXIxd2laXzhJSzhSYmw2WEZ1U3FjRGF2Y2hvV3k4dHBhMmNVbERzcE9UdThfQ3N1WnBNUmlBRXdKS1VPMy1sTkZkb1hMTnhTUW84WW1YWVhFZkxZLV9mMnZ6Z3JFQU1CcG84bEp3NG1yaTItWFY0TlhYWWxSRzlEWi1zQWFNLU1obkU?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics & Toiletries",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "81774a75710dc6",
-      "title": "How Nykaa and Indian Beauty Brands Are Expanding into the UAE and GCC Markets",
-      "titleOriginal": "How Nykaa and Indian Beauty Brands Are Expanding into the UAE and GCC Markets",
-      "summary": "How Nykaa and Indian Beauty Brands Are Expanding into the UAE and GCC Markets",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T19:09:37+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLVVBaDhmdXlyWXk3WGdEYWhHQno4ZHcycU5wQmMxWXlwVlJPN1I5TnJDenl5YVNQdWUxQ19XVUktek1rTTZmNHNBeW1uYzJFS1hjcTNNSEUzSWJNYnR1enZSWTd0eUhZRXBZZzBJSUNidDRYQ0M0cndyVXVYdUg1elZVYjlfQVF0eFE?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "22a37c85722900",
-      "title": "Stripes Beauty Raises $5 Million To Fuel Supplement Business",
-      "titleOriginal": "Stripes Beauty Raises $5 Million To Fuel Supplement Business",
-      "summary": "Stripes Beauty Raises $5 Million To Fuel Supplement Business",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T18:38:38+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkdUZGtSd1NMd1NSelQ1UjhhTDYtczNjNDRyVGljSF8taEhkV0ZqQXJEVjhRWDMxbWNzQUxGMXhYeHltUlJlN0VXMFRIeUVNSlJLMWttZzNMWklvdnd3UDU2LWxITjlRbTIxcTFvYTNySnVKRVFGSGk1NW5PVWRiWkFobDJvdVlOWE5rOEhCQUhaNTdmUnNqRDdwX2E?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "0b8a6ae04b7b92",
-      "title": "IFF opens Brazil Forest Lab to find new fragrance and beauty ingredients",
-      "titleOriginal": "IFF opens Brazil Forest Lab to find new fragrance and beauty ingredients",
-      "summary": "IFF opens Brazil Forest Lab to find new fragrance and beauty ingredients",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T12:17:46+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmNDBQcjZ3UEg2eFZkWG9feUo3QXNDc09mREZfTzN3ZldmeG91dVhHZlBpbEc0X1ZraXFqakhVenFsa1QtZzZhZXBOZkZmMnRsNnRjNDJrTHJuNWdlc2VVZVh1N1B0MVpENllLSDhNcGxSSk96SkhZZA?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "87d59cf398728e",
-      "title": "How AI and digital technology is transforming fragrance creation and olfactory understanding",
-      "titleOriginal": "How AI and digital technology is transforming fragrance creation and olfactory understanding",
-      "summary": "How AI and digital technology is transforming fragrance creation and olfactory understanding",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T12:16:24+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVVk3Q1EzRk1ocWtNZkplVVpsaTU5MEVvVHRlbk5LRHdBakgzZmZPNjM4NlY0R1EzNDA2ZFNtZ2NRbDdDNWxpZmdJbi1MOHRJckpxZHZRMjZ5c2UxZkoyVFJLckhmcGdjbndsd18ybXpDdWRiWmg2UGVwdHNBQklPNjJHaVE1WGhSY3VJa1N3?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "4f36432dc24c2c",
-      "title": "Is Puig set to acquire Parfums de Marly?",
-      "titleOriginal": "Is Puig set to acquire Parfums de Marly?",
-      "summary": "Is Puig set to acquire Parfums de Marly?",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T12:01:24+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wTlIySDZobUd3a3ZVVVZiZmtDRlJHWnpCb1ZncmxFTjh0amZJbE5tVVFVUHV4WVVmcV9VdDhNbEpBY0JERXBFRklTdERVQzZmdGFkeUcwc19VMjRtQXNZX0pNWUw1WmlVdzgzellkZXZxdWlkV1hMbA?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
       }
     }
   ]
