@@ -213,7 +213,6 @@ filteredNews = function() {
     filtered.sort(compareNews);
 
 
-  if (state.view === "selected") filtered = filtered.slice(0, Number(activeProfile.display.maxItems));
   return filtered;
 };
 

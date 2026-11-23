@@ -541,3 +541,6 @@ footer p { flex: 1; }
 .archive-pagination button { padding: 10px 14px; border: 1px solid var(--line); border-radius: 8px; background: transparent; color: var(--rose-dark); font: inherit; font-weight: 700; cursor: pointer; }
 .archive-pagination button:disabled { opacity: .4; cursor: default; }
 .archive-pagination span, .archive-error { color: var(--muted); font-size: 13px; }
+.page-buttons { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.page-buttons button[aria-current="page"] { background: var(--rose-dark); color: white; border-color: var(--rose-dark); }
+.page-buttons span { padding: 0 4px; }

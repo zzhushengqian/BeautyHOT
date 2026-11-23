@@ -282,6 +282,7 @@ const state = {
   category: "all",
   query: new URLSearchParams(location.search).get("q") || "",
   sort: "latest",
+  page: 1,
   useGroupWeight: true
 };
 
@@ -377,11 +378,14 @@ function renderTopStories() {
 
 function renderNews() {
   const items = filteredNews();
+  const totalPages = Math.max(1, Math.ceil(items.length / 30));
+  state.page = Math.min(state.page, totalPages);
+  const visibleItems = items.slice((state.page - 1) * 30, state.page * 30);
   const list = document.querySelector("#news-list");
   const empty = document.querySelector("#empty-state");
   document.querySelector("#result-count").textContent = items.length;
 
-  list.innerHTML = items.map(item => {
+  list.innerHTML = visibleItems.map(item => {
     const score = calculateScore(item);
     const groups = findWeightedGroup(item.companies);
     const primaryGroup = groups[0];
@@ -415,7 +419,24 @@ function renderNews() {
 
   empty.hidden = items.length > 0;
   list.hidden = items.length === 0;
+  renderPagination(totalPages);
   renderSearchState();
+}
+
+function renderPagination(totalPages) {
+  const nav = document.querySelector('.archive-pagination');
+  nav.hidden = totalPages <= 1;
+  document.querySelector('#archive-page-label').textContent = `第 ${state.page} 页，共 ${totalPages} 页`;
+  const pages = [...new Set([1, state.page - 1, state.page, state.page + 1, totalPages])].filter(n => n >= 1 && n <= totalPages).sort((a, b) => a - b);
+  let previous = 0;
+  let html = `<button type="button" data-page="${state.page - 1}" ${state.page === 1 ? 'disabled' : ''}>上一页</button>`;
+  for (const page of pages) {
+    if (page - previous > 1) html += '<span>…</span>';
+    html += `<button type="button" data-page="${page}" ${page === state.page ? 'aria-current="page"' : ''}>${page}</button>`;
+    previous = page;
+  }
+  html += `<button type="button" data-page="${state.page + 1}" ${state.page === totalPages ? 'disabled' : ''}>下一页 →</button>`;
+  document.querySelector('#page-buttons').innerHTML = html;
 }
 
 function renderSearchState() {
@@ -442,6 +463,7 @@ function syncQueryString() {
 
 function applySearch(query) {
   state.query = query.trim();
+  state.page = 1;
   syncQueryString();
   renderNews();
   document.querySelector("#feed").scrollIntoView({ behavior: "smooth", block: "start" });
@@ -467,6 +489,7 @@ document.querySelector("#category-tabs").addEventListener("click", event => {
   const button = event.target.closest("[data-category]");
   if (!button) return;
   state.category = button.dataset.category;
+  state.page = 1;
   renderCategoryTabs();
   renderNews();
 });
@@ -511,16 +534,6 @@ renderAll();
 let archiveDates = [];
 let currentArchive = "";
 
-function updateArchivePagination() {
-  const dates = archiveDates;
-  const index = currentArchive ? dates.indexOf(currentArchive) : -1;
-  const nav = document.querySelector(".archive-pagination");
-  nav.hidden = !dates.length;
-  document.querySelector("#archive-newer").disabled = !currentArchive;
-  document.querySelector("#archive-older").disabled = index >= dates.length - 1;
-  document.querySelector("#archive-page-label").textContent = currentArchive ? `${currentArchive} 归档` : "最新动态";
-}
-
 async function loadNewsFile(path, label = "最新动态") {
   const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) throw new Error(`无法读取 ${path}`);
@@ -528,6 +541,7 @@ async function loadNewsFile(path, label = "最新动态") {
   if (!Array.isArray(payload.items) || !payload.items.length) return false;
   NEWS = payload.items;
   state.category = "all";
+  state.page = 1;
   document.querySelector("#feed-title").textContent = label;
   renderAll();
   document.dispatchEvent(new CustomEvent("beautyhot:data-loaded"));
@@ -555,7 +569,6 @@ async function loadArchiveIndex() {
       option.textContent = date;
       select.appendChild(option);
     });
-    updateArchivePagination();
   } catch {
     // The latest feed remains available even when the archive index is absent.
   }
@@ -564,12 +577,11 @@ async function loadArchiveIndex() {
 async function navigateArchive(date) {
   const error = document.querySelector("#archive-error");
   try {
-    const loaded = await loadNewsFile(date ? `./data/archive/${date}.json` : "./data/latest.json", date ? `${date} 归档` : "最新动态");
+    const loaded = await loadNewsFile(date ? `./data/archive/${date}.json` : "./data/history.json", date ? `${date} 归档` : "最新动态");
     if (!loaded) throw new Error("归档为空");
     currentArchive = date;
     document.querySelector("#archive-select").value = date;
     error.hidden = true;
-    updateArchivePagination();
   } catch {
     document.querySelector("#archive-select").value = currentArchive;
     error.textContent = "这一期暂时无法加载，请稍后重试。";
@@ -581,19 +593,11 @@ document.querySelector("#archive-select").addEventListener("change", event => {
   navigateArchive(event.target.value);
 });
 
-document.querySelector("#archive-older").addEventListener("click", async () => {
-  const dates = archiveDates;
-  const index = currentArchive ? dates.indexOf(currentArchive) : -1;
-  if (dates[index + 1]) {
-    await navigateArchive(dates[index + 1]);
-    document.querySelector("#feed").scrollIntoView({ behavior: "smooth" });
-  }
-});
-
-document.querySelector("#archive-newer").addEventListener("click", async () => {
-  const dates = archiveDates;
-  const index = dates.indexOf(currentArchive);
-  await navigateArchive(index > 0 ? dates[index - 1] : "");
+document.querySelector("#page-buttons").addEventListener("click", event => {
+  const button = event.target.closest('[data-page]');
+  if (!button || button.disabled) return;
+  state.page = Number(button.dataset.page);
+  renderNews();
   document.querySelector("#feed").scrollIntoView({ behavior: "smooth" });
 });
 
@@ -604,4 +608,9 @@ document.querySelector("#archive-nav").addEventListener("click", () => {
 (async () => {
   await loadPublishedNews();
   await loadArchiveIndex();
+  try {
+    await loadNewsFile('./data/history.json', '最新动态');
+  } catch {
+    // Keep the current daily feed available if history is unavailable.
+  }
 })();
