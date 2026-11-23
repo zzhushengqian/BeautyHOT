@@ -1,19 +1,361 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T07:26:32.263968+00:00",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T04:04:41.478051+00:00",
   "items": [
+    {
+      "id": "174897153842d5",
+      "title": "知名美妆连锁中国市场跌17%",
+      "titleOriginal": "知名美妆连锁中国市场跌17%",
+      "summary": "知名美妆连锁中国市场跌17%",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T03:32:46+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtZnMzcVI0OW5MNVhUT0s4V1RCUGNzLW1menpMVUwtd1pJcGhQMmNBeEJRWjBYc2wtWjNyQkJWTU0zV0xROFZRV3l0VExpZw?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "cffcdb21b09628",
+      "title": "化妆品全在降价，李佳琦直播间却还在涨？",
+      "titleOriginal": "化妆品全在降价，李佳琦直播间却还在涨？",
+      "summary": "化妆品全在降价，李佳琦直播间却还在涨？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T00:26:26+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HWU9EZE1oWEZxVm9aSWEzQ1Zpdk1JVVNwaHRQMFUwT0lYTHVyUzJhMm5YMURSVnVBTmJfZ3J2XzN2V3JfY21kX2dLMWVsZw?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d2fd046af9baa3",
+      "title": "Coty Extends Marc Jacobs Beauty Licensing Deal for 40 Years",
+      "titleOriginal": "Coty Extends Marc Jacobs Beauty Licensing Deal for 40 Years",
+      "summary": "Coty Extends Marc Jacobs Beauty Licensing Deal for 40 Years",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T23:48:45+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SalhCdTUzTXJCX3NFd21rQ2tJNlRVQVUzQVk4eWdVU19qRkVZSmxCTFdlYkJWUGVXVTFpX19OVEJIN1VMdzUxMERJLVl6eXcxY1NRNFlKRkF0U2tsTkhwYW9NMjBxRTBndW1ubDZHU3FtbXdo?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "6addcc030d6f48",
+      "title": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
+      "titleOriginal": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
+      "summary": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T19:05:32+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnVqRC1VNTVkUVk3cHVLdjVIeWtaNEtjaDRUbXp4YlA5VFRSVUxXVFN3YTVac1hmaUpkbjhjcUZLcXYweG9MdlBHMnBrSFVtU2RiRDNKa3JuUUZsX0pqLU9UbURfam9jb0ZtaDd3clcyYWk1NlNXbWw3cm44el80eUp0c0JISFdVM3l6cWx3?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "78d7ca4827b5bb",
+      "title": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "titleOriginal": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "summary": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T13:47:47+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTF8wcFJuWGJWMzlNZ1RHUlVuYWVLLXV5ZVFldkZWUDE2QkJnQ0ljYXRZM0lWWF9OQklJOEgyZFk1UW95b2w3ZmozczNXVmVscHZwTXN5VnRmbXBHMlpBWHdEamZsZmxkNDRFNlFpNFZ0dmZtWThYLS04ZXJhUmxYSEZ5NWtuNkk3T1RjM1VqQ3JYM0hCamF4Y2RSOUE?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "ca9a27f644d99a",
+      "title": "Are Frozen Cosmetics the Next Skincare Innovation?",
+      "titleOriginal": "Are Frozen Cosmetics the Next Skincare Innovation?",
+      "summary": "Are Frozen Cosmetics the Next Skincare Innovation?",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T01:27:07+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yNkJ0clZsVWhJNGp6WjBxUmNCZzJvQ1BMR2dzTURwczRZTGJLZThteFdlOHBxRkV2NlZrOUhtMzU1R0Fhd1kwY1lwSmJ1TV9ySU9SaHJkeE00am1Yd2NjM0JJRllSaUJhcWtRNXNLZ3hZbV9IUDZIUVl1bDZOQ3c?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "d68e787181d457",
+      "title": "How Chinese Fragrance Brands Are Moving Beyond MBTI Marketing",
+      "titleOriginal": "How Chinese Fragrance Brands Are Moving Beyond MBTI Marketing",
+      "summary": "How Chinese Fragrance Brands Are Moving Beyond MBTI Marketing",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-19T19:05:30+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU29OSjhiVV9rODFzZF93OGd1YmRNczlnSmtHb0p2ZThtWFZRRHZBZFZXWGlEQ3ZHckk0V3ZDSGFxVG1pWjNaUDZ0M29wLTZTNmhray1HRzROQ25ELVB1aVdPVnNCOFBmWkVKbVhOOGhCNFRyaXM3V3dsNGhNeTE1NA?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "aa3f664ef05ebb",
+      "title": "SK-II全新「神仙锁精华」首次亮相第九届进博会",
+      "titleOriginal": "SK-II全新「神仙锁精华」首次亮相第九届进博会",
+      "summary": "SK-II全新「神仙锁精华」首次亮相第九届进博会",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T09:27:32+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56aVNQS3gxVjR0VmdoTzVnMklWQmpDM2J2U2NieV9TcnZSZWFPZ3VUZUFmd0M5cngxTVdGMVZfeUhTY3RxNWlTSHpGWGkxMWFETXRxajl2aGI?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "5333744e7f95f7",
+      "title": "化妆品新品备案TOP1工厂，被罚了",
+      "titleOriginal": "化妆品新品备案TOP1工厂，被罚了",
+      "summary": "化妆品新品备案TOP1工厂，被罚了",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "supply-chain",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sSk85V0F0aWYtOVloOEFoMkxuUUVzZWRQM21VZV9OcUg0dTNSWlJYUVI5Q2JQVXZPeFk3LXU2UTh3MnZteGFKc3BBbHRvZnVkZ2RQTXBqSFE?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "c8cba89a1f1b59",
+      "title": "拼多多化妆品新规将生效AI入口成双11新增量",
+      "titleOriginal": "拼多多化妆品新规将生效AI入口成双11新增量",
+      "summary": "拼多多化妆品新规将生效AI入口成双11新增量",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "亿邦动力",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTWR4T0t0OHAyUF9maTZWaTIwbnVrUjlEekRrd0dRRExvdXRKYjU4azJFcUM3MVNLdngyOVVjWVFmbmJFbndkNVhqUUhlZ3VWNXJ4VHlB?oc=5",
+      "companies": [],
+      "tags": [
+        "亿邦动力",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "pg-supply-workforce-20261119",
       "title": "宝洁裁员：计划到2030年削减20%至30%产品供应人力",
       "titleOriginal": "P&G: 20–30% Product Supply Workforce Reductions by 2030",
       "summary": "宝洁提出到2030年将产品供应人力减少20%至30%；路透社报道该范围包括合同工。",
       "why": "宝洁供应链调整涉及制造和物流，值得关注其对美妆及个护业务供应链的影响。",
-      "analysis": {"impact": "集团供应链调整可能改变生产和物流环节的人力配置。", "watch": "关注各地区和业务的具体执行安排。"},
-      "category": "financials", "source": "宝洁投资者日（官方）", "sourceTier": "A", "verification": "official", "sourceCount": 2,
-      "publishedAt": "2026-11-19T00:00:00-05:00", "publishedLabel": "2026年11月19日（具体时间未核实）",
+      "analysis": {
+        "impact": "集团供应链调整可能改变生产和物流环节的人力配置。",
+        "watch": "关注各地区和业务的具体执行安排。"
+      },
+      "category": "financials",
+      "source": "宝洁投资者日（官方）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 2,
+      "publishedAt": "2026-11-19T00:00:00-05:00",
+      "publishedLabel": "2026年11月19日（具体时间未核实）",
       "url": "https://s204.q4cdn.com/332108499/files/content_files/PG-Investor-Day-2026-web.pdf",
-      "companies": ["宝洁"], "tags": ["宝洁", "人员调整", "供应链"], "baseScore": 88,
-      "signals": {"impact": 9, "magnitude": 9, "china": 3, "novelty": 8, "actionability": 8}
+      "companies": [
+        "宝洁"
+      ],
+      "tags": [
+        "宝洁",
+        "人员调整",
+        "供应链"
+      ],
+      "baseScore": 88,
+      "signals": {
+        "impact": 9,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
     },
     {
       "id": "3777e357b2e1d8",
@@ -239,328 +581,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "64cb50e9b5c9fb",
-      "title": "‘Beauty Is Borderless’ Forum Reflects Evolving Consumers and Cosmetics Industry",
-      "titleOriginal": "‘Beauty Is Borderless’ Forum Reflects Evolving Consumers and Cosmetics Industry",
-      "summary": "‘Beauty Is Borderless’ Forum Reflects Evolving Consumers and Cosmetics Industry",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Happi",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T18:09:09+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFHZlNjUTFVTlBwR2hEMHc1ZnVLMzFLZThYbUhHNUlSQzlGa2w1VkxVV3NHR2NWZU5uVWhqSnc0YkdPdGNYcUJNMXRISUwxZ3MtbmpnbGoyRWVwbEJtRy1DbGJCVEhuWHdOR3ZqNVhRS3VWeU91Uko2X2FNaWNCM3E0RnJ0NVBCWGQyeU43ZHNHUnIwZFZIVGlJX25zZEdWY0pramxRSEx5d081Ykdmcw?oc=5",
-      "companies": [],
-      "tags": [
-        "Happi",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "ed1a6bf187f55a",
-      "title": "Primark brings own-label skincare to Click & Collect across 73 UK stores",
-      "titleOriginal": "Primark brings own-label skincare to Click & Collect across 73 UK stores",
-      "summary": "Primark brings own-label skincare to Click & Collect across 73 UK stores",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T15:59:29+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTJuZG0wM0pWVUpZOGlnYjIzd2FRMzVYRk5iQWpncUEzel9hQ1E4Zm1oNE8tLTVSandGckU5U1JUZHpUczRnYkJhZk5Za2M4MEhaRnRtSm1LclhiOHpHZnZWT1lEVmFnOS1MSk1mcmpkeFVLczB0SWdCUVRFbl9YMWFNQUYwbS05U3BzWmtDUUV2NVNTWUhBSGozV1JtNnc?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "1ccaf7d5391811",
-      "title": "DOC Brands Acquires Moon Oral Beauty",
-      "titleOriginal": "DOC Brands Acquires Moon Oral Beauty",
-      "summary": "DOC Brands Acquires Moon Oral Beauty",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "deals",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T15:37:05+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjQm9WYzBBWUJ1YmlQcXBVNGRLdHhKaEtpUDJUbDZvanBfNjk0bVFQVHNuRzlSemZDemxCQnNmX1JIZ3lwaldaZkFEckwyVDRTaEJVZWxEdzZQbFJpYlVoVDQ5UUgwdmRFZ3Fvblp3MW1uekI3czNRSzlB?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "b5bf10fae617f3",
-      "title": "探访水羊乳霜研发实验室：“五感护肤”背后的科学体系",
-      "titleOriginal": "探访水羊乳霜研发实验室：“五感护肤”背后的科学体系",
-      "summary": "探访水羊乳霜研发实验室：“五感护肤”背后的科学体系",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T15:24:02+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rU0phLXF6eFEtVTNmNVFIOVhBUG1LUHlEZWdPNFI5WWk0RmlLNGV1bnZJbUZUc0d0c0RXTUdlZlZyZzZqZnphQWwxZS0?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "8b37a3adcef697",
-      "title": "Holland & Barrett staff in consultation amid proposed restructure",
-      "titleOriginal": "Holland & Barrett staff in consultation amid proposed restructure",
-      "summary": "Holland & Barrett staff in consultation amid proposed restructure",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T09:54:11+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEhGT1FMclFJT0t1RWxKeE5vWkNfNXc0ZklmRmlteWIxVHJNTG9qd0F2dEdlN0t3ZGtxTjlBOGVkWVNSSDR2VHVfeDRGV1B6cWJkcUkzTHoxbHFwNHZzTmpEZmEwdENQNmxaSkpzaDEwNVExUDVncFlsa0lSZDQzam94amZzMVFXZWxWaENCZmkyZDJ5Y0E?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "3edf27a1dbdd2a",
-      "title": "二十周年战略交底：水羊向“全球高奢护肤集团TOP3”冲刺",
-      "titleOriginal": "二十周年战略交底：水羊向“全球高奢护肤集团TOP3”冲刺",
-      "summary": "二十周年战略交底：水羊向“全球高奢护肤集团TOP3”冲刺",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T06:19:08+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnQlhpcU9DeWJ3Q0dZOFFwakZuT2t5QlpYdHJIRU8wUy1DazdYM2xMSnFUNmxvTHVBVHFPUmtfaGNzSVIzejVBZGczUXZITjZrcUI2R25jOGw?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "32550f5e384b3a",
-      "title": "全球美妆TOP2集团敲定中国“一把手”",
-      "titleOriginal": "全球美妆TOP2集团敲定中国“一把手”",
-      "summary": "全球美妆TOP2集团敲定中国“一把手”",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T02:25:22+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LVGtuZDBCSmZmallMTTJVaGdkbTN0bnRrdWVBem1TRU1EaE56dFZoaWh1TjdXeERSM1VSb2dSZHlmcjNlQmw2OTF3OGp2bDRoRUln?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "4d8dea64067e4d",
-      "title": "Travel Retail Beauty Planner (Dubai Based)",
-      "titleOriginal": "Travel Retail Beauty Planner (Dubai Based)",
-      "summary": "Travel Retail Beauty Planner (Dubai Based)",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Estée Lauder Companies",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T12:41:59+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eGEwWE82aWhoaGZCeW5mb2NUZVAtdjc1dHU0eVpOMV9Dam81LVktalk1eG93YWlkdlotYUN2eDlnLXV3ODVCVVRlQ1RqcTl5b2NpbWRsdVNyQjZyZ2hFMjlxVkFFczN2?oc=5",
-      "companies": [],
-      "tags": [
-        "Estée Lauder Companies",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "953b10edf979b8",
-      "title": "Edgewell Personal Care Announces Fourth Quarter and Fiscal 2026 Results",
-      "titleOriginal": "Edgewell Personal Care Announces Fourth Quarter and Fiscal 2026 Results",
-      "summary": "Edgewell Personal Care Announces Fourth Quarter and Fiscal 2026 Results",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "Edgewell 官方",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T11:38:37+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjBHMl9EVndwSW5NUTFVT3FrNVh3cUhveEJhbENpZVdlNlo5TVVFdTlwWnBGNzE2SlJBU00zampZQXcyWUstenBlLXBYX3A1eHoxdTItNndaWnBWWlhJMG9MclRfbTlKdXpHVEVfYXRPVE85N1dZY2NneWhnU1NYV1ZuYkc3dU92RFZjck9PVU41aVJMSXc?oc=5",
-      "companies": [
-        "Edgewell Personal Care"
-      ],
-      "tags": [
-        "Edgewell 官方",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "a4347aa3c6977d",
-      "title": "Jimmy Choo Introduces a New Fragrance in Luxe Packaging",
-      "titleOriginal": "Jimmy Choo Introduces a New Fragrance in Luxe Packaging",
-      "summary": "Jimmy Choo Introduces a New Fragrance in Luxe Packaging",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "supply-chain",
-      "source": "Beauty Packaging",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T13:44:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGdjZzFwbzRqQXFMR21DZ2dTUWR1TVpYeHRLbkhFTDl6UnR4V1pSR0xQRXpMVk5sNFMzN19ZMHc2TThBc1NYUkNqV0VsTWFTblcxaHJiZzFrZ2c4eHoyb2FRUV9lSTUxTGYzWFR5LU1lVVlXM0cycThxY2lVQUhEdW9YT05ESC03LVUtRXBhZlp5bzkzN0RYNVdZQkJTeDJfZGNWZQ?oc=5",
-      "companies": [],
-      "tags": [
-        "Beauty Packaging",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
       }
     }
   ]
