@@ -3,6 +3,19 @@
   "generatedAt": "2026-11-22T07:26:32.263968+00:00",
   "items": [
     {
+      "id": "pg-supply-workforce-20261119",
+      "title": "宝洁计划到2030年削减20%至30%产品供应人力",
+      "titleOriginal": "P&G: 20–30% Product Supply Workforce Reductions by 2030",
+      "summary": "宝洁提出到2030年将产品供应人力减少20%至30%；路透社报道该范围包括合同工。",
+      "why": "宝洁供应链调整涉及制造和物流，值得关注其对美妆及个护业务供应链的影响。",
+      "analysis": {"impact": "集团供应链调整可能改变生产和物流环节的人力配置。", "watch": "关注各地区和业务的具体执行安排。"},
+      "category": "financials", "source": "宝洁投资者日（官方）", "sourceTier": "A", "verification": "official", "sourceCount": 2,
+      "publishedAt": "2026-11-19T00:00:00-05:00", "publishedLabel": "2026年11月19日（具体时间未核实）",
+      "url": "https://s204.q4cdn.com/332108499/files/content_files/PG-Investor-Day-2026-web.pdf",
+      "companies": ["宝洁"], "tags": ["宝洁", "人员调整", "供应链"], "baseScore": 88,
+      "signals": {"impact": 9, "magnitude": 9, "china": 3, "novelty": 8, "actionability": 8}
+    },
+    {
       "id": "3777e357b2e1d8",
       "title": "Beautycounter Founder Gregg Renfrew Launches Beecee for Gen Z",
       "titleOriginal": "Beautycounter Founder Gregg Renfrew Launches Beecee for Gen Z",

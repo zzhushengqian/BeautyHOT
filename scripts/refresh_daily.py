@@ -29,7 +29,7 @@ CATEGORY_WORDS = {
         "sales", "revenue", "earnings", "profit", "results", "guidance", "dividend",
         "buyback", "annual report", "quarterly", "interim report", "financial results",
         "财报", "业绩", "年报", "半年报", "半年度报告", "年度报告", "季度报告",
-        "业绩预告", "业绩快报", "分红", "利润分配", "回购",
+        "业绩预告", "业绩快报", "分红", "利润分配", "回购", "layoff", "lay off", "job cut", "staff reduction", "workforce reduction", "裁员", "缩减岗位", "削减岗位",
     ],
     "regulation": ["regulation", "recall", "fda", "ban", "warning", "监管", "召回"],
     "supply-chain": ["factory", "facility", "ingredient", "packaging", "manufactur", "原料", "工厂"],
@@ -38,13 +38,13 @@ CATEGORY_WORDS = {
 }
 DISCOVERY_TERMS = [
     "beauty", "cosmetics", "skincare", "makeup", "haircare", "fragrance",
-    '"personal care"', "acquisition", "funding", "earnings", "CEO", "regulation",
+    '"personal care"', "acquisition", "funding", "earnings", "CEO", "regulation", "layoffs", "job cuts", "staff reduction", "workforce reduction", "裁员", "削减岗位",
 ]
 OFFICIAL_DISCLOSURE_TERMS = [
     "earnings", "results", "financial results", "annual report", "quarterly", "interim report",
     "guidance", "dividend", "buyback", "acquisition", "appointment", "governance",
     "财报", "业绩", "年报", "半年报", "季报", "业绩预告", "业绩快报", "分红", "回购",
-    "收购", "投资", "任命", "离任", "公告",
+    "收购", "投资", "任命", "离任", "公告", "layoffs", "job cuts", "staff reduction", "workforce reduction", "裁员", "削减岗位",
 ]
 PRIORITY_ENTITY_NAMES = [
     name.lower()
@@ -75,7 +75,7 @@ IRRELEVANT_CONTEXT_TERMS = {
     "top headlines", "articles", "category archive", "locations", "discover",
     "privacy policy", "cookie policy", "terms of use", "sitemap",
     "隐私政策", "用户协议", "免责声明", "网站地图", "联系我们",
-    "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
+    "招聘", "职位", "实习", "校招", "社招", "诚聘",
 }
 PERSONNEL_TERMS = [
     "任命", "晋升", "升任", "出任", "就任", "离任", "辞任", "辞职", "卸任",
@@ -87,8 +87,8 @@ PERSONNEL_ACTION_TERMS = [
     "新任", "接任", "接替", "履新", "换帅", "人事变动", "管理层调整",
 ]
 EXCLUDED_TITLE_TERMS = [
-    "招聘", "职位", "岗位", "实习", "校招", "社招", "诚聘",
-    "job opening", "jobs", "hiring", "vacancy", "careers", "internship", "apprentice",
+    "招聘", "职位", "实习", "校招", "社招", "诚聘",
+    "job opening", "hiring", "vacancy", "careers", "internship", "apprentice",
     "offre d'emploi", "emploi", "beauty consultant", "beauty advisor",
     "financial analyst", "part time", "full time", "job details", "stellenanzeige",
     "seasonal associate", "sales and service leader", "skin pro", "(40 hours)",
@@ -367,6 +367,8 @@ def excluded_title(title):
     lower = title.lower()
     if any(term.lower() in lower for term in EXCLUDED_TITLE_TERMS):
         return True
+    if re.search(r'\b(?:layoffs?|lay[ -]offs?|job cuts?|cut(?:s|ting)?\b.{0,45}\bjobs?|staff reductions?|workforce reductions?|reduc(?:e|es|ing|tion)\b.{0,45}\b(?:staff|workforce|employees|jobs))\b|裁员|(?:削减|缩减|减少|裁撤).{0,20}(?:岗位|员工|人力)', lower):
+        return False
     looks_like_role_listing = any(term in lower for term in JOB_ROLE_TERMS)
     has_change_action = any(term.lower() in lower for term in CHANGE_ACTION_TERMS)
     return looks_like_role_listing and not has_change_action
@@ -376,6 +378,8 @@ def is_beauty_relevant_title(title):
     lower = re.sub(r"\s+", " ", (title or "").lower()).strip()
     if not lower or any(term in lower for term in IRRELEVANT_CONTEXT_TERMS):
         return False
+    if re.search(r"\b(?:p\s*&\s*g|procter\s*&\s*gamble)\b|宝洁", lower) and re.search(r'lay[ -]?offs?|job cuts?|cut(?:s|ting)?\b.{0,45}\bjobs?|workforce|staff reduction|裁员|削减|缩减|重组', lower):
+        return True
     return any(term in lower for term in BEAUTY_RELEVANCE_TERMS)
 def has_chinese_title(item):
     """Only publish an English-origin item after a Chinese display title exists."""
@@ -618,6 +622,7 @@ def collect():
         source_terms = source.get("keywords") or (
             OFFICIAL_DISCLOSURE_TERMS if is_listed_official else DISCOVERY_TERMS
         )
+        source_terms = list(source_terms) + ["layoffs", "job cuts", "staff reduction", "workforce reduction", "裁员", "削减岗位"]
         keywords = " OR ".join(f'"{term}"' if " " in term and not str(term).startswith("\"") else str(term) for term in source_terms)
         issuer = source.get("issuer")
         issuer_query = f'"{issuer}" ' if issuer else ""
