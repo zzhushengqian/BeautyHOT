@@ -1,7 +1,39 @@
 {
   "date": "2026-11-23",
-  "generatedAt": "2026-11-23T04:04:41.478051+00:00",
+  "generatedAt": "2026-11-23T07:49:29.294182+00:00",
   "items": [
+    {
+      "id": "b5b422e81590ed",
+      "title": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
+      "titleOriginal": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
+      "summary": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T06:00:11+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczJIUnVCLWRvLV9UeXR3VEpSZi1IZ3lPYnFPaUFyNkJydmVkb01qQVpqWjhwRXl3eS0zdXFrLWFzdnc0TElkVkZNRE44d1YyYWpYSXhkRFo2SG5hQnVPQk5Mc0ZEMWxJVUZVaWxZNmNnc19NcnNoY3dlWDVFWWdhaEpJNno4azZVckpXX0Nic2xVZDFsMjJBSnp6cw?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 8
+      }
+    },
     {
       "id": "174897153842d5",
       "title": "知名美妆连锁中国市场跌17%",
@@ -32,6 +64,38 @@
         "china": 10,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "6addcc030d6f48",
+      "title": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
+      "titleOriginal": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
+      "summary": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T03:16:37+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnVqRC1VNTVkUVk3cHVLdjVIeWtaNEtjaDRUbXp4YlA5VFRSVUxXVFN3YTVac1hmaUpkbjhjcUZLcXYweG9MdlBHMnBrSFVtU2RiRDNKa3JuUUZsX0pqLU9UbURfam9jb0ZtaDd3clcyYWk1NlNXbWw3cm44el80eUp0c0JISFdVM3l6cWx3?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
@@ -81,7 +145,7 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-22T23:48:45+00:00",
+      "publishedAt": "2026-11-22T23:59:10+00:00",
       "publishedLabel": "最近 14 天",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SalhCdTUzTXJCX3NFd21rQ2tJNlRVQVUzQVk4eWdVU19qRkVZSmxCTFdlYkJWUGVXVTFpX19OVEJIN1VMdzUxMERJLVl6eXcxY1NRNFlKRkF0U2tsTkhwYW9NMjBxRTBndW1ubDZHU3FtbXdo?oc=5",
       "companies": [],
@@ -95,70 +159,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "6addcc030d6f48",
-      "title": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
-      "titleOriginal": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
-      "summary": "US Beauty Sales 2026: Prestige and Mass Markets See Growth",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T19:05:32+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnVqRC1VNTVkUVk3cHVLdjVIeWtaNEtjaDRUbXp4YlA5VFRSVUxXVFN3YTVac1hmaUpkbjhjcUZLcXYweG9MdlBHMnBrSFVtU2RiRDNKa3JuUUZsX0pqLU9UbURfam9jb0ZtaDd3clcyYWk1NlNXbWw3cm44el80eUp0c0JISFdVM3l6cWx3?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "78d7ca4827b5bb",
-      "title": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
-      "titleOriginal": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
-      "summary": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T13:47:47+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTF8wcFJuWGJWMzlNZ1RHUlVuYWVLLXV5ZVFldkZWUDE2QkJnQ0ljYXRZM0lWWF9OQklJOEgyZFk1UW95b2w3ZmozczNXVmVscHZwTXN5VnRmbXBHMlpBWHdEamZsZmxkNDRFNlFpNFZ0dmZtWThYLS04ZXJhUmxYSEZ5NWtuNkk3T1RjM1VqQ3JYM0hCamF4Y2RSOUE?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
         "actionability": 6
       }
     },
@@ -227,6 +227,102 @@
       }
     },
     {
+      "id": "6d109fa2de2541",
+      "title": "David Beckham’s DB Ventures sues Coty in £31 million fragrance dispute",
+      "titleOriginal": "David Beckham’s DB Ventures sues Coty in £31 million fragrance dispute",
+      "summary": "David Beckham’s DB Ventures sues Coty in £31 million fragrance dispute",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-16T16:22:51+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1Vxb1lUYXNoTW5lQjY3WGdhOFR1dmFXdzRVb0dJdWhWam50SU9zNW4yZWZqbWtyVVJNdEtlbzlfRlZ2MU1UWEFwOVhxeEdWX29PRGcwMWNkNlJ3TnlpTU1aSFNBVkFNUjc3Tk9adFFHU3RMTHQ2RTc2S0V6VGNSWnRuZkNLbkJVcW50VWNlRHhIZkF0bzBqLVJPdWo?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c8cba89a1f1b59",
+      "title": "拼多多化妆品新规将生效AI入口成双11新增量",
+      "titleOriginal": "拼多多化妆品新规将生效AI入口成双11新增量",
+      "summary": "拼多多化妆品新规将生效AI入口成双11新增量",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "亿邦动力",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTWR4T0t0OHAyUF9maTZWaTIwbnVrUjlEekRrd0dRRExvdXRKYjU4azJFcUM3MVNLdngyOVVjWVFmbmJFbndkNVhqUUhlZ3VWNXJ4VHlB?oc=5",
+      "companies": [],
+      "tags": [
+        "亿邦动力",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "78d7ca4827b5bb",
+      "title": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "titleOriginal": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "summary": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T13:47:47+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTF8wcFJuWGJWMzlNZ1RHUlVuYWVLLXV5ZVFldkZWUDE2QkJnQ0ljYXRZM0lWWF9OQklJOEgyZFk1UW95b2w3ZmozczNXVmVscHZwTXN5VnRmbXBHMlpBWHdEamZsZmxkNDRFNlFpNFZ0dmZtWThYLS04ZXJhUmxYSEZ5NWtuNkk3T1RjM1VqQ3JYM0hCamF4Y2RSOUE?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
       "id": "aa3f664ef05ebb",
       "title": "SK-II全新「神仙锁精华」首次亮相第九届进博会",
       "titleOriginal": "SK-II全新「神仙锁精华」首次亮相第九届进博会",
@@ -288,38 +384,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "c8cba89a1f1b59",
-      "title": "拼多多化妆品新规将生效AI入口成双11新增量",
-      "titleOriginal": "拼多多化妆品新规将生效AI入口成双11新增量",
-      "summary": "拼多多化妆品新规将生效AI入口成双11新增量",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "亿邦动力",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-09T08:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTWR4T0t0OHAyUF9maTZWaTIwbnVrUjlEekRrd0dRRExvdXRKYjU4azJFcUM3MVNLdngyOVVjWVFmbmJFbndkNVhqUUhlZ3VWNXJ4VHlB?oc=5",
-      "companies": [],
-      "tags": [
-        "亿邦动力",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     },
     {
@@ -515,72 +579,6 @@
         "china": 3,
         "novelty": 8,
         "actionability": 8
-      }
-    },
-    {
-      "id": "a44148eeb51de9",
-      "title": "e.l.f. Beauty and RIVET Empower Next Generation of Changemakers Through Positivity, Inclusivity and Accessibility Across the UK and India",
-      "titleOriginal": "e.l.f. Beauty and RIVET Empower Next Generation of Changemakers Through Positivity, Inclusivity and Accessibility Across the UK and India",
-      "summary": "e.l.f. Beauty and RIVET Empower Next Generation of Changemakers Through Positivity, Inclusivity and Accessibility Across the UK and India",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "e.l.f. Beauty IR",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T12:13:43+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlhTQTBYcWlpdmNaMG9UM0RQRGl1VExoX2swSWMweGt5VEVrQ20yNEZucEdKcGdQZGlIbTFGNFEtX2ttbU1SdEcyWlR2alFlOXNZQmVqTXNhRWRCc01Fd0Z4NFdTSFJqR3QzSUxqLXFqQ1p4Y09MSkFUODBiaG5sRVpVWGo4Tm9jVjRBd0ZHRGxrRXc2bVIyT3pBQ1VFNDhTamp0bVdOVQ?oc=5",
-      "companies": [
-        "e.l.f. Beauty"
-      ],
-      "tags": [
-        "e.l.f. Beauty IR",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "63d9c3caf137b1",
-      "title": "The art of gifting: Bvlgari celebrates the beauty of the gesture with “Joy Is in Our Hands”",
-      "titleOriginal": "The art of gifting: Bvlgari celebrates the beauty of the gesture with “Joy Is in Our Hands”",
-      "summary": "The art of gifting: Bvlgari celebrates the beauty of the gesture with “Joy Is in Our Hands”",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "LVMH",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T19:15:58+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdDBMXzVBLXQycDFLSmt3RmRVb2QwRVR6VjBDWERFTU9XMlBxdVctWjlnN0pETlhVSDBGWV9mcm5LNFhXWWVTWlpNSkxwMlBuU0lSc3o3VlJNZVZpdF83SlpJVDVCWElkWHBQeFBWbmZ3NGxxaFdDV1dlOEhiU0liTGhPN1VsSFlsXzBCUWxTOXlpbUhOYUdsWGpqYURkdEl3b3JpdFNxNDhuYTVZSU04QVIxNUp5Tks5WTQydTl2NA?oc=5",
-      "companies": [],
-      "tags": [
-        "LVMH",
-        "官方信源"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
