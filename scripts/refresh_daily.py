@@ -367,6 +367,8 @@ def excluded_title(title):
     lower = title.lower()
     if any(term.lower() in lower for term in EXCLUDED_TITLE_TERMS):
         return True
+    if re.search(r'\b\d+(?:\.\d+)?\s*(?:hours?|hrs?)\b', lower):
+        return True
     if re.search(r'\b(?:layoffs?|lay[ -]offs?|job cuts?|cut(?:s|ting)?\b.{0,45}\bjobs?|staff reductions?|workforce reductions?|reduc(?:e|es|ing|tion)\b.{0,45}\b(?:staff|workforce|employees|jobs))\b|裁员|(?:削减|缩减|减少|裁撤).{0,20}(?:岗位|员工|人力)', lower):
         return False
     looks_like_role_listing = any(term in lower for term in JOB_ROLE_TERMS)

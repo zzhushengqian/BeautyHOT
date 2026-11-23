@@ -537,3 +537,7 @@ footer p { flex: 1; }
 }
 
 .original-title { max-width: 850px; margin: 8px 0 -3px; color: #948d83; font-size: 12px; line-height: 1.55; }
+.archive-pagination:not([hidden]) { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 14px; padding: 24px 0; border-top: 1px solid var(--line); }
+.archive-pagination button { padding: 10px 14px; border: 1px solid var(--line); border-radius: 8px; background: transparent; color: var(--rose-dark); font: inherit; font-weight: 700; cursor: pointer; }
+.archive-pagination button:disabled { opacity: .4; cursor: default; }
+.archive-pagination span, .archive-error { color: var(--muted); font-size: 13px; }

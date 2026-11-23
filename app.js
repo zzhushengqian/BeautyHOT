@@ -508,6 +508,19 @@ dialog.addEventListener("click", event => {
 
 renderAll();
 
+let archiveDates = [];
+let currentArchive = "";
+
+function updateArchivePagination() {
+  const dates = archiveDates;
+  const index = currentArchive ? dates.indexOf(currentArchive) : -1;
+  const nav = document.querySelector(".archive-pagination");
+  nav.hidden = !dates.length;
+  document.querySelector("#archive-newer").disabled = !currentArchive;
+  document.querySelector("#archive-older").disabled = index >= dates.length - 1;
+  document.querySelector("#archive-page-label").textContent = currentArchive ? `${currentArchive} 归档` : "最新动态";
+}
+
 async function loadNewsFile(path, label = "最新动态") {
   const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) throw new Error(`无法读取 ${path}`);
@@ -515,7 +528,6 @@ async function loadNewsFile(path, label = "最新动态") {
   if (!Array.isArray(payload.items) || !payload.items.length) return false;
   NEWS = payload.items;
   state.category = "all";
-  state.query = "";
   document.querySelector("#feed-title").textContent = label;
   renderAll();
   document.dispatchEvent(new CustomEvent("beautyhot:data-loaded"));
@@ -535,30 +547,61 @@ async function loadArchiveIndex() {
     const response = await fetch("./data/archive/index.json", { cache: "no-store" });
     if (!response.ok) return;
     const payload = await response.json();
+    archiveDates = (payload.dates || []).filter(date => /^\d{4}-\d{2}-\d{2}$/.test(date)).sort().reverse();
     const select = document.querySelector("#archive-select");
-    (payload.dates || []).forEach(date => {
+    archiveDates.forEach(date => {
       const option = document.createElement("option");
       option.value = date;
       option.textContent = date;
       select.appendChild(option);
     });
+    updateArchivePagination();
   } catch {
     // The latest feed remains available even when the archive index is absent.
   }
 }
 
-document.querySelector("#archive-select").addEventListener("change", async event => {
-  const date = event.target.value;
+async function navigateArchive(date) {
+  const error = document.querySelector("#archive-error");
   try {
-    await loadNewsFile(date ? `./data/archive/${date}.json` : "./data/latest.json", date ? `${date} 归档` : "最新动态");
+    const loaded = await loadNewsFile(date ? `./data/archive/${date}.json` : "./data/latest.json", date ? `${date} 归档` : "最新动态");
+    if (!loaded) throw new Error("归档为空");
+    currentArchive = date;
+    document.querySelector("#archive-select").value = date;
+    error.hidden = true;
+    updateArchivePagination();
   } catch {
-    event.target.value = "";
+    document.querySelector("#archive-select").value = currentArchive;
+    error.textContent = "这一期暂时无法加载，请稍后重试。";
+    error.hidden = false;
   }
+}
+
+document.querySelector("#archive-select").addEventListener("change", event => {
+  navigateArchive(event.target.value);
+});
+
+document.querySelector("#archive-older").addEventListener("click", async () => {
+  const dates = archiveDates;
+  const index = currentArchive ? dates.indexOf(currentArchive) : -1;
+  if (dates[index + 1]) {
+    await navigateArchive(dates[index + 1]);
+    document.querySelector("#feed").scrollIntoView({ behavior: "smooth" });
+  }
+});
+
+document.querySelector("#archive-newer").addEventListener("click", async () => {
+  const dates = archiveDates;
+  const index = dates.indexOf(currentArchive);
+  await navigateArchive(index > 0 ? dates[index - 1] : "");
+  document.querySelector("#feed").scrollIntoView({ behavior: "smooth" });
 });
 
 document.querySelector("#archive-nav").addEventListener("click", () => {
   setTimeout(() => document.querySelector("#archive-select").focus(), 0);
 });
 
-loadPublishedNews();
-loadArchiveIndex();
+(async () => {
+  await loadPublishedNews();
+  await loadArchiveIndex();
+})();
