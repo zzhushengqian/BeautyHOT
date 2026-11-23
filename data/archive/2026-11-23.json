@@ -1,39 +1,7 @@
 {
   "date": "2026-11-23",
-  "generatedAt": "2026-11-23T07:49:29.294182+00:00",
+  "generatedAt": "2026-11-23T08:12:27.566256+00:00",
   "items": [
-    {
-      "id": "b5b422e81590ed",
-      "title": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
-      "titleOriginal": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
-      "summary": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "Global Cosmetics News",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-23T06:00:11+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczJIUnVCLWRvLV9UeXR3VEpSZi1IZ3lPYnFPaUFyNkJydmVkb01qQVpqWjhwRXl3eS0zdXFrLWFzdnc0TElkVkZNRE44d1YyYWpYSXhkRFo2SG5hQnVPQk5Mc0ZEMWxJVUZVaWxZNmNnc19NcnNoY3dlWDVFWWdhaEpJNno4azZVckpXX0Nic2xVZDFsMjJBSnp6cw?oc=5",
-      "companies": [],
-      "tags": [
-        "Global Cosmetics News",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 8
-      }
-    },
     {
       "id": "174897153842d5",
       "title": "知名美妆连锁中国市场跌17%",
@@ -259,70 +227,6 @@
       }
     },
     {
-      "id": "c8cba89a1f1b59",
-      "title": "拼多多化妆品新规将生效AI入口成双11新增量",
-      "titleOriginal": "拼多多化妆品新规将生效AI入口成双11新增量",
-      "summary": "拼多多化妆品新规将生效AI入口成双11新增量",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "亿邦动力",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-09T08:00:00+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTWR4T0t0OHAyUF9maTZWaTIwbnVrUjlEekRrd0dRRExvdXRKYjU4azJFcUM3MVNLdngyOVVjWVFmbmJFbndkNVhqUUhlZ3VWNXJ4VHlB?oc=5",
-      "companies": [],
-      "tags": [
-        "亿邦动力",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "78d7ca4827b5bb",
-      "title": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
-      "titleOriginal": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
-      "summary": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "products",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T13:47:47+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTF8wcFJuWGJWMzlNZ1RHUlVuYWVLLXV5ZVFldkZWUDE2QkJnQ0ljYXRZM0lWWF9OQklJOEgyZFk1UW95b2w3ZmozczNXVmVscHZwTXN5VnRmbXBHMlpBWHdEamZsZmxkNDRFNlFpNFZ0dmZtWThYLS04ZXJhUmxYSEZ5NWtuNkk3T1RjM1VqQ3JYM0hCamF4Y2RSOUE?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
       "id": "aa3f664ef05ebb",
       "title": "SK-II全新「神仙锁精华」首次亮相第九届进博会",
       "titleOriginal": "SK-II全新「神仙锁精华」首次亮相第九届进博会",
@@ -355,26 +259,26 @@
       }
     },
     {
-      "id": "5333744e7f95f7",
-      "title": "化妆品新品备案TOP1工厂，被罚了",
-      "titleOriginal": "化妆品新品备案TOP1工厂，被罚了",
-      "summary": "化妆品新品备案TOP1工厂，被罚了",
+      "id": "b5b422e81590ed",
+      "title": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
+      "titleOriginal": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
+      "summary": "CJ Olive Young Opens First Colour Cosmetics Store in Seoul",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "supply-chain",
-      "source": "品观",
+      "category": "channels",
+      "source": "Global Cosmetics News",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "publishedAt": "2026-11-23T06:00:11+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sSk85V0F0aWYtOVloOEFoMkxuUUVzZWRQM21VZV9OcUg0dTNSWlJYUVI5Q2JQVXZPeFk3LXU2UTh3MnZteGFKc3BBbHRvZnVkZ2RQTXBqSFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczJIUnVCLWRvLV9UeXR3VEpSZi1IZ3lPYnFPaUFyNkJydmVkb01qQVpqWjhwRXl3eS0zdXFrLWFzdnc0TElkVkZNRE44d1YyYWpYSXhkRFo2SG5hQnVPQk5Mc0ZEMWxJVUZVaWxZNmNnc19NcnNoY3dlWDVFWWdhaEpJNno4azZVckpXX0Nic2xVZDFsMjJBSnp6cw?oc=5",
       "companies": [],
       "tags": [
-        "品观",
+        "Global Cosmetics News",
         "自动采集"
       ],
       "baseScore": 60,
@@ -382,8 +286,40 @@
         "impact": 6,
         "magnitude": 6,
         "china": 3,
-        "novelty": 6,
+        "novelty": 8,
         "actionability": 8
+      }
+    },
+    {
+      "id": "78d7ca4827b5bb",
+      "title": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "titleOriginal": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "summary": "Editors' Picks: New launches from Charlotte Tilbury, H&M Beauty and more...",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T13:47:47+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTF8wcFJuWGJWMzlNZ1RHUlVuYWVLLXV5ZVFldkZWUDE2QkJnQ0ljYXRZM0lWWF9OQklJOEgyZFk1UW95b2w3ZmozczNXVmVscHZwTXN5VnRmbXBHMlpBWHdEamZsZmxkNDRFNlFpNFZ0dmZtWThYLS04ZXJhUmxYSEZ5NWtuNkk3T1RjM1VqQ3JYM0hCamF4Y2RSOUE?oc=5",
+      "companies": [],
+      "tags": [
+        "TheIndustry.beauty",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
       }
     },
     {
