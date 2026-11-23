@@ -288,6 +288,66 @@ const state = {
 
 const confidenceBonus = { official: 10, corroborated: 7, reported: 2 };
 const confidenceLabel = { official: "官方确认", corroborated: "多源核验", reported: "媒体报道" };
+let flashItems = [];
+let latestItems = [];
+
+function renderFlash(items) {
+  flashItems = [...items].filter(item => item.id && item.title && item.publishedAt)
+    .sort(compareNews).slice(0, 5);
+  const track = document.querySelector('#flash-track');
+  track.replaceChildren();
+  track.classList.toggle('is-scrolling', flashItems.length > 1);
+  if (!flashItems.length) {
+    const empty = document.createElement('span');
+    empty.className = 'ticker-empty';
+    empty.textContent = '暂无最新快讯';
+    track.appendChild(empty);
+    return;
+  }
+  for (let copy = 0; copy < 2; copy++) {
+    const group = document.createElement('div');
+    group.className = 'ticker-group';
+    if (copy) group.setAttribute('aria-hidden', 'true');
+    flashItems.forEach((item, index) => {
+      if (index) {
+        const separator = document.createElement('i');
+        separator.setAttribute('aria-hidden', 'true');
+        group.appendChild(separator);
+      }
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.dataset.flashId = item.id;
+      button.textContent = item.title;
+      if (copy) button.tabIndex = -1;
+      group.appendChild(button);
+    });
+    track.appendChild(group);
+  }
+}
+
+document.querySelector('#flash-track').addEventListener('click', async event => {
+  const button = event.target.closest('[data-flash-id]');
+  if (!button) return;
+  const item = flashItems.find(entry => entry.id === button.dataset.flashId);
+  if (!item) return;
+  if (!NEWS.some(entry => entry.id === item.id)) {
+    NEWS = [...latestItems];
+    currentArchive = '';
+    document.querySelector('#archive-select').value = '';
+    document.querySelector('#feed-title').textContent = '最新动态';
+  }
+  state.category = 'all';
+  state.query = '';
+  state.view = 'all';
+  state.page = 1;
+  syncQueryString();
+  const position = filteredNews().findIndex(entry => entry.id === item.id);
+  if (position >= 0) state.page = Math.floor(position / 30) + 1;
+  renderCategoryTabs();
+  renderNews();
+  if (typeof updateNavState === 'function') updateNavState();
+  document.getElementById(item.id)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+});
 
 function findWeightedGroup(companies) {
   const haystack = companies.join(" ").toLowerCase();
@@ -538,8 +598,15 @@ async function loadNewsFile(path, label = "最新动态") {
   const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) throw new Error(`无法读取 ${path}`);
   const payload = await response.json();
-  if (!Array.isArray(payload.items) || !payload.items.length) return false;
+  if (!Array.isArray(payload.items) || !payload.items.length) {
+    if (path === './data/latest.json') renderFlash([]);
+    return false;
+  }
   NEWS = payload.items;
+  if (path === './data/latest.json') {
+    latestItems = payload.items;
+    renderFlash(payload.items);
+  }
   state.category = "all";
   state.page = 1;
   document.querySelector("#feed-title").textContent = label;
@@ -552,6 +619,7 @@ async function loadPublishedNews() {
   try {
     await loadNewsFile("./data/latest.json", "最新动态");
   } catch {
+    renderFlash([]);
     // Keep the bundled editorial fallback when the daily feed is unavailable.
   }
 }

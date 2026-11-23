@@ -286,8 +286,18 @@ a { color: inherit; text-decoration: none; }
   font-weight: 900;
   letter-spacing: .12em;
 }
-.ticker-track { display: flex; align-items: center; gap: 25px; padding-left: 25px; font-size: 12px; font-weight: 650; }
-.ticker-track i { width: 4px; height: 4px; border-radius: 50%; background: var(--rose); }
+.ticker-label { flex: none; z-index: 1; }
+.ticker-window { flex: 1; min-width: 0; overflow-x: auto; scrollbar-width: none; }
+.ticker-window::-webkit-scrollbar { display: none; }
+.ticker-track { display: flex; align-items: center; width: max-content; font-size: 12px; font-weight: 650; }
+.ticker-group { display: flex; align-items: center; gap: 25px; padding: 0 25px; }
+.ticker-track.is-scrolling { animation: flash-scroll 45s linear infinite; }
+.ticker-window:hover .ticker-track, .ticker-window:focus-within .ticker-track { animation-play-state: paused; }
+.ticker-track button { flex: none; padding: 7px 0; color: inherit; border: 0; background: transparent; font: inherit; cursor: pointer; }
+.ticker-track button:hover, .ticker-track button:focus-visible { color: var(--rose-dark); text-decoration: underline; }
+.ticker-track i { flex: none; width: 4px; height: 4px; border-radius: 50%; background: var(--rose); }
+.ticker-empty { padding: 0 25px; }
+@keyframes flash-scroll { to { transform: translateX(-50%); } }
 
 .content-shell {
   max-width: 1460px;
@@ -512,7 +522,8 @@ footer p { flex: 1; }
   .hero-panel { padding: 20px; }
   .ticker { height: 42px; }
   .ticker-label { padding: 0 14px; }
-  .ticker-track { animation: ticker 18s linear infinite; }
+  .ticker-track.is-scrolling { animation: none; }
+  .ticker-group[aria-hidden="true"] { display: none; }
   .content-shell { padding: 50px 20px 70px; }
   .section-heading h2 { font-size: 32px; }
   .filter-bar { align-items: flex-start; flex-direction: column; }
@@ -532,7 +543,8 @@ footer p { flex: 1; }
 
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; }
-  .ticker-track { animation: none; }
+  .ticker-track.is-scrolling { animation: none; }
+  .ticker-group[aria-hidden="true"] { display: none; }
   .news-card { transition: none; }
 }
 
