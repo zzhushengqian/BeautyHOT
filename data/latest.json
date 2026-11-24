@@ -1,28 +1,28 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T07:07:24.339470+00:00",
+  "generatedAt": "2026-11-24T10:01:16.412484+00:00",
   "items": [
     {
-      "id": "02b2d83a583d51",
-      "title": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
-      "titleOriginal": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
-      "summary": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
+      "id": "d6ee9f468cae66",
+      "title": "海关总署：进一步规范进出口化妆品安全监管要求",
+      "titleOriginal": "海关总署：进一步规范进出口化妆品安全监管要求",
+      "summary": "海关总署：进一步规范进出口化妆品安全监管要求",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "deals",
-      "source": "36Kr",
+      "category": "regulation",
+      "source": "界面新闻",
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-24T06:29:36+00:00",
+      "publishedAt": "2026-11-24T08:28:00+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtMnIza1luUUJKQjktM2s5V0JLTmlyXzhoOTAxeFBLZ0h1bU4yMjAxbG9qbktLdmZTNTV4Tm5VM0dRQmZteHlwS2l3WUJ1M2Zq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5peHFNQXJ4VVFDM1UyUTRHVl9kMmp6Yjk5YWN4a0lmQ25rNmphVzhpNGVJV0lQWTVZaWZLVTQxbjZQdllGZXcxS2dqQnZCMTFhZFNpRTZFU0w?oc=5",
       "companies": [],
       "tags": [
-        "36Kr",
+        "界面新闻",
         "自动采集"
       ],
       "baseScore": 60,
@@ -32,6 +32,70 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "78ac57eb2416e5",
+      "title": "60亿头部美妆的口服品牌上线了？",
+      "titleOriginal": "60亿头部美妆的口服品牌上线了？",
+      "summary": "60亿头部美妆的口服品牌上线了？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T02:17:11+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wVVpXenE3RVZnQWlMZEJYY3dtb0l4WDg5MnhIajhjOU5xOElYVU5Ca05YUm1Kc1BlTTBJczhpVEdBTU5sUUNPTlZFcEt2cm5rMmpHZg?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "367aff924f8ab1",
+      "title": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
+      "titleOriginal": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
+      "summary": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T13:05:34+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUs4VTJqVDkzR1hySHIwaHpRMXkwZjRZQk1KMHV3eEV4STlrbFItM0lWXy1yaHhQeG5tLUNVMHdDLVMwaWVvS1V2UllyRUdoczNVWWlfUHF1US03ckZ2QnMxYlI5YW41VThzSGR6S2VDcmcxYW0wbXFuNTJVZGJDTlVVcm9OSkxkUWdsZVJlZUlPWFNSNVpBXw?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -128,6 +192,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "02b2d83a583d51",
+      "title": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
+      "titleOriginal": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
+      "summary": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "deals",
+      "source": "36Kr",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T06:29:36+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtMnIza1luUUJKQjktM2s5V0JLTmlyXzhoOTAxeFBLZ0h1bU4yMjAxbG9qbktLdmZTNTV4Tm5VM0dRQmZteHlwS2l3WUJ1M2Zq?oc=5",
+      "companies": [],
+      "tags": [
+        "36Kr",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
@@ -482,102 +578,6 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 8,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "bebc91b19deb2f",
-      "title": "BeautyMatter Awards 2026: Best Beauty Impact Initiative Finalists",
-      "titleOriginal": "BeautyMatter Awards 2026: Best Beauty Impact Initiative Finalists",
-      "summary": "BeautyMatter Awards 2026: Best Beauty Impact Initiative Finalists",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T01:32:41+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkZVVHdZMzBXN180ZDl3Ujl1T0dVYTBkSWZOR05TU3NwdjFITkJSTm9NcGF0Yk9aS0c3NEJuZ3NPV2hSdUVZWW4tbFZ4OU9PZF9HVFdNZUxLM3hLdEdQc2pENWtON1U5ZGpwSmpULUFnc2JnMGlBd1RYLVpvaTVQb2Z1NzJBSG9YankyZXJTMERKQQ?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "a13cb9884fbd20",
-      "title": "第一本护肤科普书，30位专家教授2年倾力打造",
-      "titleOriginal": "第一本护肤科普书，30位专家教授2年倾力打造",
-      "summary": "第一本护肤科普书，30位专家教授2年倾力打造",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T01:59:55+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01TFBkQ29mcVVaN0tmTi02WkI1azN1ZEZ0UE0wV1ZYVWR6S1RGa0NTT2paRWgzcS1qUkZWNDRWMy1kVHFaRHBiekhZRGVxblpZTHl3?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "6ab3868d4bb2b5",
-      "title": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
-      "titleOriginal": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
-      "summary": "Get it while it’s hot: The bakeries snagging major beauty and fashion collaborations",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Glossy",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T05:03:52+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFVNYlVDaUgzSnh2ZmVKRmhKMElYamxoalp3aDNGdTkta0VpVWxQd1VKQnN1M1BjUDN0Slkxb19nQlpYQlB6YXV6NEtsMjNmWEtQUmNBbG1JWE15di1SdDRVZGR2bi1oTHl3X3o2OFByV0hSMWV2Zllka0xJV0lIWmhSUUdJZjVFNHN3OWdwWWJnNm5GNTJhRDhQTWxrd1ZjOTB2aVZETEN5SDhpUWc?oc=5",
-      "companies": [],
-      "tags": [
-        "Glossy",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
         "actionability": 6
       }
     }
