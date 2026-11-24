@@ -1,28 +1,28 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T10:01:16.412484+00:00",
+  "generatedAt": "2026-11-24T10:24:53.398070+00:00",
   "items": [
     {
-      "id": "d6ee9f468cae66",
-      "title": "海关总署：进一步规范进出口化妆品安全监管要求",
-      "titleOriginal": "海关总署：进一步规范进出口化妆品安全监管要求",
-      "summary": "海关总署：进一步规范进出口化妆品安全监管要求",
+      "id": "02b2d83a583d51",
+      "title": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
+      "titleOriginal": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
+      "summary": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "regulation",
-      "source": "界面新闻",
+      "category": "deals",
+      "source": "36Kr",
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-24T08:28:00+00:00",
+      "publishedAt": "2026-11-24T06:29:36+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5peHFNQXJ4VVFDM1UyUTRHVl9kMmp6Yjk5YWN4a0lmQ25rNmphVzhpNGVJV0lQWTVZaWZLVTQxbjZQdllGZXcxS2dqQnZCMTFhZFNpRTZFU0w?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtMnIza1luUUJKQjktM2s5V0JLTmlyXzhoOTAxeFBLZ0h1bU4yMjAxbG9qbktLdmZTNTV4Tm5VM0dRQmZteHlwS2l3WUJ1M2Zq?oc=5",
       "companies": [],
       "tags": [
-        "界面新闻",
+        "36Kr",
         "自动采集"
       ],
       "baseScore": 60,
@@ -61,38 +61,6 @@
       "signals": {
         "impact": 6,
         "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "367aff924f8ab1",
-      "title": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
-      "titleOriginal": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
-      "summary": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "Cosmetics Business",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-23T13:05:34+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUs4VTJqVDkzR1hySHIwaHpRMXkwZjRZQk1KMHV3eEV4STlrbFItM0lWXy1yaHhQeG5tLUNVMHdDLVMwaWVvS1V2UllyRUdoczNVWWlfUHF1US03ckZ2QnMxYlI5YW41VThzSGR6S2VDcmcxYW0wbXFuNTJVZGJDTlVVcm9OSkxkUWdsZVJlZUlPWFNSNVpBXw?oc=5",
-      "companies": [],
-      "tags": [
-        "Cosmetics Business",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
@@ -195,26 +163,26 @@
       }
     },
     {
-      "id": "02b2d83a583d51",
-      "title": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
-      "titleOriginal": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
-      "summary": "元触万物做电子皮肤，获数千万元融资——星连被投动态",
+      "id": "d6ee9f468cae66",
+      "title": "海关总署：进一步规范进出口化妆品安全监管要求",
+      "titleOriginal": "海关总署：进一步规范进出口化妆品安全监管要求",
+      "summary": "海关总署：进一步规范进出口化妆品安全监管要求",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "deals",
-      "source": "36Kr",
+      "category": "regulation",
+      "source": "界面新闻",
       "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-24T06:29:36+00:00",
+      "publishedAt": "2026-11-24T08:28:00+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtMnIza1luUUJKQjktM2s5V0JLTmlyXzhoOTAxeFBLZ0h1bU4yMjAxbG9qbktLdmZTNTV4Tm5VM0dRQmZteHlwS2l3WUJ1M2Zq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5peHFNQXJ4VVFDM1UyUTRHVl9kMmp6Yjk5YWN4a0lmQ25rNmphVzhpNGVJV0lQWTVZaWZLVTQxbjZQdllGZXcxS2dqQnZCMTFhZFNpRTZFU0w?oc=5",
       "companies": [],
       "tags": [
-        "36Kr",
+        "界面新闻",
         "自动采集"
       ],
       "baseScore": 60,
@@ -224,6 +192,38 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "367aff924f8ab1",
+      "title": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
+      "titleOriginal": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
+      "summary": "Why beauty giants L’Oréal, Unilever and Puig are all betting big on dermocosmetics",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T13:05:34+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUs4VTJqVDkzR1hySHIwaHpRMXkwZjRZQk1KMHV3eEV4STlrbFItM0lWXy1yaHhQeG5tLUNVMHdDLVMwaWVvS1V2UllyRUdoczNVWWlfUHF1US03ckZ2QnMxYlI5YW41VThzSGR6S2VDcmcxYW0wbXFuNTJVZGJDTlVVcm9OSkxkUWdsZVJlZUlPWFNSNVpBXw?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
