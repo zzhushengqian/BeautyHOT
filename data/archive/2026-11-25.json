@@ -1,39 +1,7 @@
 {
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T05:42:34.415744+00:00",
+  "generatedAt": "2026-11-25T08:45:04.143346+00:00",
   "items": [
-    {
-      "id": "e222f155760665",
-      "title": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
-      "titleOriginal": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
-      "summary": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "界面新闻",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T04:14:31+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDLUkwUWVxM0o2RFh3MzVBR2diWGJYTVZTSkxWd1F1aHZZSEpyX3ZYWjYtdUR2MEM2SFlkVjlMTVQ2VlpSdDhCUzRRbW1rYUFnV29NWERyTzU?oc=5",
-      "companies": [],
-      "tags": [
-        "界面新闻",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
     {
       "id": "26ce68eaa389df",
       "title": "海珠首届美妆快闪节开幕！免费试妆、大师课、美妆盲袋，3天限定千万别错过！",
@@ -49,9 +17,9 @@
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T02:30:39+00:00",
+      "publishedAt": "2026-11-25T05:43:33+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vYnVqUXIyc2lJNFFpLTdpMmNyY1ZPQ1Rjb1dGX2RORXhyaW12SWtzcWRSZXBGMUFYUXd4UjhGX0xSQnNzaHVLZ1I3cE01TVBKSXI1NW92NUc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vVndiNWRhNzJhX2kzamR4Ml9xT3NaNEJCWEtCbFd0VmlaQ0Rwd2w1ZFMwR2huRXQ0SWdRVC1YczdTdERHQmU3djBrOUQ?oc=5",
       "companies": [],
       "tags": [
         "品观",
@@ -64,38 +32,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "2cfac2a680ff02",
-      "title": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
-      "titleOriginal": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
-      "summary": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T19:18:54+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUFDZDFIVk1OUU1oVVZxYVI4TVZ3LTFQZTNGMG1nd2hySWZFdUgzSnNGdVA3eFZFeHBjOEZ4RHJtbW5zTy1ESlgzNENDS3U2c0tfc2RSVEUtTFNJZGRwTEFHbWhrVm1VYVYxOExUOUtCU2FkR2YtT0lfNURFUkJ1bg?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     },
     {
@@ -256,6 +192,70 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
+      }
+    },
+    {
+      "id": "e222f155760665",
+      "title": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
+      "titleOriginal": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
+      "summary": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T04:14:31+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDLUkwUWVxM0o2RFh3MzVBR2diWGJYTVZTSkxWd1F1aHZZSEpyX3ZYWjYtdUR2MEM2SFlkVjlMTVQ2VlpSdDhCUzRRbW1rYUFnV29NWERyTzU?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2cfac2a680ff02",
+      "title": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
+      "titleOriginal": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
+      "summary": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T19:18:54+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUFDZDFIVk1OUU1oVVZxYVI4TVZ3LTFQZTNGMG1nd2hySWZFdUgzSnNGdVA3eFZFeHBjOEZ4RHJtbW5zTy1ESlgzNENDS3U2c0tfc2RSVEUtTFNJZGRwTEFHbWhrVm1VYVYxOExUOUtCU2FkR2YtT0lfNURFUkJ1bg?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
       }
     },
     {
