@@ -1,7 +1,39 @@
 {
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T05:30:29.983770+00:00",
+  "generatedAt": "2026-11-26T08:30:49.934733+00:00",
   "items": [
+    {
+      "id": "32d5aa356d14a8",
+      "title": "Clarins Family Takes Full Ownership of Luxury Hotel Group Evok",
+      "titleOriginal": "Clarins Family Takes Full Ownership of Luxury Hotel Group Evok",
+      "summary": "Clarins Family Takes Full Ownership of Luxury Hotel Group Evok",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T06:00:42+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2x3R2YtVHZNWm8xSE9pS1dvSnVIdzNkRzktZENtYnZVSTdFMTd3WkU2NVB1V2hvc1hfcU1oVnhIX3RvV1F1RUpid2MwNnpuMmsxaHJEd1pyMlRWODBrNC12Y1F4dUQyd3VISHVwaVJscVpOa0ZXYzBUMEZ3NHJXd0JPWjFlbHoxWmlETDUxLXRWUVBTUzh0bGo2aXpNeEJh?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
     {
       "id": "1afc3887c8527c",
       "title": "Initiatives for Water: Water, Life, Beauty",
@@ -143,99 +175,67 @@
       }
     },
     {
-      "id": "4262a0431d5395",
-      "title": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
-      "titleOriginal": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
-      "summary": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
+      "id": "090b9b47686832",
+      "title": "Black Friday to account for 40% of Christmas gift spending as Boots forecasts record sales",
+      "titleOriginal": "Black Friday to account for 40% of Christmas gift spending as Boots forecasts record sales",
+      "summary": "Black Friday to account for 40% of Christmas gift spending as Boots forecasts record sales",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "brands",
-      "source": "界面新闻",
-      "sourceTier": "B",
+      "category": "financials",
+      "source": "TheIndustry.beauty",
+      "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T11:38:05+00:00",
+      "publishedAt": "2026-11-25T12:52:12+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93UVhBVXJIMTRoNDRpRGRVV2Fmb0ZnYzkzWXhVaGluY1VkMTVKWHBPOVhfLUx1bEhDRmw5T0FYemJfaVFoUEhpVThjdndid2JEZm5ZSmxJN04?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1dYLW1xNnhGUmNWSXh1UzhrckxDWjNraHYxQ1FXcGVzRTFGajVicEFFR21OeVRYTzd4Ny1CSU9BR1lNZm1UNVFyQ1NydUZMVFNzbmpaNXpkSTRvR0hRS0dXX2o4bHhCQkMxZHh6Q3Jad0didExxT1ljdEV0UGJfRXY3Nzd1TUhpM0t1VXNhQ0hsWi10ckRwZW9xczdWd2FNdFlmQU1hektLUzI5T3IzOERmSDlCa3JY?oc=5",
       "companies": [],
       "tags": [
-        "界面新闻",
+        "TheIndustry.beauty",
         "自动采集"
       ],
       "baseScore": 60,
       "signals": {
-        "impact": 6,
+        "impact": 8,
         "magnitude": 9,
         "china": 3,
         "novelty": 6,
-        "actionability": 6
+        "actionability": 8
       }
     },
     {
-      "id": "a1cffd20c706ae",
-      "title": "暴涨10054%！又一香水黑马跑出？",
-      "titleOriginal": "暴涨10054%！又一香水黑马跑出？",
-      "summary": "暴涨10054%！又一香水黑马跑出？",
+      "id": "7b0f7dfd1f636c",
+      "title": "How Mimétique Is Scaling French Biomimetic Skincare Through Science and Global Retail",
+      "titleOriginal": "How Mimétique Is Scaling French Biomimetic Skincare Through Science and Global Retail",
+      "summary": "How Mimétique Is Scaling French Biomimetic Skincare Through Science and Global Retail",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
-      "category": "brands",
-      "source": "品观",
+      "category": "channels",
+      "source": "BeautyMatter",
       "sourceTier": "C",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T11:18:46+00:00",
+      "publishedAt": "2026-11-24T19:18:58+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjWWdsZm91dGt0QXRBTm8xeFYteVE2cWE0NkR6akt1RHp3OHg0bjdZZF9tYlY4X3R6VWpYYmF4a0h0T2ZZeE5OM0dsSHRXUFI4ZTVLNzMxdFQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHVLVGFIM0Foc3FEY3lXdnd3T0tzcWh4TUx3czBvOG51NnY3UEt6a09FSThHMFVxSDVkVDFCZThlMGdoWkdWaWgzMWQ2S3doaURLZldtWnlrbjY2ekc2VVBSS1FBNW0tWFBQdUFRbTJWaks5UUh1c1ptSEtEUEdqRXBoeE56VlFZcnNEYkg0aE1qRUNGV250SUp6VXE?oc=5",
       "companies": [],
       "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "41a1fcc4bb03bc",
-      "title": "“中东香水”，正在围猎中国老钱-品观网",
-      "titleOriginal": "“中东香水”，正在围猎中国老钱-品观网",
-      "summary": "“中东香水”，正在围猎中国老钱-品观网",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T09:18:47+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KNnhoUi1vcThwSTBjUzBDWlJ4eHhjdW96NmJlb1c4TXZVMFlVNk9rUm1ROWE5TXN0NVdodnk4UU9oWGRaa3A4c0Z2U3Vtd21sX3lSYnVHMTI?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
+        "BeautyMatter",
         "自动采集"
       ],
       "baseScore": 60,
       "signals": {
         "impact": 6,
         "magnitude": 6,
-        "china": 10,
+        "china": 3,
         "novelty": 6,
-        "actionability": 6
+        "actionability": 8
       }
     },
     {
@@ -332,6 +332,102 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
+      }
+    },
+    {
+      "id": "4262a0431d5395",
+      "title": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
+      "titleOriginal": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
+      "summary": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T11:38:05+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93UVhBVXJIMTRoNDRpRGRVV2Fmb0ZnYzkzWXhVaGluY1VkMTVKWHBPOVhfLUx1bEhDRmw5T0FYemJfaVFoUEhpVThjdndid2JEZm5ZSmxJN04?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a1cffd20c706ae",
+      "title": "暴涨10054%！又一香水黑马跑出？",
+      "titleOriginal": "暴涨10054%！又一香水黑马跑出？",
+      "summary": "暴涨10054%！又一香水黑马跑出？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T11:18:46+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjWWdsZm91dGt0QXRBTm8xeFYteVE2cWE0NkR6akt1RHp3OHg0bjdZZF9tYlY4X3R6VWpYYmF4a0h0T2ZZeE5OM0dsSHRXUFI4ZTVLNzMxdFQ?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "41a1fcc4bb03bc",
+      "title": "“中东香水”，正在围猎中国老钱-品观网",
+      "titleOriginal": "“中东香水”，正在围猎中国老钱-品观网",
+      "summary": "“中东香水”，正在围猎中国老钱-品观网",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T09:18:47+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KNnhoUi1vcThwSTBjUzBDWlJ4eHhjdW96NmJlb1c4TXZVMFlVNk9rUm1ROWE5TXN0NVdodnk4UU9oWGRaa3A4c0Z2U3Vtd21sX3lSYnVHMTI?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
       }
     },
     {
@@ -492,102 +588,6 @@
         "china": 10,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "a4629c48f0bb27",
-      "title": "集结多国学者论道，油性皮肤专项论坛重磅议程公开",
-      "titleOriginal": "集结多国学者论道，油性皮肤专项论坛重磅议程公开",
-      "summary": "集结多国学者论道，油性皮肤专项论坛重磅议程公开",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T03:16:58+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPNndPVkk5R3lXUTdvTjBIeV9lQUlQYlE0WVJYUUNDR1BRX2dBbWtaUmlZZGZTZmlvd3d0a0twbFJEM3I1Zl9XRU9iQmJPc0s2aFRV?oc=5",
-      "companies": [],
-      "tags": [
-        "聚美丽",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "e222f155760665",
-      "title": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
-      "titleOriginal": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
-      "summary": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "界面新闻",
-      "sourceTier": "B",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T04:14:31+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDLUkwUWVxM0o2RFh3MzVBR2diWGJYTVZTSkxWd1F1aHZZSEpyX3ZYWjYtdUR2MEM2SFlkVjlMTVQ2VlpSdDhCUzRRbW1rYUFnV29NWERyTzU?oc=5",
-      "companies": [],
-      "tags": [
-        "界面新闻",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "2cfac2a680ff02",
-      "title": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
-      "titleOriginal": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
-      "summary": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T19:18:54+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUFDZDFIVk1OUU1oVVZxYVI4TVZ3LTFQZTNGMG1nd2hySWZFdUgzSnNGdVA3eFZFeHBjOEZ4RHJtbW5zTy1ESlgzNENDS3U2c0tfc2RSVEUtTFNJZGRwTEFHbWhrVm1VYVYxOExUOUtCU2FkR2YtT0lfNURFUkJ1bg?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
