@@ -1,0 +1,594 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T05:30:29.983770+00:00",
+  "items": [
+    {
+      "id": "1afc3887c8527c",
+      "title": "Initiatives for Water: Water, Life, Beauty",
+      "titleOriginal": "Initiatives for Water: Water, Life, Beauty",
+      "summary": "Initiatives for Water: Water, Life, Beauty",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "KOSÉ Holdings IR",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T04:34:57+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xdUstcGtsTkc1cXQ1Sjk0SWZXTjExZUNpTzN6RzVrcUpNcEJJMjFGQ0t1MFcwSjgyTzdMdlJnWWl4UTdZTDdpUTl0OUM5cUJReFJyOUZtQlQ5b3VQcUdmQXliZGRLMUFqM1JaZW4yeWY?oc=5",
+      "companies": [
+        "KOSÉ Holdings"
+      ],
+      "tags": [
+        "KOSÉ Holdings IR",
+        "官方信源"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "7f808043285d0e",
+      "title": "Naomi Watts’ Stripes Beauty Raises $5 Million Equity Financing",
+      "titleOriginal": "Naomi Watts’ Stripes Beauty Raises $5 Million Equity Financing",
+      "summary": "Naomi Watts’ Stripes Beauty Raises $5 Million Equity Financing",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T19:24:20+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPazNiaWtiUU5wRE4tWS1TcW5xb3E4c2Zic0U4WFBncXJBOFNzMzgzQnhveUxMbXNjbGRXR1ZiSHRVZnRrYTRSUVFTTUZ2ZnI3Q1RYQ294Q3VhSVhhVzFzNnhVdmpPc3NzdEZzT1BsS3BlN3pneURvbkQtTy1jZFFTQWhheXFrM1hOMklsaHBlSGlhRFFWbzlmYzRR?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "75d027a1cdcdc9",
+      "title": "鲁商福瑞达医药股份有限公司关于董事长、法定代表人变更的公告",
+      "titleOriginal": "鲁商福瑞达医药股份有限公司关于董事长、法定代表人变更的公告",
+      "summary": "鲁商福瑞达医药股份有限公司关于董事长、法定代表人变更的公告",
+      "why": "福瑞达（600223）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "brands",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-26/1225688595.PDF",
+      "companies": [
+        "福瑞达"
+      ],
+      "tags": [
+        "福瑞达",
+        "600223",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "915bbb736f4437",
+      "title": "鲁商福瑞达医药股份有限公司关于聘任公司高级管理人员的公告",
+      "titleOriginal": "鲁商福瑞达医药股份有限公司关于聘任公司高级管理人员的公告",
+      "summary": "鲁商福瑞达医药股份有限公司关于聘任公司高级管理人员的公告",
+      "why": "福瑞达（600223）的法定公告，属于可直接核验的一手披露。",
+      "analysis": {
+        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
+        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
+      },
+      "category": "brands",
+      "source": "巨潮资讯（法定公告）",
+      "sourceTier": "A",
+      "verification": "official",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T16:00:00+00:00",
+      "publishedLabel": "最近 7 天",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-26/1225688591.PDF",
+      "companies": [
+        "福瑞达"
+      ],
+      "tags": [
+        "福瑞达",
+        "600223",
+        "上市公司公告",
+        "官方信源"
+      ],
+      "baseScore": 88,
+      "priorityDisclosure": true,
+      "signals": {
+        "impact": 10,
+        "magnitude": 9,
+        "china": 10,
+        "novelty": 8,
+        "actionability": 10
+      }
+    },
+    {
+      "id": "4262a0431d5395",
+      "title": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
+      "titleOriginal": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
+      "summary": "逸仙电商前三季度营收30.48亿元，护肤业务营收近20亿同比增长38.8%",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T11:38:05+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93UVhBVXJIMTRoNDRpRGRVV2Fmb0ZnYzkzWXhVaGluY1VkMTVKWHBPOVhfLUx1bEhDRmw5T0FYemJfaVFoUEhpVThjdndid2JEZm5ZSmxJN04?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a1cffd20c706ae",
+      "title": "暴涨10054%！又一香水黑马跑出？",
+      "titleOriginal": "暴涨10054%！又一香水黑马跑出？",
+      "summary": "暴涨10054%！又一香水黑马跑出？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T11:18:46+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjWWdsZm91dGt0QXRBTm8xeFYteVE2cWE0NkR6akt1RHp3OHg0bjdZZF9tYlY4X3R6VWpYYmF4a0h0T2ZZeE5OM0dsSHRXUFI4ZTVLNzMxdFQ?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "41a1fcc4bb03bc",
+      "title": "“中东香水”，正在围猎中国老钱-品观网",
+      "titleOriginal": "“中东香水”，正在围猎中国老钱-品观网",
+      "summary": "“中东香水”，正在围猎中国老钱-品观网",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T09:18:47+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KNnhoUi1vcThwSTBjUzBDWlJ4eHhjdW96NmJlb1c4TXZVMFlVNk9rUm1ROWE5TXN0NVdodnk4UU9oWGRaa3A4c0Z2U3Vtd21sX3lSYnVHMTI?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e0f14d4b871fe0",
+      "title": "Peptide Regulations: What Beauty Brands Need to Know",
+      "titleOriginal": "Peptide Regulations: What Beauty Brands Need to Know",
+      "summary": "Peptide Regulations: What Beauty Brands Need to Know",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "regulation",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T19:18:57+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWVTbmVEMnJ0WUhWQ1RIaUpIUWx3UUkwUEhvRHhFTmJueEJMMzZlNll2YS1ocGdhNzdRdVpHVEpSeEJ2WWNmdXJJYkVmcU5iUVZUWm56bkxaUklzQzg5a0NaN0JQcl83c3VNZFN2bGNuLUR0emJPOEhaLXdTVnlabFhPUUdycGhPcTNoYjYyak1DMUZyWFRB?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "57e5bd88632016",
+      "title": "How Disney, Scentbird, and Anua Turn Fandoms into Beauty Sales",
+      "titleOriginal": "How Disney, Scentbird, and Anua Turn Fandoms into Beauty Sales",
+      "summary": "How Disney, Scentbird, and Anua Turn Fandoms into Beauty Sales",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "financials",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T19:18:56+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2M4ZmEzd0lFZzlPTzRfckFhZDRLRC1TcGtTd2lieUloYkpuQml5LTQxRGFmTjNVeU5GUjJIa0lyX2d2SUJzczJWQzIzNENLVnEzUHk2UlJncXFsSWFIMk93TU4ySm41dUpoZjlVeDctY0xCVExucWlvUjcwWWpaLTBHVTZLdw?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 8,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "538790490bb3e1",
+      "title": "How K-Beauty Is Expanding Across the GCC Through Retail Partnerships and Consumer Demand",
+      "titleOriginal": "How K-Beauty Is Expanding Across the GCC Through Retail Partnerships and Consumer Demand",
+      "summary": "How K-Beauty Is Expanding Across the GCC Through Retail Partnerships and Consumer Demand",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T19:12:52+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aMzdVUXhPNjVxVzVoektkUHIyTzllb00yNjFBZksxdWlKaWNHTGNfYU02d0dIb3loSnJ5VWpTczd4S0R3bmNRTlpUZjVCN0tTS2d3d1d3U1hMUkdaNTc1VG9BUlNUaGpVRU85UjdXQnNvYXNRTTVF?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
+    {
+      "id": "26ce68eaa389df",
+      "title": "海珠首届美妆快闪节开幕！免费试妆、大师课、美妆盲袋，3天限定千万别错过！",
+      "titleOriginal": "海珠首届美妆快闪节开幕！免费试妆、大师课、美妆盲袋，3天限定千万别错过！",
+      "summary": "海珠首届美妆快闪节开幕！免费试妆、大师课、美妆盲袋，3天限定千万别错过！",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T05:43:33+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vVndiNWRhNzJhX2kzamR4Ml9xT3NaNEJCWEtCbFd0VmlaQ0Rwd2w1ZFMwR2huRXQ0SWdRVC1YczdTdERHQmU3djBrOUQ?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2bd557374bf8ef",
+      "title": "Estée Lauder Companies plans voluntary redundancies in France as part of ‘Beauty Reimagined’ turnaround",
+      "titleOriginal": "Estée Lauder Companies plans voluntary redundancies in France as part of ‘Beauty Reimagined’ turnaround",
+      "summary": "Estée Lauder Companies plans voluntary redundancies in France as part of ‘Beauty Reimagined’ turnaround",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T12:46:16+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2phbFlucGY0ZEotcDVTR0xrcm5BSzBQYXF3Mm9jLTdkQjBCMWNNRDhIZHVGaFF6am9sQm9aQURZVl9CcG9XbDZVYWZjNVp1cWRfekxwNW9QZ3pKb1o5aWdxMjJ0ekMtV2JvSFJUVUV3YUNkSkxwYUh3ck53b09oTGRsN19VX3VNQVRTNjl1VWhUUXh3WG9RT2p5Y0M5eXBYVVE?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b2a85bdf38eb0c",
+      "title": "Brits are ‘rethinking’ what beauty purchases are worth their money, finds report",
+      "titleOriginal": "Brits are ‘rethinking’ what beauty purchases are worth their money, finds report",
+      "summary": "Brits are ‘rethinking’ what beauty purchases are worth their money, finds report",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "Cosmetics Business",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T12:28:38+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjRhTEEtSmlITUZJNVppYjJ2UmNsalVvT3Q0bHp3UTRTbV9tNkVjT1ZJTnB1YjdpdmZLWHUtWlQ0aWhnRC1IZGs2eXVQQXVmb251eFdaUnhCMGkyd21fWlpkVHQwUlRuSWNKZHpOemFpdDJBMlF2V2RUc2ZONFpaTnhXdGg?oc=5",
+      "companies": [],
+      "tags": [
+        "Cosmetics Business",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "bf9cc9a4b65edb",
+      "title": "产学研齐聚，共议美妆产业妆食融合、绿色转型时代命题",
+      "titleOriginal": "产学研齐聚，共议美妆产业妆食融合、绿色转型时代命题",
+      "summary": "产学研齐聚，共议美妆产业妆食融合、绿色转型时代命题",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T02:03:55+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSZklLWHVhRW5qU0FZY21ycE9td0ltdFFERzV6NEFVU2Y4V0NpM19HZHh3UF9kbGwyMzBvTUEwOXpsVUJ3X0VNX2FpNGhWY2c5TmtZ?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "effa39d016fda1",
+      "title": "专访何旺骁：一场关于国货美妆科研的“反常识”对话",
+      "titleOriginal": "专访何旺骁：一场关于国货美妆科研的“反常识”对话",
+      "summary": "专访何旺骁：一场关于国货美妆科研的“反常识”对话",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T02:01:55+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyZGJYc3VnalM0RGNFcXk5V3M0Y2FGNGxTMnI3REIyeFVLclNucDhTQzZpLTE2YTZqVFZ5ZDk5VFJhV3RUSmhCZ1BpS0dHMUlZa2Jn?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "a4629c48f0bb27",
+      "title": "集结多国学者论道，油性皮肤专项论坛重磅议程公开",
+      "titleOriginal": "集结多国学者论道，油性皮肤专项论坛重磅议程公开",
+      "summary": "集结多国学者论道，油性皮肤专项论坛重磅议程公开",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-21T03:16:58+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPNndPVkk5R3lXUTdvTjBIeV9lQUlQYlE0WVJYUUNDR1BRX2dBbWtaUmlZZGZTZmlvd3d0a0twbFJEM3I1Zl9XRU9iQmJPc0s2aFRV?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e222f155760665",
+      "title": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
+      "titleOriginal": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
+      "summary": "新消费走强，化妆品等情绪价值品类增长，鹏扬消费量化(A:019777；C:019778)一键捕捉板块结构性修复",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "界面新闻",
+      "sourceTier": "B",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T04:14:31+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDLUkwUWVxM0o2RFh3MzVBR2diWGJYTVZTSkxWd1F1aHZZSEpyX3ZYWjYtdUR2MEM2SFlkVjlMTVQ2VlpSdDhCUzRRbW1rYUFnV29NWERyTzU?oc=5",
+      "companies": [],
+      "tags": [
+        "界面新闻",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "2cfac2a680ff02",
+      "title": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
+      "titleOriginal": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
+      "summary": "Ulta Beauty Expands K-Beauty, C-Beauty, and J-Beauty Brands",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-24T19:18:54+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUFDZDFIVk1OUU1oVVZxYVI4TVZ3LTFQZTNGMG1nd2hySWZFdUgzSnNGdVA3eFZFeHBjOEZ4RHJtbW5zTy1ESlgzNENDS3U2c0tfc2RSVEUtTFNJZGRwTEFHbWhrVm1VYVYxOExUOUtCU2FkR2YtT0lfNURFUkJ1bg?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 8
+      }
+    }
+  ]
+}
