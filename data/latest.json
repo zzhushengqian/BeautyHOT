@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T08:44:36.329884+00:00",
+  "generatedAt": "2026-11-27T09:04:12.387848+00:00",
   "items": [
     {
       "id": "b6a3d7ee169ba7",
@@ -131,6 +131,38 @@
       }
     },
     {
+      "id": "fd4de6f40d3f08",
+      "title": "知名网红美妆品牌达人营销翻车？",
+      "titleOriginal": "知名网红美妆品牌达人营销翻车？",
+      "summary": "知名网红美妆品牌达人营销翻车？",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "聚美丽",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T02:22:40+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KaWJrUWJNWVRYd0VhZVdTX0ZjTmtFS3dOSnQ4dG51Y3FlWGwxUlJzNmFtMm9Ic2tlajhDZjJ3Z0xPNmFxX3ZHNzlrT1A2ekhtR1pZ?oc=5",
+      "companies": [],
+      "tags": [
+        "聚美丽",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "29a76de52c92a0",
       "title": "Bulldog Skincare Launches New Global Brand Platform",
       "titleOriginal": "Bulldog Skincare Launches New Global Brand Platform",
@@ -163,26 +195,26 @@
       }
     },
     {
-      "id": "fd4de6f40d3f08",
-      "title": "知名网红美妆品牌达人营销翻车？",
-      "titleOriginal": "知名网红美妆品牌达人营销翻车？",
-      "summary": "知名网红美妆品牌达人营销翻车？",
+      "id": "d9dac98735353e",
+      "title": "Unpacked: The invisible businesses turning ideas into scalable global beauty brands",
+      "titleOriginal": "Unpacked: The invisible businesses turning ideas into scalable global beauty brands",
+      "summary": "Unpacked: The invisible businesses turning ideas into scalable global beauty brands",
       "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
       "analysis": {
         "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
         "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
       },
       "category": "brands",
-      "source": "聚美丽",
-      "sourceTier": "C",
+      "source": "Glossy",
+      "sourceTier": "B",
       "verification": "reported",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T02:22:40+00:00",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
       "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KaWJrUWJNWVRYd0VhZVdTX0ZjTmtFS3dOSnQ4dG51Y3FlWGwxUlJzNmFtMm9Ic2tlajhDZjJ3Z0xPNmFxX3ZHNzlrT1A2ekhtR1pZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhJZjVnRzBTUU1IX0pXZGNENnA4clExb0dWekZSeUpYUzdwaG1CNnlPZlJ1TDA2UkIwXzFCMGVGN1JDVFViV0JFWnBCOE8zakFTNUdDSExGZkRWZlFGWDM0Y2FkSlRYanNUNGZkWXhneFE4Y19yR1N2LUhDTjVGWTU4WWFsY1JkWmh0WGtZdjMzQnktVndITGwwZmltV0VZWEF2c3d4U3k0ZkpuRHFJdWNnNTRXUQ?oc=5",
       "companies": [],
       "tags": [
-        "聚美丽",
+        "Glossy",
         "自动采集"
       ],
       "baseScore": 60,
@@ -551,38 +583,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 8
-      }
-    },
-    {
-      "id": "7d9f69b6e77bcf",
-      "title": "Too Good To Go expands UK marketplace into beauty and personal care",
-      "titleOriginal": "Too Good To Go expands UK marketplace into beauty and personal care",
-      "summary": "Too Good To Go expands UK marketplace into beauty and personal care",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-23T10:22:43+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTQxelh2NFNqVUFndnM5cmZlMy1ocm1oQUg0NjBPSW5JWS03NGJlZEtUWWV6cmlScktzWnQybnI5WHZMbGtwbjN4MVJTR1hVYms4WmZQaExTOE41dDRqcWM0Q21DQldoVlRKNEZBbWdJWThoWU5renotSE03QzFNTlZvR2FfRURtekctd3p6TGVYVS1jb0VlYk54dw?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
       }
     }
   ]
