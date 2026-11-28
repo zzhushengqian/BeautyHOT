@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "generatedAt": "2026-11-28T07:57:57.395604+00:00",
+  "generatedAt": "2026-11-28T08:26:10.727511+00:00",
   "items": [
     {
       "id": "51a09ada923a74",
@@ -99,6 +99,38 @@
       }
     },
     {
+      "id": "8fef0997c0d219",
+      "title": "How Beauty Founders Use Personal Style to Build Brand Identity",
+      "titleOriginal": "How Beauty Founders Use Personal Style to Build Brand Identity",
+      "summary": "How Beauty Founders Use Personal Style to Build Brand Identity",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T09:35:56+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVC1sQmJjekVwOVlNVlVxeDkzcnQ5U2hhb20wNkhjWnNwcFoxMzNIVkhRTkZZbk9OaDJ2U1FnbjdGa1Rabm15T2c1U0V0ZWpROWx2Vlc1OXhOZ0I0MVJGME9TT3JuRnRHaFBpblNXVEVINFBxQ1JWeE90dVlQVldHNVhVeE50NjlNdEViVA?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
       "id": "dd039102e37147",
       "title": "European Commission Fines Firmenich, Givaudan and IFF €471.9 Million Over Fragrance Cartel",
       "titleOriginal": "European Commission Fines Firmenich, Givaudan and IFF €471.9 Million Over Fragrance Cartel",
@@ -159,6 +191,70 @@
         "magnitude": 6,
         "china": 3,
         "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "c4273c63fe08ae",
+      "title": "How AI Is Transforming Hair Salons and Personalized Haircare",
+      "titleOriginal": "How AI Is Transforming Hair Salons and Personalized Haircare",
+      "summary": "How AI Is Transforming Hair Salons and Personalized Haircare",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T19:26:02+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVdwX1pLVU1nOXBESlptV001b3lXbG9Ka3hvdDF3Wkh1Z2dGUUgwZFVHYnl0TWh1Q2JqVld6NDR5WHViSTJlSnFTejlaUUVQWlQwclcyVzZ1dkhXeHFidVN1czR2U0c4UU1IcWFlWDEwWkMzQlFyZEc1TFBUMlRNWUEySk5Id0tRVnNsRU95Z2sxNVVSbVhBaHF3?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "206f153b8087e0",
+      "title": "MAC Cosmetics Strengthens China Localisation Strategy with Market-Specific Product Launch",
+      "titleOriginal": "MAC Cosmetics Strengthens China Localisation Strategy with Market-Specific Product Launch",
+      "summary": "MAC Cosmetics Strengthens China Localisation Strategy with Market-Specific Product Launch",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "Global Cosmetics News",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T06:00:42+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbndoenhZSmtlUEFHcTloMmFvZnFSVDV5R1JsQ3NKNWxEZEtDSGR3a0xxY2t2N1g1X29CZ2hNQWxQcmlXWDZmZDRPRjdsN3FqUnhQbS1qc3BpVGtaMGV1MlpYcnVsUVpqb3VDdTZCRVRrMnJGbERkQ01jdVV3a3lLajRfcHhuRThaZFVHbHQ3azhkLWJDMFNLaFJyUzZYcm1zdzAxUE95aFNBTDl5YmRTR2oxNDd4NGNPMTRxaVJzVllONXZx?oc=5",
+      "companies": [],
+      "tags": [
+        "Global Cosmetics News",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 8,
         "actionability": 6
       }
     },
@@ -473,107 +569,6 @@
       "companies": [],
       "tags": [
         "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "75d027a1cdcdc9",
-      "title": "鲁商福瑞达医药股份有限公司关于董事长、法定代表人变更的公告",
-      "titleOriginal": "鲁商福瑞达医药股份有限公司关于董事长、法定代表人变更的公告",
-      "summary": "鲁商福瑞达医药股份有限公司关于董事长、法定代表人变更的公告",
-      "why": "福瑞达（600223）的法定公告，属于可直接核验的一手披露。",
-      "analysis": {
-        "impact": "待 AI 生成：提炼业绩、资本动作或管理层变化对公司经营的影响。",
-        "watch": "待 AI 生成：关注后续业绩说明会、经营数据与市场反馈。"
-      },
-      "category": "brands",
-      "source": "巨潮资讯（法定公告）",
-      "sourceTier": "A",
-      "verification": "official",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T16:00:00+00:00",
-      "publishedLabel": "最近 7 天",
-      "url": "https://static.cninfo.com.cn/finalpage/2026-11-26/1225688595.PDF",
-      "companies": [
-        "福瑞达"
-      ],
-      "tags": [
-        "福瑞达",
-        "600223",
-        "上市公司公告",
-        "官方信源"
-      ],
-      "baseScore": 88,
-      "priorityDisclosure": true,
-      "signals": {
-        "impact": 10,
-        "magnitude": 9,
-        "china": 10,
-        "novelty": 8,
-        "actionability": 10
-      }
-    },
-    {
-      "id": "090b9b47686832",
-      "title": "Black Friday to account for 40% of Christmas gift spending as Boots forecasts record sales",
-      "titleOriginal": "Black Friday to account for 40% of Christmas gift spending as Boots forecasts record sales",
-      "summary": "Black Friday to account for 40% of Christmas gift spending as Boots forecasts record sales",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "TheIndustry.beauty",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T12:52:12+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1dYLW1xNnhGUmNWSXh1UzhrckxDWjNraHYxQ1FXcGVzRTFGajVicEFFR21OeVRYTzd4Ny1CSU9BR1lNZm1UNVFyQ1NydUZMVFNzbmpaNXpkSTRvR0hRS0dXX2o4bHhCQkMxZHh6Q3Jad0didExxT1ljdEV0UGJfRXY3Nzd1TUhpM0t1VXNhQ0hsWi10ckRwZW9xczdWd2FNdFlmQU1hektLUzI5T3IzOERmSDlCa3JY?oc=5",
-      "companies": [],
-      "tags": [
-        "TheIndustry.beauty",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 9,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "a1cffd20c706ae",
-      "title": "暴涨10054%！又一香水黑马跑出？",
-      "titleOriginal": "暴涨10054%！又一香水黑马跑出？",
-      "summary": "暴涨10054%！又一香水黑马跑出？",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T11:18:46+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjWWdsZm91dGt0QXRBTm8xeFYteVE2cWE0NkR6akt1RHp3OHg0bjdZZF9tYlY4X3R6VWpYYmF4a0h0T2ZZeE5OM0dsSHRXUFI4ZTVLNzMxdFQ?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
         "自动采集"
       ],
       "baseScore": 60,
