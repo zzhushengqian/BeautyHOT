@@ -1,7 +1,103 @@
 {
   "date": "2026-11-28",
-  "generatedAt": "2026-11-28T05:01:05.179470+00:00",
+  "generatedAt": "2026-11-28T07:57:57.395604+00:00",
   "items": [
+    {
+      "id": "51a09ada923a74",
+      "title": "CiE美妆创新展",
+      "titleOriginal": "CiE美妆创新展",
+      "summary": "CiE美妆创新展",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "品观",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T05:20:32+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14RHBpUGdXdmRwMTJXeXE2VnF4ZmFtRWNFRVJnQVVRdlNYSXJPcFNNbXRwTGhZSmdPMVJwRXBJak9JNkFJV3A1MHBhMEJWdnF6b2ZQN3UxU05HTzhfVGR2RzZGU3UwaW0taTZqYTRaQQ?oc=5",
+      "companies": [],
+      "tags": [
+        "品观",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "7ee91987dbfbe6",
+      "title": "2026 Week 48: Beauty Brand and Product Launches",
+      "titleOriginal": "2026 Week 48: Beauty Brand and Product Launches",
+      "summary": "2026 Week 48: Beauty Brand and Product Launches",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "products",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T09:35:56+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEZVNWJwRV9JdlI3RWo3d0V5Y3BtMVZLV2ZuZGVtd0QtRjlVUkYxQ0hiMXBtcWZFNGlmTGZfeFlsaDZIMFhQS2R1TFlJam5ZeU9KbFJUVFhOUEZfbkZCRFc2aHNpb0V6UHFsbkdQSWE1WEh4Y01BME9BNmM5LWktdXY5YjhHRTA?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 3,
+        "novelty": 8,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "b8e3176606b1a4",
+      "title": "Sephora China's Retail Strategy: C-Beauty, Curation, and Experience",
+      "titleOriginal": "Sephora China's Retail Strategy: C-Beauty, Curation, and Experience",
+      "summary": "Sephora China's Retail Strategy: C-Beauty, Curation, and Experience",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "channels",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T09:35:56+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbk9US09lQnlPdUxnSHBNRkRQME9fZjRTZHVPV2loUzhGUDFZZDZYMmtHOF9idV92Z21CWHVNLTB5cWtYUlIyZ0xBcGk4djdIbURwcE5LbVlBa2FxcUxQbndKT0h0VXRNeTdoV0VaT3JJSEdGckZYNUxwNkg0REFJWV9oX1pqT1RDdVlIYWxHeVNickU?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
+        "china": 10,
+        "novelty": 6,
+        "actionability": 8
+      }
+    },
     {
       "id": "dd039102e37147",
       "title": "European Commission Fines Firmenich, Givaudan and IFF €471.9 Million Over Fragrance Cartel",
@@ -29,6 +125,38 @@
       "signals": {
         "impact": 6,
         "magnitude": 9,
+        "china": 3,
+        "novelty": 6,
+        "actionability": 6
+      }
+    },
+    {
+      "id": "e1166494cb2bb8",
+      "title": "Middle East Beauty Market: Growth, Social Commerce, and Global Expansion",
+      "titleOriginal": "Middle East Beauty Market: Growth, Social Commerce, and Global Expansion",
+      "summary": "Middle East Beauty Market: Growth, Social Commerce, and Global Expansion",
+      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
+      "analysis": {
+        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
+        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
+      },
+      "category": "brands",
+      "source": "BeautyMatter",
+      "sourceTier": "C",
+      "verification": "reported",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T19:26:02+00:00",
+      "publishedLabel": "最近 14 天",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenBSNkpzVlhmODE3YXIzNkhMeEdzTWpRbVVocXJXUDJqN05hcEpYVU5Zc3VtNnVSWDgtamZWY3VIMjM0UkNzaXIwUFJSNVV2ZnRHWXBFTjdhMEdZQmtVbFRvcERrOE9TRF84UGdOei10cUVQdG1pY2dPTVl4SzBOblBaQnliMGZoYUVZUDF4MA?oc=5",
+      "companies": [],
+      "tags": [
+        "BeautyMatter",
+        "自动采集"
+      ],
+      "baseScore": 60,
+      "signals": {
+        "impact": 6,
+        "magnitude": 6,
         "china": 3,
         "novelty": 6,
         "actionability": 6
@@ -455,134 +583,6 @@
         "china": 3,
         "novelty": 6,
         "actionability": 6
-      }
-    },
-    {
-      "id": "41a1fcc4bb03bc",
-      "title": "“中东香水”，正在围猎中国老钱-品观网",
-      "titleOriginal": "“中东香水”，正在围猎中国老钱-品观网",
-      "summary": "“中东香水”，正在围猎中国老钱-品观网",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "brands",
-      "source": "品观",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T09:18:47+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KNnhoUi1vcThwSTBjUzBDWlJ4eHhjdW96NmJlb1c4TXZVMFlVNk9rUm1ROWE5TXN0NVdodnk4UU9oWGRaa3A4c0Z2U3Vtd21sX3lSYnVHMTI?oc=5",
-      "companies": [],
-      "tags": [
-        "品观",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 10,
-        "novelty": 6,
-        "actionability": 6
-      }
-    },
-    {
-      "id": "7b0f7dfd1f636c",
-      "title": "How Mimétique Is Scaling French Biomimetic Skincare Through Science and Global Retail",
-      "titleOriginal": "How Mimétique Is Scaling French Biomimetic Skincare Through Science and Global Retail",
-      "summary": "How Mimétique Is Scaling French Biomimetic Skincare Through Science and Global Retail",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "channels",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T19:18:58+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHVLVGFIM0Foc3FEY3lXdnd3T0tzcWh4TUx3czBvOG51NnY3UEt6a09FSThHMFVxSDVkVDFCZThlMGdoWkdWaWgzMWQ2S3doaURLZldtWnlrbjY2ekc2VVBSS1FBNW0tWFBQdUFRbTJWaks5UUh1c1ptSEtEUEdqRXBoeE56VlFZcnNEYkg0aE1qRUNGV250SUp6VXE?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 6,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "e0f14d4b871fe0",
-      "title": "Peptide Regulations: What Beauty Brands Need to Know",
-      "titleOriginal": "Peptide Regulations: What Beauty Brands Need to Know",
-      "summary": "Peptide Regulations: What Beauty Brands Need to Know",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "regulation",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T19:18:57+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWVTbmVEMnJ0WUhWQ1RIaUpIUWx3UUkwUEhvRHhFTmJueEJMMzZlNll2YS1ocGdhNzdRdVpHVEpSeEJ2WWNmdXJJYkVmcU5iUVZUWm56bkxaUklzQzg5a0NaN0JQcl83c3VNZFN2bGNuLUR0emJPOEhaLXdTVnlabFhPUUdycGhPcTNoYjYyak1DMUZyWFRB?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
-      }
-    },
-    {
-      "id": "57e5bd88632016",
-      "title": "How Disney, Scentbird, and Anua Turn Fandoms into Beauty Sales",
-      "titleOriginal": "How Disney, Scentbird, and Anua Turn Fandoms into Beauty Sales",
-      "summary": "How Disney, Scentbird, and Anua Turn Fandoms into Beauty Sales",
-      "why": "该事件进入今日公开信源候选池，后续将结合行业影响、信源等级和中国相关性生成编辑分析。",
-      "analysis": {
-        "impact": "待 AI 生成：判断它影响品牌、渠道、资本、人事或监管的哪一环。",
-        "watch": "待 AI 生成：观察是否有官方确认、财务数据、渠道反馈或后续交易节点。"
-      },
-      "category": "financials",
-      "source": "BeautyMatter",
-      "sourceTier": "C",
-      "verification": "reported",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T19:18:56+00:00",
-      "publishedLabel": "最近 14 天",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2M4ZmEzd0lFZzlPTzRfckFhZDRLRC1TcGtTd2lieUloYkpuQml5LTQxRGFmTjNVeU5GUjJIa0lyX2d2SUJzczJWQzIzNENLVnEzUHk2UlJncXFsSWFIMk93TU4ySm41dUpoZjlVeDctY0xCVExucWlvUjcwWWpaLTBHVTZLdw?oc=5",
-      "companies": [],
-      "tags": [
-        "BeautyMatter",
-        "自动采集"
-      ],
-      "baseScore": 60,
-      "signals": {
-        "impact": 8,
-        "magnitude": 6,
-        "china": 3,
-        "novelty": 6,
-        "actionability": 8
       }
     }
   ]
